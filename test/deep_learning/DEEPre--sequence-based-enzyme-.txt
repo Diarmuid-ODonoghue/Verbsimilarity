@@ -1,0 +1,3 @@
+Annotation of enzyme function has a broad range of applications, such as metagenomics, industrial biotechnology, and diagnosis of enzyme deficiency-caused diseases. However, the time and resource required make it prohibitively expensive to experimentally determine the function of every enzyme. Therefore, computational enzyme function prediction has become increasingly important. In this paper, we develop such an approach, determining the enzyme function by predicting the Enzyme Commission number.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29069344

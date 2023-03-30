@@ -1,0 +1,3 @@
+Hybrid assistive neuromuscular dynamic stimulation (HANDS) therapy improved paretic upper extremity motor function in patients with severe to moderate hemiparesis. We hypothesized that brain machine interface (BMI) training would be able to increase paretic finger muscle activity enough to apply HANDS therapy in patients with severe hemiparesis, whose finger extensor was absent.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27589505

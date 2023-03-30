@@ -1,0 +1,3 @@
+Rapid progress in deep learning has spurred its application to bioinformatics problems including protein structure prediction and design. In classic machine learning problems like computer vision, progress has been driven by standardized data sets that facilitate fair assessment of new methods and lower the barrier to entry for non-domain experts. While data sets of protein sequence and structure exist, they lack certain components critical for machine learning, including high-quality multiple sequence alignments and insulated training/validation splits that account for deep but only weakly detectable homology across protein space.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31185886

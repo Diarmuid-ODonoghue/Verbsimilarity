@@ -1,0 +1,3 @@
+Computer aided detection (CADe) of pulmonary nodules from computed tomography (CT) is crucial for early diagnosis of lung cancer. Self-learned features obtained by training datasets via deep learning have facilitated CADe of the nodules. However, the complexity of CT lung images renders a challenge of extracting effective features by self-learning only. This condition is exacerbated for limited size of datasets. On the other hand, the engineered features have been widely studied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30452432

@@ -1,0 +1,3 @@
+Functional neuroimaging studies have shown hyperresponsiveness of cortical areas to visual stimuli in migraine patients with aura outside of attacks. This may be a key feature in the initiation of aura episodes and possibly also migraine headache attacks. It is unknown if cortical dysfunction is present at rest, i.e. in the absence of any external stimuli. Functional magnetic resonance imaging is a powerful technique for evaluating resting state functional connectivity, i.e. coherence of brain activity across cerebral areas. The objective of this study was to investigate resting-state functional brain connectivity in migraineurs with aura outside of attacks using functional magnetic resonance imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25573335

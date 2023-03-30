@@ -1,0 +1,3 @@
+This study provides data on the psychometric properties of the driVR, a virtual reality assessment used to assess driving in persons with brain injury. Several driVR measures were compared to other established indicators of driving performance. Many concurrent validity coefficients over r = 0.3 were identified between driVR measures of lane tracking with on-road, Trail Making Test, and the Driver Performance Test II scores. The results provide further evidence to support the concurrent validity of the driVR. Continued research addressing other aspects of validity and reliability is recommended.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11317810

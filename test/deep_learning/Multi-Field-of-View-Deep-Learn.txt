@@ -1,0 +1,3 @@
+Tumor programmed death-ligand 1 (PD-L1) status is useful in determining which patients may benefit from programmed death-1 (PD-1)/PD-L1 inhibitors. However, little is known about the association between PD-L1 status and tumor histopathological patterns. Using deep learning, we predicted PD-L1 status from hematoxylin and eosin (H and E) whole-slide images (WSIs) of nonsmall cell lung cancer (NSCLC) tumor samples.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31523482

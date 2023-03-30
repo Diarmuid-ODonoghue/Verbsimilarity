@@ -1,0 +1,3 @@
+Although brain-computer interfaces (BCIs) can be used in several different ways to restore communication, communicative BCI has not approached the rate or efficiency of natural human speech. Electrocorticography (ECoG) has precise spatiotemporal resolution that enables recording of brain activity distributed over a wide area of cortex, such as during speech production. In this study, we sought to decode elements of speech production using ECoG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24836588

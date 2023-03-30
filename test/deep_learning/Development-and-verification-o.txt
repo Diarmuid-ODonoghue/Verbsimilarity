@@ -1,0 +1,3 @@
+Cardiovascular disease (CVD) is one of the major causes of death worldwide. For improved accuracy of CVD prediction, risk classification was performed using national time-series health examination data. The data offers an opportunity to access deep learning (RNN-LSTM), which is widely known as an outstanding algorithm for analyzing time-series datasets. The objective of this study was to show the improved accuracy of deep learning by comparing the performance of a Cox hazard regression and RNN-LSTM based on survival analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31536581

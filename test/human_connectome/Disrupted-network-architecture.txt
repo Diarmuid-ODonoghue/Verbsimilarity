@@ -1,0 +1,3 @@
+Attention-deficit/hyperactivity disorder (ADHD) is one of the most prevalent psychiatric disorders of childhood. Neuroimaging investigations of ADHD have traditionally sought to detect localized abnormalities in discrete brain regions. Recent years, however, have seen the emergence of complementary lines of investigation into distributed connectivity disturbances in ADHD. Current models emphasize abnormal relationships between default network-involved in internally directed mentation and lapses of attention-and task positive networks, especially ventral attention network. However, studies that comprehensively investigate interrelationships between large-scale networks in ADHD remain relatively rare.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24668728

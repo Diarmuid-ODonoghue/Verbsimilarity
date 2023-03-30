@@ -1,0 +1,3 @@
+Metatranscriptomics is emerging as a powerful technology for the functional characterization of complex microbial communities (microbiomes). Use of unbiased RNA-sequencing can reveal both the taxonomic composition and active biochemical functions of a complex microbial community. However, the lack of established reference genomes, computational tools and pipelines make analysis and interpretation of these datasets challenging. Systematic studies that compare data across microbiomes are needed to demonstrate the ability of such pipelines to deliver biologically meaningful insights on microbiome function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26757703

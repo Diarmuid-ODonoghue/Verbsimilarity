@@ -1,0 +1,3 @@
+To investigate the feasibility of training an artificial intelligence (AI) on a public-available AI platform to diagnose polypoidal choroidal vasculopathy (PCV) using indocyanine green angiography (ICGA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31686211

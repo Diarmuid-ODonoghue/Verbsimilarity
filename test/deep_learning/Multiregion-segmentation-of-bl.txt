@@ -1,0 +1,3 @@
+Precise segmentation of bladder walls and tumor regions is an essential step toward noninvasive identification of tumor stage and grade, which is critical for treatment decision and prognosis of patients with bladder cancer (BC). However, the automatic delineation of bladder walls and tumor in magnetic resonance images (MRI) is a challenging task, due to important bladder shape variations, strong intensity inhomogeneity in urine, and very high variability across the population, particularly on tumors' appearance. To tackle these issues, we propose to leverage the representation capacity of deep fully convolutional neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30328624

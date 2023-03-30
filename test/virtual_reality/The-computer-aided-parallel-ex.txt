@@ -1,0 +1,3 @@
+Since parameters of the parallel external fixator are difficult to measure and calculate in real applications, this study developed computer software that can help the doctor measure parameters using digital technology and generate an electronic prescription for deformity correction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28785959

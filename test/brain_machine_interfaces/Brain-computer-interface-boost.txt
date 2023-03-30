@@ -1,0 +1,3 @@
+Motor imagery (MI) is assumed to enhance poststroke motor recovery, yet its benefits are debatable. Brain-computer interfaces (BCIs) can provide instantaneous and quantitative measure of cerebral functions modulated by MI. The efficacy of BCI-monitored MI practice as add-on intervention to usual rehabilitation care was evaluated in a randomized controlled pilot study in subacute stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25712802

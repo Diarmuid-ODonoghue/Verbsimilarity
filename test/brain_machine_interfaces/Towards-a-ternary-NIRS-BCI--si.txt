@@ -1,0 +1,3 @@
+The majority of near-infrared spectroscopy (NIRS) brain-computer interface (BCI) studies have investigated binary classification problems. Limited work has considered differentiation of more than two mental states, or multi-class differentiation of higher-level cognitive tasks using measurements outside of the anterior prefrontal cortex. Improvements in accuracies are needed to deliver effective communication with a multi-class NIRS system. We investigated the feasibility of a ternary NIRS-BCI that supports mental states corresponding to verbal fluency task (VFT) performance, Stroop task performance, and unconstrained rest using prefrontal and parietal measurements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26447770

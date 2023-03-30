@@ -1,0 +1,3 @@
+Gene expression data represents a unique challenge in predictive model building, because of the small number of samples (n) compared with the huge amount of features (p). This 'n≪p' property has hampered application of deep learning techniques for disease outcome classification. Sparse learning by incorporating external gene network information could be a potential solution to this issue. Still, the problem is very challenging because (i) there are tens of thousands of features and only hundreds of training samples, (ii) the scale-free structure of the gene network is unfriendly to the setup of convolutional neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29850911

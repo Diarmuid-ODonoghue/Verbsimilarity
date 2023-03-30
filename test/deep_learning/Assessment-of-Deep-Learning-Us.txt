@@ -1,0 +1,3 @@
+A prediction model for new-onset nonmelanoma skin cancer could enhance prevention measures, but few patient data-driven tools exist for more accurate prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31483437

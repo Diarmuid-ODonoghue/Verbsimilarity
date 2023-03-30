@@ -1,0 +1,3 @@
+High-fidelity simulation-based training is often avoided for early-stage students because of the assumption that while practicing newly learned skills, they are ill suited to processing multiple demands, which can lead to "cognitive overload" and poorer learning outcomes. We tested this assumption using a mixed-methods experimental design manipulating psychological immersion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26536339

@@ -1,0 +1,3 @@
+In this paper, we present our application of latest information technology in assisting the Chinese acupuncture research. Having integrated the Chinese Visible Human (CVH) data, virtual reality, visualization and imaging techniques, we have constructed a 3-dimensional digital human model for acupuncture. This model integrates the meridian positioning, acupoint positioning, arbitrary cutting-plane visualization, multi-layer dissection, needle puncturing simulation, as well as the common diseases-therapy information. Our work can be widely applied to Chinese acupuncture education, clinical usage and scientific research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16404043

@@ -1,0 +1,3 @@
+We describe an experimental setup, which uses virtual reality to understand neural responses to height and perturbations in human postural control. This system could help clinicians develop better methods to alleviate symptoms from a significant fear of heights, especially in the elderly and those with movement disorders, such as Parkinson's disease. In our design, EEG and EKG systems monitor the participants' neural responses and heart activities respectively, while they try to maintain balance on a force plate in an induced virtual world, experiencing randomized height changes and perturbations. These responses are then analyzed to understand the participants' anxiety caused by height and postural challenges.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31947038

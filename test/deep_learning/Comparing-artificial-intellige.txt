@@ -1,0 +1,3 @@
+Several recent publications have demonstrated the use of convolutional neural networks to classify images of melanoma at par with board-certified dermatologists. However, the non-availability of a public human benchmark restricts the comparability of the performance of these algorithms and thereby the technical progress in this field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30802784

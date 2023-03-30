@@ -1,0 +1,3 @@
+The hippocampus is thought to support memory and decisions by binding relevant aspects of experiences within a context. A recent paper by Gulli et al. studies how activity in the macaque hippocampus varies according to different contextual requirements in the same space. This study demonstrates how a hippocampal cognitive map can flexibly reflect both spatial and nonspatial task demands.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32340746

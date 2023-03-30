@@ -1,0 +1,3 @@
+To review virtual reality in neurosurgery, including the history of simulation and virtual reality and some of the current implementations; to examine some of the technical challenges involved; and to propose a potential paradigm for the development of virtual reality in neurosurgery going forward.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22152571

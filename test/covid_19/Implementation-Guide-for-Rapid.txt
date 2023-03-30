@@ -1,0 +1,3 @@
+In the novel coronavirus disease (COVID-19) pandemic, social distancing has been necessary to help prevent disease transmission. As a result, medical practices have limited access to in-person visits. This poses a challenge to maintain appropriate patient care while preventing a significant backlog of patients once stay-at-home restrictions are lifted. In practices that are naive to telehealth as an alternative option, providers and staff are experiencing challenges with telemedicine implementation. We aim to provide a comprehensive guide on how to rapidly integrate telemedicine into practice during a pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32360960

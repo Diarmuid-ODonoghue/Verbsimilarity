@@ -1,0 +1,3 @@
+Numerous nucleic acid amplification assays have recently received emergency use authorization (EUA) for the diagnosis of SARS-CoV-2 infection, and there is a need to assess their test performance relative to one another.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32353760

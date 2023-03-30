@@ -1,0 +1,3 @@
+We have developed a virtual reality (VR) system that integrates a three-dimensional tracking device with a video-capture VR platform to record upper limb movements. The influence of target velocity on planning and execution of reaching movements was studied in five healthy subjects. Our initial results suggest that a target's velocity is considered when planning an interceptive action and that a hand reaching toward a moving virtual target is controlled in a similar way to how it is in the real visual environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16640465

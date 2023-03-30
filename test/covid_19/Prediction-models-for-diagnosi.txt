@@ -1,0 +1,3 @@
+To review and critically appraise published and preprint reports of prediction models for diagnosing coronavirus disease 2019 (covid-19) in patients with suspected infection, for prognosis of patients with covid-19, and for detecting people in the general population at risk of being admitted to hospital for covid-19 pneumonia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32265220

@@ -1,0 +1,3 @@
+A combination of physical and cognitive training appears to be the effective intervention to improve cognitive function in older adults with mild cognitive impairment (MCI). Computing technology such as virtual reality (VR) may have the potential to assist rehabilitation in shaping brain health. However, little is known about the potential of VR-based physical and cognitive training designed as an intervention for cognition and brain activation in elderly patients with MCI. Moreover, whether a VR program designed around functional tasks can improve their instrumental activities of daily living (IADL) requires further investigation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31615196

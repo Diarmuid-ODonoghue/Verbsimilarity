@@ -1,0 +1,3 @@
+This article provides an overview of the set up for an arthroplasty care practitioner (ACP)-led virtual orthopaedic clinic (VOC). Suitable patients attend a local hospital for an X-ray and complete a questionnaire, but do not physically attend a clinic. This has been running successfully in a university teaching hospital and has led to cost savings, a reduction in outpatient waiting times and high levels of patient satisfaction. Similar clinics have the potential to become normal practice across the NHS. This article outlines the steps necessary to implement a successful VOC. The lessons learnt during this exercise may be useful for other ACPs when setting up a VOC.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31714821

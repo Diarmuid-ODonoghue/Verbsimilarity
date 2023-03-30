@@ -1,0 +1,3 @@
+This letter presents progress toward an energy efficient neural data acquisition transponder for brain-computer interfaces. The transponder utilizes a four-channel time-multiplexed analog front-end and an energy efficient short-range backscattering RF link to transmit digitized wireless data. In addition, a low-complexity autonomous and adaptive digital neural signal processor is proposed to minimize wireless bandwidth and overall power dissipation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19709960

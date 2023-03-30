@@ -1,0 +1,3 @@
+Self-paced EEG-based BCIs (SP-BCIs) have traditionally been avoided due to two sources of uncertainty: (1) precisely when an intentional command is sent by the brain, i.e., the command onset detection problem, and (2) how different the intentional command is when compared to non-specific (or idle) states. Performance evaluation is also a problem and there are no suitable standard metrics available. In this paper we attempted to tackle these issues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28091395

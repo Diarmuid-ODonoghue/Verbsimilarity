@@ -1,0 +1,3 @@
+To describe and validate a gynecologic laparoscopic-surgery training model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26868070

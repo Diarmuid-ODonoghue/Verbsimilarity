@@ -1,0 +1,3 @@
+Decoding neural activity to control prosthetic devices or computer interfaces is a promising avenue for rehabilitating individuals with amputation or severe spinal cord injury. In most cases, however, the local functionality of the neural tissue is not considered when designing a decoding algorithm. One way to characterize the functional specificity of a local region of motor cortex, and its output effects, is to use intracortical microstimulation. In this study, we examined how the results of an ICMS experiment relate to the performance of various offline decoders. We found evidence that units from electrodes with stimulation effects decode kinematics better than units from electrodes without stimulation effects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25571082

@@ -1,0 +1,3 @@
+The control of human bipedal locomotion is of great interest to the field of lower-body brain-computer interfaces (BCIs) for gait rehabilitation. While the feasibility of closed-loop BCI systems for the control of a lower body exoskeleton has been recently shown, multi-day closed-loop neural decoding of human gait in a BCI virtual reality (BCI-VR) environment has yet to be demonstrated. BCI-VR systems provide valuable alternatives for movement rehabilitation when wearable robots are not desirable due to medical conditions, cost, accessibility, usability, or patient preferences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27064824

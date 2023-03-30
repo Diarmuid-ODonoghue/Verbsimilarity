@@ -1,0 +1,3 @@
+In the last ten years, medical VR techniques have much progress and many simulators have been developed for education, planning, rehearsal and so on. On the other hand, developing a simulator takes much more labor and cost. In this paper, we propose MVL: Medical Virtual reality simulation Library, which supports simulation of several significant medical manipulations considering multiple organ interaction. The result of developing simulators using MVL confirmed validity about variety and developing cost.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15718743

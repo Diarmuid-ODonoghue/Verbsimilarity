@@ -1,0 +1,3 @@
+Artificial intelligence (AI) in medical imaging is a potentially disruptive technology. An understanding of the principles and application of radiomics, artificial neural networks, machine learning, and deep learning is an essential foundation to weave design solutions that accommodate ethical and regulatory requirements, and to craft AI-based algorithms that enhance outcomes, quality, and efficiency. Moreover, a more holistic perspective of applications, opportunities, and challenges from a programmatic perspective contributes to ethical and sustainable implementation of AI solutions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31601480

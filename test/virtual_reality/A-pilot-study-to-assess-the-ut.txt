@@ -1,0 +1,3 @@
+Medical simulators offer an invaluable educational resource for medical trainees. However, owing to cost and portability restrictions, they have traditionally been limited to simulation centres. With the advent of sophisticated mobile technology, simulators have become cheaper and more accessible. Touch Surgery is one such freely downloadable mobile application simulator (MAS) used by over one million healthcare professionals worldwide. Nevertheless, to date, it has never been formally validated as an adjunct in undergraduate medical education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29228934

@@ -1,0 +1,3 @@
+Three categories of neuro-prosthetics are being developed and used in increasing frequency to ameliorate neurologic disability. They are sensory receivers, motor effectors and brain 'stimulators'. The interfaces necessary to drive these devices are critical for their functioning. The following is a brief commentary on brain machine interface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23298784

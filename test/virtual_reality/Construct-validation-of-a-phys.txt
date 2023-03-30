@@ -1,0 +1,3 @@
+Previous studies have demonstrated the construct validity of virtual reality colonoscopy simulators by showing that they can distinguish between users according to their level of endoscopic experience. Although physical model simulators are known to simulate looping more realistically than these devices, they lack published validation evidence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22726473

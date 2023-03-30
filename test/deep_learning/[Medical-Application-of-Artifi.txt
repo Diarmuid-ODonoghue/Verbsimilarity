@@ -1,0 +1,3 @@
+Deep learning is a subset of the medical application of artificial intelligence. Its significant results are garnering attention, particularly in radiographic image interpretation, pathological diagnosis, gene analysis, and prediction of cancer recurrence. In this study, we summarize the concept of deep learning. The human body structure, from the molecule to physical functions, is a complex system. Deep learning is a new way to analyze its complex systems. An essential point of the analysis is the categorization of obstacles. To a certain extent, deep learning approximates a doctor's cognition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30630125

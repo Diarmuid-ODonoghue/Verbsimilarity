@@ -1,0 +1,3 @@
+In the paper the knee joint goniogram based dynamometer control applying virtual reality environment task is presented. The virtual reality task was controlled by assessed voluntarily generated joint moment and the movement of the dynamometer was synchronized with the knee goniogram assessed during computer gait analysis. The subject was requested to follow the task requiring a voluntary generation of joint moment adequate to the one assessed in gait analysis. In preliminary study 10 neurologically intact volunteers participated to test the application in various conditions (increasing speed and difficulty level) in order find the feasible protocol for motor control learning in people with motor control impairment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19163658

@@ -1,0 +1,3 @@
+Mapping synaptic connections and projections is crucial for understanding brain dynamics and function. In a recent issue of Nature, Oh et al. present a wiring diagram of the whole mouse brain, where standardized labeling, tracing, and imaging of axonal connections reveal new details in the network organization of neuronal connectivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24813604

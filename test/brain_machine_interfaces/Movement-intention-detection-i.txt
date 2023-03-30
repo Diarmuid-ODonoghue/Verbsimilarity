@@ -1,0 +1,3 @@
+As for stroke rehabilitation, brain-computer interfaces could potentially be used for inducing neural plasticity in patients with cerebral palsy by pairing movement intentions with relevant somatosensory feedback. Therefore, the aim of this study was to investigate if movement intentions from children with cerebral palsy can be detected from single-trial EEG. Moreover, different feature types and electrode setups were evaluated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30260322

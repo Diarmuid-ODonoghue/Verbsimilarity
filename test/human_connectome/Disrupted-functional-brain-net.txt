@@ -1,0 +1,3 @@
+Obstructive sleep apnea (OSA) subjects show impaired autonomic, affective, executive, sensorimotor, and cognitive functions. Brain injury in OSA subjects appears in multiple sites regulating these functions, but the integrity of functional networks within the regulatory sites remains unclear. Our aim was to examine the functional interactions and the complex network organization of these interactions across the whole brain in OSA, using regional functional connectivity (FC) and brain network topological properties.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27099802

@@ -1,0 +1,3 @@
+Membrane proteins play an important role in the life activities of organisms. Knowing membrane protein types provides clues for understanding the structure and function of proteins. Though various computational methods for predicting membrane protein types have been developed, the results still do not meet the expectations of researchers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31874615

@@ -1,0 +1,3 @@
+Patients with brain injuries such as Parkinson's disease or stroke exhibit abnormal gait characteristics especially during gait transitions such as step initiation and turning. Since such transitions could precipitate falls and resultant injuries, evaluation and rehabilitation of non-steady state gait in those patients are important. Whereas body weight supported treadmill training (BWSTT) provides a safe and controlled environment for gait training, it is unable to adequately train for gait transitions since the typical linear treadmill does not allow for changes in walking direction and natural fluctuations in speed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30510358

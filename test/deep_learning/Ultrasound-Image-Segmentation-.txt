@@ -1,0 +1,3 @@
+Segmentation of anatomical structures in ultrasound images requires vast radiological knowledge and experience. Moreover, the manual segmentation often results in subjective variations, therefore, an automatic segmentation is desirable. We aim to develop a fully convolutional neural network (FCNN) with attentional deep supervision for the automatic and accurate segmentation of the ultrasound images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30346279

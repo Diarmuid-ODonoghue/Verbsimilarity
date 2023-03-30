@@ -1,0 +1,3 @@
+Deep brain stimulation has preliminary evidence of clinical efficacy, but has been difficult to develop into a robust therapy, in part because its mechanisms are incompletely understood. We review evidence from movement and psychiatric disorder studies, with an emphasis on how deep brain stimulation changes brain networks. From this, we argue for a network-oriented approach to future deep brain stimulation studies. That network approach requires methods for identifying patients with specific circuit/network deficits. We describe how dimensional approaches to diagnoses may aid that identification. We discuss the use of network/circuit biomarkers to develop self-adjusting "closed loop" systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30098651

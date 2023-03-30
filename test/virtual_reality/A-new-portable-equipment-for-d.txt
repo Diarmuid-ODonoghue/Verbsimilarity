@@ -1,0 +1,3 @@
+This paper deals with the Disease Detector (DDX) that is a virtual reality control system for detection of Parkinson disease. The control system consists of a small board with an internal fuzzy micro controller capable of acquiring, through the joystick, the well known three basic parameters (reaction, speed and force) in order to detect the state of health and perform them by fuzzy rules. The resulting output can be visualized through a display or transmitted by a communication interface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11317784

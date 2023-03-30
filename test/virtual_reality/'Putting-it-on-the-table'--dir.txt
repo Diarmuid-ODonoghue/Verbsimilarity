@@ -1,0 +1,3 @@
+Collaborative virtual environments for diagnosis and treatment planning are increasingly gaining importance in our global society. Virtual and Augmented Reality approaches promised to provide valuable means for the involved interactive data analysis, but the underlying technologies still create a cumbersome work environment that is inadequate for clinical employment. This paper addresses two of the shortcomings of such technology: Intuitive interaction with multi-dimensional data in immersive and semi-immersive environments as well as stereoscopic multi-user displays combining the advantages of Virtual and Augmented Reality technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458074

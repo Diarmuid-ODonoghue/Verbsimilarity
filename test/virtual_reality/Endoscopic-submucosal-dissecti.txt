@@ -1,0 +1,3 @@
+One of the major impediments to the proliferation of endoscopic submucosal dissection (ESD) training in Western countries is the lack of sufficient experts as instructors. One way to address this gap is to develop didactic systems, such as surgical simulators, to support the role of trainers. Cognitive task analysis (CTA) has been used in healthcare for the design and improvement of surgical training programs, and therefore can potentially be used for design of similar systems for ESD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31102078

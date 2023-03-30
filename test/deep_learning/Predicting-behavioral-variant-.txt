@@ -1,0 +1,3 @@
+Frontotemporal lobar degeneration (FTLD) is a common cause of early onset dementia. Behavioral variant frontotemporal dementia (bvFTD), its most common subtype, is characterized by deep alterations in behavior and personality. In 2011, new diagnostic criteria were suggested that incorporate imaging criteria into diagnostic algorithms. The study aimed at validating the potential of imaging criteria to individually predict diagnosis with machine learning algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28348957

@@ -1,0 +1,3 @@
+Novice surgeons experience high levels of physical and mental workload during the early stages of their curriculum and clinical practice. Laparoscopic sleeve gastrectomy is the first bariatric procedure worldwide. Feasibility and safety of single-port sleeve gastrectomy (SPSG) has been demonstrated. An immersive virtual reality (VR) simulation was developed to provide a repetitive exercise to learn this novel technique. The primary objective of this study was to evaluate the impact of the VR training tool on mental and physical workload in novice surgeons. The secondary objective included an evaluation of the VR simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30689172

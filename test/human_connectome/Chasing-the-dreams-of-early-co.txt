@@ -1,0 +1,3 @@
+Mapping and examining the wiring pattern of neural systems is a fundamental pillar of neuroscience. In this Viewpoint, we review a recently described mesoscale connectome map of the mouse brain. We underscore the map's high spatial resolution and discuss key organizational network attributes of the presented connectome, its potential impact on neuroscience, and the general importance of connectome maps to obtain insight in the workings of the brain at a system's level.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24814363

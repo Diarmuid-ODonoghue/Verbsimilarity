@@ -1,0 +1,3 @@
+In India, the SARS-CoV2 COVID-19 epidemic has grown to 1,251 cases and 32 deaths as on 30 Mar 2020. The healthcare impact of the epidemic in India was studied with a stochastic mathematical model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32292232

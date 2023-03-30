@@ -1,0 +1,3 @@
+The neurobiological underpinnings of attention-deficit/hyperactivity disorder (ADHD) and particularly those associated with the persistence of ADHD into adulthood are not yet well understood. The correlation patterns in spontaneous neural fluctuations at rest are known as resting-state functional connectivity (RSFC) and could characterize ADHD-specific connectivity changes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24132732

@@ -1,0 +1,3 @@
+A trainer for online laparoscopic surgical skills assessment based on the performance of experts and nonexperts is presented. The system uses computer vision, augmented reality, and artificial intelligence algorithms, implemented into a Raspberry Pi board with Python programming language.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29809097

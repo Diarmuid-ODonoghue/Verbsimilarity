@@ -1,0 +1,3 @@
+Paralysis, whether caused by spinal cord injury, neurodegenerative disease, or other factors, poses a host of issues for patients. These include not just the inability to move parts of their bodies but potential problems with communication and bladder control as well. Fortunately, the last decade has seen promising technology advances to address these concerns. Although most are still in the research stage, these technologies-including brain-computer interfaces (BCIs), exoskeletons, and robotics-may one day improve the lives of people with paralysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28961092

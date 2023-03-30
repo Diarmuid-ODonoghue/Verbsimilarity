@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) are implantable devices that interface directly with the nervous system. BCI for quadriplegic patients restore function by reading motor intent from the brain and use the signal to control physical, virtual, and native prosthetic effectors. Future closed-loop motor BCI will incorporate sensory feedback to provide patients with an effective and intuitive experience. Development of widely available BCI for patients with neurologic injury will depend on the successes of today's clinical BCI. BCI are an exciting next step in the frontier of neuromodulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30898278

@@ -1,0 +1,3 @@
+An efficient route for the synthesis of 1-iodo-5-octyl-4H-thieno[3,4-c]pyrrole-4,6(5H)-dione as a key intermediate to build new electron-deficient monomers and related conjugated polymers is reported. Along these lines, two new low bandgap copolymers were synthesized from Stille or Suzuki coupling. These polymers were characterized and their properties compared to those of analogous conjugated polymers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21114275

@@ -1,0 +1,3 @@
+Augmented reality (AR) technology is used to reconstruct three-dimensional (3D) images of hepatic and biliary structures from computed tomography and magnetic resonance imaging data, and to superimpose the virtual images onto a view of the surgical field. In liver surgery, these superimposed virtual images help the surgeon to visualize intrahepatic structures and therefore, to operate precisely and to improve clinical outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29567047

@@ -1,0 +1,3 @@
+Narrow-band imaging is an image-enhanced form of endoscopy used to observed microstructures and capillaries of the mucosal epithelium which allows for real-time prediction of histologic features of colorectal polyps. However, narrow-band imaging expertise is required to differentiate hyperplastic from neoplastic polyps with high levels of accuracy. We developed and tested a system of computer-aided diagnosis with a deep neural network (DNN-CAD) to analyze narrow-band images of diminutive colorectal polyps.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29042219

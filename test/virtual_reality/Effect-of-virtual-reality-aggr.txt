@@ -1,0 +1,3 @@
+Many patients residing in forensic psychiatric centers have difficulties regulating their aggression in an adequate manner. Therefore, they are frequently involved in conflicts. Evidenced-based aggression therapies in forensic psychiatry are scarce, and due to the highly secured environment, it is hard to practice real-life provocations. We have developed a Virtual Reality aggression prevention training (VRAPT), providing safe virtual environments, in which patients can practice controlling their aggressive behaviors in an adequate way. The main objective of this study is to examine whether VRAPT is effective in reducing aggression among forensic psychiatric inpatients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30081863

@@ -1,0 +1,3 @@
+Evaluation of a data-driven, model-based classification approach to discriminate idiopathic Parkinson's disease (PD) patients from healthy controls (HC) based on between-network connectivity in whole-brain resting-state functional MRI (rs-fMRI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30994036

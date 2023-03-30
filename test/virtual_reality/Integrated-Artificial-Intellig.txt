@@ -1,0 +1,3 @@
+Mechanocomputational techniques in conjunction with artificial intelligence (AI) are revolutionizing the interpretations of the crucial information from the medical data and converting it into optimized and organized information for diagnostics. It is possible due to valuable perfection in artificial intelligence, computer aided diagnostics, virtual assistant, robotic surgery, augmented reality and genome editing (based on AI) technologies. Such techniques are serving as the products for diagnosing emerging microbial or non microbial diseases. This article represents a combinatory approach of using such approaches and providing therapeutic solutions towards utilizing these techniques in disease diagnostics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29651188

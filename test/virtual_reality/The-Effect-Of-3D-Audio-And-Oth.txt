@@ -1,0 +1,3 @@
+Three studies were conducted to examine the effect of audio on people's experience in a virtual world. The first study showed that people could distinguish between mono, stereo, Dolby surround and 3D audio of a wasp. The second study found significant effects for audio techniques on people's self-reported anxiety, presence, and spatial perception. The third study found that adding sound to a visual virtual world had a significant effect on people's experience (including heart rate), while it found no difference in experience between stereo and 3D audio.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26799877

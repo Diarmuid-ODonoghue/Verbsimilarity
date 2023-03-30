@@ -1,0 +1,3 @@
+Individual bone quality depends on genetic, biological, and mechanical influencing factors, where the latter is accessible via Finite Element Simulation. This work is part of an interdisciplinary research project with the purpose of stepwise refinement towards anatomical reality. This approach opened the door for many interrelated applications such as atrophy of the jaw bone, periodontology, implantology, or TMJ disorders. This lecture is dedicated to the influence of dental anatomy on mandibular biomechanics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19216309

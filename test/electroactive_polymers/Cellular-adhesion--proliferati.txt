@@ -1,0 +1,3 @@
+This work reports a comprehensive study about cell adhesion and proliferation on the surface of different electroactive substrates formed by pi-conjugated polymers. Biological assays were performed considering four different cellular lines: two epithelial and two fibroblasts. On the other hand, the electroactivity of the three conducting systems was determined in physiological conditions. Results indicate that the three substrates behave as a cellular matrix, even though compatibility with cells is larger for PPy and the 3-layered system. Furthermore, the three polymeric systems are electro-compatible with the cellular monolayers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18683167

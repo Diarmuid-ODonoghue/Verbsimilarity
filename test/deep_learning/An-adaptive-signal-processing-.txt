@@ -1,0 +1,3 @@
+Conventional intelligent or adaptive tutoring online systems rely on domain-specific models of learner behavior based on rules, deep domain knowledge, and other resource-intensive methods. We have developed and studied a domain-independent methodology of adaptive tutoring based on domain-independent signal-processing approaches that obviate the need for the construction of explicit expert and student models. A key advantage of our method over conventional approaches is a lower barrier to entry for educators who want to develop adaptive online learning materials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21335759

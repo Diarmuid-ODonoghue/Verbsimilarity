@@ -1,0 +1,3 @@
+Integration of functional connectivity analysis based on resting-state functional Magnetic Resonance Imaging (fMRI) and structural connectivity analysis based on Diffusion-Weighted Imaging (DWI) has shown great potential to improve understanding of the neural networks in the human brain. However, there are sensitivity and specificity-related interpretation issues that must be addressed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23279672

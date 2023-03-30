@@ -1,0 +1,3 @@
+Within our research project "SEE-KID", a Software Engineering Environment for Knowledge-based Interactive Eye Motility Diagnostics, we focus on virtual reality training for the surgery of human eye muscles of--mostly--children age 1 to 3. Our report gives details on the sound integration of biomechanical muscle data into our virtual reality models in order to evaluate the quality of specific techniques for eye motility surgery regarding real-world pathologies. We illustrate the usefulness of our software system describing some of the possible medical applications, like optimized transposition surgery of the musculus obliquus superior.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11317760

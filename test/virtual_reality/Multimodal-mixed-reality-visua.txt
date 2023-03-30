@@ -1,0 +1,3 @@
+In the last decade, there has been a great effort to bring mixed reality (MR) into the operating room to assist surgeons intraoperatively. However, progress towards this goal is still at an early stage. The aim of this paper is to propose a MR visualisation platform which projects multiple imaging modalities to assist intraoperative surgical guidance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32333360

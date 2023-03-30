@@ -1,0 +1,3 @@
+Leukocyte classification and cytometry have wide applications in medical domain, previous researches usually exploit machine learning techniques to classify leukocytes automatically. However, constrained by the past development of machine learning techniques, for example, extracting distinctive features from raw microscopic images are difficult, the widely used SVM classifier only has relative few parameters to tune, these methods cannot efficiently handle fine-grained classification cases when the white blood cells have up to 40 categories.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29903491

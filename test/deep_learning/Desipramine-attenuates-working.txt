@@ -1,0 +1,3 @@
+The density of tyrosine hydroxylase-immunoreactive (TH-IR) axons in the prefrontal cortex of schizophrenic subjects may be reduced by as much as 50% in the deep cortical layers (Am J Psychiatry 156:1580-1589, 1999). Previously, we demonstrated that approximately 60% loss of TH-IR axons in the rat medial prefrontal cortex (mPFC) decreases local basal and stress-evoked extracellular dopamine (DA) concentrations, suggesting that moderate loss of DA axons in the mPFC is sufficient to alter the neurochemical activity of the remaining DA neurons (Neuroscience 93:497-505, 1999).
+
+https://www.ncbi.nlm.nih.gov/pubmed/16307295

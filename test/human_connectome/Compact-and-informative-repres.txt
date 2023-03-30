@@ -1,0 +1,3 @@
+Resting state functional connectivity holds great potential for diagnostic prediction of neurological and psychiatric illness. This paper introduces a compact and information-rich representation of connectivity that is geared directly towards predictive modeling. Our representation does not require a priori identification of localized regions of interest, yet provides a mechanism for interpretation of classifier weights. Experiments confirm increased accuracy associated with our representation and yield interpretations consistent with known physiology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25320794

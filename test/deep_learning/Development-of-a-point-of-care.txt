@@ -1,0 +1,3 @@
+Coma is a deep state of unconsciousness that can be caused by a variety of clinical conditions. Traditional tests for coma outcome prediction are based mainly on a set of clinical observations. Recently, certain event-related potentials (ERPs), which are transient electroencephalogram (EEG) responses to auditory, visual or tactile stimuli, have been introduced as useful predictors of a positive coma outcome (ie, emergence). However, such tests require the skills of clinical neurophysiologists, who are not commonly available in many clinical settings. Additionally, none of the current standard clinical approaches have sufficient predictive accuracies to provide definitive prognoses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31320356

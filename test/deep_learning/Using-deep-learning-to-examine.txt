@@ -1,0 +1,3 @@
+Residential green and blue spaces may be therapeutic for the mental health. However, solid evidence on the linkage between exposure to green and blue spaces and mental health among the elderly in non-Western countries is scarce and limited to exposure metrics based on remote sensing images (i.e., land cover and vegetation indices). Such overhead-view measures may fail to capture how people perceive the environment on the site.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30797100

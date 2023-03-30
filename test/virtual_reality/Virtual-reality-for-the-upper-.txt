@@ -1,0 +1,3 @@
+In this report we describe the effects of a virtual reality (VR) training addressed to the upper limb of a stroke patient. After 20 days of rehabilitation sessions consisting of physical therapy and VR rehabilitation, the subject was evaluated by means of kinematics and clinical scales. Results showed the improvement of paretic arm mobility, in terms of quantitative parameters and clinical scales, suggesting that VR training could represent a valuable tool to supplement the traditional rehabilitation provided by the physical therapist.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19592776

@@ -1,0 +1,3 @@
+When designing multiclass motor imagery-based brain-computer interface (MI-BCI), a so-called tangent space mapping (TSM) method utilizing the geometric structure of covariance matrices is an effective technique. This paper aims to introduce a method using TSM for finding accurate operational frequency bands related brain activities associated with MI tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29737970

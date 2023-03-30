@@ -1,0 +1,3 @@
+Untrained laparoscopic camera assistants in minimally invasive surgery (MIS) may cause suboptimal view of the operating field, thereby increasing risk for errors. Camera navigation is often performed by the least experienced member of the operating team, such as inexperienced surgical residents, operating room nurses, and medical students. The operating room nurses and medical students are currently not included as key user groups in structured laparoscopic training programs. A new virtual reality laparoscopic camera navigation (LCN) module was specifically developed for these key user groups.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24132469

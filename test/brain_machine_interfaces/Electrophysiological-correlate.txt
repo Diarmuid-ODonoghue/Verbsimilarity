@@ -1,0 +1,3 @@
+For patients with amyotrophic lateral sclerosis (ALS) who are suffering from severe communication or motor problems, brain-computer interfaces (BCIs) can improve the quality of life and patient autonomy. However, current BCI systems are not as widely used as their potential and patient demand would let assume. This underutilization is a result of technological as well as user-based limitations but also of the comparatively poor performance of currently existing BCIs in patients with late-stage ALS, particularly in the locked-in state.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29676287

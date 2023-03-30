@@ -1,0 +1,3 @@
+Current models for patient risk prediction rely on practitioner expertise and domain knowledge. This study presents a deep learning model-a type of machine learning that does not require human inputs-to analyze complex clinical and financial data for population risk stratification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31622071

@@ -1,0 +1,3 @@
+Gene expression data can offer deep, physiological insights beyond the static coding of the genome alone. We believe that realizing this potential requires specialized, high-capacity machine learning methods capable of using underlying biological structure, but the development of such models is hampered by the lack of published benchmark tasks and well characterized baselines.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30990190

@@ -1,0 +1,3 @@
+Dual-task paradigms are used to investigate gait and cognitive declines in older adults (OA). Optic-flow is a virtual reality environment where the scene flows past the subject while walking on a treadmill, mimicking real-life locomotion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30367447

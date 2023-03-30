@@ -1,0 +1,3 @@
+This study aimed to use a convolutional neural network (CNN) to investigate the associations between the time of falling and multiple complicating factors, including age, dementia severity, lower extremity strength and physical function, among nursing home residents with Alzheimer's disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32267067

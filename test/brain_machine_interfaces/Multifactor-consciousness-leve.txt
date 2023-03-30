@@ -1,0 +1,3 @@
+A lack of communication with people suffering from acquired brain injuries may lead to drawing erroneous conclusions regarding the diagnosis or therapy of patients. Information technology and neuroscience make it possible to enhance the diagnostic and rehabilitation process of patients with traumatic brain injury or post-hypoxia. In this paper, we present a new method for evaluation possibility of communication and the assessment of such patients' state employing future generation computers extended with advanced human-machine interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31924202

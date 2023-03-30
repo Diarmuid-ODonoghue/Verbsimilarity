@@ -1,0 +1,3 @@
+A virtual-reality training program has been developed to help older pedestrians make safer street-crossing decisions in two-way traffic situations. The aim was to develop a small-scale affordable and transportable simulation device that allowed transferring effects to a full-scale device involving actual walking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27898369

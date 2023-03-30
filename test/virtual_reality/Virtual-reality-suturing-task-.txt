@@ -1,0 +1,3 @@
+We performed a pilot study using a single virtual-simulation suturing module as an objective measurement to determine functional use of the robotic system. This study will assist in designing a study for an objective, adjunctive test for use by a surgical proctor.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26137869

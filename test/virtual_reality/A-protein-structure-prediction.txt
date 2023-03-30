@@ -1,0 +1,3 @@
+This paper describes a protein tertiary structure prediction service implemented in a Grid Environment. The service has been used for predicting the dicarboxylate carrier (DIC) of Saccharomyces cerevisiae by using the homology modelling approach. The visualization of the predicted model is made possible by using an interactive virtual reality environment based on X3D and Ajax3d technologies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18560115

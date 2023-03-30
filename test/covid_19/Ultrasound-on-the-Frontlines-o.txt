@@ -1,0 +1,3 @@
+The COVID-19 pandemic has spread to 185 countries with over 2.1 million confirmed cases and 145,000 deaths, as per the Johns Hopkins University COVID-19 dashboard provided at https://coronavirus.jhu.edu/map.html. Imaging modalities such as chest radiography, thoracic and cardiovascular ultrasound, and computed tomography have roles in the diagnosis, prognosis, monitoring, and therapy of COVID-19. However, the potential benefits of imaging need to be balanced against resource utilization and infectious risk.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348585

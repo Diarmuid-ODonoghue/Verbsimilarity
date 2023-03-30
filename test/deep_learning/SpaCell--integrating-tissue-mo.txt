@@ -1,0 +1,3 @@
+Spatial transcriptomics (ST) technology is increasingly being applied because it enables the measurement of spatial gene expression in an intact tissue along with imaging morphology of the same tissue. However, current analysis methods for ST data do not use image pixel information, thus missing the quantitative links between gene expression and tissue morphology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31808789

@@ -1,0 +1,3 @@
+Cecal intubation time is an important component for quality colonoscopy. Cecum is the turning point that determines the insertion and withdrawal phase of the colonoscope. For this reason, obtaining information related with location of the cecum in the endoscopic procedure is very useful. Also, it is necessary to detect the direction of colonoscope's movement and time-location of the cecum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31392088

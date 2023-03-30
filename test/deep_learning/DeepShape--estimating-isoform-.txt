@@ -1,0 +1,3 @@
+Ribosome profiling brings insight to the process of translation. A basic step in profile construction at transcript level is to map Ribo-seq data to transcripts, and then assign a huge number of multiple-mapped reads to similar isoforms. Existing methods either discard the multiple mapped-reads, or allocate them randomly, or assign them proportionally according to transcript abundance estimated from RNA-seq data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31861979

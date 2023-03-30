@@ -1,0 +1,3 @@
+The aim of the present study is to demonstrate, through tests with healthy volunteers, the feasibility of potentially assisting individuals with neurological disorders via a portable assistive technology for the upper extremities (UE). For this purpose the task of independently drinking a glass of water was selected, as it is one of the most basic and vital activities of the daily living that is unfortunately not achievable by individuals severely affected by stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24708603

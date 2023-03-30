@@ -1,0 +1,3 @@
+We present a novel experimental framework that implements a bidirectional brain-machine interface inspired by the operation of the spinal cord in vertebrates that generates a control policy in the form of a force field. The proposed experimental set-up allows connecting the brain of freely moving rats to an external device. We tested this apparatus in a preliminary experiment with an alert rat that used the interface for acquiring a food reward. The goal of this approach to bidirectional interfaces is to explore the role of voluntary neural commands in controlling a dynamical system represented by a small cart moving on vertical plane and connected to a water/pellet dispenser.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26736198

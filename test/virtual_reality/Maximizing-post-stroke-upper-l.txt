@@ -1,0 +1,3 @@
+Telerehabilitation (TR), or the provision of rehabilitation services from a distance using telecommunication tools such as the Internet, can contribute to ensure that patients receive the best care at the right time. This study aims to assess the effect of an interactive virtual reality (VR) system that allows ongoing rehabilitation of the upper extremity (UE) following a stroke, while the person is in their own home, with offline monitoring and feedback from a therapist at a distance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26655433

@@ -1,0 +1,3 @@
+To develop a phantom for validating MRI pulse sequences and data processing methods to quantify microscopic diffusion anisotropy in the human brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28686785

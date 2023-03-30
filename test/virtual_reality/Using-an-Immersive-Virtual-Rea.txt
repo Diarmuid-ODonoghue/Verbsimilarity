@@ -1,0 +1,3 @@
+A sudden cardiac arrest (SCA) occurs when the heart abruptly stops beating; because of the nature of SCA, capturing data in the out-of-hospital setting from actual bystander response is difficult. Current technologies such as virtual reality (VR) allow the creation of scenarios programmed for heightened realism. No studies have used an immersive VR system to observe lay bystander response.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30407959

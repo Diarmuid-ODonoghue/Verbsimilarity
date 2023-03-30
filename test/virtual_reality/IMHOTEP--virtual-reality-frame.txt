@@ -1,0 +1,3 @@
+The data which is available to surgeons before, during and after surgery is steadily increasing in quantity as well as diversity. When planning a patient's treatment, this large amount of information can be difficult to interpret. To aid in processing the information, new methods need to be found to present multimodal patient data, ideally combining textual, imagery, temporal and 3D data in a holistic and context-aware system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29551011

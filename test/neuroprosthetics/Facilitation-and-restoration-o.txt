@@ -1,0 +1,3 @@
+Maintenance of cognitive control is a major concern for many human disease conditions; therefore, a major goal of human neuroprosthetics is to facilitate and/or recover the cognitive function when such circumstances impair appropriate decision making.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22976769

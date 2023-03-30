@@ -1,0 +1,3 @@
+We present the work in progress on teleimmersive framework that would allow doctors to collaborate in more natural way by being immersed in the virtual space along with the medical data they could examine and discuss with remotely located colleagues. The system consists of multiple cameras, hand tracking with gesture recognition, and virtual reality system to support volume visualization and 3D interaction with medical data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377136

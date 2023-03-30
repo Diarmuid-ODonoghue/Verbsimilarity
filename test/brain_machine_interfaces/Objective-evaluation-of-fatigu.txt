@@ -1,0 +1,3 @@
+The fatigue that users suffer when using steady-state visual evoked potential (SSVEP)-based brain-computer interfaces (BCIs) can cause a number of serious problems such as signal quality degradation and system performance deterioration, users' discomfort and even risk of photosensitive epileptic seizures, posing heavy restrictions on the applications of SSVEP-based BCIs. Towards alleviating the fatigue, a fundamental step is to measure and evaluate it but most existing works adopt self-reported questionnaire methods which are subjective, offline and memory dependent. This paper proposes an objective and real-time approach based on electroencephalography (EEG) spectral analysis to evaluate the fatigue in SSVEP-based BCIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24621009

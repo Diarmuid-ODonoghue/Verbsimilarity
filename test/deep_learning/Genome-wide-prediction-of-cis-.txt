@@ -1,0 +1,3 @@
+In the human genome, 98% of DNA sequences are non-protein-coding regions that were previously disregarded as junk DNA. In fact, non-coding regions host a variety of cis-regulatory regions which precisely control the expression of genes. Thus, Identifying active cis-regulatory regions in the human genome is critical for understanding gene regulation and assessing the impact of genetic variation on phenotype. The developments of high-throughput sequencing and machine learning technologies make it possible to predict cis-regulatory regions genome wide.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29855387

@@ -1,0 +1,3 @@
+To retrospectively evaluate the diagnostic performance of a convolutional neural network (CNN) model in detecting pneumothorax on chest radiographs obtained after percutaneous transthoracic needle biopsy (PTNB) for pulmonary lesions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30915557

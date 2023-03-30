@@ -1,0 +1,3 @@
+Resting-state fMRI (rs-fMRI) has emerged as a prominent tool for the study of functional connectivity. The identification of the regions associated with the different brain functions has received significant interest. However, most of the studies conducted so far have focused on the definition of a common set of regions, valid for an entire population. The variation of the functional regions within a population has rarely been accounted for.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27913211

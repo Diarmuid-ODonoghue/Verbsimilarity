@@ -1,0 +1,3 @@
+Sparsity is a powerful concept to exploit for high-dimensional machine learning and associated representational and computational efficiency. Sparsity is well suited for medical image segmentation. We present a selection of techniques that incorporate sparsity, including strategies based on dictionary learning and deep learning, that are aimed at medical image segmentation and related quantification. Expected final online publication date for the Annual Review of Biomedical Engineering, Volume 22 is June 4, 2020. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32169002

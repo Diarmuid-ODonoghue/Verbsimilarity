@@ -1,0 +1,3 @@
+Human body models are key components of VR surgical simulators. We overview here our efforts and share experience in constructing cerebral models and using them in VR-based applications for brain intervention. We have constructed four groups of brain atlases: anatomical, functional, vascular, and physically-based. The atlas-assisted VR systems discussed here are applied to stereotactic and functional neurosurgery, interventional neuroradiology, and brain stereotaxy. We also briefly feature our concept of future surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17281151

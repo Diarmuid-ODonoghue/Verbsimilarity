@@ -1,0 +1,3 @@
+The accuracy of predicting protein local and global structural properties such as secondary structure and solvent accessible surface area has been stagnant for many years because of the challenge of accounting for non-local interactions between amino acid residues that are close in three-dimensional structural space but far from each other in their sequence positions. All existing machine-learning techniques relied on a sliding window of 10-20 amino acid residues to capture some 'short to intermediate' non-local interactions. Here, we employed Long Short-Term Memory (LSTM) Bidirectional Recurrent Neural Networks (BRNNs) which are capable of capturing long range interactions without using a window.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28430949

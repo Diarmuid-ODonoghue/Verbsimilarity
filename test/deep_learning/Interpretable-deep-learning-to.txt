@@ -1,0 +1,3 @@
+Automatic extraction of morbid disease or conditions contained in Death Certificates is a critical process, useful for billing, epidemiological studies and comparison across countries. The fact that these clinical documents are written in regular natural language makes the automatic coding process difficult because, often, spontaneous terms diverge strongly from standard reference terminology such as the International Classification of Diseases (ICD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31445289

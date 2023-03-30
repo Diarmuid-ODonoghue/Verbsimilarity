@@ -1,0 +1,3 @@
+The aim of this paper is to provide a review of controlled studies of the use of Virtual Reality in psychological treatment (VRT). Medline, PsychInfo, Embase and Web of Science were searched. Only studies comparing immersive virtual reality to a control condition were included. The search resulted in 1180 articles published between 2012 and 2015, of these, 24 were controlled studies. The reviewed studies confirm the effectiveness of VRT compared to treatment as usual, and show similar effectiveness when VRT is compared to conventional treatments. Current developments and future research are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26795129

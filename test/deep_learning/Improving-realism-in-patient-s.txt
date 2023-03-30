@@ -1,0 +1,3 @@
+In this paper, we propose to apply generative adversarial neural networks trained with a cycle consistency loss, or CycleGANs, to improve realism in ultrasound (US) simulation from computed tomography (CT) scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31392671

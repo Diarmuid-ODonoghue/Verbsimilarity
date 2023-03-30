@@ -1,0 +1,3 @@
+An end-to-end deep neural network, ResU-net, is developed for quantitative photoacoustic imaging. A residual learning framework is used to facilitate optimization and to gain better accuracy from considerably increased network depth. The contracting and expanding paths enable ResU-net to extract comprehensive context information from multispectral initial pressure images and, subsequently, to infer a quantitative image of chromophore concentration or oxygen saturation (sO2). According to our numerical experiments, the estimations of sO2 and indocyanine green concentration are accurate and robust against variations in both optical property and object geometry. An extremely short reconstruction time of 22 ms is achieved.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29905680

@@ -1,0 +1,3 @@
+Numerous studies in the area of BCI are focused on the search for a better experimental paradigm-a set of mental actions that a user can evoke consistently and a machine can discriminate reliably. Examples of such mental activities are motor imagery, mental computations, etc. We propose a technique that instead allows the user to try different mental actions in the search for the ones that will work best.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31952067

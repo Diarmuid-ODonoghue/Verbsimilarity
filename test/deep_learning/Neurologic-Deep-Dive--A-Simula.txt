@@ -1,0 +1,3 @@
+Decompression sickness (DCS) is a rare and dangerous complication from a rapid decrease in environmental pressure, commonly seen in patients leaving a compressed-air environment, such as scuba divers, aviators, and deep tunnel workers. Failure to clinically diagnose and adequately treat DCS with hydration and supplemental oxygen before bridging to hyperbaric oxygen (HBO) therapy can result in permanent residual symptoms or, in rare cases, death. Despite the increasing incidence of DCS, there are limited published simulation case studies discussing this perilous environmental exposure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31008251

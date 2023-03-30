@@ -1,0 +1,3 @@
+Although the bulk of patient-generated health data are increasing exponentially, their use is impeded because most data come in unstructured format, namely as free-text clinical reports. A variety of natural language processing (NLP) methods have emerged to automate the processing of free text ranging from statistical to deep learning-based models; however, the optimal approach for medical text analysis remains to be determined. The aim of this study was to provide a head-to-head comparison of novel NLP techniques and inform future studies about their utility for automated medical text analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31002562

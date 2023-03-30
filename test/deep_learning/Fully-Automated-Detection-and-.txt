@@ -1,0 +1,3 @@
+Magnetic resonance imaging (MRI) is the method of choice for imaging meningiomas. Volumetric assessment of meningiomas is highly relevant for therapy planning and monitoring. We used a multiparametric deep-learning model (DLM) on routine MRI data including images from diverse referring institutions to investigate DLM performance in automated detection and segmentation of meningiomas in comparison to manual segmentations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29943184

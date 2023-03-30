@@ -1,0 +1,3 @@
+To forecast survival and enhance treatment decisions for patients with colorectal cancer liver metastases (mCRC) by using on-treatment radiomics signature to predict tumor sensitiveness to FOLFIRI±cetuximab.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32016387

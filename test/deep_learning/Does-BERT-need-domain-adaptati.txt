@@ -1,0 +1,3 @@
+Classifying whether concepts in an unstructured clinical text are negated is an important unsolved task. New domain adaptation and transfer learning methods can potentially address this issue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32044989

@@ -1,0 +1,3 @@
+Similar-sized stroke lesions at similar locations can have different prognoses in clinical practice. Lesion-network mapping elucidates network-level effects of lesions that cause specific neurologic symptoms and signs, and also provides a group-level understanding. This study visualized the effects of stroke lesions on the functional brain networks of individual patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31942767

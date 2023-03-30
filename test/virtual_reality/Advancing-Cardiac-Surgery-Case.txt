@@ -1,0 +1,3 @@
+Care providers and surgeons prepare for cardiac surgery using case conferences to review, discuss, and run through the surgical procedure. Surgeons visualize a patient's anatomy to decide the right surgical approach using magnetic resonance imaging and echocardiograms in a presurgical case planning session. Previous studies have shown that surgical errors can be reduced through the effective use of immersive virtual reality (VR) to visualize patient anatomy. However, inconsistent user interfaces, delegation of view control, and insufficient depth information cause user disorientation and interaction difficulties in using VR apps for case planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30664469

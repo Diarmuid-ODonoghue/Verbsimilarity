@@ -1,0 +1,3 @@
+Intracortical microstimulation has shown promise as a means of evoking somatosensory percepts as part of a bidirectional brain-computer interface (BCI). However, microstimulation generates large electrical artifacts that dominate the recordings necessary for BCI control. These artifacts must be eliminated from the signal in real-time to allow for uninterrupted BCI decoding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30444217

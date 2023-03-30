@@ -1,0 +1,3 @@
+PRéCIS:: The novel proposed algorithm using deep learning classifier and polar transformation technique can be an economical as well as an effective tool for early detection of glaucomatous RNFL defect.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30676415

@@ -1,0 +1,3 @@
+How is the picture of the visual scene that the eye encodes represented by neural circuits in the brain? In this issue of Cell, Morgan et al. address this question by forming an ultrastructural "connectome" of the mouse's visual thalamus that depicts individual retinal afferents and every contact these form with target relay cells.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27015304

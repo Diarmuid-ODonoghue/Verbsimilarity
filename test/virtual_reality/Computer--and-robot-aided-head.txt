@@ -1,0 +1,3 @@
+In this paper new methods and devices for computer and robot based head surgery are presented. A computer based planning system for CMF-surgery allows the surgeon to plan complex trajectories on the head of the patient for operations where bone segments were cut out and shifted. Different registration methods have been developed and tested. A surgical robot system for bone cutting on the head has been developed and evaluated at the patient in the operating theatre. In future, laser cutting of bones with a robot will be seen as a new powerful method for robot based surgery. A 3D augmented reality system will assist the surgeon in the future by augmenting virtual anatomical structure into the situs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17009701

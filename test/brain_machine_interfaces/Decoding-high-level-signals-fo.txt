@@ -1,0 +1,3 @@
+While many brain machine interface (BMI) systems have been presented in the literature, most of these systems present the user with an always on interface with no way to shut the interface down when not needed. This paper proposes two extensions of previous BMI work to create an asynchronous BMI in which the system only produces outputs when needed. The first classifies incoming signals into not only task related states, but also an idle state. A refinement of this system utilizes a Markov Model (MM) of the task to impose order on the sequence of states produced by the system. This MM filter improves the accuracy of the system an average of 16%.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17959455

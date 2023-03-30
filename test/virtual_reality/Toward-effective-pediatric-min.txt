@@ -1,0 +1,3 @@
+Simulation is increasingly being recognized as an important tool in the training and evaluation of surgeons. Currently, there is no simulator that is specific to pediatric minimally invasive surgery (MIS). A fundamental technical difference between adult and pediatric MIS is the degree of motion scaling. Smaller instruments and areas of dissection under greater optical magnification require finer, more precise hand movements. We hypothesized that this can be used to detect differences in skills proficiency between pediatric and general surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21238655

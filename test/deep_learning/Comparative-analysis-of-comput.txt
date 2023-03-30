@@ -1,0 +1,3 @@
+Considerable number of indoor navigation systems has been proposed to augment people with visual impairments (VI) about their surroundings. These systems leverage several technologies, such as computer-vision, Bluetooth low energy (BLE), and other techniques to estimate the position of a user in indoor areas. Computer-vision based systems use several techniques including matching pictures, classifying captured images, recognizing visual objects or visual markers. BLE based system utilizes BLE beacons attached in the indoor areas as the source of the radio frequency signal to localize the position of the user.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31829212

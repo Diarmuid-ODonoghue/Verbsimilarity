@@ -1,0 +1,3 @@
+Technical devices are becoming more prevalent in society and also in medical care. Older adults need more support to learn new technologies than younger subjects. So far, no research has been done on the usability of patient controllers in deep brain stimulation in an elderly population. The aim of the study was to investigate the factors influencing the performance of elderly DBS patients with respect to usability aspects of Medtronic Access therapy controllers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22330892

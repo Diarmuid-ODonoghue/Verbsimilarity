@@ -1,0 +1,3 @@
+This work deals with Natural Language Processing applied to the clinical domain. Specifically, the work deals with a Medical Entity Recognition (MER) on Electronic Health Records (EHRs). Developing a MER system entailed heavy data preprocessing and feature engineering until Deep Neural Networks (DNNs) emerged. However, the quality of the word representations in terms of embedded layers is still an important issue for the inference of the DNNs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31445243

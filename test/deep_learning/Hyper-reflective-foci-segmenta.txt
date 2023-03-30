@@ -1,0 +1,3 @@
+The purpose of this study was to automatically and accurately segment hyper-reflective foci (HRF) in spectral domain optical coherence tomography (SD-OCT) images with diabetic retinopathy (DR) using deep convolutional neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31315159

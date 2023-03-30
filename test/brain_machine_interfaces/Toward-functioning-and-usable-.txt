@@ -1,0 +1,3 @@
+The aim of this paper is to provide an exhaustive review of the literature about brain-computer interfaces (BCIs) that could be used with these paralysed patients. The electroencephalography (EEG) is the best candidate for the continuous use in the environment of patients' houses, due to its portability and ease of use. For this reason, the present paper will focus on this kind of BCI. Moreover, it is our aim to focus more on the patients, regarding their active role in the modulation of the brain activity. This leads to a differentiation between studies that use an active regulation and studies that use a non-active regulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21967470

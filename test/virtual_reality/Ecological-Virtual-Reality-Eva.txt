@@ -1,0 +1,3 @@
+Unilateral spatial neglect (USN) is a highly prevalent and disabling poststroke impairment. USN is traditionally assessed with paper-and-pencil tests that lack ecological validity, generalization to real-life situations and are easily compensated for in chronic stages. Virtual reality (VR) can, however, counteract these limitations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29357742

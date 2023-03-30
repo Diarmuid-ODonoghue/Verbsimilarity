@@ -1,0 +1,3 @@
+In healthcare, applying deep learning models to electronic health records (EHRs) has drawn considerable attention. This sequential nature of EHR data make them wellmatched for the power of Recurrent Neural Network (RNN). In this poster, we propose "Deep Diabetologist" - using RNNs for EHR sequential data modeling to provide personalized hypoglycemic medication prediction for diabetic patients. Our results demonstrate improved performance compared with a baseline classifier using logistic regression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29295362

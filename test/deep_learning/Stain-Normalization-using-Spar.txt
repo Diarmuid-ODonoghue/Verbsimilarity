@@ -1,0 +1,3 @@
+Digital histopathology slides have many sources of variance, and while pathologists typically do not struggle with them, computer aided diagnostic algorithms can perform erratically. This manuscript presents Stain Normalization using Sparse AutoEncoders (StaNoSA) for use in standardizing the color distributions of a test image to that of a single template image. We show how sparse autoencoders can be leveraged to partition images into tissue sub-types, so that color standardization for each can be performed independently. StaNoSA was validated on three experiments and compared against five other color standardization approaches and shown to have either comparable or superior results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27373749

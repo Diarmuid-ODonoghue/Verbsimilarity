@@ -1,0 +1,3 @@
+Multiple computational studies have demonstrated that essentially all current analytical approaches to determine effective connectivity perform poorly when applied to synthetic functional Magnetic Resonance Imaging (fMRI) datasets. In this study, we take a theoretical approach to investigate the potential factors facilitating and hindering effective connectivity research in fMRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28828228

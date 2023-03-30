@@ -1,0 +1,3 @@
+Rehabilitation robotics is an emerging research field that aims to employ leading-edge robotic technology and virtual reality systems in the rehabilitation treatment of neuro-logical patients. In post-stroke patients with upper limb impairment, clinical trials have so far shown positive results in terms of motor recovery, but poor efficacy in terms of functional outcome. Much work is needed to develop a new generation of rehabilitation robots and clinical protocols that will be more effective in helping patients to regain their abilities in activities of daily living. This paper presents some key issues in the future perspective of upper limb robotic rehabilitation after stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19841828

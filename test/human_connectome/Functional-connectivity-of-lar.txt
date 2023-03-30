@@ -1,0 +1,3 @@
+In anti-NMDA receptor (NMDAR) encephalitis, antibody-mediated dysfunction of NMDARs causes severe neuropsychiatric symptoms, including psychosis, memory deficits, and movement disorders. However, it remains elusive how antibody-mediated NMDAR dysfunction leads to these symptoms, and whether the symptoms arise from impairment in specific brain regions and the interactions between impaired regions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28882707

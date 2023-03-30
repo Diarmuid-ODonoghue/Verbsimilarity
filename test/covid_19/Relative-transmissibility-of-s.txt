@@ -1,0 +1,3 @@
+Developing countries exhibit a high disease burden from shigellosis. Owing to the different incidences in males and females, this study aims to analyze the features involved in the transmission of shigellosis among male (subscript m) and female (subscript f) individuals using a newly developed sex-based model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32299485

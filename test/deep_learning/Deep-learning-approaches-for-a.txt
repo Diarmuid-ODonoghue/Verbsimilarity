@@ -1,0 +1,3 @@
+This study demonstrates deep learning approaches with an aim to find the optimal method to automatically detect sleep apnea (SA) events from an electrocardiogram (ECG) signal.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31421606

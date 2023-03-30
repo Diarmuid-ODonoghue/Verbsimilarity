@@ -1,0 +1,3 @@
+Recent reports indicate that making better assumptions about the user's intended movement can improve the accuracy of decoder calibration for intracortical brain-computer interfaces. Several methods now exist for estimating user intent, including an optimal feedback control model, a piecewise-linear feedback control model, ReFIT, and other heuristics. Which of these methods yields the best decoding performance?
+
+https://www.ncbi.nlm.nih.gov/pubmed/29989927

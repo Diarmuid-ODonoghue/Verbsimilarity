@@ -1,0 +1,3 @@
+People with disabilities may control devices such as a computer or a wheelchair by means of a brain-computer interface (BCI). BCI based on steady-state visual evoked potentials (SSVEP) requires visual stimulation of the user. However, this SSVEP-based BCI suffers from the 'Midas touch effect', i.e., the BCI can detect an SSVEP even when the user is not gazing at the stimulus. Then, these incorrect detections deteriorate the performance of the system, especially in asynchronous BCI because ongoing EEG is classified. In this paper, a novel transitory response of the attention-level of the user is reported. It was used to develop a hybrid BCI (hBCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26268353

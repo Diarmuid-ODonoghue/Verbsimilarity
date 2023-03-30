@@ -1,0 +1,3 @@
+Computer-based neuropsychological (NP) evaluation is an effective clinical tool used to assess cognitive function which complements the clinical diagnosis of a concussion. However, some researchers and clinicians argue its lack of ecological validity places limitations on externalizing results to a sensory rich athletic environment. Virtual reality-based NP assessment offers clinical advantages using an immersive environment and evaluating domains not typically assessed by traditional NP assessments. The sensitivity and specificity of detecting lingering cognitive abnormalities was examined on components of a virtual reality-based NP assessment battery to cohort affiliation (concussed vs. controls).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27045961

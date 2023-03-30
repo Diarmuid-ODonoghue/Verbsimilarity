@@ -1,0 +1,3 @@
+Keeping one's balance is a complex motor task which requires the integration and processing of different sensory information. For this, higher cortical processes are essential. However, in the past research dedicated to the brain's involvement in balance control has predominantly used virtual reality paradigms whilst little is known about cortical activation during the challenging balancing on unstable surfaces (e.g. balance board). Hence, the main goal of this study was the simultaneous evaluation of cortical activation patterns and sway parameters during balancing on a balance board.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27846398

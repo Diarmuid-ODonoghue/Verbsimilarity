@@ -1,0 +1,3 @@
+We used native sensorimotor representations of fingers in a brain-machine interface (BMI) to achieve immediate online control of individual prosthetic fingers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26863276

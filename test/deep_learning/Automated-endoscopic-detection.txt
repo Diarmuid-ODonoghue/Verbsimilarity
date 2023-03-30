@@ -1,0 +1,3 @@
+Recently the American Society for Gastrointestinal Endoscopy addressed the 'resect and discard' strategy, determining that accurate in vivo differentiation of colorectal polyps (CP) is necessary. Previous studies have suggested a promising application of artificial intelligence (AI), using deep learning in object recognition. Therefore, we aimed to construct an AI system that can accurately detect and classify CP using stored still images during colonoscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32231710

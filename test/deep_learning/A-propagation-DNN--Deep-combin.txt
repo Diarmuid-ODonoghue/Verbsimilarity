@@ -1,0 +1,3 @@
+Prostate segmentation on Magnetic Resonance (MR) imaging is problematic because disease changes the shape and boundaries of the gland and it can be difficult to separate the prostate from surrounding tissues. We propose an automated model that extracts and combines multi-level features in a deep neural network to segment prostate on MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30712600

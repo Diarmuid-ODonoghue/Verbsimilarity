@@ -1,0 +1,3 @@
+Drug safety remains a top global public health concern. An increase in the number of data sources available has increased the complexity of pharmacovigilance operations, so the US FDA has created draft guidance focusing on optimizing drug safety data for well-characterized medicines. However, to date, no data demonstrating changes in reports have been presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31933240

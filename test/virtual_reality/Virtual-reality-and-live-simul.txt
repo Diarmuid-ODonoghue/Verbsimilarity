@@ -1,0 +1,3 @@
+This study tested the hypothesis that virtual reality simulation is equivalent to live simulation for testing naive medical students' abilities to perform mass casualty triage using the Simple Triage and Rapid Treatment (START) algorithm in a simulated disaster scenario and to detect the improvement in these skills after a teaching session.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24841770

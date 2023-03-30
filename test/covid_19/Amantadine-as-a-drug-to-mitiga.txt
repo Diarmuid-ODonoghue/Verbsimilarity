@@ -1,0 +1,3 @@
+The SARS-CoV-2 virus has spread around the world. At this time, there is no vaccine that can help people prevent the spread of coronavirus. We are proposing amantadine as a drug that can be used to mitigate the effects of the virus. It is demonstrated by docking models how amantadine can exert its action on Coronavirus viroporin E.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32361100

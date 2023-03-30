@@ -1,0 +1,3 @@
+This study establishes the effectiveness of event related synchronisation (ERS) features for a system paced brain computer interface (BCI). In particular, the relationship between the duration of motor imagery (MI) and the quality of the features extracted from the ERS is investigated. To this end, two groups of users performed brief (2s) or sustained (4s) MI, and offline single trial BCIs were validated on each group based on features extracted from the EEG before, during and after MI. The BCIs were designed to recognise two intentional control tasks and a no-control state. Cross-validated results indicate that brief MI leads to more informative ERS features than sustained MI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366538

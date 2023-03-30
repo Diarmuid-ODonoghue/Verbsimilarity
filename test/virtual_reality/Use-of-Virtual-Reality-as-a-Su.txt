@@ -1,0 +1,3 @@
+Virtual reality (VR), a computer-generated simulation of a 3-dimensional environment, is a relatively new method of providing distraction before and during procedures. We describe the use of a VR multiuser application, Oculus Rooms, to calm an anxious 10-year-old boy during transportation to the operating room and induction of anesthesia. The use of VR could lessen the perioperative anxiety of children by maintaining a virtual child-parent connection while avoiding the potential drawbacks to having parents actually in the operating room before and during induction of anesthesia. The success of this novel technique has important implications for future clinical trials and practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31703005

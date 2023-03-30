@@ -1,0 +1,3 @@
+Segmentation of magnetic resonance images (MRI) of the left ventricle (LV) plays a key role in quantifying the volumetric functions of the heart, such as the area, volume, and ejection fraction. Traditionally, LV segmentation is performed manually by experienced experts, which is both time-consuming and prone to subjective bias. This study aims to develop a novel capsule-based automated segmentation method to automatically segment the LV from images obtained by cardiac MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32176675

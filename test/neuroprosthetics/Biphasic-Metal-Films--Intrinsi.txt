@@ -1,0 +1,3 @@
+On page 4507, S. P. Lacour and co-workers present highly conductive and stretchable solid-liquid films that are formed by physical vapor deposition of gallium onto an alloying gold layer. The image shows patterns defined by lift-off on an elastomer membrane. The magnified view is a false-color scanning electron microscopy (SEM) image (×5000) of the surface of the films under 50% applied strain, showing the liquid Ga (blue-gray) flowing between the AuGa2 /Ga clusters (gold).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27273441

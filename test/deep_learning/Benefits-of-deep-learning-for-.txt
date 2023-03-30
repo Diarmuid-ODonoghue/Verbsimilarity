@@ -1,0 +1,3 @@
+Precise delineation of organs at risk (OARs) in head and neck cancer (HNC) is necessary for accurate radiotherapy. Although guidelines exist, significant interobserver variability (IOV) remains. The aim was to validate a 3D convolutional neural network (CNN) for semi-automated delineation of OARs with respect to delineation accuracy, efficiency and consistency compared to manual delineation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31146073

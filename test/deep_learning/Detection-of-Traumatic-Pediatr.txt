@@ -1,0 +1,3 @@
+The purpose of this study is to determine whether a deep convolutional neural network (DCNN) trained on a dataset of limited size can accurately diagnose traumatic pediatric elbow effusion on lateral radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30300006

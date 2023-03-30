@@ -1,0 +1,3 @@
+Patient survival in high-grade glioma remains poor, despite the recent developments in cancer treatment. As new chemo-, targeted molecular, and immune therapies emerge and show promising results in clinical trials, image-based methods for early prediction of treatment response are needed. Deep learning models that incorporate radiomics features promise to extract information from brain MR imaging that correlates with response and prognosis. We report initial production of a combined deep learning and radiomics model to predict overall survival in a clinically heterogeneous cohort of patients with high-grade gliomas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31857325

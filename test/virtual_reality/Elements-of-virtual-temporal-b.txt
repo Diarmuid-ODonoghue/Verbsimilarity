@@ -1,0 +1,3 @@
+Temporal bone simulations are critiqued for poor drill-bone interaction. This project appraises the import of increasing haptic device and manipulandum fidelity on the perceived realism of drilling a virtual temporal bone.Virtual surgical contact forces rely on haptic device fidelity and are transmitted through a manipulandum. With identical software, both device hardware and manipulandum may each contribute to realism. We compare the three degrees of freedom (DOF), 3N Geomagic Touch (3D Systems, SC) to a 6DOF, 5.5N HD2 (Quanser, ON) with the both standard ("HD2-Standard") and in-house customized otic drill manipulandum ("HD2-Modified").
+
+https://www.ncbi.nlm.nih.gov/pubmed/29299508

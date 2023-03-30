@@ -1,0 +1,3 @@
+The classification of benign versus malignant breast lesions on multi-sequence Magnetic Resonance Imaging (MRI) is a challenging task since breast lesions are heterogeneous and complex. Recently, deep learning methods have been used for breast lesion diagnosis with raw image input. However, without the guidance of domain knowledge, these data-driven methods cannot ensure that the features extracted from images are comprehensive for breast cancer diagnosis. Specifically, these features are difficult to relate to clinically relevant phenomena.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32173583

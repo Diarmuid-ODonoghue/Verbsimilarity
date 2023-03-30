@@ -1,0 +1,3 @@
+To improve patient safety, training of psychomotor laparoscopic skills is often done on virtual reality (VR) simulators outside the operating room. Haptic sensations have been found to influence psychomotor performance in laparoscopy. The emulation of haptic feedback is thus an important aspect of VR simulation. Some VR simulators try to simulate these sensations with handles equipped with haptic feedback. We conducted a survey on how laparoscopic surgeons perceive handles with and without haptic feedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23355154

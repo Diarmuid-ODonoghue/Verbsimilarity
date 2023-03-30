@@ -1,0 +1,3 @@
+Vascular localization is crucial for perforator flap transfer. Augmented reality offers a novel method to seamlessly combine real information with virtual objects created by computed tomographic angiography to help the surgeon "see through" the skin and precisely localize the perforator. The head-mounted display augmented reality system HoloLens (Microsoft) could facilitate augmented reality-based perforator localization for a more convenient and safe procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32301738

@@ -1,0 +1,3 @@
+Multimodal medical image fusion is a method of integrating information from multiple image formats. Its aim is to provide useful and accurate information for doctors. Multi-channel pulse coupled neural network (m-PCNN) is a recently proposed fusion model. Compared with previous methods, this network can effectively manage various types of medical images. However, it has two drawbacks: lack of control to feed function and low-level automation. The improved multi-channel PCNN proposed in this paper can adjust the impact of feed function by linking strength and adaptively compute the weighting coefficients for each pixel. Experimental results demonstrated the effectiveness of the improved m-PCNN fusion model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24211901

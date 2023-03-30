@@ -1,0 +1,3 @@
+This work presents a first motor imagery-based, adaptive brain-computer interface (BCI) speller, which is able to exploit application-derived context for improved, simultaneous classifier adaptation and spelling. Online spelling experiments with ten able-bodied users evaluate the ability of our scheme, first, to alleviate non-stationarity of brain signals for restoring the subject's performances, second, to guide naive users into BCI control avoiding initial offline BCI calibration and, third, to outperform regular unsupervised adaptation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27152498

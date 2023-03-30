@@ -1,0 +1,3 @@
+The aim of this study was to develop machine learning (ML) and initial nursing assessment (INA)-based emergency department (ED) triage to predict adverse clinical outcome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32082696

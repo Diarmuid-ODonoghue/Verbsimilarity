@@ -1,0 +1,3 @@
+The Centers for Disease Control and Prevention (CDC) coordinates a labor-intensive process to measure the prevalence of autism spectrum disorder (ASD) among children in the United States. Random forests methods have shown promise in speeding up this process, but they lag behind human classification accuracy by about 5%. We explore whether more recently available document classification algorithms can close this gap.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31553774

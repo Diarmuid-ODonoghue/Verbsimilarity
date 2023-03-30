@@ -1,0 +1,3 @@
+The medical subdomain of a clinical note, such as cardiology or neurology, is useful content-derived metadata for developing machine learning downstream applications. To classify the medical subdomain of a note accurately, we have constructed a machine learning-based natural language processing (NLP) pipeline and developed medical subdomain classifiers based on the content of the note.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29191207

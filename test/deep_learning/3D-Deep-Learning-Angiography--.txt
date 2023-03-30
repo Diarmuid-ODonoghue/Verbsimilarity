@@ -1,0 +1,3 @@
+Deep learning is a branch of artificial intelligence that has demonstrated unprecedented performance in many medical imaging applications. Our purpose was to develop a deep learning angiography method to generate 3D cerebral angiograms from a single contrast-enhanced C-arm conebeam CT acquisition in order to reduce image artifacts and radiation dose.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29567655

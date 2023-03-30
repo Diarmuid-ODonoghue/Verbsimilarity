@@ -1,0 +1,3 @@
+Medical education, training and preoperative diagnostics can be drastically improved with advanced technologies, such as virtual reality. The method proposed in this paper enables medical doctors and students to visualize and manipulate three-dimensional models created from CT or MRI scans, and also to analyze the results of fluid flow simulations. Simulation of fluid flow using the finite element method is performed, in order to compute the shear stress on the artery walls. The simulation of motion through the artery is also enabled. The virtual reality system proposed here could shorten the length of training programs and make the education process more effective.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24290920

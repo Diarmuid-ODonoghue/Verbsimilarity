@@ -1,0 +1,3 @@
+Concurrent scalp electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS), which we refer to as EEG+fNIRS, promises greater accuracy than the individual modalities while remaining nearly as convenient as EEG. We sought to quantify the hybrid system's ability to decode mental states and compare it with its unimodal components.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28730995

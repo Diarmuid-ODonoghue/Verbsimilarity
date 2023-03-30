@@ -1,0 +1,3 @@
+A general problem of machine-learning algorithms based on the convolutional neural network (CNN) technique is that the reason for the output judgement is unclear. The purpose of this study was to introduce a strategy that may facilitate better understanding of how and why a specific judgement was made by the algorithm. The strategy is to preprocess the input image data in different ways to highlight the most important aspects of the images for reaching the output judgement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31080211

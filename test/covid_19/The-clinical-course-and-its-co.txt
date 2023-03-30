@@ -1,0 +1,3 @@
+To explore the clinical course and its dynamic features of immune status in COVID-19 patients and find predictors correlated with severity and prognosis of COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32344320

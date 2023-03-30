@@ -1,0 +1,3 @@
+We are designing an implantable neuroprosthesis for the treatment of unilateral facial paralysis. The envisioned biomimetic device paces artificial blinks in the paretic eyelid when activity in the healthy orbicularis oculi (orbicularis) muscle is detected. The present article focuses on electromyography (EMG)-based eyeblink detection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23197674

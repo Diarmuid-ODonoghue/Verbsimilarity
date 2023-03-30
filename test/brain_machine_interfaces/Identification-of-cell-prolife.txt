@@ -1,0 +1,3 @@
+Multi-gene prognostic signatures derived from primary tumor biopsies can guide clinicians in designing an appropriate course of treatment. Identifying genes and pathways most essential to a signature performance may facilitate clinical application, provide insights into cancer progression, and uncover potentially new therapeutic targets. We previously developed a 17-gene prognostic signature (HTICS) for HER2+:ERα- breast cancer patients, using genes that are differentially expressed in tumor initiating cells (TICs) versus non-TICs from MMTV-Her2/neu mammary tumors. Here we probed the pathways and genes that underlie the prognostic power of HTICS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28632792

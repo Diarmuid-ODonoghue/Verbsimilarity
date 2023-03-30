@@ -1,0 +1,3 @@
+Magnetoencephalography (MEG) and Electroencephalography (EEG) are noninvasive techniques to study the electrophysiological activity of the human brain. Thus, they are well suited for real-time monitoring and analysis of neuronal activity. Real-time MEG/EEG data processing allows adjustment of the stimuli to the subject's responses for optimizing the acquired information especially by providing dynamically changing displays to enable neurofeedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29621570

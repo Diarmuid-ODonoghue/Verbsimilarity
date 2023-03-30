@@ -1,0 +1,3 @@
+Circular RNAs (circRNAs) are a new class of endogenous RNAs in animals and plants. During pre-RNA splicing, the 5' and 3' termini of exon(s) can be covalently ligated to form circRNAs through back-splicing (head-to-tail splicing). CircRNAs can be conserved across species, show tissue- and developmental stage-specific expression patterns, and may be associated with human disease. However, the mechanism of circRNA formation is still unclear although some sequence features have been shown to affect back-splicing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31077303

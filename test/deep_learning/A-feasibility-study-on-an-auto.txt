@@ -1,0 +1,3 @@
+To develop a method for predicting optimal dose distributions, given the planning image and segmented anatomy, by applying deep learning techniques to a database of previously optimized and approved Intensity-modulated radiation therapy treatment plans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30367492

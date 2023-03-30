@@ -1,0 +1,3 @@
+Understanding neural activity patterns in the developing brain remains one of the grand challenges in neuroscience. Developing neural networks are likely to be endowed with functionally important variability associated with the environmental context, age, gender, and other variables. Therefore, we conducted experiments with typically developing children in a stimulating museum setting and tested the feasibility of using deep learning techniques to help identify patterns of brain activity associated with different conditions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30974426

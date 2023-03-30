@@ -1,0 +1,3 @@
+The key to modern drug discovery is to find, identify and prepare drug molecular targets. However, due to the influence of throughput, precision and cost, traditional experimental methods are difficult to be widely used to infer these potential Drug-Target Interactions (DTIs). Therefore, it is urgent to develop effective computational methods to validate the interaction between drugs and target.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32183788

@@ -1,0 +1,3 @@
+Detecting early gastric cancer is difficult, and it may even be overlooked by experienced endoscopists. Recently, artificial intelligence based on deep learning through convolutional neural networks (CNNs) has enabled significant advancements in the field of gastroenterology. However, it remains unclear whether a CNN can outperform endoscopists. In this study, we evaluated whether the performance of a CNN in detecting early gastric cancer is better than that of endoscopists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32282110

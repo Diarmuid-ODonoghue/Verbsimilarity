@@ -1,0 +1,3 @@
+Our objective is to develop and test a system for diagnosis and rehabilitation of patients with hemispatial neglect. The system consists of a 3D-haptic virtual world seen through stereo shutter-glasses. Patients interact by manipulating a haptic interface. The software adapts the virtual world accordingly to haptic interface and eye tracking feedback. Offline analysis is possible by reviewing recorded data. Observations made during experimentations with hemiplegics patients and future works with hemispatial neglect patients are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17271413

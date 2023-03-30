@@ -1,0 +1,3 @@
+We propose a new algorithm for estimating neural connectivity during event related potentials (ERP) in EEG. It is composed of two steps: the estimation of a time-varying multivariate-autoregressive (MVAR) model and the calculation of the generalized partial directed coherence (gPDC) for assessing the connectivities between channels where MVAR estimation is done via an adapted version of the Nuttall-Strand algorithm, a multivariate generalization of Burg's spectral estimation algorithm. Successful algorithm validation was performed through simulations using toys model with physiologically ERP inspired features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26737118

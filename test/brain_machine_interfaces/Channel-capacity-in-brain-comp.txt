@@ -1,0 +1,3 @@
+Adapted from the concept of channel capacity, the information transfer rate (ITR) has been widely used to evaluate the performance of a brain-computer interface (BCI). However, its traditional formula considers the model of a discrete memoryless channel in which the transition matrix presents very particular symmetries. As an alternative to compute the ITR, this work indicates a more general closed-form expression-also based on that channel model, but with less restrictive assumptions-and, with the aid of a selection heuristic based on a wrapper algorithm, extends such formula to detect classes that deteriorate the operation of a BCI system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31945751

@@ -1,0 +1,3 @@
+Cognitive deficit is considered to be a characteristic feature of schizophrenia disorder. A similar cognitive dysfunction was demonstrated in animal models of schizophrenia. However, the poor comparability of methods used to assess cognition in animals and humans could be responsible for low predictive validity of current animal models. In order to assess spatial abilities in schizophrenia and compare our results with the data obtained in animal models, we designed a virtual analog of the Morris water maze (MWM), the virtual Four Goals Navigation (vFGN) task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24904329

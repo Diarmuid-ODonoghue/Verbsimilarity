@@ -1,0 +1,3 @@
+The purpose of this project was to investigate the effects of Virtual Reality technology and haptics for stroke rehabilitation. Twenty-nine stroke subjects, 17 women, and 12 men aged 44-85 years, participated in three different studies. All participants responded favorable to the use of the VR activity station. A change of attitude took place after the subjects were exposed to playing computer games. The general experience with the VR application approach suggests that this treatment concept is promising in stroke rehabilitation, with a wide range of applicability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18487711

@@ -1,0 +1,3 @@
+Identification of morphological characteristics of skin lesions is of vital importance in diagnosing diseases with dermatological manifestations. This task is often performed manually or in an automated way based on intensity level. Recently, ultra-broadband raster-scan optoacoustic mesoscopy (UWB-RSOM) was developed to offer unique cross-sectional optical imaging of the skin. A machine learning (ML) approach is proposed here to enable, for the first time, automated identification of skin layers in UWB-RSOM data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31315162

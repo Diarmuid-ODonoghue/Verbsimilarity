@@ -1,0 +1,3 @@
+Much of what we assume about the effects of short sleep duration on neural reward processing derives from total sleep deprivation studies. Although total sleep deprivation appears rare, habitual short sleep is common: 30% of working U.S. adults report habitually sleeping ≤ 6 hours/night. It remains largely unknown whether habitual short sleepers exhibit similar reward processing brain activation patterns to those observed following total sleep deprivation in prior studies. Therefore, our aim was to test objectively reward processing brain activation patterns associated with self-reported habitual short sleep duration in a large sample.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31152181

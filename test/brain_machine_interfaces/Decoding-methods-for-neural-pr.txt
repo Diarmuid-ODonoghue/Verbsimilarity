@@ -1,0 +1,3 @@
+This article reviews advances in decoding methods for brain-machine interfaces (BMIs). Recent work has focused on practical considerations for future clinical deployment of prosthetics. This review is organized by open questions in the field such as what variables to decode, how to design neural tuning models, which neurons to select, how to design models of desired actions, how to learn decoder parameters during prosthetic operation, and how to adapt to changes in neural signals and neural tuning. The concluding discussion highlights the need to design and test decoders within the context of their expected use and the need to answer the question of how much control accuracy is good enough for a prosthetic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25076875

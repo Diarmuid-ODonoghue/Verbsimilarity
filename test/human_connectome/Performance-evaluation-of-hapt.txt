@@ -1,0 +1,3 @@
+This paper presents the experimental evaluation of three commercially available haptic hand-controllers to evaluate which was more suitable to the participants.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25624185

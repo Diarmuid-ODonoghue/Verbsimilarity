@@ -1,0 +1,3 @@
+Simulation of diverse lesions in images is proposed and applied to overcome the scarcity of labeled data, which has hindered the application of deep learning in medical imaging. However, most of current studies focus on generating samples with class labels for classification and detection rather than segmentation, because generating images with precise masks remains a challenge. Therefore, we aim to generate realistic medical images with precise masks for improving lesion segmentation in mammagrams.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31421601

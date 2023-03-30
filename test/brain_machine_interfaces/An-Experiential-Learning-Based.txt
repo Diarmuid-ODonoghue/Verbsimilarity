@@ -1,0 +1,3 @@
+This study explores brain-computer interfacing, its possible use in serious or educational games and frameworks. Providing real-time feedback regarding cognitive states and behaviours can be a powerful tool for mental health education and games can offer unique and engaging environments for these neurofeedback experiences. We explore how EEG neurofeedback systems can be affordably created for further research and experimentation and suggest design choices that may assist in developing effective experiences of this nature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31338780

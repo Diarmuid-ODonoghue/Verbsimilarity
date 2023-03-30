@@ -1,0 +1,3 @@
+The recognition of emotional states is a crucial step in the development of a brain-computer interface (BCI) system. Emotion recognition system finds applications in medical science for the impaired and disabled people. Electroencephalography assesses the neurophysiology of the brain for recognition of different emotional states.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31046991

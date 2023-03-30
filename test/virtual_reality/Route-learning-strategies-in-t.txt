@@ -1,0 +1,3 @@
+Successful navigation is crucial to everyday life. Individuals with Williams syndrome (WS) have impaired spatial abilities. This includes a deficit in spatial navigation abilities such as learning the route from A to B. To-date, to determine whether participants attend to landmarks when learning a route, landmark recall tasks have been employed after the route learning experience. Here, we combined virtual reality and eye tracking technologies, for the first time, to measure landmark use in typically developing (TD) children and participants with WS during route-learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27634746

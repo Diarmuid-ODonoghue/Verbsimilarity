@@ -1,0 +1,3 @@
+Deep learning is a ground-breaking technology that is revolutionising many research and industrial fields. Generative models are recently gaining interest. Here, we investigate their potential, namely conditional generative adversarial networks, in the field of magnetic resonance imaging (MRI) of the spine, by performing clinically relevant benchmark cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30377873

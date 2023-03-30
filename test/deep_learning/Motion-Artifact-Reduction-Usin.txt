@@ -1,0 +1,3 @@
+To improve the quality of images obtained via dynamic contrast enhanced MRI (DCE-MRI), which contain motion artifacts and blurring using a deep learning approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31061259

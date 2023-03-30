@@ -1,0 +1,3 @@
+Natural orifice translumenal endoscopic surgery (NOTES) procedures are rapidly being developed in diverse surgical fields. We are developing a Virtual Translumenal Endoscopic Surgery Trainer (VTEST™) built on a modularized platform that facilitates rapid development of virtual reality (VR) NOTES simulators. Both the hardware interface and software components consist of independent reusable and customizable modules. The developed modules are integrated to build a VR-NOTES simulator for training in the hybrid transvaginal NOTES cholecystectomy. The simulator was demonstrated and evaluated by expert NOTES surgeons at the 2015 Natural Orifice Surgery Consortium for Assessment and Research (NOSCAR) summit.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27046543

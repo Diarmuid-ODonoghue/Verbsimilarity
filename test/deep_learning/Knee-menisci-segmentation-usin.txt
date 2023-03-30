@@ -1,0 +1,3 @@
+To present a novel method for automated segmentation of knee menisci from MRIs. To evaluate quantitative meniscal biomarkers for osteoarthritis (OA) estimated thereof.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29526784

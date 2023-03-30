@@ -1,0 +1,3 @@
+The prognostic value of mitotic count for invasive breast cancer is firmly established. As yet, however, limited studies have been aimed at assessing mitotic counts as a prognostic factor for triple negative breast cancers (TNBC). Here, we assessed the prognostic value of absolute mitotic counts for TNBC, using both deep learning and manual procedures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30989469

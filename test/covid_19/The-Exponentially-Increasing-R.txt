@@ -1,0 +1,3 @@
+Coronavirus, the cause of severe acute respiratory syndrome (COVID-19), is rapidly spreading around the world. Since the number of corona positive patients is increasing sharply in Iran, this study aimed to forecast the number of newly infected patients in the coming days in Iran.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32271595

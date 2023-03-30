@@ -1,0 +1,3 @@
+In recent years, dramatic changes in surgical education have increased interest in simulation-based training for complex surgical skills. This is particularly true for endoscopic third ventriculostomy (ETV), given the potential for serious intraoperative errors arising from surgical inexperience. However, prior to simulator development, a thorough assessment of training needs is essential to ensure development of educationally relevant platforms. The purpose of this study was to conduct a national needs assessment addressing specific goals of instruction, to guide development of simulation platforms, training curricula, and assessment metrics for ETV.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23216468

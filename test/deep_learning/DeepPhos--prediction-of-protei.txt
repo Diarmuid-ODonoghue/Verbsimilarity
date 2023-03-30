@@ -1,0 +1,3 @@
+Phosphorylation is the most studied post-translational modification, which is crucial for multiple biological processes. Recently, many efforts have been taken to develop computational predictors for phosphorylation site prediction, but most of them are based on feature selection and discriminative classification. Thus, it is useful to develop a novel and highly accurate predictor that can unveil intricate patterns automatically for protein phosphorylation sites.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30601936

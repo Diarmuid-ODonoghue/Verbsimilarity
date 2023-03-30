@@ -1,0 +1,3 @@
+Brain mapping research in most neuroanatomical laboratories relies on conventional processing techniques, which often introduce histological artifacts such as tissue tears and tissue loss.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29689283

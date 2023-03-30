@@ -1,0 +1,3 @@
+Deep classification networks have been one of the predominant methods for classifying heart sound recordings. To satisfy their demand for sample size, the most commonly used method for data augmentation is that which divides each heart sound instance into a number of segments, with each segment labelled as the same category as its origin and used as a new sample for training or forecasting. However, performing this poses a crucial issue as to how to determine the category of a predicted heart sound instance from its segments' prediction results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30500785

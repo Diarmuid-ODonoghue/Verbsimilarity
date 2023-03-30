@@ -1,0 +1,3 @@
+Seven membrane-selective electrodes with PVC matrix and liquid-membrane for N-butylscopolamine with different electroactive materials are presented. These electrodes have a linear response in the concentration range of 10(-6) - 10(-2) M N-butylscopolamine bromide, with a detection limit between 4.58 x 10(-7)M and 1.09 x 10(-6)M. These electrodes were used with good results for quantitative assay by direct potentiometry and potentiometric titration of N-butylscopolamine bromide from pharmaceutical formulations. Recovery was between 95.50% and 99.20% for N-butylscopolamine bromide of injectable solutions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16607814

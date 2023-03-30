@@ -1,0 +1,3 @@
+This study proposes an approach to evaluation and measuring of presence for man-machine interaction in the virtual reality based on electroencephalographic data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31978809

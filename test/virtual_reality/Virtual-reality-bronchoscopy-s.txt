@@ -1,0 +1,3 @@
+In the airline industry, training is costly and operator error must be avoided. Therefore, virtual reality (VR) is routinely used to learn manual and technical skills through simulation before pilots assume flight responsibilities. In the field of medicine, manual and technical skills must also be acquired to competently perform invasive procedures such as flexible fiberoptic bronchoscopy (FFB). Until recently, training in FFB and other endoscopic procedures has occurred on the job in real patients. We hypothesized that novice trainees using a VR skill center could rapidly acquire basic skills, and that results would compare favorably with those of senior trainees trained in the conventional manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11591579

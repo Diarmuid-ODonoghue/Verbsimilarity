@@ -1,0 +1,3 @@
+The analysis of massive microscopy datasets using deep neural networks provides an alternative to molecular labeling to characterize cellular states.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28334574

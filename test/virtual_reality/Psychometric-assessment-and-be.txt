@@ -1,0 +1,3 @@
+Virtual Reality has been extensively used in a wide range of psychological experiments. In this study, we aimed to introduce NeuroVirtual 3D, a platform that clinicians could use free of charge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26992890

@@ -1,0 +1,3 @@
+Targeting critical viral-host Protein-Protein Interactions (PPIs) has enormous application prospects for therapeutics. Using experimental methods to evaluate all possible virus-host PPIs is labor-intensive and time-consuming. Recent growth in computational identification of virus-host PPIs provides new opportunities for gaining biological insights, including applications in disease control. We provide an overview of recent computational approaches for studying virus-host PPI interactions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30156155

@@ -1,0 +1,3 @@
+The purpose of this study is to develop a deep-learning based approach to simultaneously segment five pelvic organs including prostate, bladder, rectum, left and right femoral heads on cone-beam CT (CBCT), as required elements for prostate adaptive radiotherapy planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32323330

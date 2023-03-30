@@ -1,0 +1,3 @@
+We appreciate the opportunity to respond to the comment about Sequential Organ Failure Assessment (SOFA) score by Dr. Coto, Ruben. We admit that we misquoted the original SOFA score including six items [1] in our paper. But we did not double-count the thrombopenia for sepsis-induced coagulopathy (SIC) score [2] in practice, it's an obvious repetitive item.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32302451

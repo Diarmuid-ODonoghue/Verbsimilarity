@@ -1,0 +1,3 @@
+Stroke is a leading cause of disability with many survivors having upper limb (UL) hemiparesis. UL rehabilitation using bilateral exercise enhances outcomes and the Bilateral Upper Limb Trainer (BUiLT) was developed to provide symmetrical, bilateral arm exercise in a 'forced' and self-assistive manner, incorporating virtual reality (VR) to provide direction and task specificity to users as well as action observation-execution and greater motivation to exercise.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21446826

@@ -1,0 +1,3 @@
+Genome-wide marker data are used both in phenotypic genome-wide association studies (GWAS) and genome-wide prediction (GWP). Typically, such studies include high-dimensional data with thousands to millions of single nucleotide polymorphisms (SNPs) recorded in hundreds to a few thousands individuals. Different machine-learning approaches have been used in GWAS and GWP effectively, but the use of neural networks (NN) and deep-learning is still scarce. This study presents a NN model for genomic SNP data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30577737

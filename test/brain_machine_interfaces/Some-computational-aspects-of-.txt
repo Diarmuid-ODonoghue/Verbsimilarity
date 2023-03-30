@@ -1,0 +1,3 @@
+We discuss the BCI based on inner tones and inner music. We had some success in the detection of inner tones, the imagined tones which are not sung aloud. Rather easily imagined and controlled, they offer a set of states usable for BCI, with high information capacity and high transfer rates. Imagination of sounds or musical tunes could provide a multicommand language for BCI, as if using the natural language. Moreover, this approach could be used to test musical abilities. Such BCI interface could be superior when there is a need for a broader command language. Some computational estimates and unresolved difficulties are presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19503802

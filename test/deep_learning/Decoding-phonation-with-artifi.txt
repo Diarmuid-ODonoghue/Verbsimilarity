@@ -1,0 +1,3 @@
+Acoustic analysis of voice has the potential to expedite detection and diagnosis of voice disorders. Applying an image-based, neural-network approach to analyzing the acoustic signal may be an effective means for detecting and differentially diagnosing voice disorders. The purpose of this study is to provide a proof-of-concept that embedded data within human phonation can be accurately and efficiently decoded with deep learning neural network analysis to differentiate between normal and disordered voices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31236467

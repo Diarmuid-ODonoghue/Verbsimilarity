@@ -1,0 +1,3 @@
+Computed tomography (CT) is essential for pulmonary nodule detection in diagnosing lung cancer. As deep learning algorithms have recently been regarded as a promising technique in medical fields, we attempt to integrate a well-trained deep learning algorithm to detect and classify pulmonary nodules derived from clinical CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30996009

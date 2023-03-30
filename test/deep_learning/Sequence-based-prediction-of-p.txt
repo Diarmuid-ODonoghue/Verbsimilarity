@@ -1,0 +1,3 @@
+Protein-protein interactions (PPIs) are critical for many biological processes. It is therefore important to develop accurate high-throughput methods for identifying PPI to better understand protein function, disease occurrence, and therapy design. Though various computational methods for predicting PPI have been developed, their robustness for prediction with external datasets is unknown. Deep-learning algorithms have achieved successful results in diverse areas, but their effectiveness for PPI prediction has not been tested.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28545462

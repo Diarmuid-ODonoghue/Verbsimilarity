@@ -1,0 +1,3 @@
+The role of Virtual Reality (VR) tools in molecular sciences is analyzed in this contribution through the presentation of the Caffeine software to the quantum chemistry community. Caffeine, developed at Scuola Normale Superiore, is specifically tailored for molecular representation and data visualization with VR systems, such as VR theaters and helmets. Usefulness and advantages that can be gained by exploiting VR are here reported, considering few examples specifically selected to illustrate different level of theory and molecular representation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27867214

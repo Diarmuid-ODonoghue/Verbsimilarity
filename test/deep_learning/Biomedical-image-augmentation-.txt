@@ -1,0 +1,3 @@
+Image augmentation is a frequently used technique in computer vision and has been seeing increased interest since the popularity of deep learning. Its usefulness is becoming more and more recognized due to deep neural networks requiring larger amounts of data to train, and because in certain fields, such as biomedical imaging, large amounts of labelled data are difficult to come by or expensive to produce. In biomedical imaging, features specific to this domain need to be addressed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30989173

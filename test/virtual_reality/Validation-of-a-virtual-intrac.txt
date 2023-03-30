@@ -1,0 +1,3 @@
+Intracorporeal suturing is one of the most important and difficult procedures in laparoscopic surgery. Practicing on a FLS trainer box is effective but requires large number of consumables, and the scoring is somewhat subjective and not immediate. A virtualbasic laparoscopic skill trainer (VBLaST©) was developed to simulate the five tasks of the FLS Trainer Box. The purpose of this study is to evaluate the face and content validity of the VBLaST suturing simulator (VBLaST-SS©).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30334151

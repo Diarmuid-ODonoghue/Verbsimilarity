@@ -1,0 +1,3 @@
+The incorporation of haptics, the sense of touch, into medical simulations increases their capabilities by enabling the users to "feel" the virtual environment. We are involved with haptics-augmented virtual reality training for palpatory diagnosis. We have developed a stiffness discrimination program to train and test users in finding subtle differences in human tissue stiffness for medical diagnoses. In this article, we studied the effect of surface stiffness on the stiffness discrimination task and analyzed the palpation force and speed during haptic exploration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21330810

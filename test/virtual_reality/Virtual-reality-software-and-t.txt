@@ -1,0 +1,3 @@
+This special issue contains an introductory survey on 3D user interfaces by leading VR authorities and significantly expanded versions of the four best short papers from the proceedings of the 14th ACM Symposium on Virtual Reality Software and Technology (VRST 07).
+
+https://www.ncbi.nlm.nih.gov/pubmed/19004681

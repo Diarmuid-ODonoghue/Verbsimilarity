@@ -1,0 +1,3 @@
+Prefrontal subregions, including the ventromedial prefrontal cortex (PFC), dorsomedial PFC, and dorsolateral PFC (DLPFC), are differentially implicated in the pathophysiology of posttraumatic stress disorder (PTSD), though few existing studies have examined subregional differences in resting-state functional connectivity (rsFC). We hypothesized that PTSD would involve weaker positive rsFC between ventromedial PFC, dorsomedial PFC, and other default mode network regions and increased negative rsFC between DLPFC and posterior default mode network regions. Additionally, we hypothesized that prefrontal regions exhibiting group differences in rsFC would be characterized by alterations in cortical thickness.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30449518

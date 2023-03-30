@@ -1,0 +1,3 @@
+Embodiment of a virtual body was induced and its movements were controlled by two different brain-computer interface (BCI) paradigms - one based on signals from sensorimotor versus one from visual cortical areas. BCI-control of movements engenders agency, but not equally for all paradigms. Cortical sensorimotor activation correlates with agency and responsibility. This has significant implications for neurological rehabilitation and neuroethics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31647122

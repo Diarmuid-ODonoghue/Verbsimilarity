@@ -1,0 +1,3 @@
+Despite the popular use of virtual and physical reality simulators in laparoscopic training, the educational potential of augmented reality (AR) has not received much attention. A major challenge is the robust tracking and three-dimensional (3D) pose estimation of the endoscopic instrument, which are essential for achieving interaction with the virtual world and for realistic rendering when the virtual scene is occluded by the instrument. In this paper we propose a method that addresses these issues, based solely on visual information obtained from the endoscopic camera.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23355307

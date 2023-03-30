@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMI) traditionally rely on a fixed, linear transformation from neural signals to an output state-space. In this study, the assumption that a BMI must control a fixed, orthogonal basis set was challenged and a novel active dimension selection (ADS) decoder was explored.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27171896

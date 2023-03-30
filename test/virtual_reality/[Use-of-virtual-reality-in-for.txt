@@ -1,0 +1,3 @@
+For more than 20 years virtual realities (VR) have been successfully used in the assessment and treatment of psychiatric disorders. The most important advantages of VR are the high ecological validity of virtual environments, the entire controllability of virtual stimuli in the virtual environment and the capability to induce the sensation of being in the virtual environment instead of the physical environment. VRs provide the opportunity to face the user with stimuli and situations which are not available or too risky in reality. Despite these advantages VR-based applications have not yet been applied in forensic psychiatry.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24549691

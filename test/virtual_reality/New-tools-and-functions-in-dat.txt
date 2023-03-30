@@ -1,0 +1,3 @@
+The Protein Data Bank Japan (PDBj), a member of the worldwide Protein Data Bank (wwPDB), accepts and processes the deposited data of experimentally determined biological macromolecular structures. In addition to archiving the PDB data in collaboration with the other wwPDB partners, PDBj also provides a wide range of original and unique services and tools, which are continuously improved and updated. Here, we report the new RDB PDBj Mine 2, the WebGL molecular viewer Molmil, the ProMode-Elastic server for normal mode analysis, a virtual reality system for the eF-site protein electrostatic molecular surfaces, the extensions of the Omokage search for molecular shape similarity, and the integration of PDBj and BMRB searches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28815765

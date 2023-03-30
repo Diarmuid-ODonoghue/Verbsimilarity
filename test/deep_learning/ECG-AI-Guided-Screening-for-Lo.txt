@@ -1,0 +1,3 @@
+A deep learning algorithm to detect low ejection fraction (EF) using routine 12-lead electrocardiogram (ECG) has recently been developed and validated. The algorithm was incorporated into the electronic health record (EHR) to automatically screen for low EF, encouraging clinicians to obtain a confirmatory transthoracic echocardiogram (TTE) for previously undiagnosed patients, thereby facilitating early diagnosis and treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31710842

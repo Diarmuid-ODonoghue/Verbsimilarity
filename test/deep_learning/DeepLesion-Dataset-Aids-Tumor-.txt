@@ -1,0 +1,3 @@
+Historically, researchers interested in developing automated methods to detect tumors in medical images have been hampered by the small size of the image collections available for training models using a deep-learning approach. Recently, however, NIH researchers unveiled DeepLesion, a free collection of over 30,000 annotated CT scans that scientists can use for this purpose.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30115705

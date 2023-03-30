@@ -1,0 +1,3 @@
+The unique skill set required for minimally invasive surgery has in part contributed to a certain portion of surgical residency training transitioning from the operating room to the surgical skills laboratory. Simulation lends itself well as a method to shorten the learning curve for minimally invasive surgery by allowing trainees to practice the unique motor skills required for this type of surgery in a safe, structured environment. Although a significant amount of important work has been done to validate simulators as viable systems for teaching technical skills outside the operating room, the next step is to integrate simulation training into a comprehensive curriculum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22942951

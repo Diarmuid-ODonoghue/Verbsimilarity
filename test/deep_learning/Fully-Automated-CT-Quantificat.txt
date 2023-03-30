@@ -1,0 +1,3 @@
+To evaluate the performance of deep learning for robust and fully automated quantification of epicardial adipose tissue (EAT) from multicenter cardiac CT data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32090206

@@ -1,0 +1,3 @@
+This article contains a directed overview of the field of neuroengineering and neuroprosthetics. The aim of the article is, however, not to go over introductory material covered elsewhere, but rather to look ahead at exciting areas for likely future development. The BrainGate implant is focussed on in terms of its use as an interface between the Internet and the human nervous system. Sensory prosthetics of different types and deep brain stimulation are considered. Different possibilities with deep brain stimulation are also discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32166170

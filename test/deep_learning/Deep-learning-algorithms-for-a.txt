@@ -1,0 +1,3 @@
+The aim of our study was to develop and evaluate a deep learning algorithm for the automated detection of small-bowel ulcers in Crohn's disease (CD) on capsule endoscopy (CE) images of individual patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31743689

@@ -1,0 +1,3 @@
+Despite enormous advances made in the development of external effector prosthetics over the last quarter century, significant questions remain, especially those concerning signal degradation that occurs with chronically implanted neuroelectrodes. Offering contributions from pioneering researchers in neuroprosthetics and tissue repair, Indwelling Neural Implants: Strategies for Contending with the In Vivo Environment examines many of these challenges, paying particular attention to how the healing of tissues surrounding an implant can impact the intended use of a device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21204399

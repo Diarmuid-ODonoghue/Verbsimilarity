@@ -1,0 +1,3 @@
+We reported that tinnitus patients showed reduced levels of auditory functional connectivity (FC) in comparison with normal hearing control subjects, and that we succeeded in objective diagnosis of tinnitus with 86% sensitivity and 74% specificity by focusing only on auditory-related FC. However, the age-related change of auditory FC is not clarified. In this study, we examine age-related change of the auditory FC using the database of Human Connectome Project (HCP) and compared with our database of tinnitus patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32128439

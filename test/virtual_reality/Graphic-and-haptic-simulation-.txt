@@ -1,0 +1,3 @@
+Medical simulators with vision and haptic feedback techniques offer a cost-effective and efficient alternative to the traditional medical trainings. They have been used to train doctors in many specialties of medicine, allowing tasks to be practised in a safe and repetitive manner. This paper describes a virtual-reality (VR) system which will help to influence surgeons' learning curves in the technically challenging field of laparoscopic surgery of the rectum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21563287

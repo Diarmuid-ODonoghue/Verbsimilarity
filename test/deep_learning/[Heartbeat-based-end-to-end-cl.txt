@@ -1,0 +1,3 @@
+We propose a heartbeat-based end-to-end classification of arrhythmias to improve the classification performance for supraventricular ectopic beat (SVEB) and ventricular ectopic beat (VEB).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31640959

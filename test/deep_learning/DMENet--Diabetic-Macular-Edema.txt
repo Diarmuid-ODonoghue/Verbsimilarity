@@ -1,0 +1,3 @@
+Diabetic Macular Edema (DME) is an advanced stage of Diabetic Retinopathy (DR) and can lead to permanent vision loss. Currently, it affects 26.7 million people globally and on account of such a huge number of DME cases and the limited number of ophthalmologists, it is desirable to automate the diagnosis process. Computer-assisted, deep learning based diagnosis could help in early detection, following which precision medication can help to mitigate the vision loss.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32040475

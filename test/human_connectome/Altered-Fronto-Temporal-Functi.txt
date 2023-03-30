@@ -1,0 +1,3 @@
+The superior temporal gyrus (STG) is one of the key regions implicated in psychosis, given that abnormalities in this region are associated with an increased risk of conversion from an at-risk mental state to psychosis. However, inconsistent results regarding the functional connectivity strength of the STG have been reported, and the regional heterogeneous characteristics of the STG should be considered.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26267069

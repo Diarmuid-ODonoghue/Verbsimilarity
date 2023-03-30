@@ -1,0 +1,3 @@
+This paper reports the classification of finger flexion and extension of surface Electromyography (EMG) and Cyberglove data using the modified Independent Component Analysis (ICA) weight matrix. The finger flexion and extension data are processed through Principal Component Analysis (PCA), and next separated using modified ICA for each individual with customized weight matrix. The extension and flexion features of sEMG and Cyberglove (extracted from modified ICA) were classified using Linear Discriminant Analysis (LDA) with near 90% classification accuracy. The applications of this study include Human Computer Interface (HCI), virtual reality and neural prosthetics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570826

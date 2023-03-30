@@ -1,0 +1,3 @@
+Machine learning may be useful to characterize cardiovascular risk, predict outcomes, and identify biomarkers in population studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28794054

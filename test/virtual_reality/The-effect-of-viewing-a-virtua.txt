@@ -1,0 +1,3 @@
+In the next few years, several head-mounted displays (HMD) will be publicly released making virtual reality more accessible. HMD are expected to be widely popular at home for gaming but also in clinical settings, notably for training and rehabilitation. HMD can be used in both seated and standing positions; however, presently, the impact of HMD on balance remains largely unknown. It is therefore crucial to examine the impact of viewing a virtual environment through a HMD on standing balance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27344394

@@ -1,0 +1,3 @@
+To support the recovery of disability and the reduced functional capacity influencing the independence of daily life after focal brain lesions like stroke, the application of noninvasive brain stimulation (NIBS) by repetitive transcranial magnetic stimulation or transcranial electric stimulation has been found useful in the last decades. Still, a positive influence on the recovery seems to be restricted to specific subgroups of patients. Therefore, a closer look on individual parameters influencing the recovery course and the effect of NIBS is needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28548988

@@ -1,0 +1,3 @@
+The sustainable management of agricultural resources requires the integration of cutting-edge science with the observation and identification of crops. This assists experts to make correct decisions. The aim of this study is to assess the robustness of a commonly used deep learning tool, VGG16, in improving the categorization of wheat kernels. Two fusion methodologies were considered simultaneously. We performed experiments on visible light (RGB), short wave infrared (SWIR), and visible-near infrared (VNIR) datasets, including 40 classes, with 200 samples in each class, giving 8000 samples in total.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30977132

@@ -1,0 +1,3 @@
+Alzheimer's disease (AD) is a neurological degenerative disorder that leads to progressive mental deterioration. This work introduces a computational approach to improve our understanding of the progression of AD. We use ensemble learning methods and deep neural networks to identify salient structural correlations among brain regions that degenerate together in AD; this provides an understanding of how AD progresses in the brain. The proposed technique has a classification accuracy of 81.79% for AD against healthy subjects using a single modality imaging dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29295334

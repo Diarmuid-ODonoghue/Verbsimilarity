@@ -1,0 +1,3 @@
+Validation of a virtual reality (VR) simulator for the training and assessment of laparoscopic tubal surgery and mapping of cognitive load.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23608628

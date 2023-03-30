@@ -1,0 +1,3 @@
+To verify the diagnostic performance of an artificial intelligence system based on the deep convolutional neural network method to detect periapical pathosis on cone-beam computed tomography (CBCT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31922612

@@ -1,0 +1,3 @@
+Advancements in robot-assisted gait rehabilitation and brain-machine interfaces may enhance stroke physiotherapy by engaging patients while providing information about robot-induced cortical adaptations. We investigate the feasibility of decoding walking from brain activity in stroke survivors during therapy using a powered exoskeleton integrated with an electroencephalography-based brain-machine interface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29481376

@@ -1,0 +1,3 @@
+Application of surgical navigation for pelvic bone cancer surgery may prove useful, but in addition to the fact that research supporting its adoption remains relatively preliminary, the actual navigation devices are physically large, occupying considerable space in already crowded operating rooms. To address this issue, we developed and tested a navigation system for pelvic bone cancer surgery assimilating augmented reality (AR) technology to simplify the system by embedding the navigation software into a tablet personal computer (PC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30794209

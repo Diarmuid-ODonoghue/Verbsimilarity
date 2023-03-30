@@ -1,0 +1,3 @@
+Acquired brain injury (ABI) is associated with significant cognitive, behavioural, psychological and physical impairment. Hence, it has been important to leverage assessment approaches in rehabilitation by using current and emerging technologies, including virtual reality (VR). A number of VR rehabilitation programmes have been designed in recent years, mainly to improve upper limb function. However, before this technology gains widespread use, evaluation of the scientific evidence supporting VR-assisted rehabilitation is needed. The present review aimed to assess the rationale, design and methodology of research investigating the clinical impact of VR on ABI upper-limb rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19205954

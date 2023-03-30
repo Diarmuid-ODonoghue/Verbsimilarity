@@ -1,0 +1,3 @@
+To implement an answer-until-correct examination format for a pharmacokinetics course and determine whether this format assessed pharmacy students' mastery of the desired learning outcomes as well as a mixed format examination (eg, one with a combination of open-ended and fill-in-the-blank questions).
+
+https://www.ncbi.nlm.nih.gov/pubmed/19002282

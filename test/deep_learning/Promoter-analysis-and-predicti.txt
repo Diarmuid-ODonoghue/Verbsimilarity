@@ -1,0 +1,3 @@
+Computational identification of promoters is notoriously difficult as human genes often have unique promoter sequences that provide regulation of transcription and interaction with transcription initiation complex. While there are many attempts to develop computational promoter identification methods, we have no reliable tool to analyze long genomic sequences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30601980

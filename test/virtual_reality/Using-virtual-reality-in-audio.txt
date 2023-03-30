@@ -1,0 +1,3 @@
+The French National Authority for Health requires that otolaryngology students demonstrate competency before they are allowed to interact with human patients or volunteers. However, resources are often limited to provide extensive training for students. We developed a virtual reality (VR) system that simulates the clinical environment to train ear-nose-throat (ENT) residents. VR simulators have been developed and successfully used for medical training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32306528

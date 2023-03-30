@@ -1,0 +1,3 @@
+A robotic virtual reality simulator (Mimic dV-Trainer) can be a useful training method for the da Vinci surgical system. Herein, we investigate several repetitive training schedules and determine which is the most effective.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25481802

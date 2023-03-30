@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) provide non-muscular communication for individuals diagnosed with late-stage motoneuron disease (e.g., amyotrophic lateral sclerosis (ALS)). In the final stages of the disease, a BCI cannot rely on the visual modality. This study examined a method to achieve high accuracies using auditory stimuli only.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20093075

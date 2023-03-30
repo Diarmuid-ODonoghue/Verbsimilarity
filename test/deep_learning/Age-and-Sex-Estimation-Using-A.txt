@@ -1,0 +1,3 @@
+Sex and age have long been known to affect the ECG. Several biologic variables and anatomic factors may contribute to sex and age-related differences on the ECG. We hypothesized that a convolutional neural network (CNN) could be trained through a process called deep learning to predict a person's age and self-reported sex using only 12-lead ECG signals. We further hypothesized that discrepancies between CNN-predicted age and chronological age may serve as a physiological measure of health.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31450977

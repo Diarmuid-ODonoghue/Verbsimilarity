@@ -1,0 +1,3 @@
+To investigate whether a computer-aided diagnosis (CAD) system based on a deep learning framework (deep learning-based CAD) improves the diagnostic performance of radiologists in differentiating between malignant and benign masses on breast ultrasound (US).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30993926

@@ -1,0 +1,3 @@
+Contouring of organs at risk (OARs) is an important but time consuming part of radiotherapy treatment planning. The aim of this study was to investigate whether using institutional created software-generated contouring will save time if used as a starting point for manual OAR contouring for lung cancer patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29208513

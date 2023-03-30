@@ -1,0 +1,3 @@
+There is increasing recognition that supermarkets are an important environment for health-promoting interventions such as fiscal food policies or front-of-pack nutrition labeling. However, due to the complexities of undertaking such research in the real world, well-designed randomized controlled trials on these kinds of interventions are lacking. The Virtual Supermarket is a 3-dimensional computerized research environment designed to enable experimental studies in a supermarket setting without the complexity or costs normally associated with undertaking such research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25921185

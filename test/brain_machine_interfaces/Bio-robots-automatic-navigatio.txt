@@ -1,0 +1,3 @@
+Bio-robots based on brain computer interface (BCI) suffer from the lack of considering the characteristic of the animals in navigation. This paper proposed a new method for bio-robots' automatic navigation combining the reward generating algorithm base on Reinforcement Learning (RL) with the learning intelligence of animals together. Given the graded electrical reward, the animal e.g. the rat, intends to seek the maximum reward while exploring an unknown environment. Since the rat has excellent spatial recognition, the rat-robot and the RL algorithm can convergent to an optimal route by co-learning. This work has significant inspiration for the practical development of bio-robots' navigation with hybrid intelligence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24111331

@@ -1,0 +1,3 @@
+Alternating current (ac) bipolar electropolymerization of 3,4-ethylenedioxythiophene (EDOT) was performed in the presence of hexachloroplatinate ([PtCl6]2-) or poly(styrenesulfonate) (PSS). We demonstrated that both [PtCl6]2- and PSS were successfully incorporated into electrogenerated poly(3,4-ethylenedioxythiophene) (PEDOT) as dopants to offer hybrid fibers composed of (i) PEDOT and platinum nanoparticles (PtNPs) (PEDOT-Pt hybrid fibers) and (ii) PEDOT and PSS (PEDOT-PSS hybrid fibers), respectively, in one step, grown from the very edges of Au wires used as bipolar electrodes (BPEs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29889536

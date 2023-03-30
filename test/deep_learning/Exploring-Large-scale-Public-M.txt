@@ -1,0 +1,3 @@
+Medical artificial intelligence systems are dependent on well characterized large-scale datasets. Recently released public datasets have been of great interest to the field, but pose specific challenges due to the disconnect they cause between data generation and data usage, potentially limiting the utility of these datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31706792

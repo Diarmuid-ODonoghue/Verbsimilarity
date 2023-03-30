@@ -1,0 +1,3 @@
+When a new infectious disease emerges, appropriate case definitions are important for clinical diagnosis and for public health surveillance. Tracking case numbers over time is important to establish the speed of spread and the effectiveness of interventions. We aimed to assess whether changes in case definitions affected inferences on the transmission dynamics of coronavirus disease 2019 (COVID-19) in China.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32330458

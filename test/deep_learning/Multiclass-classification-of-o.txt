@@ -1,0 +1,3 @@
+In this paper, we propose a convolutional neural network (CNN)-based deep learning architecture for multiclass classification of obstructive sleep apnea and hypopnea (OSAH) using single-lead electrocardiogram (ECG) recordings. OSAH is the most common sleep-related breathing disorder. Many subjects who suffer from OSAH remain undiagnosed; thus, early detection of OSAH is important.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29794342

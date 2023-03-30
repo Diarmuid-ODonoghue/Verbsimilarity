@@ -1,0 +1,3 @@
+Modeling physiological signals is a complex task both for understanding and synthesize biomedical signals. We propose a deep neural network model that learns and synthesizes biosignals, validated by the morphological equivalence of the original ones. This research could lead the creation of novel algorithms for signal reconstruction in heavily noisy data and source detection in biomedical engineering field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28946919

@@ -1,0 +1,3 @@
+UCSF ChimeraX is next-generation software for the visualization and analysis of molecular structures, density maps, 3D microscopy, and associated data. It addresses challenges in the size, scope, and disparate types of data attendant with cutting-edge experimental methods, while providing advanced options for high-quality rendering (interactive ambient occlusion, reliable molecular surface calculations, etc.) and professional approaches to software design and distribution. This article highlights some specific advances in the areas of visualization and usability, performance, and extensibility. ChimeraX is free for noncommercial use and is available from http://www.rbvi.ucsf.edu/chimerax/ for Windows, Mac, and Linux.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28710774

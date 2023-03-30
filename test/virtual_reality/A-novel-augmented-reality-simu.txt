@@ -1,0 +1,3 @@
+Over the past decade, simulation-based training has come to the foreground as an efficient method for training and assessment of surgical skills in minimal invasive surgery. Box-trainers and virtual reality (VR) simulators have been introduced in the teaching curricula and have substituted to some extent the traditional model of training based on animals or cadavers. Augmented reality (AR) is a new technology that allows blending of VR elements and real objects within a real-world scene. In this paper, we present a novel AR simulator for assessment of basic laparoscopic skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25303925

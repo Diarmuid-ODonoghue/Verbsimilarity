@@ -1,0 +1,3 @@
+In Traditional Chinese Medicine (TCM), most of the algorithms used to solve problems of syndrome diagnosis are superficial structure algorithms and not considering the cognitive perspective from the brain. However, in clinical practice, there is complex and nonlinear relationship between symptoms (signs) and syndrome. So we employed deep leaning and multilabel learning to construct the syndrome diagnostic model for chronic gastritis (CG) in TCM. The results showed that deep learning could improve the accuracy of syndrome recognition. Moreover, the studies will provide a reference for constructing syndrome diagnostic models and guide clinical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24734118

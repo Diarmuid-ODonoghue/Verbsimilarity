@@ -1,0 +1,3 @@
+In this work we develop and validate a fully automated postprocessing framework for in vivo diffusion tensor cardiac magnetic resonance (DT-CMR) data powered by deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32329105

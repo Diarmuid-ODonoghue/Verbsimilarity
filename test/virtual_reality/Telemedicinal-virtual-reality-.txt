@@ -1,0 +1,3 @@
+Cognitive rehabilitation and assessment of cognitively impaired patients has traditionally been performed using paper and pencil psychometeric tests. These tests are becoming increasingly dated and do not involve real world tasks. This paper describes a virtual reality kitchen designed to help patients relearn important daily living skills. Some important issues concerning virtual reality and the disabled are discussed. Additionally we describe the development of a prototype networked system to enable a doctor to monitor remotely the rehabilitation of a group of patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11187509

@@ -1,0 +1,3 @@
+High frequency Deep brain stimulation (DBS) targeting motor thalamus is an effective therapy for essential tremor (ET). However, conventional continuous stimulation may deliver unnecessary current to the brain since tremor mainly affects voluntary movements and sustained postures in ET.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30827864

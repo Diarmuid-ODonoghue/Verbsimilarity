@@ -1,0 +1,3 @@
+To evaluate Pegasus optical coherence tomography (OCT), a clinical decision support software for the identification of features of retinal disease from macula OCT scans, across heterogenous populations involving varying patient demographics, device manufacturers, acquisition sites, and operators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31584557

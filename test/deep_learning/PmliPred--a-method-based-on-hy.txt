@@ -1,0 +1,3 @@
+The studies have indicated that not only microRNAs (miRNAs) or long non-coding RNAs (lncRNAs) play important roles in biological activities, but also their interactions affect the biological process. A growing number of studies focus on the miRNA-lncRNA interactions, while few of them are proposed for plant. The prediction of interactions is significant for understanding the mechanism of interaction between miRNA and lncRNA in plant.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32087005

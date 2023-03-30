@@ -1,0 +1,3 @@
+Patient-specific virtual reality simulation (PSVR) is a new technological advancement that allows practice of upcoming real operations and complements the established role of VR simulation as a generic training tool. This review describes current developments in PSVR and draws parallels with other high-stake industries, such as aviation, military, and sports.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22532308

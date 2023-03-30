@@ -1,0 +1,3 @@
+Combinations of hydroxychloroquine (HCQ) and azithromycin have been promoted as treatments for COVID-19 based on small, uncontrolled clinical trials that have not assessed potential risks. Risks of treatment include QT segment prolongation, Torsades de Pointes (TdP), and death. This comparative pharmacovigilance analysis evaluated the risk of these events.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32327397

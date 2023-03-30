@@ -1,0 +1,3 @@
+Significant progress has been made in the past two decades to considerably improve the performance of steady-state visual evoked potential (SSVEP)-based brain-computer interface (BCI). However, there are still some unsolved problems that may help us to improve BCI performance, one of which is that our understanding of the dynamic process of SSVEP is still superficial, especially for the transient-state response.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29616978

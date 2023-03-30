@@ -1,0 +1,3 @@
+The purpose of this article is the demonstration of virtual reality (VR) and rapid prototyping (RP) in surgical planning in maxillofacial surgery. The authors emphasize the role of reverse engineering (RE) and RP, suggesting a model of cooperative work, with the interaction of maxillofacial surgeons, radiologists, and engineers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17517306

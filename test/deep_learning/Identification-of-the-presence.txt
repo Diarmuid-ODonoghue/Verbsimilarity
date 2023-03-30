@@ -1,0 +1,3 @@
+The differential quantification of brain atrophy, white matter hyperintensities (WMH) and stroke lesions is important in studies of stroke and dementia. However, the presence of stroke lesions is usually overlooked by automatic neuroimage processing methods and the-state-of-the-art deep learning schemes, which lack sufficient annotated data. We explore the use of radiomics in identifying whether a brain magnetic resonance imaging (MRI) scan belongs to an individual that had a stroke or not.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30921550

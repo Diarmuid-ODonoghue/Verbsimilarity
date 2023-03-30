@@ -1,0 +1,3 @@
+Many tests of hemispatial neglect are insensitive to subtle (but clinically relevant) forms of the disorder. This study provides additional reliability and validity data on the Virtual Reality Lateralized Attention Test (VRLAT), an easy-to-administer computerized measure of hemispatial neglect that mimics the attentional demands of real-world tasks, and has previously shown strong validity and sensitivity (Dawson, Buxbaum, & Rizzo, 2008). The present study assessed a large sample of patients with the aim of developing a clinically useful version of the test, and established the concurrent criterion validity of the VRLAT as measured by its association with performance in a real-world task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22642393

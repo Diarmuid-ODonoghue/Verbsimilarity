@@ -1,0 +1,3 @@
+The growing availability of rich clinical data such as patients' electronic health records provide great opportunities to address a broad range of real-world questions in medicine. At the same time, artificial intelligence and machine learning (ML)-based approaches have shown great premise on extracting insights from those data and helping with various clinical problems. The goal of this study is to conduct a systematic comparative study of different ML algorithms for several predictive modeling problems in urgent care.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31984321

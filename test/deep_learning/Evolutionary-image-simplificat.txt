@@ -1,0 +1,3 @@
+Understanding decisions of deep learning techniques is important. Especially in the medical field, the reasons for a decision in a classification task are as crucial as the pure classification results. In this article, we propose a new approach to compute relevant parts of a medical image. Knowing the relevant parts makes it easier to understand decisions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29845453

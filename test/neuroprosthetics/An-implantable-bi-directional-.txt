@@ -1,0 +1,3 @@
+An implantable bi-directional brain-machine interface (BMI) prototype is presented. With sensing, algorithm, wireless telemetry, and stimulation therapy capabilities, the system is designed for chronic studies exploring closed-loop and diagnostic opportunities for neuroprosthetics. In particular, we hope to enable fundamental chronic research into the physiology of neurological disorders, define key electrical biomarkers related to disease, and apply this learning to patient-specific algorithms for therapeutic stimulation and diagnostics. The ultimate goal is to provide practical neuroprosthetics with adaptive therapy for improved efficiency and efficacy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19965049

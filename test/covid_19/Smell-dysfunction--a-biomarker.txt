@@ -1,0 +1,3 @@
+SARS-CoV-2, the virus that causes COVID-19 disease, is responsible for the largest pandemic since the 1918 H1N1 influenza outbreak. The symptoms presently recognized by the World Health Organization are cough, fever, tiredness, and difficulty breathing. Patient-reported smell and taste loss has been associated with COVID-19 infection, yet no empirical olfactory testing on a cohort of COVID-19 patients has been performed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32301284

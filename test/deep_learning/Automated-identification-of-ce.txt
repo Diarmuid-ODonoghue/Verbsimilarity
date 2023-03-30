@@ -1,0 +1,3 @@
+To compare the accuracy and computational efficiency of two of the latest deep-learning algorithms for automatic identification of cephalometric landmarks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31282738

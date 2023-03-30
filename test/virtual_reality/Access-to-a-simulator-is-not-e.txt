@@ -1,0 +1,3 @@
+Virtual reality (VR) simulators are widely used to familiarize surgical novices with laparoscopy, but VR training methods differ in efficacy. In the present trial, self-controlled basic VR training (SC-training) was tested against training based on peer-group-derived benchmarks (PGD-training).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23942532

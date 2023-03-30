@@ -1,0 +1,3 @@
+Patients with mood disorders are known to have an emotion recognition deficit in facial emotion processing. Emotion perception involves two systems of cognitive and affective processes associated with brain activation in the fusiform gyrus and prefrontal cortices. To overcome the limitations of existing emotion perception tests, we designed an emotion perception index to assess the individuals' mood status.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31443867

@@ -1,0 +1,3 @@
+La simulation en laparoscopie est un moyen d’apprentissage et d’acquisition des gestes techniques chirurgicaux en plein essor. Elle s’appuie essentiellement sur deux outils pédagogiques complémentaires : le pelvi-trainer et la simulation virtuelle. Le simulateur virtuel a démontré son efficacité dans l’amélioration de l’habileté chirurgicale, la diminution du temps opératoire, l’amélioration dans l’économie des mouvements et l’augmentation de la confiance en soi. Il a pour principal intérêt la possibilité de mettre en place facilement un programme d’entraînement régulier, structuré et uniformisé permettant une auto-évaluation de l’interne.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28692230

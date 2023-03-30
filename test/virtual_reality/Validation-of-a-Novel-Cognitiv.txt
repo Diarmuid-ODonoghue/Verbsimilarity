@@ -1,0 +1,3 @@
+The increasing focus on patient safety in current medical practice has promoted the development of surgical simulation technology in the form of virtual reality (VR) training designed largely to improve technical skills and less so for nontechnical aspects of surgery such as decision making and material knowledge. The present study investigated the validity of a novel cognitive VR simulator called Touch Surgery for a core maxillofacial surgical procedure: orbital floor reconstruction (OFR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28012843

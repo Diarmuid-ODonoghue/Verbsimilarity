@@ -1,0 +1,3 @@
+The fundamentals of endoscopic surgery (FES) examination measures the knowledge and skills required to perform safe flexible endoscopy. A potential limitation of the FES skills test is the size and cost of the simulator on which it was developed (GI Mentor II virtual reality endoscopy simulator; Simbionix LTD, Israel). A more compact and lower-cost alternative (GI Mentor Express) was developed to address this issue. The purpose of this study was to obtain evidence for the validity of scores obtained on the Express platform, so that it can be used for testing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26139481

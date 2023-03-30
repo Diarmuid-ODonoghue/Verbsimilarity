@@ -1,0 +1,3 @@
+Ventriculostomy is a neurosurgical procedure for providing therapeutic cerebrospinal fluid drainage. Complications may arise during repeated attempts at placing the catheter in the ventricle. We studied the impact of simulation-based practice with a library of virtual brains on neurosurgery residents' performance in simulated and live surgical ventriculostomies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23117306

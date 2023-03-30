@@ -1,0 +1,3 @@
+Ultrasound (US)-guided percutaneous kidney biopsy is a challenge for interventionists as US artefacts prevent accurate viewing of the biopsy needle tip. Automatic needle tracking and trajectory prediction can increase operator confidence in performing biopsies, reduce procedure time, minimize the risk of inadvertent biopsy bleedings, and enable future image-guided robotic procedures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31960247

@@ -1,0 +1,3 @@
+Standard segmentation of high-contrast electron micrographs (EM) identifies myelin accurately but does not translate easily into measurements of individual axons and their myelin, even in cross-sections of parallel fibers. We describe automated segmentation and measurement of each myelinated axon and its sheath in EMs of arbitrarily oriented human white matter from autopsies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31377177

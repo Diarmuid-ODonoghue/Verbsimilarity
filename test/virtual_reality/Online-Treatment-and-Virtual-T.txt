@@ -1,0 +1,3 @@
+Online and virtual therapies are a well-studied and efficacious treatment option for various mental and behavioral health conditions among children and adolescents. However, many interventions have not considered the unique affordances offered by technologies that might align with the capacities and interests of youth users. In this article, the authors discuss learnings from child-computer interaction that can inform future generations of interventions and guide developers, practitioners, and researchers how to best use new technologies for youth populations. The article concludes with innovative examples illustrating future potentials of online and virtual therapies such as gaming and social networking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27837935

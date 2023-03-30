@@ -1,0 +1,3 @@
+Significant developments in video imaging have taken place but further progress is needed to provide images with the right characteristics for optimal interpretation by the operator. The nature and location of the image display in relation to the surgeon and operating field are also important in facilitating image-guided surgery/interventions, and several new technologies are being explored. In the diagnostic field, virtual reality surface anatomical and internal luminal rendering has opened a new chapter in diagnosis, screening, and treatment planning, the potential of which is only just being realized.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11760746

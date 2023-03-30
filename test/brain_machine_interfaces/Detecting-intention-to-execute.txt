@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) are a promising tool in neurorehabilitation. The intention to perform a motor action can be detected from brain signals and used to control robotic devices. Most previous studies have focused on the starting of movements from a resting state, while in daily life activities, motions occur continuously and the neural activities correlated to the evolving movements are yet to be investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29890509

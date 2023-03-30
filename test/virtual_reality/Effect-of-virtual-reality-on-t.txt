@@ -1,0 +1,3 @@
+Virtual reality (VR) during chemotherapy has resulted in an elapsed time compression effect, validating the attention diversion capabilities of VR. Using the framework of the pacemaker-accumulator cognitive model of time perception, this study explored the influence of age, gender, state anxiety, fatigue, and cancer diagnosis in predicting the difference between actual time elapsed during receipt of intravenous chemotherapy while immersed in a VR environment versus patient's retrospective estimates of time elapsed during this treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20336327

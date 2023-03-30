@@ -1,0 +1,3 @@
+The China Mechanical Virtual Human (CMVH) is a human musculoskeletal biomechanical simulation platform based on China Visible Human slice images; it has great realistic application significance. In this paper is introduced the construction method of CMVH 3D models. Then a simulation system solution based on Creator/Vega is put forward for the complex and gigantic data characteristics of the 3D models. At last, combined with MFC technology, the CMVH simulation system is developed and a running simulation scene is given. This paper provides a new way for the virtual reality application of CMVH.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21089666

@@ -1,0 +1,3 @@
+The vergence-accommodation conflict (VAC) remains a major problem in head-mounted displays for virtual and augmented reality (VR and AR). In this review, I discuss why this problem is pivotal for nearby tasks in VR and AR, present a comprehensive taxonomy of potential solutions, address advantages and shortfalls of each design, and cover various ways to better evaluate the solutions. The review describes how VAC is addressed in monocular, stereoscopic, and multiscopic HMDs, including retinal scanning and accommodation-free displays. Eye-tracking-based approaches that do not provide natural focal cues-gaze-guided blur and dynamic stereoscopy-are also covered. Promising future research directions in this area are identified.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26336129

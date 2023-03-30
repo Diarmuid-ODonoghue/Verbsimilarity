@@ -1,0 +1,3 @@
+A cohort study analyzing the cervical range of motion of subjects with anterior cervical decompression and fusion operation (ACDF).
+
+https://www.ncbi.nlm.nih.gov/pubmed/20622748

@@ -1,0 +1,3 @@
+Worldwide propagation of minimally invasive surgeries (MIS) is hindered by their drawback of indirect observation and manipulation, while monitoring of surgical instruments moving in the operated body required by surgeons is a challenging problem. Tracking of surgical instruments by vision-based methods is quite lucrative, due to its flexible implementation via software-based control with no need to modify instruments or surgical workflow.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28937281

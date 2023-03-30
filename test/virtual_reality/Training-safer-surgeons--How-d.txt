@@ -1,0 +1,3 @@
+Simulation allows training without posing risk to patient safety. It has developed in response to the demand for patient safety and the reduced training times for surgeons. Whilst there is an increasing role of simulation in orthopaedic training, the perception of patients and the general public of this novel method is yet unknown. Patients and the public were given the opportunity to perform a diagnostic knee arthroscopy on a virtual reality ARTHRO Mentor simulator. After their practice session, participants answered a validated questionnaire based on a 5-point Likert Scale assessing their opinions on arthroscopic simulation. Primary objective was observing perception of patients on orthopaedic virtual reality simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25750661

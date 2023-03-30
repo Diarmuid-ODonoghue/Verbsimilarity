@@ -1,0 +1,3 @@
+Rapid improvements in light and electron microscopy imaging techniques and the development of 3D anatomical atlases necessitate new approaches for the visualization and analysis of image data. Pixel-based representations of raw light microscopy data suffer from limitations in the number of channels that can be visualized simultaneously. Complex electron microscopic reconstructions from large tissue volumes are also challenging to visualize and analyze.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26208945

@@ -1,0 +1,3 @@
+Virtual Reality has been used for clinical application for about 10 years and has proved to be an effective tool for treating various disorders. In this paper, we want to share our experience in building a 3D, motion tracked, immersive VR system for pain treatment and biofeedback research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15718779

@@ -1,0 +1,3 @@
+Virtual reality simulators with self-assessment software may assist novice robotic surgeons to augment direct proctoring in robotic surgical skill acquisition. We compare and correlate the da Vinci Trainer™ (dVT) and da Vinci Surgical Skills Simulators (dVSSS) in subjects with varying robotic experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22845173

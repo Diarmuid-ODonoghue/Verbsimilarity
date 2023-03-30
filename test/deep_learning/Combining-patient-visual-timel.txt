@@ -1,0 +1,3 @@
+Deep learning algorithms have achieved human-equivalent performance in image recognition. However, the majority of clinical data within electronic health records is inherently in a non-image format. Therefore, creating visual representations of clinical data could facilitate using cutting-edge deep learning models for predicting outcomes such as in-hospital mortality, while enabling clinician interpretability. The objective of this study was to develop a framework that first transforms longitudinal patient data into visual timelines and then utilizes deep learning to predict in-hospital mortality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31365580

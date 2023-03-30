@@ -1,0 +1,3 @@
+Deep learning-based auto-segmented contours (DC) aim to alleviate labour intensive contouring of organs at risk (OAR) and clinical target volumes (CTV). Most previous DC validation studies have a limited number of expert observers for comparison and/or use a validation dataset related to the training dataset. We determine if DC models are comparable to Radiation Oncologist (RO) inter-observer variability on an independent dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31812930

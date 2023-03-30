@@ -1,0 +1,3 @@
+To present a visual field examination method using virtual reality glasses and evaluate the reliability of the method by comparing the results with those of the Humphrey perimeter.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28848325

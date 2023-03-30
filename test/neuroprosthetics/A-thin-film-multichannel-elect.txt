@@ -1,0 +1,3 @@
+We propose, design and test a novel thin-film multichannel electrode that can be used for both recording from and stimulating a muscle in acute implants.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30721892

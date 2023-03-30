@@ -1,0 +1,3 @@
+This review assesses the risk of a photic-induced seizure in a child during viewing of 3D (binocular 3 dimensional, stereoscopic) movies or games, either on standard video displays or when wearing a virtual reality (VR) headset. Studies published by pediatric epilepsy experts emphasize the low risk of 3D viewing even for children with known photosensitive epilepsy (PSE). The low incidence of PSE is noteworthy because the number of hours devoted to 2D or 3D screen viewing and/or VR headset use by children worldwide has increased markedly over the last decade. The medical literature does not support the notion that VR headset use poses a risk for PSE.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32104130

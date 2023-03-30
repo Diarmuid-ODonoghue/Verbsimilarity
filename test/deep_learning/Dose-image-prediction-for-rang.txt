@@ -1,0 +1,3 @@
+Imaging of the secondary electron bremsstrahlung (SEB) X-rays emitted during particle-ion irradiation is a promising method for beam range estimation. However, the SEB X-ray images are not directly correlated to the dose images. In addition, limited spatial resolution of the X-ray camera and low-count situation may impede correctly estimating the beam range and width in SEB X-ray images. To overcome these limitations of the SEB X-ray images measured by the X-ray camera, a deep learning (DL) approach was proposed in this work to predict the dose images for estimating the range and width of the carbon-ion beam on the measured SEB X-ray images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32335924

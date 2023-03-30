@@ -1,0 +1,3 @@
+Due to its high complexity, neurosurgery consists of a demanding learning curve that requires intense training and a deep knowledge of neuroanatomy. Microsurgical skill development can be achieved through various models of simulation, but as human cadaveric models are not always accessible, cadaveric animal models can provide a reliable environment in which to enhance the acquisition of surgical dexterity. The aim of this review was to analyse the current role of animal brains in laboratory training and to assess their correspondence to the procedures performed in humans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30614516

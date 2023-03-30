@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) can provide access to augmentative and alternative communication (AAC) devices using neurological activity alone without voluntary movements. As with traditional AAC access methods, BCI performance may be influenced by the cognitive-sensory-motor and motor imagery profiles of those who use these devices. Therefore, we propose a person-centered, feature matching framework consistent with clinical AAC best practices to ensure selection of the most appropriate BCI technology to meet individuals' communication needs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29860376

@@ -1,0 +1,3 @@
+An important challenge for deep learning models is generalizing to new datasets that may be acquired with acquisition protocols different from the training set. It is not always feasible to expand training data to the range encountered in clinical practice. We introduce a new technique, physics-based data augmentation (PBDA), that can emulate new computed tomography (CT) data acquisition protocols. We demonstrate two forms of PBDA, emulating increases in slice thickness and reductions of dose, on the specific problem of false-positive reduction in the automatic detection of lung nodules.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31396974

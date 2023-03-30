@@ -1,0 +1,3 @@
+Advanced diffusion magnetic resonance imaging benefits from collecting as much data as is feasible but is highly sensitive to subject motion and the risk of data loss increases with longer acquisition times. Our purpose was to create a maximally time-efficient and flexible diffusion acquisition capability with built-in robustness to partially acquired or interrupted scans. Our framework has been developed for the developing Human Connectome Project, but different application domains are equally possible.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28557055

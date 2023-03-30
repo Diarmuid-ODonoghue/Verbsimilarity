@@ -1,0 +1,3 @@
+Virtually all currently available microRNA target site prediction algorithms require the presence of a (conserved) seed match to the 5' end of the microRNA. Recently however, it has been shown that this requirement might be too stringent, leading to a substantial number of missed target sites.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20509939

@@ -1,0 +1,3 @@
+For many years the reestablishment of communication for people with severe motor paralysis has been in the focus of brain-computer interface (BCI) research. Recently applications for entertainment have also been developed. Brain Painting allows the user creative expression through painting pictures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24080077

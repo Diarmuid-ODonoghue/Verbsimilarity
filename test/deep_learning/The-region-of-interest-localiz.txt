@@ -1,0 +1,3 @@
+Retinal fundus image analysis without manual intervention has been rising as an imperative analytical approach for early detection of eye-related diseases such as glaucoma and diabetic retinopathy. For analysis and detection of Glaucoma and some other disease from retinal image, there is a significant role of predicting the bounding box coordinates of Optic Disc (OD) that acts as a Region of Interest (ROI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30337079

@@ -1,0 +1,3 @@
+Current multi-petaflop supercomputers are powerful systems, but present challenges when faced with problems requiring large machine learning workflows. Complex algorithms running at system scale, often with different patterns that require disparate software packages and complex data flows cause difficulties in assembling and managing large experiments on these machines.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30577736

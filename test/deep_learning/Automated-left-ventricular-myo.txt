@@ -1,0 +1,3 @@
+Segmentation of left ventricular myocardium (LVM) in coronary computed tomography angiography (CCTA) is important for diagnosis of cardiovascular diseases. Due to poor image contrast and large variation in intensity and shapes, LVM segmentation for CCTA is a challenging task. The purpose of this work is to develop a region-based deep learning method to automatically detect and segment the LVM solely based on CCTA images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32017118

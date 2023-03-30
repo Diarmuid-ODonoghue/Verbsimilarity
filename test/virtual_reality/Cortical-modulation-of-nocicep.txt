@@ -1,0 +1,3 @@
+Vestibular afferents converge with nociceptive ones within the posterior insula, and can therefore modulate nociception. Consistent with this hypothesis, caloric vestibular stimulation (CVS) has been shown to reduce experimental and clinical pain. Since CVS can induce undesirable effects in a proportion of patients, here we explored an alternative means to activate non-invasively the vestibular pathways using innocuous bi-mastoid galvanic stimulation (GVS), and assessed its effects on experimental pain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31636023

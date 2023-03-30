@@ -1,0 +1,3 @@
+This study investigated the neural correlates of virtual reality analgesia. Virtual reality significantly reduced subjective pain ratings (i.e. analgesia). Using fMRI, pain-related brain activity was measured for each participant during conditions of no virtual reality and during virtual reality (order randomized). As predicted, virtual reality significantly reduced pain-related brain activity in all five regions of interest; the anterior cingulate cortex, primary and secondary somatosensory cortex, insula, and thalamus (p<0.002, corrected). Results showed direct modulation of human brain pain responses by virtual reality distraction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15167542

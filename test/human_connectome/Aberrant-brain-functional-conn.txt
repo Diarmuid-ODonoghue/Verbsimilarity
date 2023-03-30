@@ -1,0 +1,3 @@
+Obstructive sleep apnea (OSA) is accompanied by widespread abnormal spontaneous regional activity related to cognitive deficits. However, little is known about the topological properties of the functional brain connectome of patients with OSA. This study aimed to use the graph theory approaches to investigate the topological properties and functional connectivity (FC) of the functional connectome in patients with OSA, based on resting-state functional magnetic resonance imaging (rs-fMRI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29713176

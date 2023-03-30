@@ -1,0 +1,3 @@
+In the last ten years neural ensemble recording grew into a well-respected and highly data-lucrative science. New experimental paradigms, including the fabrication of high-density microelectrodes, new surgical implantation techniques, multi-channel signal processing, and the establishment of direct real-time brain-machine interfaces, hold promise not just for neurophysiology research, but also for new-generation prosthetic devices aimed at restoring mobility and communication skills in severely disabled patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21204439

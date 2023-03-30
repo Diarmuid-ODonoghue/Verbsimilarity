@@ -1,0 +1,3 @@
+Restorative dentistry simulation is one of the most challenging applications involving virtual reality and haptics. This paper presents a haptics-based tooth drilling simulator for dental education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25582358

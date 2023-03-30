@@ -1,0 +1,3 @@
+In the present work, a nonlinear measure (transfer entropy, TE) was used in a multivariate approach for the analysis of effective connectivity in high density resting state EEG data in eyes open and eyes closed. Advantages of the multivariate approach in comparison to the bivariate one were tested. Moreover, the multivariate TE was compared to an effective linear measure, i.e. directed transfer function (DTF). Finally, the existence of a relationship between the information transfer and the level of brain synchronization as measured by phase synchronization value (PLV) was investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28378705

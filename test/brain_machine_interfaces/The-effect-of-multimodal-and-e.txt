@@ -1,0 +1,3 @@
+This study investigated the effect of multimodal (visual and auditory) continuous feedback with information about the uncertainty of the input signal on motor imagery based BCI performance. A liquid floating through a visualization of a funnel (funnel feedback) provided enriched visual or enriched multimodal feedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26138148

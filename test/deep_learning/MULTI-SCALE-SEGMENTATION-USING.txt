@@ -1,0 +1,3 @@
+Deep networks have been used in a growing trend in medical image analysis with the remarkable progress in deep learning. In this paper, we formulate the multi-scale segmentation as a Markov Random Field (MRF) energy minimization problem in a deep network (graph), which can be efficiently and exactly solved by computing a minimum s-t cut in an appropriately constructed graph. The performance of the proposed method is assessed on the application of lung tumor segmentation in 38 mega-voltage cone-beam computed tomography datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31772718

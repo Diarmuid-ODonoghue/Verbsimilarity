@@ -1,0 +1,3 @@
+This paper proposes a computer-aided cirrhosis diagnosis system to diagnose cirrhosis based on ultrasound images. We first propose a method to extract a liver capsule on an ultrasound image, then, based on the extracted liver capsule, we fine-tune a deep convolutional neural network (CNN) model to extract features from the image patches cropped around the liver capsules. Finally, a trained support vector machine (SVM) classifier is applied to classify the sample into normal or abnormal cases. Experimental results show that the proposed method can effectively extract the liver capsules and accurately classify the ultrasound images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28098774

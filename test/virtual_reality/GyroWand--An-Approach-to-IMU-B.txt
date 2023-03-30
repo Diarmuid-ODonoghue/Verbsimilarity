@@ -1,0 +1,3 @@
+Optical see-through head-mounted displays enable augmented reality (AR) applications that display virtual objects overlaid on the real world. At the core of this new generation of devices are low-cost tracking technologies that allow us to interpret users' motion in the real world in relation to the virtual content for the purposes of navigation and interaction. The advantages of pervasive tracking come at the cost of limiting interaction possibilities, however. To address these challenges the authors introduce GyroWand, a raycasting technique for AR HMDs using inertial measurement unit (IMU) rotational data from a handheld controller.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26960031

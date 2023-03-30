@@ -1,0 +1,3 @@
+Covid-19 originated in Wuhan and rippled across China. We investigate how the geographical distance of working adults to the epicenter of Wuhan predicts their burnout - emotional, physical and mental exhaustion due to excessive and prolonged stress. Preliminary results of a survey of 308 working adults in 53 cities showed working adults' distance to the epicenter of Wuhan had an inverted U-shaped relationship with their burnout. Such results help to identify regions where people may need more psychiatric assistance, with direct implications for healthcare practitioners and policymakers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32325386

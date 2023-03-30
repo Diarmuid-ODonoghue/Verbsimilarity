@@ -1,0 +1,3 @@
+Probe-based confocal laser endomicroscopy (pCLE) is a recent imaging modality that allows performing in vivo optical biopsies. The design of pCLE hardware, and its reliance on an optical fibre bundle, fundamentally limits the image quality with a few tens of thousands fibres, each acting as the equivalent of a single-pixel detector, assembled into a single fibre bundle. Video registration techniques can be used to estimate high-resolution (HR) images by exploiting the temporal information contained in a sequence of low-resolution (LR) images. However, the alignment of LR frames, required for the fusion, is computationally demanding and prone to artefacts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29687176

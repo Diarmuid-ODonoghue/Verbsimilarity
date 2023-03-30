@@ -1,0 +1,3 @@
+The Paris System for Urine Cytopathology (the Paris System) has succeeded in making the analysis of liquid-based urine preparations more reproducible. Any algorithm seeking to automate this system must accurately estimate the nuclear-to-cytoplasmic (N:C) ratio and produce a qualitative "atypia score." The authors propose a hybrid deep-learning and morphometric model that reliably automates the Paris System.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30702803

@@ -1,0 +1,3 @@
+We exploit altered patterns in brain functional connectivity as features for automatic discriminative analysis of neuropsychiatric patients. Deep learning methods have been introduced to functional network classification only very recently for fMRI, and the proposed architectures essentially focused on a single type of connectivity measure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31536026

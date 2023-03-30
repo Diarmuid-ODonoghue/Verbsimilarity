@@ -1,0 +1,3 @@
+Volumetric laser endomicroscopy (VLE) is an advanced imaging system that provides a near-microscopic resolution scan of the esophageal wall layers up to 3-mm deep. VLE has the potential to improve detection of early neoplasia in Barrett's esophagus (BE). However, interpretation of VLE images is complex because of the large amount of data that need to be interpreted in real time. The aim of this study was to investigate the feasibility of a computer algorithm to identify early BE neoplasia on ex vivo VLE images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28322771

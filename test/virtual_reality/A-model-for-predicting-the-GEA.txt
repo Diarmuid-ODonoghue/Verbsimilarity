@@ -1,0 +1,3 @@
+Surgical education relies heavily upon simulation. Assessment tools include robotic simulator assessments and Global Evaluative Assessment of Robotic Skills (GEARS) metrics, which have been validated. Training programs use GEARS for proficiency testing; however, it requires a trained human evaluator. Due to limited time, learners are reliant on surgical simulator feedback to improve their skills. GEARS and simulator scores have been shown to be correlated but in what capacity is unknown. Our goal is to develop a model for predicting GEARS score using simulator metrics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29404733

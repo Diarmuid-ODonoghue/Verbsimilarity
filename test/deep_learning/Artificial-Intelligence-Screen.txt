@@ -1,0 +1,3 @@
+This paper systematically reviews the recent progress in diabetic retinopathy screening. It provides an integrated overview of the current state of knowledge of emerging techniques using artificial intelligence integration in national screening programs around the world. Existing methodological approaches and research insights are evaluated. An understanding of existing gaps and future directions is created.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31367962

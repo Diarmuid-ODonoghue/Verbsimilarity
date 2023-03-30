@@ -1,0 +1,3 @@
+FLAIR (fluid attenuated inversion recovery) imaging via synthetic MRI methods leads to artifacts in the brain, which can cause diagnostic limitations. The main sources of the artifacts are attributed to the partial volume effect and flow, which are difficult to correct by analytical modeling. In this study, a deep learning (DL)-based synthetic FLAIR method was developed, which does not require analytical modeling of the signal.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30884007

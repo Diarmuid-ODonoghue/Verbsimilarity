@@ -1,0 +1,3 @@
+Antibiotic resistance has become an increasingly serious problem in the past decades. As an alternative choice, antimicrobial peptides (AMPs) have attracted lots of attention. To identify new AMPs, machine learning methods have been commonly used. More recently, some deep learning methods have also been applied to this problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31870282

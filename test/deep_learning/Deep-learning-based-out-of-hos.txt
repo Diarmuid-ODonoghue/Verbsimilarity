@@ -1,0 +1,3 @@
+Out-of-hospital cardiac arrest (OHCA) is a major healthcare burden, and prognosis is critical in decision-making for treatment and the withdrawal of life-sustaining therapy. This study aimed to develop and validate a deep-learning-based out-of-hospital cardiac arrest prognostic system (DCAPS) for predicting neurologic recovery and survival to discharge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30978378

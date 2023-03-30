@@ -1,0 +1,3 @@
+Using functional mapping assays, we conducted a quantitative assessment of both excitatory and inhibitory synaptic laminar connections to excitatory neurons in layers 2/3-6 of the mouse visual cortex (V1). Laminar-specific synaptic wiring diagrams of excitatory neurons were constructed on the basis of circuit mapping. The present study reveals that that excitatory and inhibitory synaptic connectivity is spatially balanced across excitatory neuronal networks in V1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26844927

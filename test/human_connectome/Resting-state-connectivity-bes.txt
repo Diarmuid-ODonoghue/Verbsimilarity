@@ -1,0 +1,3 @@
+In the United States, 13% of adults are estimated to have alcohol use disorder (AUD). Most studies examining the neurobiology of AUD treat individuals with this disorder as a homogeneous group; however, the theories of the neurocircuitry of AUD call for a quantitative and dimensional approach. Previous imaging studies find differences in brain structure, function, and resting-state connectivity in AUD, but few use a multimodal approach to understand the association between severity of alcohol use and the brain differences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30921611

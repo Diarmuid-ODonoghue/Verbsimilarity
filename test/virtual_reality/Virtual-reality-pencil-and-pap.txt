@@ -1,0 +1,3 @@
+Hemispatial neglect is a common disorder that can occur after a lesion in the right hemisphere. Its main characterization is the difficulty in processing visual stimuli emanating from the space contralateral to the lesion. Pencil and paper tests (such as target cancellation, line bisection, or drawing copy) are used to diagnose neglect. We propose using virtual reality technology and haptic force feedback to enhance pencil and paper tests. Our system can track the patients' eye-gaze and their hand movements. Also, the efficiency of several techniques used to decrease the neglect in different sensory spaces are investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16640478

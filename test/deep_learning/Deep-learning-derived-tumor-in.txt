@@ -1,0 +1,3 @@
+Glioblastoma is routinely treated by concomitant radiochemotherapy. Current target definition guidelines use anatomic MRI (magnetic resonance imaging) scans, taking into account contrast enhancement and the rather unspecific hyperintensity on the fluid-attenuated inversion recovery (FLAIR) sequence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31302391

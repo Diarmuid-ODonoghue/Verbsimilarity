@@ -1,0 +1,3 @@
+The SARS-CoV-2-infection can be seen as a single disease but also affects patients with relevant comorbidities who may have an increased risk of a severe course of infection. In this report, we present a 77-year old patient with a heart transplant under relevant immunosuppressive therapy who was tested positive for SARS-CoV-2 after several days of dyspnoea, dry cough and light general symptoms. The CT-scan confirmed an interstitial pneumonia. The patient received an antiviral therapy with hydroxychloroquine showing no further deterioration of the clinical state. After 12 days of hospitalisation the patient was released SARS-CoV-2 negative and completely asymptomatic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32319218

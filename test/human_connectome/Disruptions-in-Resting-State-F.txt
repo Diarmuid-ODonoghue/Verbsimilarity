@@ -1,0 +1,3 @@
+Insomnia is prevalent in bipolar disorder (BD) even during periods of euthymic mood. We compared resting state brain activity and cognitive function between euthymic BD with and without insomnia, and secondarily to healthy individuals. BD patients with insomnia symptoms showed a significantly lower functional connectivity within the task-positive network, compared to those without insomnia. They also showed significantly slower cognitive processing speed. These two features of BD with insomnia appeared relatively independent of each other. Preliminary findings suggest that exploration of the mechanisms of sleep disturbance in BD could lead to improved understanding and treatment of inattention in BD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29572076

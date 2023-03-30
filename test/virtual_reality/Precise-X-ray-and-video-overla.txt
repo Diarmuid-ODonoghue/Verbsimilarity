@@ -1,0 +1,3 @@
+The camera-augmented mobile C-arm (CamC) augments any mobile C-arm by a video camera and mirror construction and provides a co-registration of X-ray with video images. The accurate overlay between these images is crucial to high-quality surgical outcomes. In this work, we propose a practical solution that improves the overlay accuracy for any C-arm orientation by: (i) improving the existing CamC calibration, (ii) removing distortion effects, and (iii) accounting for the mechanical sagging of the C-arm gantry due to gravity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22592259

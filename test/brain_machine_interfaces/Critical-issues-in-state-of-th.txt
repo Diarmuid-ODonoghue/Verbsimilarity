@@ -1,0 +1,3 @@
+This paper reviews several critical issues facing signal processing for brain-computer interfaces (BCIs) and suggests several recent approaches that should be further examined. The topics were selected based on discussions held during the 4th International BCI Meeting at a workshop organized to review and evaluate the current state of, and issues relevant to, feature extraction and translation of field potentials for BCIs. The topics presented in this paper include the relationship between electroencephalography and electrocorticography, novel features for performance prediction, time-embedded signal representations, phase information, signal non-stationarity, and unsupervised adaptation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21436519

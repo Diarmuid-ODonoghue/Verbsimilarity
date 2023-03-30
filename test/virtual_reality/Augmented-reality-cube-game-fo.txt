@@ -1,0 +1,3 @@
+There is the potential that cognitive activity may delay cognitive decline in people with mild cognitive impairment. Games provide both cognitive challenge and motivation for repeated use, a prerequisite for long lasting effect. Recent advances in technology introduce several new interaction methods, potentially leading to more efficient, personalized cognitive gaming experiences. In this paper, we present an Augmented Reality (AR) cognitive training game, utilizing cubes as input tools, and we test the cube interaction with a pilot study. The results of the study revealed the marker occlusion problem, and that novice AR users can adjust to the developed AR environment after a small number of sessions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24851967

@@ -1,0 +1,3 @@
+In a previous study it was observed that participants increase their walking speed during a dual task while walking on a self-paced treadmill in a virtual reality (VR) environment (Gait Real time Analysis Interactive Lab (GRAIL)). This observation is in contrast with the limited resources hypothesis, which suggests walking speed of healthy persons to decrease when performing a cognitive dual task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31330475

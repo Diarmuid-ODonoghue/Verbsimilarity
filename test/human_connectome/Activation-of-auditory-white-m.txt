@@ -1,0 +1,3 @@
+The ability of functional magnetic resonance imaging (fMRI) to detect activation in brain white matter (WM) is controversial. In particular, studies on the functional activation of WM tracts in the central auditory system are scarce. We utilized fMRI to assess and characterize the entire auditory WM pathway under robust experimental conditions involving the acquisition of a large number of functional volumes, the application of broadband auditory stimuli of high intensity, and the use of sparse temporal sampling to avoid scanner noise effects and increase signal-to-noise ratio.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24736936

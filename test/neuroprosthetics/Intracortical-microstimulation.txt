@@ -1,0 +1,3 @@
+Intracortical microstimulation is one of the most common techniques to causally interfere with neuronal processing, but neuronal recordings spanning the whole cortical depth during stimulation are exceptionally rare.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28284918

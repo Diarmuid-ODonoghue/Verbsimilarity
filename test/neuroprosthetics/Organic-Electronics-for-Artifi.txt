@@ -1,0 +1,3 @@
+Artificial restoration of touch is an active area of research in neuroprosthetics. However, most approaches do not consider emulating the biological machinery they intend to replace. Recently, Kim et al. proposed a bioinspired artificial touch transducer that closely mimics the behavior of natural sensory afferents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30093073

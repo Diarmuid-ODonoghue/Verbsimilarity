@@ -1,0 +1,3 @@
+Cancer has become a complex health problem due to its high mortality. Over the past few decades, with the rapid development of the high-throughput sequencing technology and the application of various machine learning methods, remarkable progress in cancer research has been made based on gene expression data. At the same time, a growing amount of high-dimensional data has been generated, such as RNA-seq data, which calls for superior machine learning methods able to deal with mass data effectively in order to make accurate treatment decision.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30415723

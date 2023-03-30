@@ -1,0 +1,3 @@
+Identification and quantification of DNA damage is a very significant subject in biomedical research area which still needs more robust and effective methods. One of the cheapest, easy to use and most successful method for DNA damage analyses is comet assay. In this study, performance of Convolutional Neural Network was examined on quantification of DNA damage using comet assay images and was compared to other methods in the literature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31733518

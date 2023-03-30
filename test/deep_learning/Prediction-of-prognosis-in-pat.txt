@@ -1,0 +1,3 @@
+To assess the utility of machine learning algorithms for automatically estimating prognosis in patients with repaired tetralogy of Fallot (ToF) using cardiac magnetic resonance (CMR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32161041

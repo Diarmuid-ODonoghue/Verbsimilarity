@@ -1,0 +1,3 @@
+Simulators provide a potential solution to some of the challenges faced when teaching internal examinations to medical or veterinary students. A virtual reality simulator, the Haptic Cow, has been developed to teach bovine rectal palpation to veterinary students, and significant training benefits have been demonstrated. However, the training needs to be delivered by an instructor, a requirement that limits availability. This article describes the development and evaluation of an automated version that students could use on their own.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21330807

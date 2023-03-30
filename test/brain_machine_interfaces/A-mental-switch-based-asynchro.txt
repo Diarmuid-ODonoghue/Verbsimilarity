@@ -1,0 +1,3 @@
+In the present study, we developed a mental switch-based asynchronous brain-computer interface for 2D cursor control. Two mental switches were designed: one was to switch from non-intentional to intentional control state, and the other one for conducting the reverse process. 2D control and mental switches are all based on three-class motor imagery. With four subjects participating in the study, the experimental results demonstrated the efficiency of the proposed asynchronous 2D control strategy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110384

@@ -1,0 +1,3 @@
+The aim of this paper is to provide an efficient, parametric, general, and completely automatic real time classification method of electroencephalography (EEG) signals obtained from self-induced emotions. The particular characteristics of the considered low-amplitude signals (a self-induced emotion produces a signal whose amplitude is about 15% of a really experienced emotion) require exploring and adapting strategies like the Wavelet Transform, the Principal Component Analysis (PCA) and the Support Vector Machine (SVM) for signal processing, analysis and classification. Moreover, the method is thought to be used in a multi-emotions based Brain Computer Interface (BCI) and, for this reason, an ad hoc shrewdness is assumed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26358282

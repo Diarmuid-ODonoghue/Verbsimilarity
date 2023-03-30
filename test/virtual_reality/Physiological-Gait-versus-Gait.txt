@@ -1,0 +1,3 @@
+Virtual reality (VR) is increasingly often finding applications in physiotherapy and health promotion. Recent years have seen the use of advanced technologies in the promotion of physical activity (PA) in society. New simulators, e.g., treadmills, enable the performance of PA (e.g., locomotive movements) in VR (artificially created virtual world). The question of how such movements are similar to natural forms of human locomotion (march, run) inspired the comparative analysis of physiological gait and gait in VR on a multidirectional Omni treadmill.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31443382

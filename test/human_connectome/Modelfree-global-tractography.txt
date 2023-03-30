@@ -1,0 +1,3 @@
+Tractography based on diffusion-weighted MRI investigates the large scale arrangement of the neurite fibers in brain white matter. It is usually assumed that the signal is a convolution of a fiber specific response function (FRF) with a fiber orientation distribution (FOD). The FOD is the focus of tractography. While in the past the FRF was estimated beforehand and was usually assumed to be fix, more recent approaches estimate the response function during tractography. This work proposes a novel objective function independent of the FRF, just aiming for FOD reconstruction. The objective is integrated into global tractography showing promising results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29604458

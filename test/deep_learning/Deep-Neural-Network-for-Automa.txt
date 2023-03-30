@@ -1,0 +1,3 @@
+This study proposes an automated prostate cancer (PC) lesion characterization method based on the deep neural network to determine tumor burden on 68Ga-PSMA-11 PET/CT to potentially facilitate the optimization of PSMA-directed radionuclide therapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31813050

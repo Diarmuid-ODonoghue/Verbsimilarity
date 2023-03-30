@@ -1,0 +1,3 @@
+Non-contact vital sign monitoring enables the estimation of vital signs, such as heart rate, respiratory rate and oxygen saturation (SpO2), by measuring subtle color changes on the skin surface using a video camera. For patients in a hospital ward, the main challenges in the development of continuous and robust non-contact monitoring techniques are the identification of time periods and the segmentation of skin regions of interest (ROIs) from which vital signs can be estimated. We propose a deep learning framework to tackle these challenges.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31661680

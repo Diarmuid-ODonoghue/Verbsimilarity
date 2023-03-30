@@ -1,0 +1,3 @@
+Real-time simulation of thread and knot-tying with visual and force feedback is an essential part of virtual reality laparoscopic training. This paper presents a physics-based thread simulator that enables realistic knot tying at haptic rendering rate. The virtual thread follows Newton's law and behaves naturally. The model considers main mechanical properties of the real thread such as stretching, compressing, bending and twisting, as well as contact forces due to self-collision and interaction with the environment, and the effect of gravity. The structure of the system has essential advantages over geometrically based approaches, as was illustrated in an implementation on the Xitact simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17281571

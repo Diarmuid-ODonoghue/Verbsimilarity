@@ -1,0 +1,3 @@
+Over the last two decades, virtual reality, haptics, simulators, robotics, and other "advanced technologies" have emerged as important innovations in medical learning and practice. In the 21st century, however, it is important to continue to develop simple teaching aids which are available to large audiences in low and middle-income countries. We present a simple 'escharotomy simulator' which has been well received, resulting in an increase in knowledge, and an increase in confidence to carry out the procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18206313

@@ -1,0 +1,3 @@
+To fast and accurately reconstruct human lung gas MRI from highly undersampled k-space using deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31322298

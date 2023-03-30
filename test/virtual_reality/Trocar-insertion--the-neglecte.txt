@@ -1,0 +1,3 @@
+We hypothesized that simulation based practice will results in skill improvement on trocar insertion task. Novices, junior trainees and surgeons inserted a trocar into a simulated abdomen. The depth of penetration (plunge) was the similar for novice and junior trainees (p=.98), and exceeded that observed for practicing surgeons (p<.05). Trocar insertion may be an important variable to consider for surgical skill training. To date, no virtual reality (VR) trainers allow for practice of this skill. We will present a prototype of a VR trainer designed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391255

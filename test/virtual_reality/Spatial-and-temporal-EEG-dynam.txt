@@ -1,0 +1,3 @@
+Driver distraction is a significant cause of traffic accidents. The aim of this study is to investigate Electroencephalography (EEG) dynamics in relation to distraction during driving. To study human cognition under a specific driving task, simulated real driving using virtual reality (VR)-based simulation and designed dual-task events are built, which include unexpected car deviations and mathematics questions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21332977

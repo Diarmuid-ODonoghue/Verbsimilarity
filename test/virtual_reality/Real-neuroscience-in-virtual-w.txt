@@ -1,0 +1,3 @@
+Virtual reality (VR) holds great promise as a tool to study the neural circuitry underlying animal behaviors. Here, we discuss the advantages of VR and the experimental paradigms and technologies that enable closed loop behavioral experiments. We review recent results from VR research in genetic model organisms where the potential combination of rich behaviors, genetic tools and cutting edge neural recording techniques are leading to breakthroughs in our understanding of the neural basis of behavior. We also discuss several key issues to consider when performing VR experiments and provide an outlook for the future of this exciting experimental toolkit.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22138559

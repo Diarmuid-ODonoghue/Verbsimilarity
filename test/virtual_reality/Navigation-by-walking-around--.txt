@@ -1,0 +1,3 @@
+This paper describes a new virtual reality (VR) locomotion input device, the Pressure Mat, which allows a simulator user to navigate/traverse a virtual environment (VE) using similar motions as in the real world; i.e., walk, run, crawl. The device consists of an array of pressure sensitive resistors covered by a thin, flexible mat. The resistor array is connected to a personal computer (PC) that uses a real-time pattern recognition algorithm to determine if the user is standing still, or walking forward, backward, left or right. The information from the Pressure Mat was used to allow users to navigate in a VE. The Pressure Mat may also be useful in the diagnosis of a variety of conditions and/or in rehabilitative therapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458068

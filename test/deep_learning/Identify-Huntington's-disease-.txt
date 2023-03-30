@@ -1,0 +1,3 @@
+Predicting disease-associated genes is helpful for understanding the molecular mechanisms during the disease progression. Since the pathological mechanisms of neurodegenerative diseases are very complex, traditional statistic-based methods are not suitable for identifying key genes related to the disease development. Recent studies have shown that the computational models with deep structure can learn automatically the features of biological data, which is useful for exploring the characteristics of gene expression during the disease progression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29020921

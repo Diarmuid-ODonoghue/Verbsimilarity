@@ -1,0 +1,3 @@
+In this manuscript, we propose a novel framework of computational ghost imaging, i.e., ghost imaging using deep learning (GIDL). With a set of images reconstructed using traditional GI and the corresponding ground-truth counterparts, a deep neural network was trained so that it can learn the sensing model and increase the quality image reconstruction. Moreover, detailed comparisons between the image reconstructed using deep learning and compressive sensing shows that the proposed GIDL has a much better performance in extremely low sampling rate. Numerical simulations and optical experiments were carried out for the demonstration of the proposed GIDL.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29259269

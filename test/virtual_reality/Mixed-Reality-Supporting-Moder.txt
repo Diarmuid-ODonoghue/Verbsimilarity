@@ -1,0 +1,3 @@
+The paper presents new learning support for medical students exemplifying with several 3D applications for training on specific topics in medicine and investigates the impact on medical students. The applications were built using new concepts: Virtual Reality, Augmented Reality, as environments agreed by young people, and gamification to make learning easy and fun. Leap Motion and the VR headset are the devices to control the applications and provide a better human-computer/mobile phone interaction as compared to the current ones. The concepts and the new technologies to display/visualize the applications are the core of the Mixed Reality concept resulting from combining the 4 applications implemented for medical education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30306945

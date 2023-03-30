@@ -1,0 +1,3 @@
+Radiology reports are rich resources for biomedical researchers. Before utilization of radiology reports, experts must manually review these reports to identify the categories. In fact, automatically categorizing electronic medical record (EMR) text with key annotation is difficult because it has a free-text format. To address these problems, we developed an automated system for disease annotation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30699011

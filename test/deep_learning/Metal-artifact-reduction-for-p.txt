@@ -1,0 +1,3 @@
+Metal artifact is a quite common problem in diagnostic dental computed tomography (CT) images. Due to the high attenuation of heavy materials such as metal, severe global artifacts can occur in reconstructions. Typical metal artifact reduction (MAR) techniques segment out the metal regions and estimate the corrupted projection data by various interpolation methods. However, interpolations are not accurate and introduce new artifacts or even deform the teeth in the reconstructed image. This work presents a new strategy to take advantage of the power of deep learning for metal artifact reduction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31811792

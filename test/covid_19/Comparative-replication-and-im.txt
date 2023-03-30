@@ -1,0 +1,3 @@
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is an emerging coronavirus that has resulted in nearly 1,000,000 laboratory-confirmed cases including over 50,000 deaths. Although SARS-CoV-2 and SARS-CoV share a number of common clinical manifestations, SARS-CoV-2 appears to be highly efficient in person-to-person transmission and frequently cause asymptomatic infections. However, the underlying mechanism that confers these viral characteristics on high transmissibility and asymptomatic infection remain incompletely understood.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32270184

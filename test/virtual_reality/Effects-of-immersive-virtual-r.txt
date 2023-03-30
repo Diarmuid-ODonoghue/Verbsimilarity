@@ -1,0 +1,3 @@
+Venipuncture is one of the most painful and distressing procedure experienced by pediatric patients. Evidence suggests that distraction combined with age-appropriate procedural information can effectively decrease procedural pain and anxiety in pediatric patients. Immersive virtual reality (IVR) can simultaneously provide complete distraction and procedural information to patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31221208

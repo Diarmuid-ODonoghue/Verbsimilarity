@@ -1,0 +1,3 @@
+To develop an automated treatment planning strategy for external beam intensity-modulated radiation therapy (IMRT), including a deep learning-based three-dimensional (3D) dose prediction and a dose distribution-based plan generation algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30383300

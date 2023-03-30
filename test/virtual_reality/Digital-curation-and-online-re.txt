@@ -1,0 +1,3 @@
+Collection preservation is essential for the cultural status of any city. However, presenting a collection publicly risks damage. Recently this drawback has been overcome by digital curation. Described here is a method of digitisation using photogrammetry and virtual reality software. Items were selected from the Royal College of Physicians and Surgeons of Glasgow archives, and implemented into an online learning module for the Open University. Images were processed via Agisoft Photoscan, Autodesk Memento, and Garden Gnome Object 2VR. Although problems arose due to specularity, 2VR digital models were developed for online viewing. Future research must minimise the difficulty of digitising specular objects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28434385

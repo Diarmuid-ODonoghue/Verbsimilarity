@@ -1,0 +1,3 @@
+Identifying carcinoma subtype can help to select appropriate treatment options and determining the subtype of benign lesions can be beneficial to estimate the patients' risk of developing cancer in the future. Pathologists' assessment of lesion subtypes is considered as the gold standard, however, sometimes strong disagreements among pathologists for distinction among lesion subtypes have been previously reported in the literature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29705552

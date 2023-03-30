@@ -1,0 +1,3 @@
+Deep learning neural networks are especially potent at dealing with structured data, such as images and volumes. Both modified LiviaNET and HyperDense-Net performed well at a prior competition segmenting 6-month-old infant magnetic resonance images, but neonatal cerebral tissue type identification is challenging given its uniquely inverted tissue contrasts. The current study aims to evaluate the two architectures to segment neonatal brain tissue types at term equivalent age.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32273836

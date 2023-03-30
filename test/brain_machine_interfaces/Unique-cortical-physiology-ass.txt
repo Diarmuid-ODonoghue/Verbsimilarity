@@ -1,0 +1,3 @@
+Brain computer interfaces (BCIs) offer little direct benefit to patients with hemispheric stroke because current platforms rely on signals derived from the contralateral motor cortex (the same region injured by the stroke). For BCIs to assist hemiparetic patients, the implant must use unaffected cortex ipsilateral to the affected limb. This requires the identification of distinct electrophysiological features from the motor cortex associated with ipsilateral hand movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18927456

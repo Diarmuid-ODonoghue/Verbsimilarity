@@ -1,0 +1,3 @@
+X-ray imaging is a crucial and ubiquitous tool for detecting threats to transport security, but interpretation of the images presents a logistical bottleneck. Recent advances in Deep Learning image classification offer hope of improving throughput through automation. However, Deep Learning methods require large quantities of labelled training data. While photographic data is cheap and plentiful, comparable training sets are seldom available for the X-ray domain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31658095

@@ -1,0 +1,3 @@
+Virtual reality based surgical simulators offer a very elegant approach to enhancing traditional training in endoscopic surgery. In this context a realistic soft tissue model is of central importance. The most accurate procedures for modeling elastic deformations of tissue use the Finite Element Method (FEM) to solve the governing mechanical equations. An alternative are mass-spring models which are a crude approximation of the real physical behavior. The main reason given when using the mass-spring approach is the computational complexity of FEM. In this study we show that an optimized linear FEM model requires computation time similar to the mass-spring approach, while giving better results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455873

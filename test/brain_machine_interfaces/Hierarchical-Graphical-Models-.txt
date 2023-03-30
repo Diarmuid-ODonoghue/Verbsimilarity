@@ -1,0 +1,3 @@
+We present a novel hierarchical graphical model based context-aware hybrid brain-machine interface (hBMI) using probabilistic fusion of electroencephalographic (EEG) and electromyographic (EMG) activities. Based on experimental data collected during stationary executions and subsequent imageries of five different hand gestures with both limbs, we demonstrate feasibility of the proposed hBMI system through within session and online across sessions classification analyses. Furthermore, we investigate the context-aware extent of the model by a simulated probabilistic approach and highlight potential implications of our work in the field of neurophysiologically-driven robotic hand prosthetics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30440783

@@ -1,0 +1,3 @@
+To develop a deep learning-based method for automated classification of renal cell carcinoma (RCC) from benign solid renal masses using contrast-enhanced computed tomography (CECT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32350661

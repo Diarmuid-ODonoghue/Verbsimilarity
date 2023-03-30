@@ -1,0 +1,3 @@
+Ultrasound imaging is routinely used in prostate biopsy, which involves obtaining prostate tissue samples using a systematic, yet, non-targeted approach. This approach is blinded to individual patient intraprostatic pathology, and unfortunately, has a high rate of false negatives.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32356095

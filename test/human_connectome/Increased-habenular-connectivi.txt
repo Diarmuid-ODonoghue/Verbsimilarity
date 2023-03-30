@@ -1,0 +1,3 @@
+Opioid use disorder (OUD) is a chronic disorder with relapse based on both desire for reinforcement (craving) and avoidance of withdrawal. The aversive aspect of dependence and relapse has been associated with a small brain structure called the habenula, which expresses large numbers of both opioid and nicotinic receptors. Additionally, opioid withdrawal symptoms can be induced in opioid-treated rodents by blocking not only opioid, but also nicotinic receptors. This receptor co-localization and cross-induction of withdrawal therefore might lead to genetic variation in the nicotinic receptor influencing development of human opioid dependence through its impact on the aversive components of opioid dependence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28857330

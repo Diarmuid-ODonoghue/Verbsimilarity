@@ -1,0 +1,3 @@
+Computerized prescreening of suspicious moles and lesions for malignancy is of great importance for assessing the need and the priority of the removal surgery. Detection can be done by images captured by standard cameras, which are more preferable due to low cost and availability. One important step in computerized evaluation is accurate detection of lesion's region, i.e., segmentation of an image into two regions as lesion and normal skin.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28342106

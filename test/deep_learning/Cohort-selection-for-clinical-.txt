@@ -1,0 +1,3 @@
+The goal of the 2018 n2c2 shared task on cohort selection for clinical trials (track 1) is to identify which patients meet the selection criteria for clinical trials. Cohort selection is a particularly demanding task to which natural language processing and deep learning can make a valuable contribution. Our goal is to evaluate several deep learning architectures to deal with this task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31532478

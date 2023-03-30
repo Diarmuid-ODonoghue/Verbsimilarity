@@ -1,0 +1,3 @@
+To detect attributes of medical concepts in clinical text, a traditional method often consists of two steps: named entity recognition of attributes and then relation classification between medical concepts and attributes. Here we present a novel solution, in which attribute detection of given concepts is converted into a sequence labeling problem, thus attribute entity recognition and relation classification are done simultaneously within one step.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31801529

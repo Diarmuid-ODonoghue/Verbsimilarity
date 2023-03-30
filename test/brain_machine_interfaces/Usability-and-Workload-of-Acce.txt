@@ -1,0 +1,3 @@
+Eye trackers are widely used among people with amyotrophic lateral sclerosis, and their benefits to quality of life have been previously shown. On the contrary, Brain-computer interfaces (BCIs) are still quite a novel technology, which also serves as an access technology for people with severe motor impairment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25753951

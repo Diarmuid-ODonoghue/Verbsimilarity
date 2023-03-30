@@ -1,0 +1,3 @@
+Radiotherapy is one of the main treatment methods for nasopharyngeal carcinoma (NPC). It requires exact delineation of the nasopharynx gross tumor volume (GTVnx), the metastatic lymph node gross tumor volume (GTVnd), the clinical target volume (CTV), and organs at risk in the planning computed tomography images. However, this task is time-consuming and operator dependent. In the present study, we developed an end-to-end deep deconvolutional neural network (DDNN) for segmentation of these targets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29376025

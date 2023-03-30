@@ -1,0 +1,3 @@
+The novel coronavirus 2019-nCoV first appeared in December 2019 in Wuhan, China. While most of the initial cases were linked to the Huanan Seafood Wholesale Market, person-to-person transmission has been verified. Given that a vaccine cannot be developed and deployed for at least a year, preventing further transmission relies upon standard principles of containment, two of which are the isolation of known cases and the quarantine of persons believed at high risk of exposure. This note presents probability models for assessing the effectiveness of case isolation and quarantine within a community during the initial phase of an outbreak with illustrations based on early observations from Wuhan.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32146554

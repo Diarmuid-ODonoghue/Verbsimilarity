@@ -1,0 +1,3 @@
+A comrputer-generated scoring system identities people at high risk of unplanned hospital admission, allowing community staff to intervene early and provide necessary care.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18274406

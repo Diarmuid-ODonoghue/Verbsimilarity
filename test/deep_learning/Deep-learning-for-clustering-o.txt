@@ -1,0 +1,3 @@
+Precision medicine requires a stratification of patients by disease presentation that is sufficiently informative to allow for selecting treatments on a per-patient basis. For many diseases, such as neurological disorders, this stratification problem translates into a complex problem of clustering multivariate and relatively short time series because (i) these diseases are multifactorial and not well described by single clinical outcome variables and (ii) disease progression needs to be monitored over time. Additionally, clinical data often additionally are hindered by the presence of many missing values, further complicating any clustering attempts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31730697

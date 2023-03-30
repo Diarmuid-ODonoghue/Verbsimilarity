@@ -1,0 +1,3 @@
+Osteoporosis is a prevalent and treatable condition, but it remains underdiagnosed. In this study, a deep learning-based system was developed to automatically measure bone mineral density (BMD) for opportunistic osteoporosis screening using low-dose chest computed tomography (LDCT) scans obtained for lung cancer screening.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32072260

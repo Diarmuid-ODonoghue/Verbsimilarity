@@ -1,0 +1,3 @@
+Recently, innovative attempts have been made to identify moyamoya disease (MMD) by focusing on the morphological differences in the head of MMD patients. Following the recent revolution in the development of deep learning (DL) algorithms, we designed this study to determine whether DL can distinguish MMD in plain skull radiograph images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30598372

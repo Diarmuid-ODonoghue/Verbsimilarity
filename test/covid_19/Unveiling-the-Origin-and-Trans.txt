@@ -1,0 +1,3 @@
+A novel coronavirus has caused thousands of human infections in China since December 2019, raising a global public health concern. Recent studies (Huang et al., Chan et al., and Zhou et al.) have provided timely insights into its origin and ability to spread among humans, informing infection prevention and control practices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32155431

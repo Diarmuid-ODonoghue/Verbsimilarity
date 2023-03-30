@@ -1,0 +1,3 @@
+Chest radiography is a useful noninvasive modality to evaluate pulmonary blood flow status in patients with congenital heart disease. However, the predictive value of chest radiography is limited by the subjective and qualitive nature of the interpretation. Recently, deep learning has been used to analyze various images, but it has not been applied to analyzing chest radiographs in such patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31968049

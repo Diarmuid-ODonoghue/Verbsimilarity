@@ -1,0 +1,3 @@
+Microscopy remains the gold standard in the diagnosis of neglected tropical diseases. As resource limited, rural areas often lack laboratory equipment and trained personnel, new diagnostic techniques are needed. Low-cost, point-of-care imaging devices show potential in the diagnosis of these diseases. Novel, digital image analysis algorithms can be utilized to automate sample analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28838305

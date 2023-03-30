@@ -1,0 +1,3 @@
+Transplantation is one potential clinical application of neural stem cells (NSCs). However, it is very difficult to monitor/control NSCs after transplantation and so provide effective treatment. Electrical measurement using a poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate) (PEDOT-PSS) modified microelectrode array (MEA) is a biocompatible, non-invasive, non-destructive approach to understanding cell conditions. This property makes continuous monitoring available for the evaluation/assessment of the development of cells such as NSCs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23454350

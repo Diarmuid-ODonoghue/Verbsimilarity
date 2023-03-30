@@ -1,0 +1,3 @@
+Much attention has been given to machine learning and its perceived impact in radiology, particularly in light of recent success with image classification in international competitions. However, machine learning is likely to impact radiology outside of image interpretation long before a fully functional "machine radiologist" is implemented in practice. Here, we describe an overview of machine learning, its application to radiology and other domains, and many cases of use that do not involve image interpretation. We hope that better understanding of these potential applications will help radiology practices prepare for the future and realize performance improvement and efficiency gains.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29158061

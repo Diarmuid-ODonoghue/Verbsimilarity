@@ -1,0 +1,3 @@
+Patient-specific quality assurance (QA) measurement is conducted to confirm the accuracy of dose delivery. However, measurement is time-consuming and places a heavy workload on the medical physicists and radiological technologists. In this study, we proposed a prediction model for gamma evaluation, based on deep learning. We applied the model to a QA measurement dataset of prostate cancer cases to evaluate its practicality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30066388

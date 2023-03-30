@@ -1,0 +1,3 @@
+Local specific absorption rate (SAR) cannot be measured and is usually evaluated by offline numerical simulations using generic body models that of course will differ from the patient's anatomy. An additional safety margin is needed to include this intersubject variability. In this work, we present a deep learning-based method for image-based subject-specific local SAR assessment. We propose to train a convolutional neural network to learn a "surrogate SAR model" to map the relation between subject-specific B 1 +  maps and the corresponding local SAR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31483521

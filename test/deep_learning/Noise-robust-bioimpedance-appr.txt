@@ -1,0 +1,3 @@
+Congestive heart failure is a problem affecting millions of Americans. A continuous, non-invasive, telemonitoring device that can accurately monitor cardiac metrics could greatly help this population, reducing unnecessary hospitalizations and cost.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30840932

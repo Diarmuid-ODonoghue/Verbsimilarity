@@ -1,0 +1,3 @@
+In recent years, brain-computer interface (BCI) systems based on electroencephalography (EEG) have developed rapidly. However, the decoding of voluntary finger pre-movements from EEG is still a challenge for BCIs. This study aimed to analyze the pre-movement EEG features in time and frequency domains and design an efficient method to decode the movement-related patterns.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31747642

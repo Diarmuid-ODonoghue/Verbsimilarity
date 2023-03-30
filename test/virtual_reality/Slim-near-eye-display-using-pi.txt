@@ -1,0 +1,3 @@
+We report a new technique for building a wide-angle, lightweight, thin-form-factor, cost-effective, easy-to-manufacture near-eye head-mounted display (HMD) for virtual reality applications. Our approach adopts an aperture mask containing an array of pinholes and a screen as a source of imagery. We demonstrate proof-of-concept HMD prototypes with a binocular field of view (FOV) of 70°×45°, or total diagonal FOV of 83°. This FOV should increase with increasing display panel size. The optical angular resolution supported in our prototype can go down to 1.4-2.1 arcmin by adopting a display with 20-30 μm pixel pitch.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25967333

@@ -1,0 +1,3 @@
+The analysis of real-life data from hospital information systems could make possible to decide on the efficacy and safety of Covid-19 treatments by avoiding the pitfalls of preliminary studies and randomized clinical trials. The different drugs tested in current clinical trials are already widely prescribed to patients by doctors in hospitals, and can therefore be immediately analysed according to validated methodological standards.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32362504

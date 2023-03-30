@@ -1,0 +1,3 @@
+The definition of health information is growing to include multimedia audio, video, and high-resolution still images. This article describes the telemedicine program at East Carolina University School of Medicine, including the telemedicine applications presently in use and the virtual reality applications currently under development' Included are the major design criteria that shape the telemedicine network some of the lessons learned in developing the network, and a discussion of the future of telemedicine, including efforts to incorporate telemedicine within a fully integrated health information system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/8988467

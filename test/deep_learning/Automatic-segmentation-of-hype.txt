@@ -1,0 +1,3 @@
+The leading cause of vision loss in the Western World is Age-related Macular Degeneration (AMD), but together with modern medicines, tracking the number of Hyperreflective Foci (HF) on Optical Coherence Tomography (OCT) images should assist the treatment of patients. Here, we developed a framework based on deep learning for the automatic segmentation of HF in OCT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31416566

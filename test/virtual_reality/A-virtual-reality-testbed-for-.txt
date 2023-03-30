@@ -1,0 +1,3 @@
+Virtual reality promises to extend the realm of possible brain-computer interface (BCI) prototypes. Most of the work using electroencephalograph (EEG) signals in VR has focussed on brain-body actuated control, where biological signals from the body as well as the brain are used. We show that when subjects are allowed to move and act normally in an immersive virtual environment, cognitive evoked potential signals can still be obtained and used reliably. A single trial accuracy average of 85% for recognizing the differences between evoked potentials at red and yellow stop lights will be presented and future directions discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10896182

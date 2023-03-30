@@ -1,0 +1,3 @@
+Surgical simulations play an increasingly important role in surgeon education and developing algorithms that enable robots to perform surgical subtasks. To model anatomy, finite element method (FEM) simulations have been held as the gold standard for calculating accurate soft tissue deformation. Unfortunately, their accuracy is highly dependent on the simulation parameters, which can be difficult to obtain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32323207

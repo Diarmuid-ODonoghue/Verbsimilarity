@@ -1,0 +1,3 @@
+The traditional approach to head and neck reconstruction is considered challenging, requiring a subjective assessment of an often-complex defect followed by careful modelling of a bony flap to match this. The introduction of Virtual Surgical Planning (VSP) has provided the surgeon with a means to increase efficiency, precision and overall patient outcomes. This study aims to compare VSP and traditional head and neck reconstructions utilising fibula free flaps with regards surgical efficiency and patient outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31324403

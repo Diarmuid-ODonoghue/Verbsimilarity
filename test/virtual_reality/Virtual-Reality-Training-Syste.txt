@@ -1,0 +1,3 @@
+This article presents a hardware/software simulation environment suitable for anytime/anywhere surgical skills training. It blends the advantages of physical hardware and task analogs with the flexibility of virtual environments. This is further enhanced by a web-based implementation of training feedback accessible to both trainees and trainers. Our training system provides a self-paced and interactive means to attain proficiency in basic tasks that could potentially be applied across a spectrum of trainees from first responder field medical personnel to physicians. This results in a powerful training tool for surgical skills acquisition relevant to helping injured warfighters.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29635551

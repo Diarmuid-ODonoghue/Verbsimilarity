@@ -1,0 +1,3 @@
+Esophagogastroduodenoscopy (EGD) is the pivotal procedure in the diagnosis of upper gastrointestinal lesions. However, there are significant variations in EGD performance among endoscopists, impairing the discovery rate of gastric cancers and precursor lesions. The aim of this study was to construct a real-time quality improving system, WISENSE, to monitor blind spots, time the procedure and automatically generate photodocumentation during EGD and thus raise the quality of everyday endoscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30858305

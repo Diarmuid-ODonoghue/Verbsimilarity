@@ -1,0 +1,3 @@
+Photovoltaic retinal prostheses theoretically offer the possibility of stand-alone high-resolution electrical stimulation of the retina. However, achieving focused epiretinal stimulation is particularly challenging because of axonal activation and electrical cell coupling. Recent evidence shows that long electric pulses permit a more focal activation of retinal ganglion cells, and non-rectangular waveforms induce higher network-mediated indirect activity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31387092

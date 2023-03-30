@@ -1,0 +1,3 @@
+The wide adoption of electronic health record systems (EHRs) in hospitals in China has made large amounts of data available for clinical research including breast cancer. Unfortunately, much of detailed clinical information is embedded in clinical narratives e.g., breast radiology reports. The American College of Radiology (ACR) has developed a Breast Imaging Reporting and Data System (BI-RADS) to standardize the clinical findings from breast radiology reports.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30342682

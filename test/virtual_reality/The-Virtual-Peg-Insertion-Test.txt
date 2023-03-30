@@ -1,0 +1,3 @@
+This paper introduces a novel assessment tool to provide clinicians with quantitative and more objective measures of upper limb coordination in patients suffering from Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay (ARSACS). The Virtual Peg Insertion Test (VPIT) involves manipulating an instrumented handle in order to move nine pegs into nine holes displayed in a virtual environment. The main outcome measures were the number of zero-crossings of the hand acceleration vector, as a measure of movement coordination and the total time required to complete the insertion of the nine pegs, as a measure of overall upper limb performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25439167

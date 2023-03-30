@@ -1,0 +1,3 @@
+While deep-learning algorithms have demonstrated outstanding performance in semantic image segmentation tasks, large annotation datasets are needed to create accurate models. Annotation of histology images is challenging due to the effort and experience required to carefully delineate tissue structures, and difficulties related to sharing and markup of whole-slide images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30726865

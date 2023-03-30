@@ -1,0 +1,3 @@
+Heart failure (HF) is a type of cardiovascular disease caused by abnormal cardiac structure and function. Early screening of HF has important implication for treatment in a timely manner. Heart sound (HS) conveys relevant information related to HF; this study is therefore based on the analysis of HS signals. The objective is to develop an efficient tool to identify subjects of normal, HF with preserved ejection fraction and HF with reduced ejection fraction automatically.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31931811

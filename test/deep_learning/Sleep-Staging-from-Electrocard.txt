@@ -1,0 +1,3 @@
+Sleep is reflected not only in the electroencephalogram but also in heart rhythms and breathing patterns. We hypothesized that it is possible to accurately stage sleep based on the electrocardiogram (ECG) and respiratory signals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31863111

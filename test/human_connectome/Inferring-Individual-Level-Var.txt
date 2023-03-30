@@ -1,0 +1,3 @@
+Functional parcellation of the cerebral cortex is variable across different subjects or between cognitive states. Ignoring individual-or state-dependent variations in the functional parcellation may lead to inaccurate representations of individual functional connectivity, limiting the precision of interpretations of differences in individual connectivity profiles. However, it is difficult to infer the individual-level variations due to the relatively low robustness of methods for parcellation of individual subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27875122

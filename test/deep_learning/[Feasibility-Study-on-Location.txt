@@ -1,0 +1,3 @@
+To locate CT images by using the deep learning model based on convolutional neural network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31854536

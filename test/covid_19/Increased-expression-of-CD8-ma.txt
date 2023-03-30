@@ -1,0 +1,3 @@
+Cell-mediated immunity including T-cells (T helper and cytotoxic) plays an essential role in efficient antiviral responses against coronavirus disease-2019 (COVID-19). Therefore, in this study, we evaluated the ratio and expression of CD4 and CD8 markers in COVID-19 patients to clarify the immune characterizations of CD4 and CD8 T-cells in COVID-19 patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32325421

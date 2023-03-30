@@ -1,0 +1,3 @@
+To develop bridging algorithms to score the Veterans Rand-12 (VR-12) scales for comparability to those of the SF-36® for facilitating multi-cohort studies using data from the National Cancer Institute Surveillance, Epidemiology, and End Results Program (SEER) linked to Medicare Health Outcomes Survey (MHOS), and to provide a model for minimizing non-statistical error in pooled analyses stemming from changes to survey instruments over time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29675690

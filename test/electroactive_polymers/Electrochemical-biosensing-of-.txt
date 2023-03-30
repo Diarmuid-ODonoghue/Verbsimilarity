@@ -1,0 +1,3 @@
+We show that target binding onto ferrocene-modified magnetic microparticles (MP-Fc) promotes physical sheltering of the labels. This can be measured electrochemically by CNT wiring, which enhances ten-fold the signals registered compared to direct detection of the MPs alone. As a proof of concept, detection of detergents and antibodies is accomplished. In these preliminary experiments, random binding of 0.01% Tween 20 onto MP-Fc was detectable both voltametrically and impedimetrically after a 2 min incubation. Furthermore, affinity capture of 4 μg mL(-1) of biotinylated antibody by streptavidin MP-Fc could be measured in less than 30 min and even in the presence of 1 mg mL(-1) of BSA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24482799

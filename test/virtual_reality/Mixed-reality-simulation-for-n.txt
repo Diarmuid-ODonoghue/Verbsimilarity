@@ -1,0 +1,3 @@
+Surgical education is moving rapidly to the use of simulation for technical training of residents and maintenance or upgrading of surgical skills in clinical practice. To optimize the learning exercise, it is essential that both visual and haptic cues are presented to best present a real-world experience. Many systems attempt to achieve this goal through a total virtual interface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24051877

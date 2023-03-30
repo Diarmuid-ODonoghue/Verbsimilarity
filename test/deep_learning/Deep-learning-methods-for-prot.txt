@@ -1,0 +1,3 @@
+Deep learning is one of the most powerful machine learning methods that has achieved the state-of-the-art performance in many domains. Since deep learning was introduced to the field of bioinformatics in 2012, it has achieved success in a number of areas such as protein residue-residue contact prediction, secondary structure prediction, and fold recognition. In this work, we developed deep learning methods to improve the prediction of torsion (dihedral) angles of proteins.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28923002

@@ -1,0 +1,3 @@
+The development of modern medical imaging and related technologies, and the increasing requirements for accuracy in clinical diagnosis and treatments give the emergence of a new discipline--virtual imagery in medicine. In this paper, we try to summarize its technical aspects, including virtual reality, 3-D image reconstruction and visualization, virtual endoscopy, and so on.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16104165

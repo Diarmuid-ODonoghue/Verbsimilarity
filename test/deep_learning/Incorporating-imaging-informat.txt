@@ -1,0 +1,3 @@
+To investigate a novel markerless prostate localization strategy using a pre-trained deep learning model to interpret routine projection kilovoltage (kV) X-ray images in image-guided radiation therapy (IGRT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31302347

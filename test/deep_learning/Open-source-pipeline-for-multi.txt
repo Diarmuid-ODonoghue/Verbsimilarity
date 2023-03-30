@@ -1,0 +1,3 @@
+This paper presents an open-source pipeline to train neural networks to segment structures of interest from MRI data. The pipeline is tailored towards homogeneous datasets and requires relatively low amounts of manual segmentations (few dozen, or less depending on the homogeneity of the dataset). Two use-case scenarios for segmenting the spinal cord white and grey matter are presented: one in marmosets with variable numbers of lesions, and the other in the publicly available human grey matter segmentation challenge [1]. The pipeline is freely available at: https://github.com/neuropoly/multiclass-segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31004711

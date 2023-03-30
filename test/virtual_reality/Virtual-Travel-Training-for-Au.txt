@@ -1,0 +1,3 @@
+Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized by impairments in social interaction and repetitive patterns of behavior, which can lead to deficits in adaptive behavior. In this study, a serious game was developed to train individuals with ASD for an important type of outdoor activity, which is the use of buses as a means of transportation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29559425

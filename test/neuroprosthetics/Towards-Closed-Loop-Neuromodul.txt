@@ -1,0 +1,3 @@
+This work reports a platform technology toward the development of closed-loop neuromodulation. A neural implant based on the SoC developed in our laboratory is used as an example to illustrate the necessary functionalities for the efficacious implantable system. We also present an example of using the system to investigate the epidural stimulation for partial motor function recovery after spinal cord injury in a rat model. This hardware-software co-design tool demonstrate its promising potential towards an effective closed-loop neuromodulation for various biomedical applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30410205

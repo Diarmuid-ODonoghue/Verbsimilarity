@@ -1,0 +1,3 @@
+Our overall goal is to develop a reinforcement learning (RL) based decoder for brain machine interfaces. As an important step in this process, we determine the basic stability and convergence properties of a Temporal Difference (TD) RL architecture being driven by a simulated motor cortex.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366627

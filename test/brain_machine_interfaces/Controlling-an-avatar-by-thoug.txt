@@ -1,0 +1,3 @@
+We have developed a brain-computer interface (BCI) system based on real-time functional magnetic resonance imaging (fMRI) with virtual reality feedback. The advantage of fMRI is the relatively high spatial resolution and the coverage of the whole brain; thus we expect that it may be used to explore novel BCI strategies, based on new types of mental activities. However, fMRI suffers from a low temporal resolution and an inherent delay, since it is based on a hemodynamic response rather than electrical signals. Thus, our objective in this paper was to explore whether subjects could perform a BCI task in a virtual environment using our system, and how their performance was affected by the delay.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24834973

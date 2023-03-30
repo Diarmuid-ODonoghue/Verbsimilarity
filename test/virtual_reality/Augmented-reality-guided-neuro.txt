@@ -1,0 +1,3 @@
+An augmented reality system has been developed for image-guided neurosurgery to project images with regions of interest onto the patient's head, skull, or brain surface in real time. The aim of this study was to evaluate system accuracy and to perform the first intraoperative application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25748303

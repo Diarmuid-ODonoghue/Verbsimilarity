@@ -1,0 +1,3 @@
+Fusion of preoperative data with intraoperative X-ray images has proven the potential to reduce radiation exposure and contrast agent, especially for complex endovascular aortic repair (EVAR). Due to patient movement and introduced devices that deform the vasculature, the fusion can become inaccurate. This is usually detected by comparing the preoperative information with the contrasted vessel. To avoid repeated use of iodine, comparison with an implanted stent can be used to adjust the fusion. However, detecting the stent automatically without the use of contrast is challenging as only thin stent wires are visible.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29779153

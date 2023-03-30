@@ -1,0 +1,3 @@
+We describe Quanti.us , a crowd-based image-annotation platform that provides an accurate alternative to computational algorithms for difficult image-analysis problems. We used Quanti.us for a variety of medium-throughput image-analysis tasks and achieved 10-50× savings in analysis time compared with that required for the same task by a single expert annotator. We show equivalent deep learning performance for Quanti.us-derived and expert-derived annotations, which should allow scalable integration with tailored machine learning algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30065368

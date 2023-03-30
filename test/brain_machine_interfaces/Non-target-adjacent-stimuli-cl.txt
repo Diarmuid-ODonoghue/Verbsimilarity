@@ -1,0 +1,3 @@
+The classical ERP-based speller, or P300 Speller, is one of the most commonly used paradigms in the field of Brain Computer Interfaces (BCI). Several alterations to the visual stimuli presentation system have been developed to avoid unfavorable effects elicited by adjacent stimuli. However, there has been little, if any, regard to useful information contained in responses to adjacent stimuli about spatial location of target symbols. This paper aims to demonstrate that combining the classification of non-target adjacent stimuli with standard classification (target versus non-target) significantly improves classical ERP-based speller efficiency.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25710243

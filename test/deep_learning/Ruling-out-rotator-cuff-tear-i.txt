@@ -1,0 +1,3 @@
+To develop a deep learning algorithm that can rule out significant rotator cuff tear based on conventional shoulder radiographs in patients suspected of rotator cuff tear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32025834

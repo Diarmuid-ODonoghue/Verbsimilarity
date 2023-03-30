@@ -1,0 +1,3 @@
+An overview of the applications of deep learning for ophthalmic diagnosis using retinal fundus images is presented. We describe various retinal image datasets that can be used for deep learning purposes. Applications of deep learning for segmentation of optic disk, optic cup, blood vessels as well as detection of lesions are reviewed. Recent deep learning models for classification of diseases such as age-related macular degeneration, glaucoma, and diabetic retinopathy are also discussed. Important critical insights and future research directions are given.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31980096

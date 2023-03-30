@@ -1,0 +1,3 @@
+Current teleoperated robot-assisted minimally invasive surgical systems do not take full advantage of the potential performance enhancements offered by various forms of haptic feedback to the surgeon. Direct and graphical haptic feedback systems can be integrated with vision and robot control systems in order to provide haptic feedback to improve safety and tissue mechanical property identification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22069247

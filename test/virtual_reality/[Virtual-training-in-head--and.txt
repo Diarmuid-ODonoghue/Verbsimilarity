@@ -1,0 +1,3 @@
+Surgical skill requires training at close-to-reality scenarios. Conventional procedures (practical exercises, anatomical or animal cadavers) are increasingly in conflict with objective parameters (costs of OR, quality management, cadavers availability and cost). Surgical procedures can be covered by using Virtual Surgical Reality (VSR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/15909245

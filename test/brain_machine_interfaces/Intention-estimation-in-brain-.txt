@@ -1,0 +1,3 @@
+The objective of this work was to quantitatively investigate the mechanisms underlying the performance gains of the recently reported 'recalibrated feedback intention-trained Kalman Filter' (ReFIT-KF).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24654266

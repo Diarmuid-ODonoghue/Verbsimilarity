@@ -1,0 +1,3 @@
+The force pyramid is a novel visual representation allowing spatial delineation of instrument force application during surgical procedures. In this study, the force pyramid concept is employed to create and quantify dominant hand, nondominant hand, and bimanual force pyramids during resection of virtual reality brain tumors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28962033

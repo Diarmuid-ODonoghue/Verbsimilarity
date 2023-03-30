@@ -1,0 +1,3 @@
+Functional magnetic resonance imaging (fMRI) allows for the measurement of functional connectivity of the brain. In this context, graph theory has revealed distinctive non-random connectivity patterns. However, the application of graph theory to fMRI often utilizes non-linear transformations (absolute value) to extract edge representations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29601886

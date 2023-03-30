@@ -1,0 +1,3 @@
+Acute ischemic stroke is one of the primary causes of death worldwide. Recent studies have shown that the assessment of collateral status could aid in improving the treatment for patients with acute ischemic stroke. We present a 3D deep regression neural network to automatically generate the collateral images from dynamic susceptibility contrast-enhanced magnetic resonance perfusion (DSC-MRP) in acute ischemic stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31482272

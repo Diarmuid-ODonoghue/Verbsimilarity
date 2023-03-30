@@ -1,0 +1,3 @@
+The purpose of this work was twofold: (a) To provide a robust and accurate method for image segmentation of dedicated breast CT (bCT) volume data sets, and (b) to improve Hounsfield unit (HU) accuracy in bCT by means of a postprocessing method that uses the segmented images to correct for the low-frequency shading artifacts in reconstructed images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31102462

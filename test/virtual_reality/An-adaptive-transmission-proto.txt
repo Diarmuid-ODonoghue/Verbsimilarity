@@ -1,0 +1,3 @@
+A force prediction algorithm is proposed to facilitate virtual-reality (VR) based collaborative surgical simulation by reducing the effect of network latencies. State regeneration is used to correct the estimated prediction. This algorithm is incorporated into an adaptive transmission protocol in which auxiliary features such as view synchronization and coupling control are equipped to ensure the system consistency. We implemented this protocol using multi-threaded technique on a cluster-based network architecture.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391327

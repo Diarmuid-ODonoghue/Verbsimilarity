@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) are confronted with two fundamental challenges: (a) the uncertainty associated with decoding noisy brain signals, and (b) the need for co-adaptation between the brain and the interface so as to cooperatively achieve a common goal in a task. We seek to mitigate these challenges.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24140680

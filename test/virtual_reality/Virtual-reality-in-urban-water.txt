@@ -1,0 +1,3 @@
+For communicating urban flood risk to authorities and the public, a realistic three-dimensional visual display is frequently more suitable than detailed flood maps. Virtual reality could also serve to plan short-term flooding interventions. We introduce here an alternative approach for simulating three-dimensional flooding dynamics in large- and small-scale urban scenes by reaching out to computer graphics. This approach, denoted 'particle in cell', is a particle-based CFD method that is used to predict physically plausible results instead of accurate flow dynamics. We exemplify the approach for the real flooding event in July 2016 in Innsbruck.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29377836

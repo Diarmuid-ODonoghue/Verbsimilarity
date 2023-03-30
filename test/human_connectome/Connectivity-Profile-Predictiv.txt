@@ -1,0 +1,3 @@
+Deep brain stimulation for obsessive-compulsive disorder is a rapidly developing treatment strategy for treatment-refractory patients. Both the exact target and impact on distributed brain networks remain a matter of debate. Here, we investigated which regions connected to stimulation sites contribute to clinical improvement effects and whether connectivity is able to predict outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30777287

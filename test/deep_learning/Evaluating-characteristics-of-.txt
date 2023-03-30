@@ -1,0 +1,3 @@
+Epidemiology and the reporting characteristics of systematic reviews (SRs) and meta-analyses (MAs) are well known. However, no study has analyzed the influence of protocol features on the probability that a study's results will be finally reported, thereby indirectly assessing the reporting bias of International Prospective Register of Systematic Reviews (PROSPERO) registration records.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29523200

@@ -1,0 +1,3 @@
+Our clinical understanding of the relationship between 3D bone morphology and knee osteoarthritis, as well as our ability to investigate potential causative factors of osteoarthritis, has been hampered by the time-intensive nature of manually segmenting bone from MR images. Thus, we aim to develop and validate a fully automated deep learning framework for segmenting the patella and distal femur cortex, in both adults and actively growing adolescents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31402520

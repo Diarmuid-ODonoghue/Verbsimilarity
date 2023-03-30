@@ -1,0 +1,3 @@
+To design a computational method for automatic brain glioma segmentation of multimodal MRI scans with high efficiency and accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32280947

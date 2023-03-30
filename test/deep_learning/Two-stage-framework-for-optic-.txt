@@ -1,0 +1,3 @@
+With the advancement of powerful image processing and machine learning techniques, Computer Aided Diagnosis has become ever more prevalent in all fields of medicine including ophthalmology. These methods continue to provide reliable and standardized large scale screening of various image modalities to assist clinicians in identifying diseases. Since optic disc is the most important part of retinal fundus image for glaucoma detection, this paper proposes a two-stage framework that first detects and localizes optic disc and then classifies it into healthy or glaucomatous.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31315618

@@ -1,0 +1,3 @@
+Whole-brain radiotherapy (WBRT) in patients with brain metastases (BM) is associated with neurocognitive decline. Given its crucial role in learning and memory, efforts to mitigate this toxicity have mostly focused on sparing radiation to the hippocampus. We hypothesized that BM are not evenly distributed across the brain and that several additional areas may be avoided in WBRT based on a low risk of developing BM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30715520

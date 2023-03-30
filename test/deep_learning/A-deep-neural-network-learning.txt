@@ -1,0 +1,3 @@
+Cardiologs® has developed the first electrocardiogram (ECG) algorithm that uses a deep neural network (DNN) for full 12‑lead ECG analysis, including rhythm, QRS and ST-T-U waves. We compared the accuracy of the first version of Cardiologs® DNN algorithm to the Mortara/Veritas® conventional algorithm in emergency department (ED) ECGs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30476648

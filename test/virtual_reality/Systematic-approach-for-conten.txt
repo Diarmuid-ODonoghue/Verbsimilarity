@@ -1,0 +1,3 @@
+In minimally invasive surgery, there are several challenges for training novice surgeons, such as limited field-of-view and unintuitive hand-eye coordination due to performing the operation according to video feedback. Virtual reality (VR) surgical simulators are a novel, risk-free, and cost-effective way to train and assess surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32207877

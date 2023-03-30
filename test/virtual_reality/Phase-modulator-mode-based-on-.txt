@@ -1,0 +1,3 @@
+We demonstrate a novel phase-only modulation mode based on the pre-transitional effect of the antiferroelectric liquid crystal. 2π phase modulation without changing the polarization state of the incident light is achieved with a low field (1.8 V/μm). This phase modulation mode also shows an ultrafast response time (less than 300 μs) and a uniform optical texture with an easy fabrication process. This phase modulator can be applied to laser beam steering, virtual reality, and holograms, etc., in the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29328252

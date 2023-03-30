@@ -1,0 +1,3 @@
+Coronavirus disease 2019 (COVID-19) is an infectious disease caused by a newly emerging coronavirus, SARS-CoV-2. COVID-19 has a very variable clinical picture, ranging from asymptomatic to severe acute respiratory syndrome that can lead to death. Our case, a 74-year-old female patient, presented with fever, moderate dyspnoea and leucocytosis (white blood cell count 21.6 × 109 /l, neutrophils 16.8 × 109 /l, lymphocytes 3.67 × 109 /l). RT-PCR for SARS-CoV-2 was performed, which confirmed COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32311762

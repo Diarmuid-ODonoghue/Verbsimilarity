@@ -1,0 +1,3 @@
+We have developed a mixed reality system incorporating virtual reality (VR), surface perturbations and light touch for gait rehabilitation. Haptic touch has emerged as a novel and efficient technique to improve postural control and dynamic stability. Our system combines visual display with the manipulation of physical environments and addition of haptic feedback to enhance balance and mobility post stroke. A research study involving 9 participants with stroke and 9 age-matched healthy individuals show that the haptic cue provided while walking is an effective means of improving gait stability in people post stroke, especially during challenging environmental conditions such as downslope walking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22255889

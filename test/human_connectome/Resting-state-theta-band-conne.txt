@@ -1,0 +1,3 @@
+Functional magnetic resonance imaging (fMRI) resting-state studies show generalized social anxiety disorder (gSAD) is associated with disturbances in networks involved in emotion regulation, emotion processing, and perceptual functions, suggesting a network framework is integral to elucidating the pathophysiology of gSAD. However, fMRI does not measure the fast dynamic interconnections of functional networks. Therefore, we examined whole-brain functional connectomics with electroencephalogram (EEG) during resting-state.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27920976

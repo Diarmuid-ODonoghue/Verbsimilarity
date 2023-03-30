@@ -1,0 +1,3 @@
+To develop a genome-based classification scheme for clear-cell sarcoma (CCS), also known as melanoma of soft parts (MSP), which would have implications for diagnosis and treatment. This tumor displays characteristic features of soft tissue sarcoma (STS), including deep soft tissue primary location and a characteristic translocation, t(12;22)(q13;q12), involving EWS and ATF1 genes. CCS/MSP also has typical melanoma features, including immunoreactivity for S100 and HMB45, pigmentation, MITF-M expression, and a propensity for regional lymph node metastases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12721254

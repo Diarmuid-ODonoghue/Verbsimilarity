@@ -1,0 +1,3 @@
+During the development of a neural prosthesis, various ethical aspects have to be considered. These range from the basic design of the prosthesis and manufacturing of the various components and the system using biocompatible materials to extensive in vitro and in vivo testing and investigations in the animal model, before taking the final step and going to human trials. As medical systems, neural prostheses have to be proven absolutely safe before considering any clinical study. In this work, the various steps accompanying the development are described taking the example of a vestibular prosthesis currently developed within the European project CLONS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22254792

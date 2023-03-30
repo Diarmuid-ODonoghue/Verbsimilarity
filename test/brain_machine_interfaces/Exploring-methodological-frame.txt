@@ -1,0 +1,3 @@
+Near-infrared spectroscopy (NIRS) brain-computer interfaces (BCIs) enable users to interact with their environment using only cognitive activities. This paper presents the results of a comparison of four methodological frameworks used to select a pair of tasks to control a binary NIRS-BCI; specifically, three novel personalized task paradigms and the state-of-the-art prescribed task framework were explored.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26205425

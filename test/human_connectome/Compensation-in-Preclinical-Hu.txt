@@ -1,0 +1,3 @@
+Cognitive and motor task performance in premanifest Huntington's disease (HD) gene-carriers is often within normal ranges prior to clinical diagnosis, despite loss of brain volume in regions involved in these tasks. This indicates ongoing compensation, with the brain maintaining function in the presence of neuronal loss. However, thus far, compensatory processes in HD have not been modeled explicitly. Using a new model, which incorporates individual variability related to structural change and behavior, we sought to identify functional correlates of compensation in premanifest-HD gene-carriers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26629536

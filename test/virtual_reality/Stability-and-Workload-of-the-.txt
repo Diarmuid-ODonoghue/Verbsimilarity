@@ -1,0 +1,3 @@
+To assess the stability of clinicians' and users' rating of electric-powered wheelchair (EPW) driving while using 4 different human-machine interfaces (HMIs) within the Virtual Reality-based SIMulator-version 2 (VRSIM-2) and in the real world (accounting for a total of 5 unique driving conditions).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26921682

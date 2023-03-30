@@ -1,0 +1,3 @@
+An immersive virtual environment for interactive three-dimensional reconstruction and exploration of confocal microscopy data is presented. For some structures automatic alignment of serial sections can lead to geometric distortions. The superior visual feedback of a Virtual Reality system is used to aid in registering and aligning serial sections interactively. An ImmersaDesk Virtual Reality display system is used for display and interaction with the volumetric confocal data. Detailed methods for handling both single-section and multi-section confocal data are described.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15893451

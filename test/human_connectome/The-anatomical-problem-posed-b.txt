@@ -1,0 +1,3 @@
+Over the years the field of neuroanatomy has evolved considerably but unraveling the extraordinary structural and functional complexity of the brain seems to be an unattainable goal, partly due to the fact that it is only possible to obtain an imprecise connection matrix of the brain. The reasons why reaching such a goal appears almost impossible to date is discussed here, together with suggestions of how we could overcome this anatomical problem by establishing new methodologies to study the brain and by promoting interdisciplinary collaboration. Generating a realistic computational model seems to be the solution rather than attempting to fully reconstruct the whole brain or a particular brain region.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26347617

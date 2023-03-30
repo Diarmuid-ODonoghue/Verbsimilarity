@@ -1,0 +1,3 @@
+Smoothing and decimation filters are commonly used to restore the realistic appearance of virtual biological specimens, but they can cause a loss of topological information of unknown extent. In this study, we analyzed the effect of smoothing and decimation on a 3D mesh to highlight the consequences of an inappropriate use of these filters.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29446075

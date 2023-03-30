@@ -1,0 +1,3 @@
+With the decrease in the number of cerebral aneurysms treated surgically and the increase of complexity of those treated surgically, there is a need for simulation-based tools to teach future neurosurgeons the operative techniques of aneurysm clipping.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25599200

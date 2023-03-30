@@ -1,0 +1,3 @@
+Although the deep learning system has been applied to interpretation of medical images, its application to the diagnosis of cervical lymph nodes in patients with oral cancer has not yet been reported. The purpose of this study was to evaluate the performance of deep learning image classification for diagnosis of lymph node metastasis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30497907

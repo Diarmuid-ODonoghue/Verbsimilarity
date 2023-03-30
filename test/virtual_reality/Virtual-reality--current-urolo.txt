@@ -1,0 +1,3 @@
+The concept of virtual reality (VR) involves the computer generation of environments with which a user can interact directly. Virtual reality is now being used for medical applications, especially in the area of surgical simulation. As technology advances, VR simulation will play an important training role for both residents and urologists already in practice. This paper examines the history of VR, current developments, and its future implications for the field of urology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11248913

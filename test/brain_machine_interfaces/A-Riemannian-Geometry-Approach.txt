@@ -1,0 +1,3 @@
+Spatial covariance matrices are extensively employed as brain activity descriptors in brain computer interface (BCI) research that, typically, involve the whole array of sensors. Here, we introduce a methodological framework for delineating the subset of sensors, the covariance structure of which offers a reduced, but more powerful, representation of brain's coordination patterns that ultimately leads to reliable mind reading.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30998456

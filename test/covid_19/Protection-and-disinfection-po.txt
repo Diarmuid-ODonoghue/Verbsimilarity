@@ -1,0 +1,3 @@
+In late December 2019, reports from China of the incidence of pneumonia with unknown etiology were sent to the World Health Organization (WHO). Shortly afterwards, the cause of this disease was identified as the novel beta-coronavirus, SARS-CoV-2, and its genetic sequence was published on January 12, 2020. Human-to-human transmission via respiratory droplets and contact with aerosol infected surfaces are the major ways of transmitting this virus. Here we attempted to collect information on virus stability in the air and on surfaces and ways of preventing of SARS-CoV-2 spreading.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32275260

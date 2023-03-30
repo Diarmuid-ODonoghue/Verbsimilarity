@@ -1,0 +1,3 @@
+Regarding to the recent work of engineering SARS-CoV-19 virus and the publication "Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform" by researchers at University of Bern, this paper comments on the "dual-use" problem and regulation issue of synthetic biology from the perspective of responsible (research and) innovation, biosafety and biosecurity. Based on the ethical and legal framework, the authors suggest to conduct such research with high potential risks prudently and responsibly.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32296735

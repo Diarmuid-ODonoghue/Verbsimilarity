@@ -1,0 +1,3 @@
+Studies assessing the relationship between chronic poststroke language impairment (aphasia) and ischemic brain damage usually rely on measuring the extent of brain necrosis observed on MRI. Nonetheless, clinical observation suggests that patients can exhibit deficits that are more severe than what would be expected based on lesion location and size. This phenomenon is commonly explained as being the result of cortical disconnection. To understand whether disconnection contributes to clinical symptoms, we assessed the relationship between language impairments and structural brain connectivity (the connectome) in patients with chronic aphasia after a stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24619391

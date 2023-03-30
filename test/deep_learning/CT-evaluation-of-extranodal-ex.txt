@@ -1,0 +1,3 @@
+To clarify CT diagnostic performance in extranodal extension of cervical lymph node metastases using deep learning classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31197738

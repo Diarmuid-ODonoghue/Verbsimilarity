@@ -1,0 +1,3 @@
+Conventional risk stratification models for mortality of acute myocardial infarction (AMI) have potential limitations. This study aimed to develop and validate deep-learning-based risk stratification for the mortality of patients with AMI (DAMI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31671144

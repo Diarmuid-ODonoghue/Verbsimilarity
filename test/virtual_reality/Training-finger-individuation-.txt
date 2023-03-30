@@ -1,0 +1,3 @@
+Dexterous manipulation of the hand, one of the features of human motor control, is often compromised after stroke, to the detriment of basic functions. Despite the importance of independent movement of the digits to activities of daily living, relatively few studies have assessed the impact of specifically targeting individuated movements of the digits on hand rehabilitation. The purpose of this study was to investigate the impact of such finger individuation training, by means of a novel mechatronic-virtual reality system, on fine motor control after stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25542201

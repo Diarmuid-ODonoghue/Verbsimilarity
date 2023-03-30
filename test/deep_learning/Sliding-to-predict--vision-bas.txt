@@ -1,0 +1,3 @@
+Technical advancements have been part of modern medical solutions as they promote better surgical alternatives that serve to the benefit of patients. Particularly with cardiovascular surgeries, robotic surgical systems enable surgeons to perform delicate procedures on a beating heart, avoiding the complications of cardiac arrest. This advantage comes with the price of having to deal with a dynamic target which presents technical challenges for the surgical system. In this work, we propose a solution for cardiac motion estimation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29350321

@@ -1,0 +1,3 @@
+Virtual reality devices are becoming the backbone for laparoscopic training in surgery. However, without knowledge of the achievable metrics of basic training within the trainee group, these simulators cannot be used effectively. Currently, no validated task metrics of the performance of larger trainee groups are available.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22677582

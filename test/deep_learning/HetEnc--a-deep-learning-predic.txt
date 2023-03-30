@@ -1,0 +1,3 @@
+Researchers today are generating unprecedented amounts of biological data. One trend in current biological research is integrated analysis with multi-platform data. Effective integration of multi-platform data into the solution of a single or multi-task classification problem; however, is critical and challenging. In this study, we proposed HetEnc, a novel deep learning-based approach, for information domain separation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31395005

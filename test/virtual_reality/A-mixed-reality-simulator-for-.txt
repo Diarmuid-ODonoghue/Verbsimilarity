@@ -1,0 +1,3 @@
+The opportunities for veterinary students to practice feline abdominal palpation are limited as cats have a low tolerance to being examined. Therefore, a mixed reality simulator was developed to complement clinical training. Two PHANToM premium haptic devices were positioned either side of a modified toy cat. Virtual models of the chest and some abdominal contents were superimposed on the physical model. The haptic properties of the virtual models were set by seven veterinarians; values were adjusted while the simulation was being palpated until the representation was satisfactory. Feedback from the veterinarians was encouraging suggesting that the simulator has a potential role in student training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377159

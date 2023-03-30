@@ -1,0 +1,3 @@
+Scatter is a major factor degrading the image quality of cone beam computed tomography (CBCT). Conventional scatter correction strategies require handcrafted analytical models with ad hoc assumptions, which often leads to less accurate scatter removal. This study aims to develop an effective scatter correction method using a residual convolutional neural network (CNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31077390

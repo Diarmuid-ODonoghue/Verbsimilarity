@@ -1,0 +1,3 @@
+KCa2 or small-conductance Ca(2+)-activated K(+) channels (SK) are expressed in many areas of the central nervous system where they participate in the regulation of neuronal afterhyperpolarization and excitability, and also serve as negative feedback regulators on the glutamate-NMDA pathway.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23883298

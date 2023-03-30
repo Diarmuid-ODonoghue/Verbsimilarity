@@ -1,0 +1,3 @@
+Intracortical brain-machine interfaces (iBMIs) aim to restore efficient communication and movement ability for paralyzed patients. However, frequent recalibration is required for consistency and reliability, and every recalibration will require relatively large most current sample set. The aim in this study is to develop an effective decoder calibration method that can achieve good performance while minimizing recalibration time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29343650

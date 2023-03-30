@@ -1,0 +1,3 @@
+A low quality of fundus photograph with artifacts may lead to false diagnosis. Recently, a cycle-consistent generative adversarial network (CycleGAN) has been introduced as a tool to generate images without matching paired images. Therefore, herein, we present a deep learning technique that removes the artifacts automatically in a fundus photograph using a CycleGAN model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32361805

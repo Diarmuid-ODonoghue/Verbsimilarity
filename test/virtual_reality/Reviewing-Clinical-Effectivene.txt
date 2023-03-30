@@ -1,0 +1,3 @@
+This review aims to provide a systematical investigation of clinical effectiveness of active training strategies applied in platform-based ankle robots.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29675142

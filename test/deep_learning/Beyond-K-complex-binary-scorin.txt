@@ -1,0 +1,3 @@
+K-complexes (KCs) are a recognized EEG marker of sensory-processing and a defining feature of sleep stage 2. KC frequency and morphology may also be reflective of sleep quality, aging and a range of sleep and sensory processing deficits. However, manual scoring of K-complexes is impractical, time-consuming and thus costly and currently not well-standardized. Although automated KC detection methods have been developed, performance and uptake remain limited.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32301485

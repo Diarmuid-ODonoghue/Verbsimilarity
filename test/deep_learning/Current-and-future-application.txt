@@ -1,0 +1,3 @@
+The purpose of the study was to provide a comprehensive review of recent machine learning (ML) and deep learning (DL) applications in urological practice. Numerous studies have reported their use in the medical care of various urological disorders; however, no critical analysis has been made to date.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31691082

@@ -1,0 +1,3 @@
+The convergence of technology and medicine has led to many advances in surgical training. Novel surgical simulators have led to significantly improved skills of graduating surgeons, leading to decreased time to proficiency, improved efficiency, decreased errors, and improvement in patient safety. Endoscopic sinus surgery poses a steep learning curve given the complex 3-dimensional anatomy of the nasal and paranasal cavities, and the necessary visual-spatial motor skills and bimanual dexterity. This article focuses on surgical simulation in rhinological training and how innovative high-fidelity and low-fidelity simulators can maximize resident training and improve procedural skills before operating in the live environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28822578

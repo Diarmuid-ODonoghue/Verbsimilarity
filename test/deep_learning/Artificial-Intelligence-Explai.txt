@@ -1,0 +1,3 @@
+Artificial intelligence (AI) has made stunning progress in the last decade, made possible largely due to the advances in training deep neural networks with large data sets. Many of these solutions, initially developed for natural images, speech, or text, are now becoming successful in medical imaging. In this article we briefly summarize in an accessible way the current state of the field of AI. Furthermore, we highlight the most promising approaches and describe the current challenges that will need to be solved to enable broad deployment of AI in clinical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31991447

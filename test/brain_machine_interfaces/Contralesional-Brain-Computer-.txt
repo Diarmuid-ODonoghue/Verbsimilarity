@@ -1,0 +1,3 @@
+There are few effective therapies to achieve functional recovery from motor-related disabilities affecting the upper limb after stroke. This feasibility study tested whether a powered exoskeleton driven by a brain-computer interface (BCI), using neural activity from the unaffected cortical hemisphere, could affect motor recovery in chronic hemiparetic stroke survivors. This novel system was designed and configured for a home-based setting to test the feasibility of BCI-driven neurorehabilitation in outpatient environments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28550098

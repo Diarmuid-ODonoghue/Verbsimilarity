@@ -1,0 +1,3 @@
+We analyzed the ability of a machine learning approach that uses diffusion tensor imaging (DTI) structural connectomes to determine lateralization of epileptogenicity in temporal lobe epilepsy (TLE).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26346404

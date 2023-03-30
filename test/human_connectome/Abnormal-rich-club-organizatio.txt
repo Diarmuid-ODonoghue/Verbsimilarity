@@ -1,0 +1,3 @@
+The human brain forms a large-scale structural network of regions and interregional pathways. Recent studies have reported the existence of a selective set of highly central and interconnected hub regions that may play a crucial role in the brain's integrative processes, together forming a central backbone for global brain communication. Abnormal brain connectivity may have a key role in the pathophysiology of schizophrenia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23739835

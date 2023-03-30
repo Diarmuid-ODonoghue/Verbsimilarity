@@ -1,0 +1,3 @@
+As affordable equipment, electronic portal imaging devices (EPIDs) are wildly used in radiation therapy departments to verify patients' positions for accurate radiotherapy. However, these devices tend to produce visually ambiguous and low-contrast planar digital radiographs under megavoltage x ray (MV-DRs), which poses a tremendous challenge for clinicians to perform multimodal registration between the MV-DRs and the kilovoltage digital reconstructed radiographs (KV-DRRs) developed from the planning computed tomography. Furthermore, the existent of strong appearance variations also makes accurate registration beyond the reach of current automatic algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31420963

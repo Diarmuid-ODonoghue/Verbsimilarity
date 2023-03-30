@@ -1,0 +1,3 @@
+In the battle against the SARS-CoV‑2 pandemic, chloroquine has emerged as a new potential therapeutic option for the treatment of infected patients. A safety consideration for the application of chloroquine is its QTc-prolonging potential. Thus far, no data are available on the QTc-prolonging potential of chloroquine in COVID-19 patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32351347

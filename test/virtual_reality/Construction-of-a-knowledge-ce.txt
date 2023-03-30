@@ -1,0 +1,3 @@
+This article introduces a medical imaging and image processing knowledge center which serves as an e-learning platform based on network technology. This platform includes contents of medical imaging and medical image processing for the teaching activities, virtual reality tutoring system of human skeleton, medical image database, etc. The purpose of establishing this platform is to recruit and excavate information records which usually associated with the daily data exchanged in teaching and research activities. Then it will gradually form an open professional knowledge database. At present, this platform plays the role of knowledge community in the educational activities of BME program in Tsinghua University.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17282116

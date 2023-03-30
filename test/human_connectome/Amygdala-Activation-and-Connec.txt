@@ -1,0 +1,3 @@
+Mechanistically based neural markers, such as amygdala reactivity, offer one approach to addressing the challenges of differentiating bipolar and unipolar depressive disorders independently from mood state and acute symptoms. Although emotion-elicited amygdala reactivity has been found to distinguish patients with bipolar depression from patients with unipolar depression, it remains unknown whether this distinction is traitlike and present in the absence of an acutely depressed mood. We addressed this gap by investigating patients with bipolar disorder (BP) and unipolar major depressive disorder (MDD) in remission.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30343134

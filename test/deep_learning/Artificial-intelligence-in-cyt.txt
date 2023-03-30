@@ -1,0 +1,3 @@
+Artificial intelligence (AI) has made impressive strides recently in interpreting complex images, thanks to improvements in deep learning techniques and increasing computational power. Researchers have started applying these advanced techniques to pathology images, although most efforts have been focused on histopathology. Cytopathology, however, remains the original field of pathology for which AI models for clinical use were successfully commercialized, to assist with automating Papanicolaou test screening. Recent AI efforts have focused on whole slide images of both gynecologic and non-gynecologic cytopathology. This review summarizes the literature and commercial landscape of AI as applied to cytopathology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31272605

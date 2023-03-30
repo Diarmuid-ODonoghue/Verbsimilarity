@@ -1,0 +1,3 @@
+Alternative splicing generates multiple isoforms from a single gene, greatly increasing the functional diversity of a genome. Although gene functions have been well studied, little is known about the specific functions of isoforms, making accurate prediction of isoform functions highly desirable. However, the existing approaches to predicting isoform functions are far from satisfactory due to at least two reasons: (i) unlike genes, isoform-level functional annotations are scarce. (ii) The information of isoform functions is concealed in various types of data including isoform sequences, co-expression relationship among isoforms, etc.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31510699

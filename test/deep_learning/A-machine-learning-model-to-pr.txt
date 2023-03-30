@@ -1,0 +1,3 @@
+Heart failure is one of the leading causes of hospitalization in the United States. Advances in big data solutions allow for storage, management, and mining of large volumes of structured and semi-structured data, such as complex healthcare data. Applying these advances to complex healthcare data has led to the development of risk prediction models to help identify patients who would benefit most from disease management programs in an effort to reduce readmissions and healthcare cost, but the results of these efforts have been varied. The primary aim of this study was to develop a 30-day readmission risk prediction model for heart failure patients discharged from a hospital admission.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29929496

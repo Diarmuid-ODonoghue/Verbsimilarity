@@ -1,0 +1,3 @@
+The disruption of large protein-protein (PP) interfaces remains a challenge in targeted therapy. Designing drugs that compete with binding partners is daunting, especially when the structure of the protein complex is unknown. To address the problem we propose a deep protein databank (PDB) learning platform to discover targetable epitopes for complex-disruptive leads.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31126630

@@ -1,0 +1,3 @@
+We propose a novel calibration strategy to facilitate the decoding of covert somatosensory attention by exploring the oscillatory dynamics induced by tactile sensation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29028186

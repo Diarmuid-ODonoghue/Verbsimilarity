@@ -1,0 +1,3 @@
+According to the European Reference Organization for Quality Assured Breast Cancer Screening and Diagnostic Services (EUREF) image quality in mammography is assessed by recording and analyzing a set of images of the CDMAM phantom. The EUREF procedure applies an automated analysis combining image registration, signal detection and nonlinear fitting. We present a proof of concept for an end-to-end deep learning framework that assesses image quality on the basis of single images as an alternative.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32305886

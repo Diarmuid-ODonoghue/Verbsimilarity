@@ -1,0 +1,3 @@
+Identification of enhancer-promoter interactions (EPIs) is of great significance to human development. However, experimental methods to identify EPIs cost too much in terms of time, manpower and money. Therefore, more and more research efforts are focused on developing computational methods to solve this problem. Unfortunately, most existing computational methods require a variety of genomic data, which are not always available, especially for a new cell line. Therefore, it limits the large-scale practical application of methods. As an alternative, computational methods using sequences only have great genome-scale application prospects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31588505

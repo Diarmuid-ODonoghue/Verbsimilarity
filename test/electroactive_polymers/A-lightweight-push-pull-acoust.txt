@@ -1,0 +1,3 @@
+A lightweight push-pull acoustic transducer using dielectric elastomer films was proposed for use in advanced audio systems in homes. The push-pull structure consists of two dielectric elastomer films developed to serve as an electroactive polymer. The transducer utilizes the change in the surface area of the dielectric elastomer film, induced by an electric-field-induced change in the thickness, for sound generation. The resonance frequency of the transducer was derived from modeling the push-pull configuration to estimate the lower limit of the frequency range. Measurement results presented an advantage of push-pull driving in the suppression of harmonic distortion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24181987

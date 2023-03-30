@@ -1,0 +1,3 @@
+Protein secondary structure can be regarded as an information bridge that links the primary sequence and tertiary structure. Accurate 8-state secondary structure prediction can significantly give more precise and high resolution on structure-based properties analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30075707

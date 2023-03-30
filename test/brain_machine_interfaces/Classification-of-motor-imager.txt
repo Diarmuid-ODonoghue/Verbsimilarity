@@ -1,0 +1,3 @@
+Effective motor imagery performance, seen as strong suppression of the sensorimotor rhythm, is the key element in motor imagery therapy. Therefore, optimization of methods to classify whether the subject is performing the imagery task is a prerequisite. An optimal classification method should have high performance accuracy and use a small number of channels. We investigated the additional benefit of the common spatial pattern filtering (CSP) to a linear discriminant analysis (LDA) classifier, for different channel configurations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24737062

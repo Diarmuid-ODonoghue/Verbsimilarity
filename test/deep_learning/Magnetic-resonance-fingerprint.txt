@@ -1,0 +1,3 @@
+Magnetic Resonance Fingerprinting (MRF) is an imaging technique acquiring unique time signals for different tissues. Although the acquisition is highly accelerated, the reconstruction time remains a problem, as the state-of-the-art template matching compares every signal with a set of possible signals. To overcome this limitation, deep learning based approaches, e.g. Convolutional Neural Networks (CNNs) have been proposed. In this work, we investigate the applicability of Recurrent Neural Networks (RNNs) for this reconstruction problem, as the signals are correlated in time. Compared to previous methods based on CNNs, RNN models yield significantly improved results using in-vivo data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31483264

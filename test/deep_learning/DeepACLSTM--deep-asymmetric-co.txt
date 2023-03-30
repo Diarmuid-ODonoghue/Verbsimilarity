@@ -1,0 +1,3 @@
+Protein secondary structure (PSS) is critical to further predict the tertiary structure, understand protein function and design drugs. However, experimental techniques of PSS are time consuming and expensive, and thus it's very urgent to develop efficient computational approaches for predicting PSS based on sequence information alone. Moreover, the feature matrix of a protein contains two dimensions: the amino-acid residue dimension and the feature vector dimension. Existing deep learning based methods have achieved remarkable performances of PSS prediction, but the methods often utilize the features from the amino-acid dimension. Thus, there is still room to improve computational methods of PSS prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31208331

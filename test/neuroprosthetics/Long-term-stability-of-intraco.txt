@@ -1,0 +1,3 @@
+Acquisition of reliable and robust neural recordings with intracortical neural probes is a persistent challenge in the field of neuroprosthetics. We developed a multielectrode array technology to address chronic intracortical recording reliability and present in vivo recording results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27819256

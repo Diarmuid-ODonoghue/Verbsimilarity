@@ -1,0 +1,3 @@
+An image-based approach has been developed to represent bleeding in a simulator for transurethral resection of the prostate (TURP). Whereas previous groups attempted to simulate bleeding mathematically over tissue surfaces or in blood vessels, our approach focused on macroscopic visualization of bleeding in a fluid environment. The TURP is an ideal procedure for simulator-based training because of its importance as a skill to acquire as well as its long learning curve. The most challenging step in creating a realistic TURP simulator is simulated bleeding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12396436

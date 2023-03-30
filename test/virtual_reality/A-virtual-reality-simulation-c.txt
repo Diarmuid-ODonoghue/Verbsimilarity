@@ -1,0 +1,3 @@
+Although virtual reality (VR) simulators play an important role in modern medical training, their efficacy is not often evaluated using learning curves. In this study, the learning curves of novice and intermediate users were elicited during a VR simulation-based curriculum for intravenous (IV) cannulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21069896

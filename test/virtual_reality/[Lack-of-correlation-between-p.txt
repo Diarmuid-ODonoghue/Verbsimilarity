@@ -1,0 +1,3 @@
+Simulation-based training provides obvious benefits for patients and doctors in education. Frequently, virtual reality simulators are expensive and evidence for their efficacy is poor, particularly as a result of studies with poor methodology and few test participants. In medical simulated training- and evaluation programmes it is always a question of transfer to the real clinical world. To illustrate this problem a study comparing the test performance of persons on a bowling simulator with their performance in a real bowling alley was conducted.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21156110

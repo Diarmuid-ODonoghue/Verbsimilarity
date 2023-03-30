@@ -1,0 +1,3 @@
+Clinical trials in amyotrophic lateral sclerosis (ALS) continue to rely on survival or functional scales as endpoints, despite the emergence of quantitative biomarkers. Neuroimaging-based biomarkers in ALS have been shown to detect ALS-associated pathology in vivo, although anatomical patterns of disease spread are poorly characterized. The objective of this study is to simulate disease propagation using network analyses of cerebral magnetic resonance imaging (MRI) data to predict disease progression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32072667

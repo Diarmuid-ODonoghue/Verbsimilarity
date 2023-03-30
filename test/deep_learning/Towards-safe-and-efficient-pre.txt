@@ -1,0 +1,3 @@
+Transcatheter mitral valve interventions are emerging as a viable alternative for patients at high risk. Two key aspects are crucial during the preoperative planning: left ventricular outflow tract assessment and anatomical analysis. Given that the manual anatomical analysis is time-consuming, an automated approach may introduce efficiency during preoperative planning. In this study, we present an automatic method to detect the mitral valve annulus and discuss possible implementation of this method in clinical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31570309

@@ -1,0 +1,3 @@
+The motor-imagery based brain-computer interface supplies a potential approach for motor-impaired patients, not only to control rehabilitation facilities but also to promote recovery from motor dysfunctions. To improve event-related desynchronization during motor imagery and obtain improved brain-computer interface classification accuracy, we introduce dynamic video guidance and complex motor tasks to the motor imagery paradigm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29660675

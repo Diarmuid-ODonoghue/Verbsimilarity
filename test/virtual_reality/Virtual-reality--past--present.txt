@@ -1,0 +1,3 @@
+This report provides a short survey of the field of virtual reality, highlighting application domains, technological requirements, and currently available solutions. The report is organized as follows: section 1 presents the background and motivation of virtual environment research and identifies typical application domain, section 2 discusses the characteristics a virtual reality system must have in order to exploit the perceptual and spatial skills of users, section 3 surveys current input/output devices for virtual reality, section 4 surveys current software approaches to support the creation of virtual reality systems, and section 5 summarizes the report.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10350926

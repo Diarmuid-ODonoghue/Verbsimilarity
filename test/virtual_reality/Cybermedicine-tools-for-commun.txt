@@ -1,0 +1,3 @@
+The medical domain provides excellent opportunities for communication and teaching of healthcare issues using computer graphics, visualization techniques, and virtual environments. Possible applications include anatomical educational tools; patient education; diagnostic aids; virtual autopsies; planning and guidance aids; skills training; and computer augmented reality. Both clinicians and patients can benefit from the appropriate use of tools that make use of these technologies. This paper provides an overview of the state-of-the-art technologies in this exciting field, including detailed examples from our research. The term cybermedicine is discussed and issues for effective cybermedicine are highlighted.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17514552

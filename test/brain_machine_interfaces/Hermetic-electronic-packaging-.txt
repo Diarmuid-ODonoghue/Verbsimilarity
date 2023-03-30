@@ -1,0 +1,3 @@
+Future brain-computer-interfaces (BCIs) for severely impaired patients are implanted to electrically contact the brain tissue. Avoiding percutaneous cables requires amplifier and telemetry electronics to be implanted too. We developed a hermetic package that protects the electronic circuitry of a BCI from body moisture while permitting infrared communication through the package wall made from alumina ceramic. The ceramic package is casted in medical grade silicone adhesive, for which we identified MED2-4013 as a promising candidate.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366777

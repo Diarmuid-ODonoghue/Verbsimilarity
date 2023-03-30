@@ -1,0 +1,3 @@
+Recent studies in epilepsy, cognition, and brain machine interfaces have shown the utility of recording intracranial electroencephalography (iEEG) with greater spatial resolution. Many of these studies utilize microelectrodes connected to specialized amplifiers that are optimized for such recordings. We recently measured the impedances of several commercial microelectrodes and demonstrated that they will distort iEEG signals if connected to clinical EEG amplifiers commonly used in most centers. In this study we demonstrate the clinical implications of this effect and identify some of the potential difficulties in using microelectrodes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23647099

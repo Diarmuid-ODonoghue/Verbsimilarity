@@ -1,0 +1,3 @@
+In this study we report on the evaluation of a novel auditory single-switch BCI in nine patients diagnosed with MCS. The task included a simple and a complex oddball paradigm, the latter uses the tone stream segregation phenomenon. In all patients a significant difference between deviant and frequent tones could be observed in EEG. However, in some cases the deviant tones produce a significant negative peak and in some a very late positive peak. These preliminary findings are relevant in order to address future customization of this auditory ssBCI-based paradigm for unresponsive patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366970

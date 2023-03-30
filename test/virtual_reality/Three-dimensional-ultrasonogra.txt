@@ -1,0 +1,3 @@
+Accurate measurement of tumour response during and after neoadjuvant chemotherapy (NAC) is important and may influence treatment decisions in invasive breast cancer patients. Breast MRI forms the gold standard but is more burdensome, time consuming and costly. In this study response measurement was done with 3-D ultrasound by Automated Breast Volume Scanner (ABVS) and compared to breast MRI. Moreover, patient satisfaction with both techniques was compared.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29857873

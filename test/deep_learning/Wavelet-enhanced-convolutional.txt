@@ -1,0 +1,3 @@
+Manual brain tumor segmentation is a challenging task that requires the use of machine learning techniques. One of the machine learning techniques that has been given much attention is the convolutional neural network (CNN). The performance of the CNN can be enhanced by combining other data analysis tools such as wavelet transform.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29813023

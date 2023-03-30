@@ -1,0 +1,3 @@
+Despite widespread use, the safety of dietary supplements is open to doubt due to the fact that they can interact with prescribed medications, leading to dangerous clinical outcomes. Electronic health records (EHRs) provide a potential way for active pharmacovigilance on dietary supplements since a fair amount of dietary supplement information, especially those on use status, can be found in clinical notes. Extracting such information is extremely significant for subsequent supplement safety research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30066648

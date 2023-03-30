@@ -1,0 +1,3 @@
+Patients hospitalized for Covid-19 severe infection are more prone to excessive coagulation activation leading to thrombotic events. Tang et al.1 discussed the importance of high D-dimer and Fibrin degradation product level to determine the patient prognostic and the risk of thrombosis. However they did not look at lupus anticoagulant (LAC). Zhang et al. described, three cases of thrombosis associated with antiphospholipid antibodies represented by anticardiolipin (aCL) and anti-β2-glycoprotein I (aβ2GPI)2. No lupus anticoagulant was detected in any of the patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32324958

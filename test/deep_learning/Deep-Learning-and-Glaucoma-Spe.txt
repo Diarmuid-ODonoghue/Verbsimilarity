@@ -1,0 +1,3 @@
+To develop and validate a deep learning (DL) algorithm that predicts referable glaucomatous optic neuropathy (GON) and optic nerve head (ONH) features from color fundus images, to determine the relative importance of these features in referral decisions by glaucoma specialists (GSs) and the algorithm, and to compare the performance of the algorithm with eye care providers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31561879

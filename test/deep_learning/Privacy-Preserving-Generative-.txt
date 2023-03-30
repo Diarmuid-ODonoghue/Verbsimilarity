@@ -1,0 +1,3 @@
+Data sharing accelerates scientific progress but sharing individual-level data while preserving patient privacy presents a barrier.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31284738

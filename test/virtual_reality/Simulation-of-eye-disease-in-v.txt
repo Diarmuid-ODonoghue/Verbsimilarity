@@ -1,0 +1,3 @@
+It is difficult to understand verbal descriptions of visual phenomenon if one has no such experience. Virtual Reality offers a unique opportunity to "experience" diminished vision and the problems it causes in daily life. We have developed an application to simulate age-related macular degeneration, glaucoma, protanopia, and diabetic retinopathy in a familiar setting. The application also includes the introduction of eye anatomy representing both normal and pathologic states. It is designed for patient education, health care practitioner training, and eye care specialist education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17281401

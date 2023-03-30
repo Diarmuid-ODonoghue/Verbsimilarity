@@ -1,0 +1,3 @@
+Advanced MRI studies have revealed regional alterations in the sensorimotor cortex of patients with relapsing-remitting multiple sclerosis (RRMS). However, the organizational features underlying the relapsing phase and the subsequent remitting phase have not been directly shown at the functional network or the connectome level. Therefore, this study aimed to characterize MS-related centrality disturbances of the sensorimotor network (SMN) and to assess network integrity and connectedness.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26110420

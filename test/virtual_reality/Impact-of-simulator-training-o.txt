@@ -1,0 +1,3 @@
+Virtual reality surgery simulation training improves resident performance as measured by the simulator itself and wet-lab performance. This study aims to determine whether virtual surgery simulator training improves actual resident cataract surgery performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23007233

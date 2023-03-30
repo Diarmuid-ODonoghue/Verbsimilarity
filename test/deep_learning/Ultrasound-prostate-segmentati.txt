@@ -1,0 +1,3 @@
+Transrectal ultrasound (TRUS) is a versatile and real-time imaging modality that is commonly used in image-guided prostate cancer interventions (e.g., biopsy and brachytherapy). Accurate segmentation of the prostate is key to biopsy needle placement, brachytherapy treatment planning, and motion management. Manual segmentation during these interventions is time-consuming and subject to inter- and intraobserver variation. To address these drawbacks, we aimed to develop a deep learning-based method which integrates deep supervision into a three-dimensional (3D) patch-based V-Net for prostate segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31074513

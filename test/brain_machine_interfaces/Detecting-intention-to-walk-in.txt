@@ -1,0 +1,3 @@
+Most studies in the field of brain-computer interfacing (BCI) for lower limbs rehabilitation are carried out with healthy subjects, even though insights gained from healthy populations may not generalize to patients in need of a BCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26654594

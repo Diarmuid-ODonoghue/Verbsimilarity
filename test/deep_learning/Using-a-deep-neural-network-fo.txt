@@ -1,0 +1,3 @@
+Breathing artifact may affect the quality of four-dimensional computed tomography (4DCT) images. We developed a deep neural network (DNN)-based artifact reduction method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31430590

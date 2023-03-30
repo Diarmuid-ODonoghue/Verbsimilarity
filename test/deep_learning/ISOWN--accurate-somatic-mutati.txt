@@ -1,0 +1,3 @@
+A key step in cancer genome analysis is the identification of somatic mutations in the tumor. This is typically done by comparing the genome of the tumor to the reference genome sequence derived from a normal tissue taken from the same donor. However, there are a variety of common scenarios in which matched normal tissue is not available for comparison.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28659176

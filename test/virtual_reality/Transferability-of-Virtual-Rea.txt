@@ -1,0 +1,3 @@
+To assess whether a robotic simulation curriculum for novice surgeons can improve performance of a suturing task in a live porcine model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28027975

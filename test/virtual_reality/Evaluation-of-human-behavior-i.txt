@@ -1,0 +1,3 @@
+During our daily displacements, we should consider the individuals advancing toward us in order to avoid a possible collision with our congeneric. We developed an experimental design in a virtual immersion room, which allows us to evaluate human capacities for avoiding collisions with other people. In addition, the design allows participants to interact naturally inside this immersive virtual reality setup when a pedestrian is moving toward them, creating a possible risk of collision. Results suggest that the performance is associated with visual and motor capacities and could be adjusted by cognitive social perception.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19250010

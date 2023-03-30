@@ -1,0 +1,3 @@
+Brain-computer interface technology has been applied to stroke patients to improve their motor function. Event-related desynchronization during motor imagery, which is used as a brain-computer interface trigger, is sometimes difficult to detect in stroke patients. Anodal transcranial direct current stimulation (tDCS) is known to increase event-related desynchronization. This study investigated the adjunctive effect of anodal tDCS for brain-computer interface training in patients with severe hemiparesis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25655381

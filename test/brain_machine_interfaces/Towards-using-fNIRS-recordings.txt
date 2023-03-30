@@ -1,0 +1,3 @@
+Recently, fNIRS has been proposed as a promising approach for awareness detection, and a possible method to establish basic communication in patients with disorders of consciousness (DOC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29909026

@@ -1,0 +1,3 @@
+Worldwide, more than 80% of people diagnosed with cancer will require surgery during their disease course, but only 5% to 20% of low- and middle-income countries have access to safe, affordable, and timely surgery. Developing surgical oncology skills requires significant time and mentoring. Virtual reality (VR) simulators can reduce the time required to master surgical procedures but are prohibitively expensive. We sought to determine whether a VR simulator using low-cost computer gaming equipment could train novice surgeons in Africa to perform a virtual radical abdominal (open) hysterectomy (RAH).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31070982

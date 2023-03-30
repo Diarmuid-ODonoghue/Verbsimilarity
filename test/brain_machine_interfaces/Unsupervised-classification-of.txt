@@ -1,0 +1,3 @@
+In this study we aimed for the classification of operator workload as it is expected in many real-life workplace environments. We explored brain-signal based workload predictors that differ with respect to the level of label information required for training, including entirely unsupervised approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27078889

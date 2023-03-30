@@ -1,0 +1,3 @@
+To compare the diagnostic performance of human gradings vs predictions provided by a machine-to-machine (M2M) deep learning (DL) algorithm trained to quantify retinal nerve fiber layer (RNFL) damage on fundus photographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31730838

@@ -1,0 +1,3 @@
+The gold standard for colorectal cancer metastases detection in the peritoneum is histological evaluation of a removed tissue sample. For feedback during interventions, real-time in vivo imaging with confocal laser microscopy has been proposed for differentiation of benign and malignant tissue by manual expert evaluation. Automatic image classification could improve the surgical workflow further by providing immediate feedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31129859

@@ -1,0 +1,3 @@
+Variable effects limit the efficacy of transcranial direct current stimulation (tDCS) as a research and therapeutic tool. Conventional application of a fixed-dose of tDCS does not account for inter-individual differences in anatomy (e.g. skull thickness), which varies the amount of current reaching the brain. Individualised dose-control may reduce the variable effects of tDCS by reducing variability in electric field (E-field) intensities at a cortical target site.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31653475

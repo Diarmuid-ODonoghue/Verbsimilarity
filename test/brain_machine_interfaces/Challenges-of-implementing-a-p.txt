@@ -1,0 +1,3 @@
+Near-infrared spectroscopy brain-computer interfaces (NIRS-BCIs) have been proposed as potential motor-free communication pathways. This paper documents the challenges of implementing an NIRS-BCI with a non-verbal, severely and congenitally impaired, but cognitively intact young adult.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26457507

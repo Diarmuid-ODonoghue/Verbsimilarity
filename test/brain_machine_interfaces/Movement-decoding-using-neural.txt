@@ -1,0 +1,3 @@
+Correlating electrical activity within the human brain to movement is essential for developing and refining interventions (e.g. deep brain stimulation (DBS)) to treat central nervous system disorders. It also serves as a basis for next generation brain-machine interfaces (BMIs). This study highlights a new decoding strategy for capturing movement and its corresponding laterality from deep brain local field potentials (LFPs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26305124

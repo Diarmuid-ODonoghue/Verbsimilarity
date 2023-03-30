@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) are being developed to restore reach and grasping movements of paralyzed individuals. Recent studies have shown that the kinetics of grasping movement, such as grasp force, can be successfully decoded from electrocorticography (ECoG) signals, and that the high-frequency band (HFB) power changes provide discriminative information that contribute to an accurate decoding of grasp force profiles. However, as the models used in these studies contained simultaneous information from multiple spectral features over multiple areas in the brain, it remains unclear what parameters of movement and force are encoded by the HFB signals and how these are represented temporally and spatially in the SMC.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31296796

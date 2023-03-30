@@ -1,0 +1,3 @@
+One of the current challenges in brain-machine interfacing is to characterize and decode upper limb kinematics from brain signals, e.g. to control a prosthetic device. Recent research work states that it is possible to do so based on low frequency EEG components. However, the validity of these results is still a matter of discussion. In this paper, we assess the feasibility of decoding upper limb kinematics from EEG signals in center-out reaching tasks during passive and active movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28143603

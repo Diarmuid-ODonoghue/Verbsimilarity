@@ -1,0 +1,3 @@
+In recent years, brain-computer interface (BCI) systems have been investigated for their potential as a communication device to assist people with severe paralysis. Decoding speech sensorimotor cortex activity is a promising avenue for the generation of BCI control signals, but is complicated by variability in neural patterns, leading to suboptimal decoding. We investigated whether neural pattern variability associated with sound pronunciation can be explained by prior pronunciations and determined to what extent prior speech affects BCI decoding accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30238924

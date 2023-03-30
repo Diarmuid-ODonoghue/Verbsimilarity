@@ -1,0 +1,3 @@
+Lack of treatment adherence can lead to life-threatening health complications for people with type 2 diabetes (T2D). Recent improvements and availability in continuous glucose monitoring (CGM) technology have enabled various possibilities to monitor diabetes treatment. Detection of missed once-daily basal insulin injections can be used to provide feedback to patients, thus improving their diabetes management. In this study, we explore how machine learning (ML) based on CGM data can be used for detecting adherence to once-daily basal insulin injections.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32297804

@@ -1,0 +1,3 @@
+The amount of coronary artery calcium determined in CT scans is a well established predictor of cardiovascular events. However, high interscan variability of coronary calcium quantification may lead to incorrect cardiovascular risk assignment. Partial volume effect contributes to high interscan variability. Hence, we propose a method for coronary calcium quantification employing partial volume correction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30571729

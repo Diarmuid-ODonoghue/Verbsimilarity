@@ -1,0 +1,3 @@
+Laparoscopic tissue handling is quite difficult to measure using virtual-reality laparoscopic simulators and box-trainer exercises, and therefore, completion time is the predominant performance measure for simulation-based laparoscopic training exercises. The purpose of this study was to evaluate the construct validity of a training and assessment model for precise laparoscopic handling of delicate tissue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25275718

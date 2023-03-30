@@ -1,0 +1,3 @@
+The locations and shapes of synapses are important in reconstructing connectomes and analyzing synaptic plasticity. However, current synapse detection and segmentation methods are still not adequate for accurately acquiring the synaptic connectivity, and they cannot effectively alleviate the burden of synapse validation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30005590

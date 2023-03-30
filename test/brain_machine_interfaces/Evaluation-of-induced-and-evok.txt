@@ -1,0 +1,3 @@
+Two challenges need to be addressed before bringing non-motor mental tasks for brain-computer interface (BCI) control to persons in a minimally conscious state (MCS), who can be behaviorally unresponsive even when proven to be consciously aware: first, keeping the cognitive demands as low as possible so that they could be fulfilled by persons with MCS. Second, increasing the control of experimental protocol (i.e. type and timing of the task performance).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27329006

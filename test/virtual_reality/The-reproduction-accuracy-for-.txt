@@ -1,0 +1,3 @@
+To investigate reproduction accuracy of the rapid prototyping technique by comparing 3-dimensional computer-aided design (CAD) (virtual) model with stereolithographic (solid) replica of the thyroid gland.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19618001

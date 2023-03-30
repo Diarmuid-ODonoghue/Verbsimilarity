@@ -1,0 +1,3 @@
+The loss of motor control severely impedes activities of daily life. Brain computer interfaces (BCIs) offer new possibilities to treat nervous system injuries, but conventional BCIs use signals from primary motor cortex, the same sites most likely damaged in a stroke causing paralysis. Recent studies found distinct cortical physiology associated with contralesional limb movements in regions distinct from primary motor cortex. To capitalize on these findings, we designed and implemented a BCI that localizes and acquires these brain signals to drive a powered, hand orthotic which opens and closes a patient's hand.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22255773

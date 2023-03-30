@@ -1,0 +1,3 @@
+Many studies have demonstrated the usefulness of repetitive task practice by using robotic-assisted gait training (RAGT) devices, including Lokomat, for the treatment of lower limb paresis. Virtual reality (VR) has proved to be a valuable tool to improve neurorehabilitation training. The aim of our pilot randomized clinical trial was to understand the neurophysiological basis of motor function recovery induced by the association between RAGT (by using Lokomat device) and VR (an animated avatar in a 2D VR) by studying electroencephalographic (EEG) oscillations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28592282

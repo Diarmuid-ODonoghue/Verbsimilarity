@@ -1,0 +1,3 @@
+To achieve automatic diabetic retinopathy (DR) detection in retinal fundus photographs through the use of a deep transfer learning approach using the Inception-v3 network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31737428

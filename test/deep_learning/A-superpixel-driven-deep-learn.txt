@@ -1,0 +1,3 @@
+The image-based identification of distinct tissues within dermatological wounds enhances patients' care since it requires no intrusive evaluations. This manuscript presents an approach, we named QTDU, that combines deep learning models with superpixel-driven segmentation methods for assessing the quality of tissues from dermatological ulcers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31542688

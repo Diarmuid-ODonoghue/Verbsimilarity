@@ -1,0 +1,3 @@
+Endoscopic third ventriculostomy (ETV) is an effective but technically demanding procedure with significant risk. Current simulators, including human cadavers, animal models, and virtual reality systems, are expensive, relatively inaccessible, and can lack realistic sensory feedback. The purpose of this study was to construct a realistic, low-cost, reusable brain simulator for ETV and evaluate its fidelity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25360853

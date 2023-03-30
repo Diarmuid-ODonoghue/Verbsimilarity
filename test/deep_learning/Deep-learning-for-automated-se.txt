@@ -1,0 +1,3 @@
+To develop a deep convolutional neural network (CNN) to automatically segment an axial CT image of the pelvis for body composition measures. We hypothesized that a deep CNN approach would achieve high accuracy when compared to manual segmentations as the reference standard.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31396667

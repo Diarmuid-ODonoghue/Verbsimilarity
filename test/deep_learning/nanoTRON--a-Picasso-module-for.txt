@@ -1,0 +1,3 @@
+Classification of images is an essential task in higher-level analysis of biological data. By bypassing the diffraction-limit of light, super-resolution microscopy opened up a new way to look at molecular details using light microscopy, producing large amounts of data with exquisite spatial detail. Statistical exploration of data usually needs initial classification, which is up to now often performed manually.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32145010

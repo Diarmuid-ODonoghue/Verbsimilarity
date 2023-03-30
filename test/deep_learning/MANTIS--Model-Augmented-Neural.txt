@@ -1,0 +1,3 @@
+To develop and evaluate a novel deep learning-based image reconstruction approach called MANTIS (Model-Augmented Neural neTwork with Incoherent k-space Sampling) for efficient MR parameter mapping.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30860285

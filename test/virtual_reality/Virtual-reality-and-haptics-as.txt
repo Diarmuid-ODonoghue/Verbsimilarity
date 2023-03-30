@@ -1,0 +1,3 @@
+To investigate whether training in a virtual environment with a haptic device will improve motor function in the left hemiparetic arm of a stroke subject.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15295748

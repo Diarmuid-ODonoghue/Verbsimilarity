@@ -1,0 +1,3 @@
+Realistic trocar insertion simulator requires reliable and reproducible tissue data. This paper looks at using synthetic surrogate tissue to facilitate creation of data covering a wide range of pathological cases. Furthermore, we propose to map the synthetic puncture force data to the puncture force data obtained on animal/human tissue to create a simulation model of the procedure. We have developed an experimental setup to collect data from surrogate synthetic tissue using a bladeless trocar.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377226

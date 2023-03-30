@@ -1,0 +1,3 @@
+To develop weighted error-based, generic and procedure-specific rating scales, to validate these scales for video-based assessment during virtual carotid artery stent (CAS) procedures and correlate them with simulator-derived metrics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19356952

@@ -1,0 +1,3 @@
+Blockade of the human ether-à-go-go-related gene (hERG) channel by small compounds causes a prolonged QT interval that can lead to severe cardiotoxicity and is a major cause of the many failures in drug development. Thus, evaluating the hERG-blocking activity of small compounds is important for successful drug development. To this end, various computational prediction tools have been developed, but their prediction performances in terms of sensitivity and negative predictive value (NPV) need to be improved to reduce false negative predictions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32022860

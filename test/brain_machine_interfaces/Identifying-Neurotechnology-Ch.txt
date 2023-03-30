@@ -1,0 +1,3 @@
+The second NeuroCAS event held 20-21 October 2018 in Cleveland, OH, USA, was attended by researchers and entrepreneurs across the fields of biosignals and neurotechnology. On the heels of the IEEE BioCAS Conference, the intent of this collaborative workshop was to offer an opportunity for those within the larger biomedical circuits and systems community interested in brain activity and neurotechnology to interact, hear perspectives outside of their community, and most importantly, discuss current challenges as well as new opportunities across the fields of electrocorticography (ECoG) and brain-body axis (PNS/ANS) interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31135349

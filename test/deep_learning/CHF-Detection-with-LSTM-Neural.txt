@@ -1,0 +1,3 @@
+Heart rate variability has been proven to be an effective prediction of risk of heart failure. The tradition method required manual feature extraction, thus may lead to potential error. In order to improve the robustness, a deep learning method based on long short-term memory has been presented in this paper. Three RR interval length (N) for detection are used. Without pre-processing, this method obtain 82.47%, 85.13% and 84.91% accuracy for N=50 (average time length is 37. 8s), N=100 (average time length is 73. 9s), N=500 (average time length is 369. 5s), respectively. This method makes it possible to detect CHF through intelligent hardware or mobile application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30440447

@@ -1,0 +1,3 @@
+Optimal detection and surveillance of bladder cancer (BCa) rely primarily on the cystoscopic visualization of bladder lesions. AI-assisted cystoscopy may improve image recognition and accelerate data acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31925551

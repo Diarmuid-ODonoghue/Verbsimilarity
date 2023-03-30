@@ -1,0 +1,3 @@
+Live guidance during needle breast procedures is not currently possible with high-field-strength (1.5-T), superconducting magnetic resonance (MR) imaging. The physician can calculate only the approximate location and extent of a tumor in the compressed patient breast before inserting the needle, and the tissue specimen removed at biopsy may not actually belong to the lesion of interest. The authors developed a virtual reality system for guiding breast biopsy with MR imaging, which uses a deformable finite element model of the breast.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11699849

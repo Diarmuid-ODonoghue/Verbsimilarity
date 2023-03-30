@@ -1,0 +1,3 @@
+Video-assisted thoracic surgery is gradually replacing conventional open thoracotomy as the method of choice for the treatment of early-stage non-small cell lung cancers, and thoracic surgical trainees must learn and master this technique. Simulation-based training could help trainees overcome the first part of the learning curve, but no virtual-reality simulators for thoracoscopy are commercially available. This study aimed to investigate whether training on a laparoscopic simulator enables trainees to perform a thoracoscopic lobectomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24442678

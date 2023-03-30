@@ -1,0 +1,3 @@
+The majority of studies comparing active psychological treatments for posttraumatic stress disorder (PTSD) do not find significant differences at posttreatment. This was the case in a recent trial examining prolonged exposure (PE) and virtual reality exposure (VRE) among active-duty soldiers with combat-related PTSD. Matching individual patients to specific treatments provides a potential avenue to improve significantly the public health impact of effective treatments for PTSD. A composite moderator approach was used to identify profiles of patients who would see superior PTSD symptom reduction in VRE or PE to inform future treatment matching.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29734488

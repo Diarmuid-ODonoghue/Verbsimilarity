@@ -1,0 +1,3 @@
+Virtual reality (VR) systems have been integrated into rehabilitation techniques for phantom limb pain (PLP). In this case report, we used electroencephalography (EEG) to analyze corticocortical coherence between the bilateral sensorimotor cortices during vibrotactile stimulation in conjunction with VR rehabilitation in two PLP patients. As a result, we observed PLP alleviation and increased alpha wave coherence during VR rehabilitation when stimulation was delivered to the cheek and shoulder (referred sensation areas) of the affected side. Vibrotactile stimulation with VR rehabilitation may enhance the awareness and movement of the phantom hand.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31762364

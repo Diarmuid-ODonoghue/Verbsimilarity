@@ -1,0 +1,3 @@
+Our main objective is to demonstrate that compact high radiance gallium nitride displays can be used with conventional virtual reality optics to stimulate an optogenetic retina. Hence, we aim to introduce a non-invasive approach to restore vision for people with conditions such as retinitis pigmentosa where there is a remaining viable communication link between the retina and the visual cortex.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30156188

@@ -1,0 +1,3 @@
+Lysine acetylation in protein is one of the most important post-translational modifications (PTMs). It plays an important role in essential biological processes and is related to various diseases. To obtain a comprehensive understanding of regulatory mechanism of lysine acetylation, the key is to identify lysine acetylation sites. Previously, several shallow machine learning algorithms had been applied to predict lysine modification sites in proteins. However, shallow machine learning has some disadvantages. For instance, it is not as effective as deep learning for processing big data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30674277

@@ -1,0 +1,3 @@
+To set a baseline measurement of the number of hand flexion-extension cycles and analyse the degree of motion in young healthy individuals, measured by leap motion controller (LMC), besides describing gender and dominant hand differences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28102449

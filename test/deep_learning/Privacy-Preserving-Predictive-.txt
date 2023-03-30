@@ -1,0 +1,3 @@
+Data sharing has been a big challenge in biomedical informatics because of privacy concerns. Contextual embedding models have demonstrated a very strong representative capability to describe medical concepts (and their context), and they have shown promise as an alternative way to support deep-learning applications without the need to disclose original data. However, contextual embedding models acquired from individual hospitals cannot be directly combined because their embedding spaces are different, and naive pooling renders combined embeddings useless.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29769172

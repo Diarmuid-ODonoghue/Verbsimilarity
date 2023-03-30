@@ -1,0 +1,3 @@
+We evaluated whether machine learning may be helpful for the detection of lung cancer in FDG-PET imaging in the setting of ultralow dose PET scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30527183

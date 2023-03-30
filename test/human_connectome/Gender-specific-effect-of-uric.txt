@@ -1,0 +1,3 @@
+The pattern of resting-state networks is influenced by several factors besides the underlying pathological changes of Parkinson's disease (PD). Uric acid (UA), as an antioxidant, has a neuroprotective property against PD-related microenvironment; however, this effect would be gender-specific. We aimed to evaluate a gender-sensitive resting-state networks (RSN) according to the UA level in drug naïve de novo patients with PD to elucidate the role of antioxidant in cortical functional networks of PD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29606606

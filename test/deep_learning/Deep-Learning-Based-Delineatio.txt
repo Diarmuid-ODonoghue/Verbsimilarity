@@ -1,0 +1,3 @@
+Organ-at-risk (OAR) delineation is a key step in treatment planning but can be time consuming, resource intensive, subject to variability, and dependent on anatomical knowledge. We studied deep learning (DL) for automated delineation of multiple OARs; in addition to geometric evaluation, the dosimetric impact of using DL contours for treatment planning was investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30836167

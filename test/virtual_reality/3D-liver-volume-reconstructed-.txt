@@ -1,0 +1,3 @@
+Virtual Reality systems for medical procedures such as the palpation of different organs, requires fast, robust, accurate and reliable computational methods for providing realism during interaction with the 3D biological models. This paper presents the segmentation, reconstruction and palpation simulation of a healthy liver volume as a tool for training. The chosen method considers the mechanical characteristics and liver properties for correctly simulating palpation interactions, which results appropriate as a complementary tool for training medical students in familiarizing with the liver anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23400200

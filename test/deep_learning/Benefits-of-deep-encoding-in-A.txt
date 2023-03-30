@@ -1,0 +1,3 @@
+the aim of this study is to test the encoding deficit hypothesis in Alzheimer disease (AD) using a recent method for correcting memory tests. To this end, a Spanish-language adaptation of the Free and Cued Selective Reminding Test was interpreted using the Item Specific Deficit Approach (ISDA), which provides three indices: Encoding Deficit Index, Consolidation Deficit Index, and Retrieval Deficit Index.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24035297

@@ -1,0 +1,3 @@
+Long non-coding RNAs (lncRNAs) are important regulatory elements in biological processes. LncRNAs share similar sequence characteristics with messenger RNAs, but they play completely different roles, thus providing novel insights for biological studies. The development of next-generation sequencing has helped in the discovery of lncRNA transcripts. However, the experimental verification of numerous transcriptomes is time consuming and costly. To alleviate these issues, a computational approach is needed to distinguish lncRNAs from the transcriptomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29850775

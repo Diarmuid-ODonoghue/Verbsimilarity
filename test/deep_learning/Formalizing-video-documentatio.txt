@@ -1,0 +1,3 @@
+In laparoscopic cholecystectomy (LC), achievement of the Critical View of Safety (CVS) is commonly advocated to prevent bile duct injuries (BDI). However, BDI rates remain stable, probably due to inconsistent application or a poor understanding of CVS as well as unreliable reporting. Objective video reporting could serve for quality auditing and help generate consistent datasets for deep learning models aimed at intraoperative assistance. In this study, we develop and test a method to report CVS using videos.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31583466

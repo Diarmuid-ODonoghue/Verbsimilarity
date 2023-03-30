@@ -1,0 +1,3 @@
+To investigate whether liver fibrosis can be staged by deep learning techniques based on CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29761358

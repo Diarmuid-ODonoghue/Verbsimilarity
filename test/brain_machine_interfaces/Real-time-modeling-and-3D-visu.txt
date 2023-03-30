@@ -1,0 +1,3 @@
+This report summarizes our recent efforts to deliver real-time data extraction, preprocessing, artifact rejection, source reconstruction, multivariate dynamical system analysis (including spectral Granger causality) and 3D visualization as well as classification within the open-source SIFT and BCILAB toolboxes. We report the application of such a pipeline to simulated data and real EEG data obtained from a novel wearable high-density (64-channel) dry EEG system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110155

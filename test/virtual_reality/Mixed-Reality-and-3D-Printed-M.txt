@@ -1,0 +1,3 @@
+The aim of this study was to evaluate a novel holographic craniofacial surgical planning application and its implementation throughout the planning and operative stages of facial transplantation by performing a critical analysis of comparative utility, cost, and limitations of MR and 3D printing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32224738

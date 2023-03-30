@@ -1,0 +1,3 @@
+This paper considers automatic clinical workflow description of full-length routine fetal anomaly ultrasound scans using deep learning approaches for spatio-temporal video analysis. Multiple architectures consisting of 2D and 2D + t CNN, LSTM, and convolutional LSTM are investigated and compared. The contributions of short-term and long-term temporal changes are studied, and a multi-stream framework analysis is found to achieve the best top-1 accuracy=0.77 and top-3 accuracy=0.94. Automated partitioning and characterisation on unlabelled full-length video scans show high correlation (ρ=0.95, p=0.0004) with workflow statistics of manually labelled videos, suggesting practicality of proposed methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31993109

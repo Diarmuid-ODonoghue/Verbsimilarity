@@ -1,0 +1,3 @@
+To evaluate the performance of a novel three-dimensional (3D) joint convolutional and recurrent neural network (CNN-RNN) for the detection of intracranial hemorrhage (ICH) and its five subtypes (cerebral parenchymal, intraventricular, subdural, epidural, and subarachnoid) in non-contrast head CT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31041565

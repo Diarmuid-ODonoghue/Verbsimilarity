@@ -1,0 +1,3 @@
+Having introduced NeuroSim, the prototype of a neurosurgical training simulator at MMVR18, we present our first medical training module. NeuroSim is based on virtual reality and uses real-time algorithms for simulating tissue. It provides a native interface by using a real surgical microscope and original instruments. Having implemented some abstract tasks to train basic skills like hand-eye coordination or the handling of the microscope last year, we now present a medical module where an aneurysm has to be clipped. NeuroSim has been developed in cooperation with the neurosurgical clinic of the University of Heidelberg and VRmagic GmbH in Mannheim.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22356954

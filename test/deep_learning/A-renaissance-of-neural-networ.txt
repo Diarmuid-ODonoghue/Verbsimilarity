@@ -1,0 +1,3 @@
+Neural networks are becoming a very popular method for solving machine learning and artificial intelligence problems. The variety of neural network types and their application to drug discovery requires expert knowledge to choose the most appropriate approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27295548

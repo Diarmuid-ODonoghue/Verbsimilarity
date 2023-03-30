@@ -1,0 +1,3 @@
+Hand gesture recognition systems in operating rooms (ORs) are crucial for browsing and controlling computer-aided devices, which have been developed to decrease the risk of contamination during surgical procedures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32062090

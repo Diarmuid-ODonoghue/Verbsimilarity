@@ -1,0 +1,3 @@
+This paper introduces a fully automated, subject-specific deep-learning convolutional neural network (CNN) system for forecasting seizures using ambulatory intracranial EEG (iEEG). The system was tested on a hand-held device (Mayo Epilepsy Assist Device) in a pseudo-prospective mode using iEEG from four canines with naturally occurring epilepsy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30959492

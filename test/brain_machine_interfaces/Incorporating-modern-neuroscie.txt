@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) technology allows users to generate actions based solely on their brain signals. However, current non-invasive BCIs generally classify brain activity recorded from surface electroencephalography (EEG) electrodes, which can hinder the application of findings from modern neuroscience research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27619224

@@ -1,0 +1,3 @@
+Neural prostheses, or brain-machine interfaces, aim to restore efficient communication and movement ability to those suffering from paralysis. A major challenge these systems face is robust performance, particularly with aging signal sources. The aim in this study was to develop a neural prosthesis that could sustain high performance in spite of signal instability while still minimizing retraining time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25307561

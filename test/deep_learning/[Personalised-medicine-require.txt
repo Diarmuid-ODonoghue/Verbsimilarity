@@ -1,0 +1,3 @@
+Personalised medicine via a central biobank will require the introduction of a paradigm shift navigating by detecting pattern and correlation, instead of evidence of limited use in our complex environment. Accordingly, to make sense, population-wide data comprising "deep phenotype" including genetics, must be submitted to evaluation by "machine intelligence", based on "unsupervised learning" - the algorithm concomitantly improving its power with increasing mass of data. A system not based on deductive logic cannot be checked by logic but must be taken on face value.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30869070

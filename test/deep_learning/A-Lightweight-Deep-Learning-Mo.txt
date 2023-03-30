@@ -1,0 +1,3 @@
+Electrocardiographic (ECG) monitors have been widely used for diagnosing cardiac arrhythmias for decades. However, accurate analysis of ECG signals is difficult and time-consuming work because large amounts of beats need to be inspected. In order to enhance ECG beat classification, machine learning and deep learning methods have been studied. However, existing studies have limitations in model rigidity, model complexity, and inference speed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32163037

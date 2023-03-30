@@ -1,0 +1,3 @@
+Magnetic resonance images are being increasingly deployed in conjunction with navigated transcranial magnetic stimulation (nTMS) to account for inter-individual differences in brain anatomy as well as to reduce the variability of mapping findings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25865772

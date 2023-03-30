@@ -1,0 +1,3 @@
+Current brain-computer interfaces (BCIs) rely on visual feedback, requiring sustained visual attention to use the device. Improvements to BCIs may stem from the development of an effective way to provide quick feedback independent of vision. Tactile stimuli, either delivered on the skin surface, or directly to the brain via microstimulation in somatosensory cortex, could serve that purpose. We examined the effectiveness of vibrotactile stimuli and microstimulation as a means of non-visual feedback by using a fundamental element of feedback: the ability to react to a stimulus while already in motion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25028989

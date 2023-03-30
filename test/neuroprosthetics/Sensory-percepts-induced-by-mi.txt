@@ -1,0 +1,3 @@
+Microstimulation in human sensory thalamus (ventrocaudal, VC) results in focal sensory percepts in the hand and arm which may provide an alternative target site (to somatosensory cortex) for the input of prosthetic sensory information. Sensory feedback to facilitate motor function may require simultaneous or timed responses across separate digits to recreate perceptions of slip as well as encoding of intensity variations in pressure or touch.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29126946

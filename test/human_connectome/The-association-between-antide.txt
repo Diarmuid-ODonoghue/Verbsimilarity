@@ -1,0 +1,3 @@
+Antidepressant medications offer an effective treatment for depression, yet nearly 50% of patients either do not respond or have side-effects rendering them unable to continue the course of treatment. Mechanistic studies might help advance the pharmacology of depression by identifying pathways through which treatments exert their effects. Toward this goal, we aimed to identify the effects of antidepressant treatment on neural connectivity, the relationship with symptom improvement, and to test whether these effects were reproducible across two studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31248841

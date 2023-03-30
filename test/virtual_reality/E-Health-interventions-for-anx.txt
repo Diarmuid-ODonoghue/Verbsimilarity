@@ -1,0 +1,3 @@
+Long-term physical conditions affect 10% to 12% of children and adolescents worldwide; these individuals are at greater risk of developing psychological problems, particularly anxiety and depression. Access to face-to-face treatment for such problems is often limited, and available interventions usually have not been tested with this population. As technology improves, e-health interventions (delivered via digital means, such as computers and smart phones and ranging from simple text-based programmes through to multimedia and interactive programmes, serious games, virtual reality and biofeedback programmes) offer a potential solution to address the psychological needs of this group of young people.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30110718

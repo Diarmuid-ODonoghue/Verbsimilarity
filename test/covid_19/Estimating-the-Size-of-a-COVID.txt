@@ -1,0 +1,3 @@
+Public health policy makers in countries with Coronavirus Disease 2019 (COVID-19) outbreaks face the decision of when to switch from measures that seek to contain and eliminate the outbreak to those designed to mitigate its effects. Estimates of epidemic size are complicated by surveillance systems that cannot capture all cases, and by the need for timely estimates as the epidemic is ongoing. This article provides a Bayesian methodology to estimate outbreak size from one or more surveillance systems such as virologic testing of pneumonia cases or samples from a network of general practitioners.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32324625

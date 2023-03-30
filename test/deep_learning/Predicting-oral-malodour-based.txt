@@ -1,0 +1,3 @@
+Oral malodour is mainly caused by volatile sulphur compounds produced by bacteria and bacterial interactions. It is difficult to predict the presence or absence of oral malodour based on the abundances of specific species and their combinations. This paper presents an effective way of deep learning approach to predicting the oral malodour from salivary microbiota.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30064419

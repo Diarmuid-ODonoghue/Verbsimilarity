@@ -1,0 +1,3 @@
+Spatial orientation and navigation depends on information from the vestibular system. Previous work suggested impaired spatial navigation in patients with bilateral vestibular failure (BVF). The aim of this study was to investigate event-related brain activity by functional magnetic resonance imaging (fMRI) during spatial navigation and visual memory tasks in BVF patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26255675

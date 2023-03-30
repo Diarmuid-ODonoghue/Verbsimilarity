@@ -1,0 +1,3 @@
+The performance of traditional approaches to decoding movement intent from electromyograms (EMGs) and other biological signals commonly degrade over time. Furthermore, conventional algorithms for training neural network based decoders may not perform well outside the domain of the state transitions observed during training. The work presented in this paper mitigates both these problems, resulting in an approach that has the potential to substantially improve the quality of life of the people with limb loss.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30835207

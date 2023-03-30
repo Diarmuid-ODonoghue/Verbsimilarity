@@ -1,0 +1,3 @@
+The purpose of the study was to propose a deep transfer learning (DTL)-based model to distinguish indolent from clinically significant prostate cancer (PCa) lesions and to compare the DTL-based model with a deep learning (DL) model without transfer learning and PIRADS v2 score on 3 Tesla multi-parametric MRI (3T mp-MRI) with whole-mount histopathology (WMHP) validation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30460529

@@ -1,0 +1,3 @@
+Discriminating performance of learners with varying experience is essential to developing and validating a surgical simulator. For rare and emergent procedures such as cricothyrotomy (CCT), the criteria to establish such groups are unclear. This study is to investigate the impact of surgeons' actual CCT experience on their virtual reality simulator performance and to determine the minimum number of actual CCTs that significantly discriminates simulator scores. Our hypothesis is that surgeons who performed more actual CCT cases would perform better on a virtual reality CCT simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32304931

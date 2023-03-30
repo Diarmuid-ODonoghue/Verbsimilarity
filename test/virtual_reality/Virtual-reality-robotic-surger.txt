@@ -1,0 +1,3 @@
+Preoperative simulation warm-up has been shown to improve performance and reduce errors in novice and experienced surgeons, yet existing studies have only investigated conventional laparoscopy. We hypothesized that a brief virtual reality (VR) robotic warm-up would enhance robotic task performance and reduce errors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23583618

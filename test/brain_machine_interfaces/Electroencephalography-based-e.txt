@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) have demonstrated the potential to provide paralyzed individuals with new means of communication, but an electroencephalography (EEG)-based endogenous BCI has never been successfully used for communication with a patient in a completely locked-in state (CLIS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30700310

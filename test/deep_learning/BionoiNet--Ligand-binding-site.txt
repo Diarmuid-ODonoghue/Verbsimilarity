@@ -1,0 +1,3 @@
+Fast and accurate classification of ligand-binding sites in proteins with respect to the class of binding molecules is invaluable not only to the automatic functional annotation of large datasets of protein structures, but also to projects in protein evolution, protein engineering, and drug development. Deep learning techniques, which have already been successfully applied to address challenging problems across various fields, are inherently suitable to classify ligand-binding pockets. Our goal is to demonstrate that off-the-shelf deep learning models can be employed with minimum development effort to recognize nucleotide- and heme-binding sites with a comparable accuracy to highly specialized, voxel-based methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32053156

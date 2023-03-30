@@ -1,0 +1,3 @@
+Small interfering RNA (siRNA) can be used to post-transcriptional gene regulation by knocking down targeted genes. In functional genomics, biomedical research and cancer therapeutics, siRNA design is a critical research topic. Various computational algorithms have been developed to select the most effective siRNA, whereas the efficacy prediction accuracy is not so satisfactory. Many existing computational methods are based on feature engineering, which may lead to biased and incomplete features. Deep learning utilizes non-linear mapping operations to detect potential feature pattern and has been considered perform better than existing machine learning method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30255786

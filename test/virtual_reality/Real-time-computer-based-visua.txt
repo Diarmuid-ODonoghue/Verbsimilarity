@@ -1,0 +1,3 @@
+Patients with downbeat nystagmus syndrome suffer from oscillopsia, which leads to an unstable visual perception and therefore impaired visual acuity. The aim of this study was to use real-time computer-based visual feedback to compensate for the destabilizing slow phase eye movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26728632

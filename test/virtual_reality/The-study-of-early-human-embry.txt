@@ -1,0 +1,3 @@
+Tracings of serial histological sections from 4 human embryos at different Carnegie stages were used to create 3-dimensional (3D) computer models of the developing heart. The models were constructed using commercially available software developed for graphic design and the production of computer generated virtual reality environments. They are available as interactive objects which can be downloaded via the World Wide Web. This simple method of 3D reconstruction offers significant advantages for understanding important events in morphological sciences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9279665

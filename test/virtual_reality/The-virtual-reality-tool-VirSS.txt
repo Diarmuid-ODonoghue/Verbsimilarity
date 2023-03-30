@@ -1,0 +1,3 @@
+The significant variation in the vascular anatomy of the abdominal wall makes preoperative imaging essential when raising a DIEP (deep inferior epigastric artery perforator) flap due to the potential for maximizing operative success, reducing intraoperative error and minimizing operative complications. Variability in perforator anatomy makes DIEP flap surgery a suitable candidate for computer and virtual reality bio models. In this context, a study was undertaken to determine the feasibility of CTA-guided by VirSSPA application. VirSSPA is a virtual reality tool developed in our Hospital for surgical planning and training. This application allows surgeons to generate the three-dimensional (3D) model of the patient.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20033584

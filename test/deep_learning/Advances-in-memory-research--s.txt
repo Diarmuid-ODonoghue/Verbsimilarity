@@ -1,0 +1,3 @@
+To gain a complete understanding of how the brain functions, both in illness and good health, data from multiple levels of analysis must be integrated. Technical advances have made direct recordings of neuronal activity deep inside the human brain tractable, providing a rare glimpse into cellular processes during long-term memory formation. Recent findings using intracranial recordings in the medial temporal lobe inform current neural network models of memory, and may lead to a more comprehensive understanding of the neural basis of memory-related processes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18989110

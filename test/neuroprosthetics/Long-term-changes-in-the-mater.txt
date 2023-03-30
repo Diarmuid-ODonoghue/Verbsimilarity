@@ -1,0 +1,3 @@
+Brain tissue undergoes dramatic molecular and cellular remodeling at the implant-tissue interface that evolves over a period of weeks after implantation. The biomechanical impact of such remodeling on the interface remains unknown. In this study, we aim to assess the changes in the mechanical properties of the brain-electrode interface after chronic implantation of a microelectrode.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24099854

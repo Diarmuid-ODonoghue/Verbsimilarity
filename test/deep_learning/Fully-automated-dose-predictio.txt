@@ -1,0 +1,3 @@
+Although dose prediction for intensity modulated radiation therapy (IMRT) has been accomplished by a deep learning approach, delineation of some structures is needed for the prediction. We sought to develop a fully automated dose-generation framework for IMRT of prostate cancer by entering the patient CT datasets without the contour information into a generative adversarial network (GAN) and to compare its prediction performance to a conventional prediction model trained from patient contours.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32365088

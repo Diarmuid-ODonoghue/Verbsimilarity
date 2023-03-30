@@ -1,0 +1,3 @@
+We recently introduced a patient-specific rhinologic virtual surgical environment (VSE) that has shown potential for surgical rehearsal of various skull base lesions. Our aim in this study was to validate the usefulness of the rhinology VSE in performing the Draf 3 procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31012526

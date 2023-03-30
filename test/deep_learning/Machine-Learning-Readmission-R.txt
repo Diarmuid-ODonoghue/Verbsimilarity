@@ -1,0 +1,3 @@
+Hospital readmission prediction in pediatric hospitals has received little attention. Studies have focused on the readmission frequency analysis stratified by disease and demographic/geographic characteristics but there are no predictive modeling approaches, which may be useful to identify preventable readmissions that constitute a major portion of the cost attributed to readmissions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31139655

@@ -1,0 +1,3 @@
+Metal mesh is a significant candidate of flexible transparent electrodes to substitute the current state-of-the-art material indium tin oxide (ITO) for future flexible electronics. However, there remains a challenge to fabricate metal mesh with order patterns by a bottom-up approach. In this work, high-quality Cu mesh transparent electrodes with ordered pore arrays are prepared by using breath-figure polymer films as template. The optimal Cu mesh films present a sheet resistance of 28.7 Ω·sq(-1) at a transparency of 83.5%. The work function of Cu mesh electrode is tuned from 4.6 to 5.1 eV by Ag deposition and the following short-time UV-ozone treatment, matching well with the
+
+https://www.ncbi.nlm.nih.gov/pubmed/27082139

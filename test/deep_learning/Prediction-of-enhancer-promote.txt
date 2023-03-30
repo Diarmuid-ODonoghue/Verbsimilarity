@@ -1,0 +1,3 @@
+Precise identification of three-dimensional genome organization, especially enhancer-promoter interactions (EPIs), is important to deciphering gene regulation, cell differentiation and disease mechanisms. Currently, it is a challenging task to distinguish true interactions from other nearby non-interacting ones since the power of traditional experimental methods is limited due to low resolution or low throughput.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29764360

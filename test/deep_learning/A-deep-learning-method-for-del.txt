@@ -1,0 +1,3 @@
+Accurate delineation of cancer margins is critical for endoscopic curative resection. This study aimed to train and validate real-time fully convolutional networks for delineating the resection margin of early gastric cancer (EGC) under indigo carmine chromoendoscopy (CE) or white light endoscopy (WLE), and evaluated its performance and that of magnifying endoscopy with narrow-band imaging (ME-NBI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32356118

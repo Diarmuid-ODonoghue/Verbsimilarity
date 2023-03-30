@@ -1,0 +1,3 @@
+Among numerous studies on virtual reality (VR) technology for motor rehabilitation, the majorities have only used it as a motor training system and did not use the kinematic or kinetic information obtained as the basis for therapeutic effect assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25227546

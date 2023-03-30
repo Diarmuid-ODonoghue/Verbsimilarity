@@ -1,0 +1,3 @@
+Acute stroke caused by large vessel occlusions (LVOs) requires emergent detection and treatment by endovascular thrombectomy. However, radiologic LVO detection and treatment is subject to variable delays and human expertise, resulting in morbidity. Imaging software using artificial intelligence (AI) and machine learning (ML), a branch of AI, may improve rapid frontline detection of LVO strokes. This report is a systematic review of AI in acute LVO stroke identification and triage, and characterizes LVO detection software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31594798

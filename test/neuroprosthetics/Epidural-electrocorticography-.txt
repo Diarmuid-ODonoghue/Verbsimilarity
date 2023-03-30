@@ -1,0 +1,3 @@
+Prostheses for upper-limb amputees are currently controlled by either myoelectric or peripheral neural signals. Performance and dexterity of these devices is still limited, particularly when it comes to controlling hand function. Movement-related brain activity might serve as a complementary bio-signal for motor control of hand prosthesis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24834047

@@ -1,0 +1,3 @@
+In the era of explosion in biological data, machine learning techniques are becoming more popular in life sciences, including biology and medicine. This research note examines the rise and fall of the most commonly used machine learning techniques in life sciences over the past three decades.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29375816

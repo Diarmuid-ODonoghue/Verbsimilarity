@@ -1,0 +1,3 @@
+Our goal was to identify spatial filtering methods that would improve decoding of continuous arm movements from epidural field potentials as well as demonstrate the use of the epidural signals in a closed-loop brain-machine interface (BMI) system in monkeys.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23611833

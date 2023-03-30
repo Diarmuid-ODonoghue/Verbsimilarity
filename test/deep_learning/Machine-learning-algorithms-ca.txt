@@ -1,0 +1,3 @@
+Running is a popular physical activity that benefits health; however, running surface characteristics may influence loading impact and injury risk. Machine learning algorithms could automatically identify running surface from wearable motion sensors to quantify running exposures, and perhaps loading and injury risk for a runner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31539798

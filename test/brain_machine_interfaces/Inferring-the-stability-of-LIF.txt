@@ -1,0 +1,3 @@
+We examine neural signals from Longitudinally implanted Intra-Fascicular Electrodes (LIFE) in a chronic, rabbit model. Translation-invariant wavelet de-noising methods are used to improve S%R. Then traditional template-based spike sorting is applied to discriminate single units. We investigate the effect of discriminating between identified units on Brain Machine Interface (BMI) decoding performance. We infer the stability of LIFE based on decoding performance with and without current BMI methods to counter-act electrode neural signal degradation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19163087

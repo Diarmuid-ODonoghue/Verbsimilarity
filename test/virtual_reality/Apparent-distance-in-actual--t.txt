@@ -1,0 +1,3 @@
+This study examined how well reality was reproduced in several conditions of virtual reality, by mutually comparing the perception of distance in actual 3-dimensional space and 3-dimensional video-recorded space. Apparent distances in both indoor and outdoor situations were estimated by 10 adolescents. Analysis showed that relations between apparent distance and physical distance in the actual spaces both in indoor and outdoor situations are described by 0.95 and 1.01 power exponents, respectively. On the other hand, the underestimations of the apparent distance are shown in the 3-dimensional video-recorded and the virtual reality spaces both in indoor and outdoor situations whose exponents ranged from .53 to .80.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12434853

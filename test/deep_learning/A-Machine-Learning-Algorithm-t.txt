@@ -1,0 +1,3 @@
+To assess whether a fully-automated deep learning system can accurately detect and analyze truncal musculature at multiple lumbar vertebral levels and muscle groupings on abdominal CT for potential use in the detection of central sarcopenia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31126808

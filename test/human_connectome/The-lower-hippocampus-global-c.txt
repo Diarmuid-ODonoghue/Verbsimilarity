@@ -1,0 +1,3 @@
+Based on the hippocampus disconnection hypothesis in Alzheimer disease (AD), which postulates that uncoupling from cortical inputs contributes to disinhibition-like changes in hippocampus activity, we suggested that in patients with AD, the more the intrinsic functional connectivity between hippocampus and precuneus is decreased, the higher hippocampal glucose metabolism will be.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25878180

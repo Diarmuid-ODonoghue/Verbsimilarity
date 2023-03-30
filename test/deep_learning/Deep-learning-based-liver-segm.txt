@@ -1,0 +1,3 @@
+Tumors often have different imaging properties, and there is no single imaging modality that can visualize all tumors. In CT-guided needle placement procedures, image fusion (e.g. with MRI, PET, or contrast CT) is often used as image guidance when the tumor is not directly visible in CT. In order to achieve image fusion, interventional CT image needs to be registered to an imaging modality, in which the tumor is visible. However, multi-modality image registration is a very challenging problem. In this work, we develop a deep learning-based liver segmentation algorithm and use the segmented surfaces to assist image fusion with the applications in guided needle placement procedures for diagnosing and treating liver tumors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32314228

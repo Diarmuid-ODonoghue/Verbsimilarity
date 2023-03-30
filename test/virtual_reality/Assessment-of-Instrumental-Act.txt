@@ -1,0 +1,3 @@
+Continuing advances in the understanding of Alzheimer's disease progression have inspired development of disease-modifying therapeutics intended for use in preclinical populations. However, identification of clinically meaningful cognitive and functional outcomes for individuals who are, by definition, asymptomatic remains a significant challenge. Clinical trials for prevention and early intervention require measures with increased sensitivity to subtle deficits in instrumental activities of daily living (IADL) that comprise the first functional declines in prodromal disease. Validation of potential endpoints is required to ensure measure sensitivity and reliability in the populations of interest.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30298179

@@ -1,0 +1,3 @@
+Sagittal synostosis affects 1 in 1000 live births and may result in increased intracranial pressure, hindrance of normal neural development, and cosmetic deformity due to scaphocephaly. Historically, several approaches have been utilized for surgical correction and recently, computed tomography (CT)-guided reconstruction procedures are increasingly used. In this report, the authors describe the use of a CT-derived virtual and stereolithographic (3D printed) craniofacial models, which are used to guide intraoperative bone placement, and intraoperative CT guidance for confirmation of bone placement, to ensure the accuracy of surgical correction of scaphocephaly, as demonstrated to parents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29460063

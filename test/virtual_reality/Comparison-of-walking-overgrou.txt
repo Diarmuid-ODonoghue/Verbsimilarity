@@ -1,0 +1,3 @@
+Due to increased interest in treadmill gait training, recent research has focused on the similarities and differences between treadmill and overground walking. Most of these studies have tested healthy, young subjects rather than impaired populations that might benefit from such training. These studies also do not include optic flow, which may change how the individuals integrate sensory information when walking on a treadmill. This study compared overground walking to treadmill walking in a computer assisted virtual reality environment (CAREN) in individuals with and without transtibial amputations (TTA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23150903

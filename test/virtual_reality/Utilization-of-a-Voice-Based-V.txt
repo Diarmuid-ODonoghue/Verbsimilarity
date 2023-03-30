@@ -1,0 +1,3 @@
+The incidence of cardiac arrests per year in the United States continues to increase, yet in-hospital cardiac arrest survival rates significantly vary between hospitals. Current methods of training are expensive, time consuming, and difficult to scale, which necessitates improvements in advanced cardiac life support (ACLS) training. Virtual reality (VR) has been proposed as an alternative or adjunct to high-fidelity simulation (HFS) in several environments. No evaluations to date have explored the ability of a VR program to examine both technical and behavioral skills and demonstrate a cost comparison.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32163038

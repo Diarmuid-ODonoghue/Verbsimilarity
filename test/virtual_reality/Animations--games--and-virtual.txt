@@ -1,0 +1,3 @@
+Digital heritage, an effective method to preserve and present natural and cultural heritage, is engaging many heritage preservation specialists and computer scientists. In particular, computer graphics researchers have become involved, and digital heritage has employed many CG techniques. For example, Daniel Pletinckx and his colleagues employed VR in a real museum at Ename, Belgium, and Zhigeng Pan and his colleagues applied it to construct a virtual Olympics museum. Soo-Chang Pei and his colleagues focused on restoring ancient Chinese paintings. Here, we describe how we've applied animations, computer games, and VR to China's famous Jing-Hang Grand Canal.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20650720

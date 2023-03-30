@@ -1,0 +1,3 @@
+Neonatal healthcare professionals require frequent simulation-based education (SBE) to improve their cognitive, psychomotor and communication skills during neonatal resuscitation. However, current SBE approaches are resource-intensive and not routinely offered in all healthcare facilities. Serious games (board and computer based) may be effective and more accessible alternatives.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31256010

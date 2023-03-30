@@ -1,0 +1,3 @@
+A novel artefact removal algorithm is proposed for a self-paced hybrid brain-computer interface (BCI) system. This hybrid system combines a self-paced BCI with an eye-tracker to operate a virtual keyboard. To select a letter, the user must gaze at the target for at least a specific period of time (dwell time) and then activate the BCI by performing a mental task. Unfortunately, electroencephalogram (EEG) signals are often contaminated with artefacts. Artefacts change the quality of EEG signals and subsequently degrade the BCI's performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22838499

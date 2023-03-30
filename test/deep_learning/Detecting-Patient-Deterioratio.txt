@@ -1,0 +1,3 @@
+As the performance of a conventional track and trigger system in a rapid response system has been unsatisfactory, we developed and implemented an artificial intelligence for predicting in-hospital cardiac arrest, denoted the deep learning-based early warning system. The purpose of this study was to compare the performance of an artificial intelligence-based early warning system with that of conventional methods in a real hospital situation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32205618

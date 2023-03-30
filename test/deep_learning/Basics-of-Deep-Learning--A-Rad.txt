@@ -1,0 +1,3 @@
+Artificial intelligence has been applied to many industries, including medicine. Among the various techniques in artificial intelligence, deep learning has attained the highest popularity in medical imaging in recent years. Many articles on deep learning have been published in radiologic journals. However, radiologists may have difficulty in understanding and interpreting these studies because the study methods of deep learning differ from those of traditional radiology. This review article aims to explain the concepts and terms that are frequently used in deep learning radiology articles, facilitating general radiologists' understanding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31920027

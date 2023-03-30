@@ -1,0 +1,3 @@
+The aims of this study were, first, to evaluate a deep learning-based, automatic glioblastoma (GB) tumor segmentation algorithm on clinical routine data from multiple centers and compare the results to a ground truth, manual expert segmentation, and second, to evaluate the quality of the segmentation results across heterogeneous acquisition protocols of routinely acquired clinical magnetic resonance imaging (MRI) examinations from multiple centers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29863600

@@ -1,0 +1,3 @@
+SARS-CoV-2 caused a major outbreak of severe pneumonia (COVID-19) in humans. Viral RNA was detected in multiple organs in COVID-19 patients. However, infectious SARS-CoV-2 was only isolated from respiratory specimens. Here, infectious SARS-CoV-2 was successfully isolated from urine of a COVID-19 patient. The virus isolated could infect new susceptible cells and was recognized by its' own patient sera. Appropriate precautions should be taken to avoid transmission from urine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32342724

@@ -1,0 +1,3 @@
+Coronavirus can cross the species barrier and infect humans with a severe respiratory syndrome. SARS-CoV-2 with potential origin of bat is still circulating in China. In this study, a prediction model is proposed to evaluate the infection risk of non-human-origin coronavirus for early warning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32209118

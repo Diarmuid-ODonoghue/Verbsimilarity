@@ -1,0 +1,3 @@
+Virtual reality (VR) is a promising simulation medium for high-stakes, low-frequency events such as pediatric resuscitation. The psychological fidelity of VR compared with a real resuscitation in an emergency department (ED) is relatively unknown. The objective was to determine whether stress physiology changes were equivalent between ED and VR resuscitations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30730471

@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) use brain signals to control closed-loop systems in real-time. This comes with substantial challenges, such as having to remove artifacts in order to extract reliable features, especially when using electroencephalography (EEG). Some approaches have been described in the literature to address online artifact correction. However, none are being used as a 'gold-standard' method, and no research has been conducted to analyze and compare their respective effects on statistical data analysis (inference-based decision).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31731283

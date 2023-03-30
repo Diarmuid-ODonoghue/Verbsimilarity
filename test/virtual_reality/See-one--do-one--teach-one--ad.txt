@@ -1,0 +1,3 @@
+The concept of "learning by doing" has become less acceptable, particularly when invasive procedures and high-risk care are required. Restrictions on medical educators have prompted them to seek alternative methods to teach medical knowledge and gain procedural experience. Fortunately, the last decade has seen an explosion of the number of tools available to enhance medical education: web-based education, virtual reality, and high fidelity patient simulation. This paper presents some of the consensus statements in regard to these tools agreed upon by members of the Educational Technology Section of the 2004 AEM Consensus Conference for Informatics and Technology in Emergency Department Health Care, held in Orlando, Florida.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15528578

@@ -1,0 +1,3 @@
+The pathological grading of pancreatic neuroendocrine neoplasms (pNENs) is an independent predictor of survival and indicator for treatment. Deep learning (DL) with a convolutional neural network (CNN) may improve the preoperative prediction of pNEN grading.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31525737

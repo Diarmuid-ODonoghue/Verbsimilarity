@@ -1,0 +1,3 @@
+The objective of this article was to compare the performances of health care-associated infection (HAI) detection between deep learning and conventional machine learning (ML) methods in French medical reports.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30877683

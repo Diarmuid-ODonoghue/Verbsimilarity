@@ -1,0 +1,3 @@
+Deep learning algorithms have shown benefits for pathology in the context of risk stratification of tumors. Although the results are promising, several steps have to be made to confirm clinical utility. In a recent issue of The Journal of Pathology, Colling et al present a perspective manuscript providing a roadmap to routine use of artificial intelligence in histopathology. In this commentary, we aimed to put these key points in the context of recent findings of AI and digital image analysis studies. © 2019 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31465119

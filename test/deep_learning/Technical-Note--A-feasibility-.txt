@@ -1,0 +1,3 @@
+Various dose calculation algorithms are available for radiation therapy for cancer patients. However, these algorithms are faced with the tradeoff between efficiency and accuracy. The fast algorithms are generally less accurate, while the accurate dose engines are often time consuming. In this work, we try to resolve this dilemma by exploring deep learning (DL) for dose calculation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31808948

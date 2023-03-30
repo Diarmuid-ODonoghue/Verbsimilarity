@@ -1,0 +1,3 @@
+To develop a deep learning approach to digitally stain optical coherence tomography (OCT) images of the optic nerve head (ONH).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29313052

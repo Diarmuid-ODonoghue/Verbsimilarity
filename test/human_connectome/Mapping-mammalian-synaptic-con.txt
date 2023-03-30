@@ -1,0 +1,3 @@
+Mapping mammalian synaptic connectivity has long been an important goal of neuroscientists since it is considered crucial for explaining human perception and behavior. Yet, despite enormous efforts, the overwhelming complexity of the neural circuitry and the lack of appropriate techniques to unravel it have limited the success of efforts to map connectivity. However, recent technological advances designed to overcome the limitations of conventional methods for connectivity mapping may bring about a turning point. Here, we address the promises and pitfalls of these new mapping technologies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23864031

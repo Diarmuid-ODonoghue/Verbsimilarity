@@ -1,0 +1,3 @@
+A novel system of optical see-through augmented reality (AR) is proposed by making use of a holographic optical element (HOE) with full-color and lens-array functions. The full-color lens-array HOE provides see-through property with three-dimensional (3D) virtual images, for it functions as a conventional lens array only for Bragg-matched lights. An HOE recording setup was built, and it recorded a 30 mm × 60 mm sized full-color lens-array HOE by using the techniques of spatial multiplexing for large-area recording and wavelength multiplexing for full-color imaging. The experimental results confirm that the suggested full-color lens-array HOE can provide the full-color 3D virtual images in the optical see-through AR system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24365839

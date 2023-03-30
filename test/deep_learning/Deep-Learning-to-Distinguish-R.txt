@@ -1,0 +1,3 @@
+False positives in digital mammography screening lead to high recall rates, resulting in unnecessary medical procedures to patients and health care costs. This study aimed to investigate the revolutionary deep learning methods to distinguish recalled but benign mammography images from negative exams and those with malignancy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30309858

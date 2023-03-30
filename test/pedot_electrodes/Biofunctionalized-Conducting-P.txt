@@ -1,0 +1,3 @@
+Carbon microfibers (MFs) coated with conducting polymers may provide a solution for long-term recording of activity from individual or small groups of neurons. Attaching cell adhesion molecules to the electro-sensitive surface might further improve electrode-neuron contact, thus enhancing signal stability and fidelity. We fabricated biofunctionalized microelectrodes consisting of 7-μm diameter carbon MFs coated with poly(3,4-ethylenedioxythiophene) doped with poly[(4-styrenesulfonic acid)-co-(maleic acid)] (
+
+https://www.ncbi.nlm.nih.gov/pubmed/26574911

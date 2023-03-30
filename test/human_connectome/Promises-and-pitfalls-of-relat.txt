@@ -1,0 +1,3 @@
+Here, we argue systematically about the promises and pitfalls of relating Human Connectome to cognitive enhancement. We also highlight three key areas where further resolution is required before the generalization of the white-matter-related cause of cognitive enhancement across a variety of cognitive modalities is made. These key areas are: (a) inherent limitations in estimating of diffusion-weighted anisotropy index near volumes with high abundance of crossing fibers; (b) species differences in cell types and only a putative link between brain rhythms and modulation of activity in precursor cells in rodents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27417324

@@ -1,0 +1,3 @@
+Virtual reality surgical simulation of mastoidectomy is a promising training tool for novices. Final-product analysis for assessing novice mastoidectomy performance could be limited by a peak or ceiling effect. These may be countered by simulator-integrated tutoring.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26391052

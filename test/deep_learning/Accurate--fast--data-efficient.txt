@@ -1,0 +1,3 @@
+Glaucoma is the leading cause of irreversible blindness worldwide. It is a heterogeneous group of conditions with a common optic neuropathy and associated loss of peripheral vision. Both over and under-diagnosis carry high costs in terms of healthcare spending and preventable blindness. The characteristic clinical feature of glaucoma is asymmetrical optic nerve rim narrowing, which is difficult for humans to quantify reliably. Strategies to improve and automate optic disc assessment are therefore needed to prevent sight loss.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30629635

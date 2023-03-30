@@ -1,0 +1,3 @@
+In this paper we present the preliminary results of a pioneering attempt to predict the timing of steering actions in a driving task from non-invasive EEG measurements. The experiment took place with the subjects driving a car at a constant speed on a simulated highway in a driving simulator. The EEG activity was analyzed during periods of straight driving and during lane change actions. Classifiers were built on the signals recorded over the motor areas for straight and pre-steering periods. The onset of the steering actions was detected on average 811 ms before the action with a 74.6% true positive rate.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24111334

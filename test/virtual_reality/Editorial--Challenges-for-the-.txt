@@ -1,0 +1,3 @@
+There are a number of challenges that must be faced when trying to develop AR and VR-based Neurosurgical simulators, Surgical Navigation Platforms, and "Smart OR" systems. Trying to simulate an operating room environment and surgical tasks in Augmented and Virtual Reality is a challenge many are attempting to solve, in order to train surgeons or help them operate. What are some of the needs of the surgeon, and what are the challenges encountered (human computer interface, perception, workflow, etc). We discuss these tradeoffs and conclude with critical remarks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29184655

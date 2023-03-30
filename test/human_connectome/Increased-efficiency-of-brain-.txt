@@ -1,0 +1,3 @@
+Suicide is a public health concern for United States veterans and civilians. Prior research has shown neurobiological factors in suicide. However, studies of neuroimaging correlates of suicide risk have been limited. This study applied complex weighted network analyses to characterize the neural connectivity in white matter in veterans with suicide behavior.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30105203

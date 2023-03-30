@@ -1,0 +1,3 @@
+Understanding the phenotypic drug response on cancer cell lines plays a vital role in anti-cancer drug discovery and re-purposing. The Genomics of Drug Sensitivity in Cancer (GDSC) database provides open data for researchers in phenotypic screening to build and test their models. Previously, most research in these areas starts from the molecular fingerprints or physiochemical features of drugs, instead of their structures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31357929

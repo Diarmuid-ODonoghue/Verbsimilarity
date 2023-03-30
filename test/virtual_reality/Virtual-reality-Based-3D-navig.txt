@@ -1,0 +1,3 @@
+Astronauts have reported spatial disorientation and navigation problems inside spacecraft whose interior visual vertical direction varies from module to module. If they had relevant preflight practice they might orient better. This experiment examined the influence of relative body orientation and individual spatial skills during VR training on a simulated emergency egress task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17760285

@@ -1,0 +1,3 @@
+Recognition of different genomic signals and regions (GSRs) in DNA is crucial for understanding genome organization, gene regulation, and gene function, which in turn generate better genome and gene annotations. Although many methods have been developed to recognize GSRs, their pure computational identification remains challenging. Moreover, various GSRs usually require a specialized set of features for developing robust recognition models. Recently, deep-learning (DL) methods have been shown to generate more accurate prediction models than 'shallow' methods without the need to develop specialized features for the problems in question. Here, we explore the potential use of DL for the recognition of GSRs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30184052

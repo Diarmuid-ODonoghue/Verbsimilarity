@@ -1,0 +1,3 @@
+Both laparoscopy and endoscopy are image-based procedures, which are less intuitive than traditional open surgery and require extensive training to reach adequate proficiency. Currently, there is lack of understanding as to how the skills in one image-based procedure translate to another, such as endoscopy to laparoscopy and vice versa. The aim of our study was to explore the relationship between endoscopic and laparoscopic skills using a Fundamentals of Laparoscopic Surgery (FLS) trainer, a traditional virtual reality endoscopic trainer and a "desk-top" endoscopic physical simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31321533

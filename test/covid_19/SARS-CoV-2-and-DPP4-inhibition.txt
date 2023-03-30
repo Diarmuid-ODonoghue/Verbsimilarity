@@ -1,0 +1,3 @@
+Diabetes could be a risk factor for severity and mortality in patients with coronavirus disease 2019 COVID-19. It has been hypothesized that DPP4 inhibition, a therapy currently available for type 2 diabetes, might represent a target for decreasing the risk of the acute respiratory complications of the COVID-19 infection but (1) lack of demonstration of SARS-CoV2 binding to DPP4 (2) possible protective role of sDPP4 in Middle East respiratory Syndrome (MERS-CoV) (3) demonstrated inhibition and downregulation of DPP4 by HIV1 and MERS-CoV and (4) not exclusive role of the receptor binding in tropism of the Coronavirus family, support that DPP4 inhibition at present doesn't represent a plausible approach to mitigate COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32335097

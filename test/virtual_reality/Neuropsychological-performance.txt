@@ -1,0 +1,3 @@
+This chapter describes a Virtual Reality (VR) based innovative model of evaluation of the performance and potentiality of young mentally/psychically disabled subjects with learning difficulties. Using an immersive PC-based VR system, the study investigated the characteristics of 150 disabled subjects in the EU funded project "Horizon O.D.A.--Catania-1998--2000". The result is the definition of an individual neuropsychological "Integrated Profile", based on VR performance, that allows an objective functional benchmark between different subjects. This model can be used to investigate the possibility of job integration for mentally/psychically disabled subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458113

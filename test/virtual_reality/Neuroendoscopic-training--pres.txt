@@ -1,0 +1,3 @@
+There are several models in use in surgical training such as cadaveric, synthetic and animal models as well as virtual reality simulators. Despite having different models for training, unfortunately, financial, technical and operational obstacles more often limit their application in developing countries. The authors have worked out a new synthetic model that could provide a reliable neuroendoscopic training method. The main goal of this study is to introduce the model and discuss relevant data regarding its use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20376746

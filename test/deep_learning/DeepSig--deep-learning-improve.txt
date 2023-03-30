@@ -1,0 +1,3 @@
+The identification of signal peptides in protein sequences is an important step toward protein localization and function characterization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29280997

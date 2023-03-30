@@ -1,0 +1,3 @@
+We used the Surveillance, Epidemiology, and End Results (SEER) database to develop and validate deep survival neural network machine learning (ML) algorithms to predict survival following a spino-pelvic chondrosarcoma diagnosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31907039

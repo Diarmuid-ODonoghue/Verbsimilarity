@@ -1,0 +1,3 @@
+The purpose of this study is to investigate the effect of different magnetic resonance (MR) sequences on the accuracy of deep learning-based synthetic computed tomography (sCT) generation in the complex head and neck region.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32027027

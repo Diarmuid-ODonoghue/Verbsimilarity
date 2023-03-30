@@ -1,0 +1,3 @@
+The Simulated Colonoscopy Objective Performance Evaluation (SCOPE) was developed to fill the need for a lower-cost, non-virtual-reality (VR)-based assessment tool. This study aimed to evaluate the ability of SCOPE to assess endoscopic skills objectively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23860607

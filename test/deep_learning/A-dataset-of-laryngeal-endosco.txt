@@ -1,0 +1,3 @@
+Automated segmentation of anatomical structures in medical image analysis is a prerequisite for autonomous diagnosis as well as various computer- and robot-aided interventions. Recent methods based on deep convolutional neural networks (CNN) have outperformed former heuristic methods. However, those methods were primarily evaluated on rigid, real-world environments. In this study, existing segmentation methods were evaluated for their use on a new dataset of transoral endoscopic exploration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30649670

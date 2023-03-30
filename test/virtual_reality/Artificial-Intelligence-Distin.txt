@@ -1,0 +1,3 @@
+With the emergence of competency-based training, the current evaluation scheme of surgical skills is evolving to include newer methods of assessment and training. Artificial intelligence through machine learning algorithms can utilize extensive data sets to analyze operator performance. This study aimed to address 3 questions: (1) Can artificial intelligence uncover novel metrics of surgical performance? (2) Can support vector machine algorithms be trained to differentiate "senior" and "junior" participants who are executing a virtual reality hemilaminectomy? (3) Can other algorithms achieve a good classification performance?
+
+https://www.ncbi.nlm.nih.gov/pubmed/31800431

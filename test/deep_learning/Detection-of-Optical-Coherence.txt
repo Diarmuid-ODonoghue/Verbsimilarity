@@ -1,0 +1,3 @@
+To develop a deep learning model for classifying frames with vs. without optical coherence tomography (OCT)-derived thin-cap fibroatheroma (TCFA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31718998

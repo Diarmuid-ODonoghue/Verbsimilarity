@@ -1,0 +1,3 @@
+Community health systems operating in remote areas require accurate information about where people live to efficiently provide services across large regions. We sought to determine whether a machine learning analyses of satellite imagery can be used to map remote communities to facilitate service delivery and planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31411691

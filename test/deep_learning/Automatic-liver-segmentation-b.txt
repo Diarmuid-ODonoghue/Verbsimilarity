@@ -1,0 +1,3 @@
+Automatic and accurate three-dimensional (3D) segmentation of liver with severe diseases from computed tomography (CT) images is a challenging task. Fully convolutional networks (FCNs) have emerged as powerful tools for automatic semantic segmentation, with multiple potential applications in medical imaging. However, the use of a large receptive field and multiple pooling layers in the network leads to poor localization around object boundaries. The network usually makes pixel-wise prediction independently, making it difficult to respect local label consistency and enforce the smoothness of the object boundary.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31356688

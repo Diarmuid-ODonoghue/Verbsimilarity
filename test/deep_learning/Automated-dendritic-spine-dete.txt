@@ -1,0 +1,3 @@
+Dendritic spines are structural correlates of excitatory synapses in the brain. Their density and structure are shaped by experience, pointing to their role in memory encoding. Dendritic spine imaging, followed by manual analysis, is a primary way to study spines. However, an approach that analyses dendritic spines images in an automated and unbiased manner is needed to fully capture how spines change with normal experience, as well as in disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30130608

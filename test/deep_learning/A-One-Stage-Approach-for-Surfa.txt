@@ -1,0 +1,3 @@
+We explore a one-stage method for surface anomaly detection in industrial scenarios. On one side, encoder-decoder segmentation network is constructed to capture small targets as much as possible, and then dual background suppression mechanisms are designed to reduce noise patterns in coarse and fine manners. On the other hand, a classification module without learning parameters is built to reduce information loss in small targets due to the inexistence of successive down-sampling processes. Experimental results demonstrate that our one-stage detector achieves state-of-the-art performance in terms of precision, recall and f-score.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32218357

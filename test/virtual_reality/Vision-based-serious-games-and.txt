@@ -1,0 +1,3 @@
+Nowadays, information technologies are being widely adopted to promote healthcare and rehabilitation. Owing to their affordability and use of hand-free controllers, vision-based systems have gradually been integrated into motor rehabilitation programs and have greatly drawn the interest of healthcare practitioners and the research community. Many studies have illustrated the effectiveness of these systems in rehabilitation. However, the report and design aspects of the reported clinical trials were disregarded.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31557701

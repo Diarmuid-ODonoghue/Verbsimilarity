@@ -1,0 +1,3 @@
+To test the diagnostic performance of a deep learning-based system for the detection of clinically significant pulmonary nodules/masses on chest radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31521323

@@ -1,0 +1,3 @@
+The 90s and 00s saw great hopes that virtual reality was poised to sweep health care and change everything. But it didn't. Though researchers could immerse themselves in more complex virtual environments, the chasm between that digital experience and the complexity of real life - using a VR system in an hospital without a dedicated technician was a real challenge - just was too great. Now the situation is changing quickly. The rise of Oculus Rift and the shift of virtual reality from PC to mobile phones thanks to both the Oculus designed Gear VR headsets for Samsung phones and the Google Cardboard project are going to transform health care tools and experiences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26799868

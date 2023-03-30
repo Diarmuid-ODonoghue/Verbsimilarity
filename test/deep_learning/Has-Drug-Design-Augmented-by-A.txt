@@ -1,0 +1,3 @@
+The application of artificial intelligence (AI) to drug discovery has become a hot topic in recent years. Generative molecular design based on deep learning is a particular an area of attention. Zhavoronkov et al. recently published a novel approach in which de novo molecular design based on deep learning was used to discover novel potent DDR1 kinase inhibitors. It took 21 days from model building to compound design, and a total of six AI-designed compounds were synthesized and tested. The study highlights how quickly the field of AI-designed compounds is developing, and we can expect further developments in the coming years.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31629547

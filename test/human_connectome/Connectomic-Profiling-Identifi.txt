@@ -1,0 +1,3 @@
+Vagus nerve stimulation (VNS) is a common treatment for medically intractable epilepsy, but response rates are highly variable, with no preoperative means of identifying good candidates. This study aimed to predict VNS response using structural and functional connectomic profiling.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31393626

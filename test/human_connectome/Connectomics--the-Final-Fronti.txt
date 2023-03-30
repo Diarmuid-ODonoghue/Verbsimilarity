@@ -1,0 +1,3 @@
+How the synaptic connections in the nervous system are genetically encoded and formed during development remains an unsolved problem. The known connectivity of the nervous system of the nematode C. elegans provides an opportunity to search for the genes involved. The circuits for male mating behavior form a complex neural network that would seem to require a large family of molecular cell labels for pre- and postsynaptic cell recognition. It is suggested that a combinatorial code of neural cell adhesion proteins specifying the network of connections may be discovered by comparing the expression patterns of candidate genes with the pattern of connections.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26970626

@@ -1,0 +1,3 @@
+Microelectrode recordings along preplanned trajectories are often used for accurate definition of the subthalamic nucleus (STN) borders during deep brain stimulation (DBS) surgery for Parkinson's disease. Usually, the demarcation of the STN borders is performed manually by a neurophysiologist. The exact detection of the borders is difficult, especially detecting the transition between the STN and the substantia nigra pars reticulata. Consequently, demarcation may be inaccurate, leading to suboptimal location of the DBS lead and inadequate clinical outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27709666

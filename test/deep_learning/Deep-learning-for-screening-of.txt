@@ -1,0 +1,3 @@
+To develop a screening tool for the detection of interstitial lung disease (ILD) patterns using a deep-learning method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32075744

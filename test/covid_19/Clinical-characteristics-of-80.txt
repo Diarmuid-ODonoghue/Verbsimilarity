@@ -1,0 +1,3 @@
+More than 1,000 medical workers have been infected with COVID-19 in China. The 80 hospitalized patients included 57 SARS-CoV-2 confirmed and 23 clinically diagnosed. The median age was 39 years, 49 (61.25%) were women, and one patient died. The most common symptoms at onset were fever (65, 81.25%), cough (47, 58.75%), fatigue (28, 35%), myalgia (19, 23.75%), expectoration (19, 23.75%), and diarrhea (15, 18.75%). Patients of frontline medical workers at a single-center hospital showed some unique clinical and laboratory findings compared with other patients in Wuhan and outside of Wuhan. This study provides our experience for other frontline medical workers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32302722

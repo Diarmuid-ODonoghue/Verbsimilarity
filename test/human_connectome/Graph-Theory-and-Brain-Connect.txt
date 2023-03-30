@@ -1,0 +1,3 @@
+This article presents a review of recent advances in neuroscience research in the specific area of brain connectivity as a potential biomarker of Alzheimer's disease with a focus on the application of graph theory. The review will begin with a brief overview of connectivity and graph theory. Then resent advances in connectivity as a biomarker for Alzheimer's disease will be presented and analyzed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28406055

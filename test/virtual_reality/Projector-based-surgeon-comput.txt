@@ -1,0 +1,3 @@
+Providing intuitive and easy to operate interaction for medical augmented reality is essential for use in the operating room. Commonly, intra-operative navigation information is displayed on an installed monitor, requiring the operating surgeon to change focus from the monitor to the surgical site and vice versa during navigation. Projector-based augmented reality has the potential to alleviate this problem. The aim of our work is to use a projector for visualization and to provide intuitive means for direct interaction with the projected information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23888316

@@ -1,0 +1,3 @@
+Although simplified visual stimuli, such as dots or gratings presented on homogeneous backgrounds, provide strict control over the stimulus parameters during visual experiments, they fail to approximate visual stimulation in natural conditions. Adoption of virtual reality (VR) in neuroscience research has been proposed to circumvent this problem, by combining strict control of experimental variables and behavioral monitoring within complex and realistic environments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27015795

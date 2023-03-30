@@ -1,0 +1,3 @@
+Providing sensory feedback to the user of the prosthesis is an important challenge. The common approach is to use tactile stimulation, which is easy to implement but requires training and has limited information bandwidth. In this study, we propose an alternative approach based on augmented reality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28355147

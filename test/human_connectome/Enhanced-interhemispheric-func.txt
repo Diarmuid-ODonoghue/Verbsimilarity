@@ -1,0 +1,3 @@
+Motor recovery after stroke has been shown to be correlated with both the fractional anisotropy (FA) of the affected corticospinal tract (CST) and the interhemispheric resting-state functional connectivity (rsFC) of the primary motor cortex (M1). However, the role of the restoration or enhancement of the M1-M1 rsFC in motor recovery remains largely unknown. We aimed to clarify this issue by investigating the correlations between the M1-M1 rsFC and the integrity of the M1-M1 anatomic connection and the affected CST in chronic subcortical stroke patients with good motor outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25721013

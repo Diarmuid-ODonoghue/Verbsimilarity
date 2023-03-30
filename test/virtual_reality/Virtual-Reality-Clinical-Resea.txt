@@ -1,0 +1,3 @@
+Virtual reality (VR) therapy has been explored as a novel therapeutic approach for numerous health applications, in which three-dimensional virtual environments can be explored in real time. Studies have found positive outcomes for patients using VR for clinical conditions such as anxiety disorders, addictions, phobias, posttraumatic stress disorder, eating disorders, stroke rehabilitation, and for pain management.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30333096

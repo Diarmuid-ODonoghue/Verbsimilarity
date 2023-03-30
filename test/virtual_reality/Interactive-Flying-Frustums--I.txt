@@ -1,0 +1,3 @@
+As the trend toward minimally invasive and percutaneous interventions continues, the importance of appropriate surgical data visualization becomes more evident. Ineffective interventional data display techniques that yield poor ergonomics that hinder hand-eye coordination, and therefore promote frustration which can compromise on-task performance up to adverse outcome. A very common example of ineffective visualization is monitors attached to the base of mobile C-arm X-ray systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30863981

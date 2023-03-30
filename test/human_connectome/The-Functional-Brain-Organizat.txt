@@ -1,0 +1,3 @@
+Autism spectrum disorder and attention-deficit/hyperactivity disorder (ADHD) are associated with complex changes as revealed by functional magnetic resonance imaging. To date, neuroimaging-based models are not able to characterize individuals with sufficient sensitivity and specificity. Further, although evidence shows that ADHD traits occur in individuals with autism spectrum disorder, and autism spectrum disorder traits in individuals with ADHD, the neurofunctional basis of the overlap is undefined.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31010580

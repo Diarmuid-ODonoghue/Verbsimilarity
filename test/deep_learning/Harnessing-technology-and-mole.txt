@@ -1,0 +1,3 @@
+Cardiovascular disease (CVD) imposes much mortality and morbidity worldwide. The use of "deep learning", advancements in genomics, metabolomics, proteomics and devices like wearables have the potential to unearth new insights in the field of cardiology. Currently, in Asia, there are no studies that combine the use of conventional clinical information with these advanced technologies. We aim to harness these new technologies to understand the development of cardiovascular disease in Asia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31752689

@@ -1,0 +1,3 @@
+This paper reports a study conducted to assess brain temporal perception across different age groups. A novel Virtual Reality Neurocognitive (VRN) test, which consists of catching a virtual bouncing ball with a paddle, was employed. A total of 44 volunteers with no cognitive impairments and 3 individuals diagnosed with depression but cognitively healthy, in the age range of 19 to 82 years, participated in this study. Results show that the ability to accurately perceive time deteriorates with age.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23367003

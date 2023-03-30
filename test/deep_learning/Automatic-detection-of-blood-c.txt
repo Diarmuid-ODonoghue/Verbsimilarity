@@ -1,0 +1,3 @@
+Detecting blood content in the gastrointestinal tract is one of the crucial applications of capsule endoscopy (CE). The suspected blood indicator (SBI) is a conventional tool used to automatically tag images depicting possible bleeding in the reading system. We aim to develop a deep learning-based system to detect blood content in images and compare its performance with that of the SBI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31758717

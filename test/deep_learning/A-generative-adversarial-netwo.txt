@@ -1,0 +1,3 @@
+Orbital decompression for thyroid-associated ophthalmopathy (TAO) is an ophthalmic plastic surgery technique to prevent optic neuropathy and reduce exophthalmos. Because the postoperative appearance can significantly change, sometimes it is difficult to make decisions regarding decompression surgery. Herein, we present a deep learning technique to synthesize the realistic postoperative appearance for orbital decompression surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32174327

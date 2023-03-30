@@ -1,0 +1,3 @@
+In this paper, a personal authentication system that can effectively identify individuals by generating unique electroencephalogram signal features in response to self-face and non-self-face photos is presented. To achieve performance stability, a sequence of self-face photographs including first-occurrence position and non-first-occurrence position are taken into account in the serial occurrence of visual stimuli. Additionally, a Fisher linear classification method and event-related potential technique for feature analysis is adapted to yield remarkably better outcomes than those obtained by most existing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29376885

@@ -1,0 +1,3 @@
+Template-based modeling, including homology modeling and protein threading, is a popular method for protein 3D structure prediction. However, alignment generation and template selection for protein sequences without close templates remain very challenging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29949980

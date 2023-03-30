@@ -1,0 +1,3 @@
+Accurate prediction of inter-residue contacts of a protein is important to calculating its tertiary structure. Analysis of co-evolutionary events among residues has been proved effective in inferring inter-residue contacts. The Markov random field (MRF) technique, although being widely used for contact prediction, suffers from the following dilemma: the actual likelihood function of MRF is accurate but time-consuming to calculate; in contrast, approximations to the actual likelihood, say pseudo-likelihood, are efficient to calculate but inaccurate. Thus, how to achieve both accuracy and efficiency simultaneously remains a challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31664895

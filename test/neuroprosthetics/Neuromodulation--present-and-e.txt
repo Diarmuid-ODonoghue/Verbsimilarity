@@ -1,0 +1,3 @@
+Neuromodulation has wide ranging potential applications in replacing impaired neural function (prosthetics), as a novel form of medical treatment (therapy), and as a tool for investigating neurons and neural function (research). Voltage and current controlled electrical neural stimulation (ENS) are methods that have already been widely applied in both neuroscience and clinical practice for neuroprosthetics. However, there are numerous alternative methods of stimulating or inhibiting neurons. This paper reviews the state-of-the-art in ENS as well as alternative neuromodulation techniques-presenting the operational concepts, technical implementation and limitations-in order to inform system design choices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25076887

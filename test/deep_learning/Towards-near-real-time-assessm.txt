@@ -1,0 +1,3 @@
+Surgical skill assessment aims to objectively evaluate and provide constructive feedback for trainee surgeons. Conventional methods require direct observation with assessment from surgical experts which are both unscalable and subjective. The recent involvement of surgical robotic systems in the operating room has facilitated the ability of automated evaluation of the expertise level of trainees for certain representative maneuvers by using machine learning for motion analysis. The features extraction technique plays a critical role in such an automated surgical skill assessment system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31794913

@@ -1,0 +1,3 @@
+Visual neuroscience experiments and Brain-Computer Interface (BCI) control often require strict timings in a millisecond scale. As most experiments are performed using a personal computer (PC), the latencies that are introduced by the setup should be taken into account and be corrected. As a standard computer monitor uses a rastering to update each line of the image sequentially, this causes a monitor raster latency which depends on the position, on the monitor and the refresh rate.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29197616

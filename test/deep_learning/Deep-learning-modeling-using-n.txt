@@ -1,0 +1,3 @@
+To investigate two deep learning-based modeling schemes for predicting short-term risk of developing breast cancer using prior normal screening digital mammograms in a case-control setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31667873

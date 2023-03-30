@@ -1,0 +1,3 @@
+Burn debridement is a challenging technique that requires significant skill to identify regions requiring excision and appropriate excision depth. A machine learning tool is being developed in order to assist surgeons by providing a quantitative assessment of burn-injured tissue. Three noninvasive optical imaging techniques capable of distinguishing between four kinds of tissue-healthy skin, viable wound bed, deep burn, and shallow burn-during serial burn debridement in a porcine model are presented in this paper. The combination of all three techniques considerably improves the accuracy of tissue classification, from 0.42 to almost 0.77.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28268919

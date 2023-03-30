@@ -1,0 +1,3 @@
+Możliwość korzystania z komputera przez osoby niepełnosprawne jest jednym z trudniejszych problemów interakcji człowiek–komputer, natomiast aktywność zawodowa (zatrudnienie) należy do najważniejszych czynników wpływających na jakość życia, szczególnie osób niepełnosprawnych. Celem pracy było zaproponowanie nowego systemu sterowania komputerem pozwalającego na powrót do pracy osobom, które straciły możliwość standardowej obsługi komputera.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28245000

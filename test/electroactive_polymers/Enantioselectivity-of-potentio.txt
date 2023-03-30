@@ -1,0 +1,3 @@
+In the recent years, numerous successful applications of various chiral selectors in high performance separation methods have generated an increasing interest in the application of some of these compounds as electroactive species in potentiometric sensors. The objective of this work was to examine the enantioselectivy of several different sensors employing substituted cyclodextrins, example antibiotic teicoplanin and electrodeposited conductive polymers for various chiral analytes. Varying degrees of enantioselectivity were found for the ion-selective electrodes examined, depending on the chiral selector used and the target analyte.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18006067

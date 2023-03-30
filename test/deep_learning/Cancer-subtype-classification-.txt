@@ -1,0 +1,3 @@
+Biological pathway is important curated knowledge of biological processes. Thus, cancer subtype classification based on pathways will be very useful to understand differences in biological mechanisms among cancer subtypes. However, pathways include only a fraction of the entire gene set, only 1/3 of human genes in KEGG, and pathways are fragmented. For this reason, there are few computational methods to use pathways for cancer subtype classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32207514

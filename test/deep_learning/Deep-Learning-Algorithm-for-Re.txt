@@ -1,0 +1,3 @@
+To retrospectively assess the effect of CT slice thickness on the reproducibility of radiomic features (RFs) of lung cancer, and to investigate whether convolutional neural network (CNN)-based super-resolution (SR) algorithms can improve the reproducibility of RFs obtained from images with different slice thicknesses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31544368

@@ -1,0 +1,3 @@
+The purpose of this study was to segment the left ventricle (LV) blood pool, LV myocardium, and right ventricle (RV) blood pool of end-diastole and end-systole frames in free-breathing cardiac magnetic resonance (CMR) imaging. Automatic and accurate segmentation of cardiac structures could reduce the postprocessing time of cardiac function analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31467898

@@ -1,0 +1,3 @@
+To develop and evaluate a method to automatically identify and quantify deformable image registration (DIR) errors between lung computed tomography (CT) scans for quality assurance (QA) purposes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31663137

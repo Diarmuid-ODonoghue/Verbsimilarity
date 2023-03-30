@@ -1,0 +1,3 @@
+Direct brain control of overground walking in those with paraplegia due to spinal cord injury (SCI) has not been achieved. Invasive brain-computer interfaces (BCIs) may provide a permanent solution to this problem by directly linking the brain to lower extremity prostheses. To justify the pursuit of such invasive systems, the feasibility of BCI controlled overground walking should first be established in a noninvasive manner. To accomplish this goal, we developed an electroencephalogram (EEG)-based BCI to control a functional electrical stimulation (FES) system for overground walking and assessed its performance in an individual with paraplegia due to SCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26400061

@@ -1,0 +1,3 @@
+Virtual reality (VR) and augmented reality (AR) in complex surgery are evolving technologies enabling improved preoperative planning and intraoperative navigation. The basis of these technologies is a computer-based generation of a patient-specific 3-dimensional model from Digital Imaging and Communications in Medicine (DICOM) data. This article provides a state-of-the- art overview on the clinical use of this technology with a specific focus on hepatic surgery. Although VR and AR are still in an evolving stage with only some clinical application today, these technologies have the potential to become a key factor in improving preoperative and intraoperative decision making.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30414680

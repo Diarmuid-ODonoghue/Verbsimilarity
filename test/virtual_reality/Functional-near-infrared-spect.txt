@@ -1,0 +1,3 @@
+Individuals with visual vertigo describe symptoms of dizziness, disorientation, and/or impaired balance in environments with conflicting visual and vestibular information or complex visual stimuli. Physical therapists often prescribe habituation exercises using optic flow to treat these symptoms, but there are no evidence-based guidelines for delivering optic flow and it is unclear how the brain processes such stimuli. The purposes of this study were to use functional near-infrared spectroscopy (fNIRS) to explore cerebral activation during optic flow, and determine if visual fixation had a modulating effect on brain activity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29513720

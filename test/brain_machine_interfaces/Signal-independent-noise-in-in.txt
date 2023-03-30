@@ -1,0 +1,3 @@
+Do movements made with an intracortical BCI (iBCI) have the same movement time properties as able-bodied movements? Able-bodied movement times typically obey Fitts' law: [Formula: see text] (where MT is movement time, D is target distance, R is target radius, and [Formula: see text] are parameters). Fitts' law expresses two properties of natural movement that would be ideal for iBCIs to restore: (1) that movement times are insensitive to the absolute scale of the task (since movement time depends only on the ratio [Formula: see text]) and (2) that movements have a large dynamic range of accuracy (since movement time is logarithmically proportional to [Formula: see text]).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28177925

@@ -1,0 +1,3 @@
+The nematode Caenorhabditis elegans utilizes gap junctions in different fashions in virtually all of its cells. This model animal has a surprisingly large number of innexin genes within its genome, and many nematode cell types can express multiple innexins at once, leading to the formation of diverse junction types and enough redundancy to limit the effect of single gene knockdowns on animal development or behavioral phenotypes. Here, we review the general properties of these junctions, their expression patterns, and their known roles in tissue development and in the animal's connectome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27294317

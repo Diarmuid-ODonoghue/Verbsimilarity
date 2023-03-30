@@ -1,0 +1,3 @@
+The virtual reality (VR) system can provide the neurosurgeon to intuitively interact with and manipulate the three dimensional (3-D) image similarly to manipulate a real object. It was seldom reported that the system was used in diagnosis and treatment of cerebral aneurysms. This study aimed to investigate the application of VR system in diagnosis and therapeutic planning of cerebral aneurysms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20819666

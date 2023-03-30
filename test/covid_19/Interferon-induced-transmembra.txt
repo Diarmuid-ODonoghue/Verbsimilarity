@@ -1,0 +1,3 @@
+A major unanswered question in the current global COVID-19 outbreak is why a small minority of infected individuals develop severe disease. Here we report that homozygosity for the C allele of rs12252 in the interferon-induced transmembrane protein 3 (IFITM3) gene is associated with more severe disease in an age dependent manner. This supports a role for IFITM3 in disease pathogenesis and the opportunity for early targeted intervention in at risk individuals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348495

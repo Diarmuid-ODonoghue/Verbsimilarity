@@ -1,0 +1,3 @@
+Differentiation alters molecular properties of stem and progenitor cells, leading to changes in their shape and movement characteristics. We present a deep neural network that prospectively predicts lineage choice in differentiating primary hematopoietic progenitors using image patches from brightfield microscopy and cellular movement. Surprisingly, lineage choice can be detected up to three generations before conventional molecular markers are observable. Our approach allows identification of cells with differentially expressed lineage-specifying genes without molecular labeling.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28218899

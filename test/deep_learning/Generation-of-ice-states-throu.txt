@@ -1,0 +1,3 @@
+We present a deep reinforcement learning framework where a machine agent is trained to search for a policy to generate a ground state for the square ice model by exploring the physical environment. After training, the agent is capable of proposing a sequence of local moves to achieve the goal. Analysis of the trained policy and the state value function indicates that the ice rule and loop-closing condition are learned without prior knowledge. We test the trained policy as a sampler in the Markov chain Monte Carlo and benchmark against the baseline loop algorithm. This framework can be generalized to other models with topological constraints where generation of constraint-preserving states is difficult.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31330736

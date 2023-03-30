@@ -1,0 +1,3 @@
+Our goal was to use a generative adversarial network (GAN) with feature matching and task-specific perceptual loss to synthesize standard-dose amyloid Positron emission tomography (PET) images of high quality and including accurate pathological features from ultra-low-dose PET images only.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31131901

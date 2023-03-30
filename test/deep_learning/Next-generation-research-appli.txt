@@ -1,0 +1,3 @@
+Recently there have been significant advances in the field of machine learning and artificial intelligence (AI) centered around imaging-based applications such as computer vision. In particular, the tremendous power of deep learning algorithms, primarily based on convolutional neural network strategies, is becoming increasingly apparent and has already had direct impact on the fields of radiology and nuclear medicine. While most early applications of computer vision to radiological imaging have focused on classification of images into disease categories, it is also possible to use these methods to improve image quality. Hybrid imaging approaches, such as PET/MRI and PET/CT, are ideal for applying these methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31254036

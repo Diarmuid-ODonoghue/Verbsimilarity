@@ -1,0 +1,3 @@
+This study compares the stability of three variations of the conductive polymer poly(3,4-ethylenedioxythiophene) or PEDOT for neural micro-stimulation under both in vitro and in vivo conditions. We examined PEDOT films deposited with counter-ions tetrafluoroborate (TFB) and poly(styrenesulfonate) (PSS), and
+
+https://www.ncbi.nlm.nih.gov/pubmed/25809211

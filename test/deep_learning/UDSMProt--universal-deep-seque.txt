@@ -1,0 +1,3 @@
+Inferring the properties of a protein from its amino acid sequence is one of the key problems in bioinformatics. Most state-of-the-art approaches for protein classification are tailored to single classification tasks and rely on handcrafted features, such as position-specific-scoring matrices from expensive database searches. We argue that this level of performance can be reached or even be surpassed by learning a task-agnostic representation once, using self-supervised language modeling, and transferring it to specific tasks by a simple fine-tuning step.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31913448

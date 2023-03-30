@@ -1,0 +1,3 @@
+To investigate an automated aortic calcium segmentation and scoring tool at abdominal CT in an adult screening cohort.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30976827

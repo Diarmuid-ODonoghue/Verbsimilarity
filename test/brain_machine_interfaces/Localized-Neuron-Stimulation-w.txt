@@ -1,0 +1,3 @@
+Organic electrochemical transistors are integrated on depth probes to achieve localized electrical stimulation of neurons. The probes feature a mechanical delamination process which leaves only a 4 μm thick film with embedded transistors inside the brain. This considerably reduces probe invasiveness and correspondingly improves future brain-machine interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26129730

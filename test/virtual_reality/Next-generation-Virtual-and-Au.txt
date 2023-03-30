@@ -1,0 +1,3 @@
+Virtual and Augmented Reality (VR/AR) has been used in surgery for several decades. Over the past 5-10 years, however, new technological advances, including high-resolution screens, mobile graphical processing units (mGPUs) and position-sensing technologies, have been incorporated into relatively low-cost VR and AR devices. This review focuses on the current impact of the application of these "Phase 2" VR/AR technology in surgical training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31498872

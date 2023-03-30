@@ -1,0 +1,3 @@
+We present a Matlab toolbox that allows the user to control and collect data using Northern Digital's Optotrak system. The Optotrak is a modular motion capture system, which tracks the positions of infrared markers. It also supports grouping markers together as a single body. The body's position, orientation as well as all the marker position data can be obtained simultaneously. The installation, set-up and alignment procedures are highly automated, and thus require minimal human interaction. We provide additional scripts, functions, documentation and examples to help experimenters integrate the Optotrak system into experiments using recent 64-bit computers and existing Matlab toolboxes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30009842

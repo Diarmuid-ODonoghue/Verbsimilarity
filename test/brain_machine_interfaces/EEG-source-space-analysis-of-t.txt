@@ -1,0 +1,3 @@
+In electroencephalography (EEG)-based brain-computer interface (BCI) systems for motor control tasks the conventional practice is to decode motor intentions by using scalp EEG. However, scalp EEG only reveals certain limited information about the complex tasks of movement with a higher degree of freedom. Therefore, our objective is to investigate the effectiveness of source-space EEG in extracting relevant features that discriminate arm movement in multiple directions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28516901

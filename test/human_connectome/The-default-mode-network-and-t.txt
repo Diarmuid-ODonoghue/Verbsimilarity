@@ -1,0 +1,3 @@
+The default mode network and the working memory network are known to be anti-correlated during sustained cognitive processing, in a load-dependent manner. We hypothesized that functional connectivity among nodes of the two networks could be dynamically modulated by task phases across time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25848951

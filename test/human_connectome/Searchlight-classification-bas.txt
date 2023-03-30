@@ -1,0 +1,3 @@
+Investigating obsessive-compulsive symptoms in subclinical populations provides a useful framework for understanding the early development of obsessive-compulsive spectrum disorders. The present study aimed to apply searchlight classification analysis on resting-state functional magnetic resonance imaging data to identify potential brain markers in subclinical individuals with obsessive-compulsive symptoms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31451062

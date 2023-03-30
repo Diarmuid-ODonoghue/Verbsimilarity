@@ -1,0 +1,3 @@
+Simulation in paediatric surgery is essential for educational, ethical, medicolegal and economic reasons, and is particularly important for rare procedures. There are three different levels of simulation:--simulation of basic techniques in order to learn or improve surgical skills (dissection, intracorporeal knots, etc.);--preparation for surgery using virtual reality, to perfect and test various procedures on a virtual patient, and to determine the best approaches for individual cases;--behavioral simulation underlines the importance of the preoperative check-list and facilitates crisis management (complications, conversion, etc.).
+
+https://www.ncbi.nlm.nih.gov/pubmed/22844751

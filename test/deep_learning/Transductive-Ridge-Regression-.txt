@@ -1,0 +1,3 @@
+In this article we consider the application of the Transductive Ridge Regression (TRR) approach to structure-activity modeling. An original procedure of the TRR parameters optimization is suggested. Calculations performed on 3 different datasets involving two types of descriptors demonstrated that TRR outperforms its non-transductive analogue (Ridge Regression) in more than 90 % of cases. The most significant transductive effect was observed for small datasets. This suggests that transduction may be particularly useful when the data are expensive or difficult to collect.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29095574

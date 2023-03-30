@@ -1,0 +1,3 @@
+The purpose of this study is to evaluate the performance of a novel deep learning (DL) tool for fully automated measurements of the sagittal spinopelvic balance from X-ray images of the spine in comparison with manual measurements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32279117

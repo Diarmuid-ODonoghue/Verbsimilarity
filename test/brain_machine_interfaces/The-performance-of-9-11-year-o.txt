@@ -1,0 +1,3 @@
+In this paper, we report the performance of 9-11-year-old children using a steady-state visual evoked potential (SSVEP)-based brain-computer interface (BCI) and provide control data collected from adults for comparison. Children in our study achieved a much higher performance (79% accuracy; average age 9.64 years old) than the only previous investigation of children using an SSVEP-based BCI (∼50% accuracy; average age 9.86 years old).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29952751

@@ -1,0 +1,3 @@
+Developers of medical simulators and instructors who use them often have questions about the level of fidelity needed in a simulation. In this article, we address the nature of fidelity with respect to virtual reality training systems. We argue that high-fidelity simulators do not always lead to better performance, and in some instances, can interfere with performance. The primary reason for these seemingly counterintuitive findings lies with a fundamental understanding of how humans perceive and process sensory information. Consequently, simulation-based training systems should be developed to maximize their effectiveness, not their fidelity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19088626

@@ -1,0 +1,3 @@
+Although recent advances in multiparametric magnetic resonance imaging (MRI) led to an increase in MRI-transrectal ultrasound (TRUS) fusion prostate biopsies, these are time consuming, laborious, and costly. Introduction of deep-learning approach would improve prostate segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31028016

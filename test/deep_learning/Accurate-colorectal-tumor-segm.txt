@@ -1,0 +1,3 @@
+Colorectal tumor segmentation is an important step in the analysis and diagnosis of colorectal cancer. This task is a time consuming one since it is often performed manually by radiologists. This paper presents an automatic postprocessing module to refine the segmentation of deep networks. The label assignment generative adversarial network (LAGAN) is improved from the generative adversarial network (GAN) and assigns labels to the outputs of deep networks. We apply the LAGAN to segment colorectal tumors in computed tomography (CT) scans and explore the performances of different combinations of deep networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31087327

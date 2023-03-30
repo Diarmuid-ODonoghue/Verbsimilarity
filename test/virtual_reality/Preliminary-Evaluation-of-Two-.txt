@@ -1,0 +1,3 @@
+In an observational clinical outcome study, we tested the effectiveness and use of the combination of two innovative approaches to magnification: a virtual bioptic telescope and a virtual projection screen, implemented with digital image processing in a head-mounted display (HMD) equipped with a high-resolution video camera and head trackers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30834171

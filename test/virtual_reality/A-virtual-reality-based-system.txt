@@ -1,0 +1,3 @@
+Emerging evidence shows that interactive virtual environments (VEs) may be a promising tool for studying sensorimotor processes and for rehabilitation. However, the potential of VEs to recruit action observation-execution neural networks is largely unknown. For the first time, a functional MRI-compatible virtual reality system (VR) has been developed to provide a window into studying brain-behavior interactions. This system is capable of measuring the complex span of hand-finger movements and simultaneously streaming this kinematic data to control the motion of representations of human hands in virtual reality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19531876

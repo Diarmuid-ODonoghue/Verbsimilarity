@@ -1,0 +1,3 @@
+Videocapsule endoscopy (VCE) is a relatively new technique for evaluating the presence of villous atrophy in celiac disease patients. The diagnostic analysis of video frames is currently time-consuming and tedious. Recently, computer-aided diagnosis (CAD) systems have become an attractive research area for diagnosing celiac disease. However, the images captured from VCE are susceptible to alterations in light illumination, rotation direction, and intestinal secretions. Moreover, textural features of the mucosal villi obtained by VCE are difficult to characterize and extract. This work aims to find a novel deep learning feature learning module to assist in the diagnosis of celiac disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31786452

@@ -1,0 +1,3 @@
+Virtual reality (VR) allows users to experience realistic, immersive 3D virtual environments with the depth perception and binocular field of view of real 3D settings. Newer VR technology has now allowed for interaction with 3D objects within these virtual environments through the use of VR controllers. This technical note describes our preliminary experience with VR as an adjunct tool to traditional angiographic imaging in the preprocedural workup of a patient with a complex pseudoaneurysm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29922399

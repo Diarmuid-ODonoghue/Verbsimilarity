@@ -1,0 +1,3 @@
+Neurorehabilitation techniques using virtual reality (VR) systems have recently become widespread as a rehabilitation method for restoring phantom limb movement and alleviating phantom limb pain (PLP). However, analgesic effects have varied between studies, possibly because of differences in the characteristics of PLP between patients (e.g., cramping, burning, shooting). We aimed to reveal the relationship between VR effects and PLP characteristics using an exploratory factor analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30576543

@@ -1,0 +1,3 @@
+Computer-assisted surgery has been more and more widely used in craniofacial surgery in recent years. It is useful in many situations: stereolithographic models, surgical simulations of osteotomies and bone repositioning, and cutting guides and customized implants. The present paper argues that computer-assisted surgery is particularly useful in complex cases such as rare malformations, or to address the sequelae of previous surgeries. The various advantages of the technique are emphasized from a surgical and from a teaching standpoint.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31568779

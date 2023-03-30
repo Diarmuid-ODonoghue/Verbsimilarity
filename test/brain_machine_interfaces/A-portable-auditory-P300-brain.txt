@@ -1,0 +1,3 @@
+The main objective of the current study was to implement and evaluate a P300 based brain-computer interface (BCI) speller that uses directional cues of auditory stimuli, which are presented over headphones. The interstimulus interval (ISI) was successively reduced to determine the optimal combination of speed and accuracy. The study further aimed at quantifying the differences in subjective workload between the auditory and the visual P300 spelling application. The influence of workload, mood and motivation on BCI performance and P300 amplitude was investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22959257

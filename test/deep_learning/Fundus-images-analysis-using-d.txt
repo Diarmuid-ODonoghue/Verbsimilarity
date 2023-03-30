@@ -1,0 +1,3 @@
+Convolution neural networks have been considered for automatic analysis of fundus images to detect signs of diabetic retinopathy but suffer from low sensitivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30400869

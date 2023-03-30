@@ -1,0 +1,3 @@
+Electrocardiography (ECG) is an essential technique for analyzing and monitoring cardiovascular physiological conditions such as arrhythmia. This article demonstrates the integration of screen-printed ECG circuitry from a commercially available conducting polymer, PEDOT:PSS, onto commercially available finished textiles. ECG signals were recorded in dry skin conditions due to the ability of PEDOT:PSS to function as both ionic and electronic conductors. The signal amplifies when the skin transpires water vapor or by applying a common lotion on the skin. Finally, PEDOT:PSS wires connected to PEDOT:PSS electrodes have been shown to record ECG signals comparable to Ag/AgCl connected to copper wires.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29020777

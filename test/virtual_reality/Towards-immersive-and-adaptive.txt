@@ -1,0 +1,3 @@
+In this paper we introduce a novel augmented reality based exposure therapy system for phobia treatment. This allows patients to see virtual fear stimuli overlaid onto the real world and to fully interact with them in real time. Extending on previous work, we focus on creating a controllable and interactive system (through gesture recognition and physiological sensors) with a visually realistic context. Our goal is a very life-like system that allows full parameterization over stimulus intensity and other factors necessary for an effective exposure therapy system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21685639

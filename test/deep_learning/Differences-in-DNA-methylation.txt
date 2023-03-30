@@ -1,0 +1,3 @@
+Abnormal DNA methylation may be important in germ cell tumour (GCT) aetiology, as germ cells undergo complete epigenetic reprogramming during development. GCTs show differences in global and promoter methylation patterns by histologic subtype. We conducted an epigenome-wide study to identify methylation differences by GCT histology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30287918

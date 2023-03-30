@@ -1,0 +1,3 @@
+The COVID-19 epidemic requires accurate identification and isolation of confirmed cases for effective control. This report describes the effectiveness of our testing strategy and highlights the importance of repeat testing in suspect cases in our cohort.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32306042

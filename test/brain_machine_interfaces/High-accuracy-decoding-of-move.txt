@@ -1,0 +1,3 @@
+The current development of brain-machine interface technology is limited, among other factors, by concerns about the long-term stability of single- and multi-unit neural signals. In addition, the understanding of the relation between potentially more stable neural signals, such as local field potentials, and motor behavior is still in its early stages.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21200434

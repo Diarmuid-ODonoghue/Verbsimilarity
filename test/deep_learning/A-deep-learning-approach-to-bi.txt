@@ -1,0 +1,3 @@
+Bilingual lexicon induction (BLI) is an important task in the biomedical domain as translation resources are usually available for general language usage, but are often lacking in domain-specific settings. In this article we consider BLI as a classification problem and train a neural network composed of a combination of recurrent long short-term memory and deep feed-forward networks in order to obtain word-level and character-level representations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29986664

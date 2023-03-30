@@ -1,0 +1,3 @@
+We have developed a highly interactive virtual environment that enables collaborative examination of stereoscopic three-dimensional (3-D) medical imaging data for planning, discussing, or teaching neurosurgical approaches and strategies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18091253

@@ -1,0 +1,3 @@
+A design for a modular, compact, and accurate wireless electroencephalograph (EEG) system is proposed. EEG is the only non-invasive measure for neuronal function of the brain. Using a number of digital signal processing (DSP) techniques, this neuronal function can be acquired and processed into meaningful representations of brain activity. The system described here utilizes Bluetooth to wirelessly transmit the digitized brain signal for an end application use. In this way, the system is portable, and modular in terms of the device to which it can interface. Brain Computer Interface (BCI) has become a popular extension of EEG systems in modern research. This design serves as a platform for applications using BCI capability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24111196

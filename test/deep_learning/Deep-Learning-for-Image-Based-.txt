@@ -1,0 +1,3 @@
+Cultivar recognition is a basic work in flower production, research, and commercial application. Chinese large-flowered chrysanthemum (Chrysanthemum × morifolium Ramat.) is miraculous because of its high ornamental value and rich cultural deposits. However, the complicated capitulum structure, various floret types and numerous cultivars hinder chrysanthemum cultivar recognition. Here, we explore how deep learning method can be applied to chrysanthemum cultivar recognition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31827578

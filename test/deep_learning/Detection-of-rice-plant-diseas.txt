@@ -1,0 +1,3 @@
+As the primary food for nearly half of the world's population, rice is cultivated almost all over the world, especially in Asian countries. However, the farmers and planting experts have been facing many persistent agricultural challenges for centuries, such as different diseases of rice. The severe rice diseases may lead to no harvest of grains; therefore, a fast, automatic, less expensive and accurate method to detect rice diseases is highly desired in the field of agricultural information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32124447

@@ -1,0 +1,3 @@
+Spatial augmented reality applies the concepts of spatial user interfaces to large-scale, projector-based augmented reality. Such virtual environments have interesting characteristics. They deal with large physical objects, the projection surfaces are nonplanar, the physical objects provide natural passive haptic feedback, and the systems naturally support collaboration between users. The article describes how these features affect the design of spatial user interfaces for these environments and explores promising research directions and application domains.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25388234

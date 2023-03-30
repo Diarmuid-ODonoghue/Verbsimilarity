@@ -1,0 +1,3 @@
+Coronavirus disease 2019 (COVID-19) poses an occupational health risk to healthcare workers. Several thousand healthcare workers have already been infected, mainly in China. Preventing intra-hospital transmission of the communicable disease is therefore a priority. Based on the Systems Engineering Initiative for Patient Safety model, the strategies and measures to protect healthcare workers in an acute tertiary hospital are described along the domains of work task, technologies and tools, work environmental factors, and organizational conditions. The principle of zero occupational infection remains an achievable goal that all healthcare systems need to strive for in the face of a potential pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32292622

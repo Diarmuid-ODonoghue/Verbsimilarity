@@ -1,0 +1,3 @@
+There is a huge amount of rare diseases, many of which have associated important disabilities. It is paramount to know in advance the evolution of the disease in order to limit and prevent the appearance of disabilities and to prepare the patient to manage the future difficulties. Rare disease associations are making an effort to manually collect this information, but it is a long process. A lot of information about the consequences of rare diseases is published in scientific papers, and our goal is to automatically extract disabilities associated with diseases from them.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30195420

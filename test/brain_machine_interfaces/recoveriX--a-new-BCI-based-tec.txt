@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) systems have been used primarily to provide communication for persons with severe movement disabilities. This paper presents a new system that extends BCI technology to a new patient group: persons diagnosed with stroke. This system, called recoveriX, is designed to detect changes in motor imagery in real-time to help monitor compliance and provide closed-loop feedback during therapy. We describe recoveriX and present initial results from one patient.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28268612

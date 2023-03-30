@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) have the potential to improve quality of life for thousands of motor-impaired individuals. Many different signal sources have been investigated for use in controlling a BMI, including scalp EEG, field potentials from inside and the surface of the cerebral cortex, and single-neuron action potentials. A relatively unexplored region for recording signals is the epidural space. This study attempts to help determine the optimal spatial resolution of epidural and subdural electrode arrays using both a mathematical model and spatial spectral analysis. For rats, optimal spacing for both epidural and subdural electrodes was approximately 0.7 mm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19163532

@@ -1,0 +1,3 @@
+The goal of this study was to design and implement a novel surgical telementoring system called the System for Telementoring with Augmented Reality (STAR) that uses a virtual transparent display to convey precise locations in the operating field to a trainee surgeon. This system was compared with a conventional system based on a telestrator for surgical instruction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26804823

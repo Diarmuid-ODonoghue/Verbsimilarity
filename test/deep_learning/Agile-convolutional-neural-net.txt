@@ -1,0 +1,3 @@
+To distinguish benign from malignant pulmonary nodules using CT images is critical for their precise diagnosis and treatment. A new Agile convolutional neural network (CNN) framework is proposed to conquer the challenges of a small-scale medical image database and the small size of the nodules, and it improves the performance of pulmonary nodule classification using CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29473129

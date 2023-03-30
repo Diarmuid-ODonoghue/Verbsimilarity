@@ -1,0 +1,3 @@
+Accelerated magnetic resonance (MR) image acquisition with compressed sensing (CS) and parallel imaging is a powerful method to reduce MR imaging scan time. However, many reconstruction algorithms have high computational costs. To address this, we investigate deep residual learning networks to remove aliasing artifacts from artifact corrupted images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29993390

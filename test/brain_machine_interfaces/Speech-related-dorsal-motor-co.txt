@@ -1,0 +1,3 @@
+Speech-related neural modulation was recently reported in 'arm/hand' area of human dorsal motor cortex that is used as a signal source for intracortical brain-computer interfaces (iBCIs). This raises the concern that speech-related modulation might deleteriously affect the decoding of arm movement intentions, for instance by affecting velocity command outputs. This study sought to clarify whether or not speaking would interfere with ongoing iBCI use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32023225

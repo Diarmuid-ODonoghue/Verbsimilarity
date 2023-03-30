@@ -1,0 +1,3 @@
+In view of the diagnostic complexity and the large number of examinations, modern radiology is challenged to identify clinically significant prostate cancer (PCa) with high sensitivity and specificity. Meanwhile overdiagnosis and overtreatment of clinically nonsignificant carcinomas need to be avoided.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31802148

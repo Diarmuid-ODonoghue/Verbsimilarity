@@ -1,0 +1,3 @@
+When working on fluoroscopy and patient assistance in a healthcare facility, workers need to understand how to properly protect scattered radiation. In this study, we examined a four-dimensional visualization method to make it easy to understand the spread of scattered radiation visually, and proposed its application to radiation protection education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31748455

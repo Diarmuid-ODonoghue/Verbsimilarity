@@ -1,0 +1,3 @@
+Single-cell RNA sequencing (scRNA-seq) offers new opportunities to study gene expression of tens of thousands of single cells simultaneously. We present DeepImpute, a deep neural network-based imputation algorithm that uses dropout layers and loss functions to learn patterns in the data, allowing for accurate imputation. Overall, DeepImpute yields better accuracy than other six publicly available scRNA-seq imputation methods on experimental data, as measured by the mean squared error or Pearson's correlation coefficient. DeepImpute is an accurate, fast, and scalable imputation tool that is suited to handle the ever-increasing volume of scRNA-seq data, and is freely available at https://github.com/lanagarmire/DeepImpute .
+
+https://www.ncbi.nlm.nih.gov/pubmed/31627739

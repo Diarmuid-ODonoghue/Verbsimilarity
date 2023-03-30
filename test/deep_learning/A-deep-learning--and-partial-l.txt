@@ -1,0 +1,3 @@
+This work aims to develop a new framework of image quality assessment using deep learning-based model observer (DL-MO) and to validate it in a low-contrast lesion detection task that involves CT images with patient anatomical background.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30889282

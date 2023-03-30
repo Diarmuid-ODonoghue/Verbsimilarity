@@ -1,0 +1,3 @@
+Imaging has a critical impact on surgical decision making and three-dimensional (3D) digital models of patient pathology can now be made commercially. We developed a 3D digital model of a cancer of the head of the pancreas by integrating actual CT data with 3D modeling process. After this process, the virtual pancreatic model was also produced using a high-quality 3D printer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27813710

@@ -1,0 +1,3 @@
+An interventional system for minimally invasive cardiac surgery was developed for therapy delivery inside the beating heart, in absence of direct vision.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20033609

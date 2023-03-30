@@ -1,0 +1,3 @@
+A unique challenge in predictive model building for omics data has been the small number of samples (n) versus the large amount of features (p). This "n ≪ p" property brings difficulties for disease outcome classification using deep learning techniques. Sparse learning by incorporating known functional relations between the biological units, such as the graph-embedded deep feedforward network (GEDFN) model, has been a solution to this issue. However, such methods require an existing feature graph, and potential mis-specification of the feature graph can be harmful on classification and feature selection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32163118

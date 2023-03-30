@@ -1,0 +1,3 @@
+Previous studies have successfully used augmented reality (AR) as an aid to exposure-based treatments for anxiety disorders. However, to the best of our knowledge, none of these studies have measured the physiological correlates of the fear response, relying solely on self-reports and behavioral avoidance tests.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30136383

@@ -1,0 +1,3 @@
+The deep connection between thermodynamics, computation, and information is now well established both theoretically and experimentally. Here, we extend these ideas to show that thermodynamics also places fundamental constraints on statistical estimation and learning. To do so, we investigate the constraints placed by (nonequilibrium) thermodynamics on the ability of biochemical signaling networks to estimate the concentration of an external signal. We show that accuracy is limited by energy consumption, suggesting that there are fundamental thermodynamic constraints on statistical inference.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25325665

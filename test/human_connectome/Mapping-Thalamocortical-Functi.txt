@@ -1,0 +1,3 @@
+There is considerable evidence that the thalamus is abnormal in psychotic disorders. Resting-state functional magnetic resonance imaging has revealed an intriguing pattern of thalamic dysconnectivity in psychosis characterized by reduced prefrontal cortex (PFC) connectivity and increased somatomotor-thalamic connectivity. However, critical knowledge gaps remain with respect to the onset, anatomical specificity, and clinical correlates of thalamic dysconnectivity in psychosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26248537

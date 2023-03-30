@@ -1,0 +1,3 @@
+Corona Virus Disease-2019 (COVID-19) has spread widely throughout the world since the end of 2019. Nucleic acid testing (NAT) has played an important role in patient diagnosis and management of COVID-19. In some circumstances, thermal inactivation at 56 °C has been recommended to inactivate Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) before NAT. However, this procedure could theoretically disrupt nucleic acid integrity of this single-stranded RNA virus and cause false negatives in real-time polymerase chain reaction (RT-PCR) tests.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32246822

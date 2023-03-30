@@ -1,0 +1,3 @@
+Current clinical application of cone-beam CT (CBCT) is limited to patient setup. Imaging artifacts and Hounsfield unit (HU) inaccuracy make the process of CBCT-based adaptive planning presently impractical. In this study, we developed a deep-learning-based approach to improve CBCT image quality and HU accuracy for potential extended clinical use in CBCT-guided pancreatic adaptive radiotherapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32141618

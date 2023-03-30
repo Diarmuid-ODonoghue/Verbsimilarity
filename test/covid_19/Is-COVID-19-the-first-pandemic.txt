@@ -1,0 +1,3 @@
+SARS-CoV-2 is a zoonotic virus that has achieved community spread among humans and become a pandemic. Transmission from humans to dogs, domestic cats, tigers, and lions has occurred. Pigs, cats, ferrets, and primates have been identified as good candidates for susceptibility to SARS-CoV-2. The potential implications indicate the need for One Health surveillance, intervention, and management strategies to mitigate the effects on animal populations and prevent a second preparedness failure during this health emergency.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315124

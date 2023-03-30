@@ -1,0 +1,3 @@
+Diagnosis of conditions such as psoriasis and atopic dermatitis, in the case of induration, involves palpating the infected area via hands and then selecting a ratings score. However, the score is determined based on the tester's experience and standards, making it subjective. To provide tactile feedback on the skin, we developed a prototype tactile feedback system to simulate skin wrinkles with PHANToM OMNI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24267404

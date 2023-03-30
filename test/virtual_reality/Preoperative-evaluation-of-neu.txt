@@ -1,0 +1,3 @@
+In this paper the authors' goal was to evaluate the feasibility and efficacy of a virtual reality (VR) system in preoperative planning for microvascular decompression (MVD) procedures treating idiopathic trigeminal neuralgia and hemifacial spasm. The system's role in surgical simulation and training was also assessed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19852542

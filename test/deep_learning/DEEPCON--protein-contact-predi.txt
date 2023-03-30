@@ -1,0 +1,3 @@
+Exciting new opportunities have arisen to solve the protein contact prediction problem from the progress in neural networks and the availability of a large number of homologous sequences through high-throughput sequencing. In this work, we study how deep convolutional neural networks (ConvNets) may be best designed and developed to solve this long-standing problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31359036

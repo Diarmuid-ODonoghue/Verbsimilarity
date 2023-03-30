@@ -1,0 +1,3 @@
+Body composition is increasingly being recognized as an important prognostic factor for health outcomes across cancer, liver cirrhosis, and critically ill patients. Computed tomography (CT) scans, when taken as part of routine care, provide an excellent opportunity to precisely measure the quantity and quality of skeletal muscle and adipose tissue. However, manual analysis of CT scans is costly and time-intensive, limiting the widespread adoption of CT-based measurements of body composition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31822001

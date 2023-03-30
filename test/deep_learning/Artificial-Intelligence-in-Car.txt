@@ -1,0 +1,3 @@
+The goal of this article is to examine some of the current cardiothoracic radiology applications of artificial intelligence in general and deep learning in particular.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30779669

@@ -1,0 +1,3 @@
+A number of studies have been done on movement imagination of motor sequences with a single limb. However, brain oscillatory patterns induced by movement imagination of motor sequences involving multiple limbs have not been reported in recent years. The goal of the present study was to verify the feasibility of application of motor sequences involving multiple limbs to brain-computer interface (BCI) systems based on motor imagery (MI). The changes of EEG patterns and the inter-influence between movements associated with the imagination of motor sequences were also investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26822435

@@ -1,0 +1,3 @@
+Virtual reality (VR) provides interactive multimodal sensory stimuli and biofeedback, and can be a powerful tool for physical and cognitive rehabilitation. However, existing systems have generally not implemented realistic full-body avatars and/or a scaling of visual movement feedback. We developed a "virtual mirror" that displays a realistic full-body avatar that responds to full-body movements in all movement planes in real-time, and that allows for the scaling of visual feedback on movements in real-time. The primary objective of this proof-of-concept study was to assess the ability of healthy subjects to detect scaled feedback on trunk flexion movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25558785

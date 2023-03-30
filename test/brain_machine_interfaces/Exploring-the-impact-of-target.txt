@@ -1,0 +1,3 @@
+Covert visual spatial attention is a relatively new task used in brain computer interfaces (BCIs) and little is known about the characteristics which may affect performance in BCI tasks. We investigated whether eccentricity and task difficulty affect alpha lateralization and BCI performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24312477

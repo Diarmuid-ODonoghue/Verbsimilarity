@@ -1,0 +1,3 @@
+In-bed motion monitoring has become of great interest for a variety of clinical applications. Image-based approaches could be seen as a natural non-intrusive approach for this purpose; however, video devices require special challenging settings for a clinical environment. We propose to estimate the patient's posture from pressure sensors' data mapped to images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30552647

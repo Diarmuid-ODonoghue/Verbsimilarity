@@ -1,0 +1,3 @@
+Although the study of biological vision and computer vision attempt to understand powerful visual information processing from different angles, they have a long history of informing each other. Recent advances in texture synthesis that were motivated by visual neuroscience have led to a substantial advance in image synthesis and manipulation in computer vision using convolutional neural networks (CNNs). Here, we review these recent advances and discuss how they can in turn inspire new research in visual perception and computational neuroscience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28926765

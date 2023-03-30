@@ -1,0 +1,3 @@
+Operant conditioning of neuronal activity is a core process for better operation of brain-machine interfaces. However, few studies have investigated the role of reinforcement schedules in neuronal operant conditioning, although they are very effective in behavioral operant conditioning. To test the effect of different reinforcement schedules, the authors trained single-neuron activity in the motor cortex using fixed ratio (FR) and variable ratio (VR) schedules in rats. Neuronal firing rates were enhanced in the FR but not in the VR schedule during conditioning, suggesting that the principles of operant conditioning of neuronal activity are different from those of behavioral responses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31002837

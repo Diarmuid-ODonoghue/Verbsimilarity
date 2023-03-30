@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) re-establish communication channels between the nervous system and an external device. The use of BMI technology has generated significant developments in rehabilitative medicine, promising new ways to restore lost sensory-motor functions. However and despite high-caliber basic research, only a few prototypes have successfully left the laboratory and are currently home-deployed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27221469

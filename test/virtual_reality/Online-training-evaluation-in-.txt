@@ -1,0 +1,3 @@
+A new approach to evaluate training in simulators based on virtual reality is proposed. This approach uses Gaussian Mixture Models (GMM) for modeling and classification of the simulation in pre-defined classes of training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455861

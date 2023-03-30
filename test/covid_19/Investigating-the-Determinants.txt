@@ -1,0 +1,3 @@
+Case-Fatality Rate (CFR) for COVID-19 in Italy is apparently much higher than in other countries. Using data from Italy and other countries we evaluated the role of different determinants of this phenomenon. We found that the Italian testing strategy could explain an important part of the observed difference in CFR. In particular, the majority of patients that are currently tested in Italy have severe clinical symptoms that usually require hospitalization and this translates to a large CFR. We are confident that, once modifications in the testing strategy leading to higher population coverage are consistently adopted in Italy, CFR will realign with the values reported worldwide.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32295661

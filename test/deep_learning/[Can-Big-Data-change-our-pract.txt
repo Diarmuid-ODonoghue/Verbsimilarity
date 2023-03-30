@@ -1,0 +1,3 @@
+The European Medicines Agency has defined Big Data by the "3 V's": Volume, Velocity and Variety. These large databases allow access to real life data on patient care. They are particularly suited for studies of adverse events and pharmacoepidemiology. Deep learning is a collection of algorithms used in machine learning, used to model high-level abstractions in data using model architectures, which are composed of multiple nonlinear transformations. This article shows how Big Data and Deep Learning can help in ophthalmology, pointing out their advantages and disadvantages. A literature review is presented in this article illustrating the uses of Deep Learning in ophthalmology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30979558

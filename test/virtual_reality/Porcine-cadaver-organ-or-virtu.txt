@@ -1,0 +1,3 @@
+As conventional laparoscopic procedural training requires live animals or cadaver organs, virtual simulation seems an attractive alternative. Therefore, we compared the transfer of training for the laparoscopic cholecystectomy from porcine cadaver organs vs virtual simulation to surgery in a live animal model in a prospective randomized trial.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25555673

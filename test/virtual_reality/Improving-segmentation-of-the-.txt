@@ -1,0 +1,3 @@
+Quality of segmentations obtained by 3D Active Appearance Models (AAMs) crucially depends on underlying training data. MRI heart data, however, often come noisy, incomplete, with respiratory-induced motion, and do not fulfill necessary requirements for building an AAM. Moreover, AAMs are known to fail when attempting to model local variations. Inspired by the recent work on split models we propose an alternative to the methods based on pure 3D AAM segmentation. We interconnect a set of 2D AAMs by a 3D shape model. We show that our approach is able to cope with imperfect data and improves segmentations by 11% on average compared to 3D AAMs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17354885

@@ -1,0 +1,3 @@
+In China, the doubling time of the coronavirus disease epidemic by province increased during January 20-February 9, 2020. Doubling time estimates ranged from 1.4 (95% CI 1.2-2.0) days for Hunan Province to 3.1 (95% CI 2.1-4.8) days for Xinjiang Province. The estimate for Hubei Province was 2.5 (95% CI 2.4-2.6) days.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32330410

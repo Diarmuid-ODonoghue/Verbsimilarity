@@ -1,0 +1,3 @@
+Artifacts caused by patient breathing and movement during PET data acquisition affect image quality. Respiratory gating is commonly used to gate the list-mode PET data into multiple bins over a respiratory cycle. Non-rigid registration of respiratory-gated PET images can reduce motion artifacts and preserve count statistics, but it is time consuming. In this work, we propose an unsupervised non-rigid image registration framework using deep learning for motion correction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32244230

@@ -1,0 +1,3 @@
+The GI Mentor is a virtual reality simulator that uses force feedback technology to create a realistic training experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16923483

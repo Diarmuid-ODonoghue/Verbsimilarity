@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) involving electrodes implanted into the human cerebral cortex have recently been developed in an attempt to restore function to profoundly paralyzed individuals. Current BMIs for restoring communication can provide important capabilities via a typing process, but unfortunately they are only capable of slow communication rates. In the current study we use a novel approach to speech restoration in which we decode continuous auditory parameters for a real-time speech synthesizer from neuronal activity in motor cortex during attempted speech.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20011034

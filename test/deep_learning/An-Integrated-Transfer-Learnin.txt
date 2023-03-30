@@ -1,0 +1,3 @@
+Pharmacokinetic evaluation is one of the key processes in drug discovery and development. However, current absorption, distribution, metabolism, and excretion prediction models still have limited accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30571137

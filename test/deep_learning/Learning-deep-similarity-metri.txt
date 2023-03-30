@@ -1,0 +1,3 @@
+The fusion of transrectal ultrasound (TRUS) and magnetic resonance (MR) images for guiding targeted prostate biopsy has significantly improved the biopsy yield of aggressive cancers. A key component of MR-TRUS fusion is image registration. However, it is very challenging to obtain a robust automatic MR-TRUS registration due to the large appearance difference between the two imaging modalities. The work presented in this paper aims to tackle this problem by addressing two challenges: (i) the definition of a suitable similarity metric and (ii) the determination of a suitable optimization strategy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30382457

@@ -1,0 +1,3 @@
+Intraoperative navigation during liver resection remains difficult and requires high radiologic skills because liver anatomy is complex and patient-specific. Augmented reality (AR) during open liver surgery could be helpful to guide hepatectomies and optimize resection margins but faces many challenges when large parenchymal deformations take place. We aimed to experiment a new vision-based AR to assess its clinical feasibility and anatomical accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32040812

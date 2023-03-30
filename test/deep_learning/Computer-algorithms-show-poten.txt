@@ -1,0 +1,3 @@
+Computer vision has promise in image-based cutaneous melanoma diagnosis but clinical utility is uncertain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31306724

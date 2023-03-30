@@ -1,0 +1,3 @@
+Parkinson's disease is a neurological disorder that affects the motor system producing lack of coordination, resting tremor, and rigidity. Impairments in handwriting are among the main symptoms of the disease. Handwriting analysis can help in supporting the diagnosis and in monitoring the progress of the disease. This paper aims to evaluate the importance of different groups of features to model handwriting deficits that appear due to Parkinson's disease; and how those features are able to discriminate between Parkinson's disease patients and healthy subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31046995

@@ -1,0 +1,3 @@
+Rodents are important model systems used to explore spinal cord injury (SCI) and rehabilitation, and brain machine interfaces (BMI). We present a new method to provide mechanical interaction for BMI and rehabilitation in rat models of SCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24269175

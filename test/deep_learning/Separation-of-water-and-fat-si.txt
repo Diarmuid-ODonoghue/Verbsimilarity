@@ -1,0 +1,3 @@
+To perform and evaluate water-fat signal separation of whole-body gradient echo scans using convolutional neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31033022

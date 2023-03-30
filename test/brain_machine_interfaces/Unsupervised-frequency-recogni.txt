@@ -1,0 +1,3 @@
+Recently developed effective methods for detection commands of steady-state visual evoked potential (SSVEP)-based brain-computer interface (BCI) that need calibration for visual stimuli, which cause more time and fatigue prior to the use, as the number of commands increases. This paper develops a novel unsupervised method based on canonical correlation analysis (CCA) for accurate detection of stimulus frequency.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28071599

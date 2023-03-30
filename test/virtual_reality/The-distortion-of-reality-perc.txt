@@ -1,0 +1,3 @@
+Virtual Reality is an interactive three-dimensional computer generated environment. Providing a complex and multi-modal environment, VR can be particularly useful for the study of complex cognitive functions and brain disorders. Here we used a VR world to measure the distortion in reality perception in schizophrenia patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391348

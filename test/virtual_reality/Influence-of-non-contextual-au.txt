@@ -1,0 +1,3 @@
+Topographical disorientation is frequent among patients after a stroke and can be well explored with virtual environments (VEs). VEs also allow for the addition of stimuli. A previous study did not find any effect of non-contextual auditory stimuli on navigational performance in the virtual action planning-supermarket (VAP-S) simulating a medium-sized 3D supermarket. However, the perceptual or cognitive load of the sounds used was not high.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29407275

@@ -1,0 +1,3 @@
+Machine learning, especially deep learning, has the predictive power to predict adverse drug reactions, repurpose drugs and perform precision medicine. We provide a background of machine learning and propose a potential high-performance deep learning framework for its successful applications in these practices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30876845

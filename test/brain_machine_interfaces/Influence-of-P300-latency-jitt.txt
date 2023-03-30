@@ -1,0 +1,3 @@
+Several ERP-based brain-computer interfaces (BCIs) that can be controlled even without eye movements (covert attention) have been recently proposed. However, when compared to similar systems based on overt attention, they displayed significantly lower accuracy. In the current interpretation, this is ascribed to the absence of the contribution of short-latency visual evoked potentials (VEPs) in the tasks performed in the covert attention modality. This study aims to investigate if this decrement (i) is fully explained by the lack of VEP contribution to the classification accuracy; (ii) correlates with lower temporal stability of the single-trial P300 potentials elicited in the covert attention modality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24835331

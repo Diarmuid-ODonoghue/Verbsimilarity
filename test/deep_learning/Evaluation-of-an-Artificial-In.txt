@@ -1,0 +1,3 @@
+The aim of this study was to evaluate the use of a convolutional neural network (CNN) system for detecting vertical root fracture (VRF) on panoramic radiography.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31535278

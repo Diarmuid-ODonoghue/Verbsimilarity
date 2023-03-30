@@ -1,0 +1,3 @@
+To compare performances in diagnosing intertrochanteric hip fractures from proximal femoral radiographs between a convolutional neural network and orthopedic surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29955910

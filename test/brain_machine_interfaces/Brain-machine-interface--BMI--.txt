@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) use brain activity to control external devices, facilitating paralyzed patients to interact with the environment. In this review, we focus on the current advances of non-invasive BMIs for communication in patients with amyotrophic lateral sclerosis (ALS) and for restoration of motor impairment after severe stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25623294

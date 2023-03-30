@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) based on Steady State Visual Evoked Potential (SSVEP) have attracted more and more attentions for their short time response and high information transfer rate (ITR). The use of a high stimulation frequency (from 30 Hz to 40 Hz) is more comfortable for users and can avoid the amplitude-frequency problem, but the number of available phases for stimulation source is limited. To circumvent this deficiency, a novel protocol named Multi-Phase Cycle Coding (MPCC) for SSVEP-based BCIs was proposed in the present study.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25595414

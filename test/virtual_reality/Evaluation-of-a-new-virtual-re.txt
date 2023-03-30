@@ -1,0 +1,3 @@
+To determine realism and training capacity of HystSim, a new virtual-reality simulator for the training of hysteroscopic interventions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18437471

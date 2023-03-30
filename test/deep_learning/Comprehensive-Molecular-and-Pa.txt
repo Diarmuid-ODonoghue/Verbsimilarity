@@ -1,0 +1,3 @@
+Histologic subtypes of malignant pleural mesothelioma are a major prognostic indicator and decision denominator for all therapeutic strategies. In an ambiguous case, a rare transitional mesothelioma (TM) pattern may be diagnosed by pathologists either as epithelioid mesothelioma (EM), biphasic mesothelioma (BM), or sarcomatoid mesothelioma (SM). This study aimed to better characterize the TM subtype from a histological, immunohistochemical, and molecular standpoint. Deep learning of pathologic slides was applied to this cohort.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32165206

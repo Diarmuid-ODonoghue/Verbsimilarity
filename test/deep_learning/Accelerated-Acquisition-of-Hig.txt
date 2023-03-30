@@ -1,0 +1,3 @@
+To accelerate high-resolution diffusion-weighted imaging with a multi-shot echo-planar sequence, we propose an approach based on reduced averaging and deep learning. Denoising convolutional neural networks can reduce amplified noise without requiring extensive averaging, enabling shorter scan times and high image quality. The preliminary experimental results demonstrate the superior performance of the proposed denoising method over state-of-the-art methods such as the widely used block-matching and 3D filtering.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32147643

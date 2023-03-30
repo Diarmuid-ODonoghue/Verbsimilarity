@@ -1,0 +1,3 @@
+Les enfants sont sous-représentés durant la pandémie COVID-19 actuelle. Contrairement aux autres virus respiratoires, dans la majorité des clusters familiaux, ce sont les parents qui infectent les enfants. Les évidences cliniques chinoises et italiennes suggèrent que les enfants présentent souvent un tableau clinique peu sévère et qu’ils sont fréquemment asymptomatiques. Notamment, les enfants présentent moins de fièvre, de toux et de pneumonies comparés aux adultes. Toutefois, plus de cas de pneumonies ont été reportés chez des enfants infectés par SARS-CoV-2 que chez ceux qui le sont par H1N1. Aucun cas de transmission verticale de SARS-CoV-2 n’a été démontré récemment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348048

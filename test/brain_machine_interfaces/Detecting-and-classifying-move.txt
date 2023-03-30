@@ -1,0 +1,3 @@
+To detect movement intention from executed and imaginary palmar grasps in healthy subjects and attempted executions in stroke patients using one EEG channel. Moreover, movement force and speed were also decoded.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26305233

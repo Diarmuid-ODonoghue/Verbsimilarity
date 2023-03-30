@@ -1,0 +1,3 @@
+In times of COVID-19, social distancing is an important parameter to contain the spread of novel coronavirus. More than ever, it is important to understand the utility of technology in maintaining connectivity. The wireless connectivity of the devices used in daily routine life (mobile phones, tablets and computers) has changed the way we connect and interact with each other. The same is true in medical field as well. The technological advancement in these devices has brought clinicians closer in ways that has reduced the need for face-to-face meetings. All this has been made possible through streaming of data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32304574

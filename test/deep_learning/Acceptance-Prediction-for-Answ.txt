@@ -1,0 +1,3 @@
+With the development of e-Health, it plays a more and more important role in predicting whether a doctor's answer can be accepted by a patient through online healthcare community. Unlike the previous work which focus mainly on the numerical feature, in our framework, we combine both numerical and textual information to predict the acceptance of answers. The textual information is composed of questions posted by the patients and answers posted by the doctors. To extract the textual features from them, we first trained a sentence encoder to encode a pair of question and answer into a co-dependent representation on a held-out dataset. After that,we can use it to predict the acceptance of answers by doctors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31760931

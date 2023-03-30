@@ -1,0 +1,3 @@
+We present a new class of wavefront sensors by extending their design space based on machine learning. This approach simplifies both the optical hardware and image processing in wavefront sensing. We experimentally demonstrated a variety of image-based wavefront sensing architectures that can directly estimate Zernike coefficients of aberrated wavefronts from a single intensity image by using a convolutional neural network. We also demonstrated that the proposed deep learning wavefront sensor can be trained to estimate wavefront aberrations stimulated by a point source and even extended sources.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30645371

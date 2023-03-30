@@ -1,0 +1,3 @@
+We are sympathetic with Bentley et al.'s attempt to encompass the wisdom of crowds in a generative model, but posit that a successful attempt at using big data will include more sensitive measurements, more varied sources of information, and will also build from the indirect information available through technology, from ancillary technical features to data from brain-computer interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24572238

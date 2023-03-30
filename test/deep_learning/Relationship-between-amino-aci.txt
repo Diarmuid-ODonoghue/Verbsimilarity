@@ -1,0 +1,3 @@
+Olfactory receptors are key components in signal transduction. Mutations in olfactory receptors alter the odor response, which is a fundamental response of organisms to their immediate environment. Understanding the relationship between odorant response and mutations in olfactory receptors is an important problem in bioinformatics and computational biology. In this work, we have systematically analyzed the relationship between various physical, chemical, energetic and conformational properties of amino acid residues, and the change of odor response/compound's potency/half maximal effective concentration (EC50) due to amino acid substitutions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22594995

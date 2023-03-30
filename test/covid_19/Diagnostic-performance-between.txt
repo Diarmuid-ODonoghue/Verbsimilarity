@@ -1,0 +1,3 @@
+Chest CT is thought to be sensitive but less specific in diagnosing the 2019 coronavirus disease (COVID-19). The diagnostic value of CT is unclear. We aimed to compare the performance of CT and initial RT-PCR for clinically suspected COVID-19 patients outside the epicentre-Wuhan, China.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32364959

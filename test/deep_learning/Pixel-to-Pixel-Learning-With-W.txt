@@ -1,0 +1,3 @@
+Nucleus recognition is a critical yet challenging step in histopathology image analysis, for example, in Ki67 immunohistochemistry stained images. Although many automated methods have been proposed, most use a multi-stage processing pipeline to categorize nuclei, leading to cumbersome, low-throughput, and error-prone assessments. To address this issue, we propose a novel deep fully convolutional network for single-stage nucleus recognition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30802845

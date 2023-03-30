@@ -1,0 +1,3 @@
+The authors are developing a computerized system for bladder segmentation in CT urography (CTU) as a critical component for computer-aided detection of bladder cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27036584

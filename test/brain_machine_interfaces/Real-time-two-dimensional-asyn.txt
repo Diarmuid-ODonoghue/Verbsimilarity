@@ -1,0 +1,3 @@
+To test the feasibility of controlling a computer cursor asynchronously in two dimensions using one subdural electrode.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23031175

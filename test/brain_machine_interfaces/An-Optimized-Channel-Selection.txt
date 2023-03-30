@@ -1,0 +1,3 @@
+Due to the redundant information contained in multichannel electroencephalogram (EEG) signals, the classification accuracy of brain-computer interface (BCI) systems may deteriorate to a large extent. Channel selection methods can help to remove task-independent electroencephalogram (EEG) signals and hence improve the performance of BCI systems. However, in different frequency bands, brain areas associated with motor imagery are not exactly the same, which will result in the inability of traditional channel selection methods to extract effective EEG features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31214255

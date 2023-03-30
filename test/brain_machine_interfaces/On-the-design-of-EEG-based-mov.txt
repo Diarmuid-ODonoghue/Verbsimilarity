@@ -1,0 +1,3 @@
+Brain machine interface (BMI) technology has demonstrated its efficacy for rehabilitation of paralyzed chronic stroke patients. The critical component in BMI-training consists of the associative connection (contingency) between the intention and the feedback provided. However, the relationship between the BMI design and its performance in stroke patients is still an open question.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30458838

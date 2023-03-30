@@ -1,0 +1,3 @@
+Cryo-electron microscopy (cryo-EM) has become a widely used tool for determining the structures of proteins and macromolecular complexes. To acquire the input for single-particle cryo-EM reconstruction, researchers must select hundreds of thousands of particles from micrographs. As the signal-to-noise ratio (SNR) of micrographs is extremely low, the performance of automated particle-selection methods is still unable to meet research requirements. To free researchers from this laborious work and to acquire a large number of high-quality particles, we propose an automated particle-selection method (PIXER) based on the idea of segmentation using a deep neural network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30658571

@@ -1,0 +1,3 @@
+The research field of connectomics arose just recently with the development of new three-dimensional-electron microscopy (EM) techniques and increasing computing power. So far, only a few model species (for example, mouse, the nematode Caenorhabditis elegans, and the fruit fly Drosophila melanogaster) have been studied using this approach. Here, we present a first attempt to expand this circle to include pycnogonids, which hold a key position for the understanding of arthropod evolution. The visual neuropils in Achelia langi are studied using a focused ion beam-scanning electron microscope (FIB-SEM) crossbeam-workstation, and a three-dimensional serial reconstruction of the connectome is presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25285383

@@ -1,0 +1,3 @@
+The brainstem is one of the most challenging areas for the neurosurgeon because of the limited space between gray matter nuclei and white matter pathways. Diffusion tensor imaging-based tractography has been used to study the brainstem structure, but the angular and spatial resolution could be improved further with advanced diffusion magnetic resonance imaging (MRI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26914259

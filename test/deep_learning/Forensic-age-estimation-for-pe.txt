@@ -1,0 +1,3 @@
+To develop a deep learning bone age assessment model based on pelvic radiographs for forensic age estimation and compare its performance to that of the existing cubic regression model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30402703

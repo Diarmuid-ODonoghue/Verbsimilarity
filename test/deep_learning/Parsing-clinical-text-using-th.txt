@@ -1,0 +1,3 @@
+A shareable repository of clinical notes is critical for advancing natural language processing (NLP) research, and therefore a goal of many NLP researchers is to create a shareable repository of clinical notes, that has breadth (from multiple institutions) as well as depth (as much individual data as possible).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30943955

@@ -1,0 +1,3 @@
+The use of magnetic resonance imaging (MRI) for virtual surgical planning has not yet been described. In the United States, over 600,000 computed tomographic (CT) scans are performed annually on children, who are at higher risk than adults of developing cancer caused by ionizing radiation. The aim of this study was to demonstrate whether three-dimensionally-printed craniofacial surgical guides created from "black bone" MRI are comparable in accuracy to those created from CT scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29579018

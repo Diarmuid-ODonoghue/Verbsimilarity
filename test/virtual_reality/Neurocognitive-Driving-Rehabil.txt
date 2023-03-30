@@ -1,0 +1,3 @@
+Virtual reality (VR) technology may provide an effective means to integrate cognitive and functional approaches to TBI rehabilitation. However, little is known about the effectiveness of VR rehabilitation for TBI-related cognitive deficits. In response to these clinical and research gaps, we developed Neurocognitive Driving Rehabilitation in Virtual Environments (NeuroDRIVE), an intervention designed to improve cognitive performance, driving safety, and neurobehavioral symptoms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31256093

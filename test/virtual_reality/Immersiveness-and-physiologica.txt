@@ -1,0 +1,3 @@
+In this paper, we discuss findings from a study that used panoramic video-based virtual environments (PVVEs) to induce self-reported anger. The study assessed "immersiveness" and physiological correlates of anger arousal (i.e., heart rate, blood pressure, galvanic skin response [GSR], respiration, and skin temperature). Results indicate that over time, panoramic video-based virtual scenarios can be, at the very least, physiologically arousing. Further, it can be affirmed from the results that hypnotizability, as defined by the applied measures, interacts with group on physiological arousal measures. Hence, physiological arousal appeared to be moderated by participant hypnotizability and absorption levels.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17711358

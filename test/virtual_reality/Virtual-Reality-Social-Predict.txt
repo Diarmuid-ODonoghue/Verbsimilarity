@@ -1,0 +1,3 @@
+Patients with cerebellar malformations exhibit not only movement problems, but also important deficits in social cognition. Thus, rehabilitation approaches should not only involve the recovery of motor function but also of higher-order abilities such as processing of social stimuli. In keeping with the general role of the cerebellum in anticipating and predicting events, we used a VR-based rehabilitation system to implement a social cognition intensive training specifically tailored to improve predictive abilities in social scenarios (VR-Spirit).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31937355

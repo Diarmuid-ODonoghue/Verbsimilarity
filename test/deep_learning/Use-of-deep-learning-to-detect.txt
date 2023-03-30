@@ -1,0 +1,3 @@
+Attention-deficit/hyperactivity disorder (ADHD) is one of the most prevalent neurobehavioral disorders. Studies have tried to find the neural correlations of ADHD with electroencephalography (EEG). Due to the heterogeneity in the ADHD population, a multivariate EEG profile is useful, and the detection of a personalized abnormality in EEG is urgently needed. Deep learning algorithms, especially convolutional neural network (CNN), have made tremendous progress recently, and are expected to solve the problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31398717

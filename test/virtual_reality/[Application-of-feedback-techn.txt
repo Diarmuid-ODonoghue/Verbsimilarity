@@ -1,0 +1,3 @@
+Feedback is an important way of information transmission in motor function output. Movement-related information can be transmitted as proprioceptive, haptic, visual and/or audial information to the central nervous system for control and modification of the temporal and spatial precision of motor output. Here presented is a systematic discussion on the principle, technique and effect for some typical motor function rehabilitation methods such as treatment based on EMG feedback, robot-aided movement therapy, high-level perceptional feedback and motor training effect with 3-D virtual reality environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19024479

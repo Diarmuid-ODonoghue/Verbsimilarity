@@ -1,0 +1,3 @@
+The coronavirus disease 2019 (COVID-19) has become pandemic and turn in a challenge for Latin America. Understanding the dynamics of the epidemic is essential for decision making, and to reduce the health, economic, and social impacts of the pandemic. The present study aimed to estimate the effective reproductive number (Rt) of Severe Acute Respiratory Syndrome coronavirus 2 (SARS-Cov2) infection during the first 10 days of the outbreak in seven Latin American countries with the highest incidence of cases as of March 23, 2020. Furthermore, we chose to compare the seven countries with Spain and Italy given their history with the virus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32360941

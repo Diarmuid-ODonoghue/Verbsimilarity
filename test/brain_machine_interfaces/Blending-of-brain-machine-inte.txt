@@ -1,0 +1,3 @@
+Recent studies have shown that brain-machine interfaces (BMIs) offer great potential for restoring upper limb function. However, grasping objects is a complicated task and the signals extracted from the brain may not always be capable of driving these movements reliably. Vision-guided robotic assistance is one possible way to improve BMI performance. We describe a method of shared control where the user controls a prosthetic arm using a BMI and receives assistance with positioning the hand when it approaches an object.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26987662

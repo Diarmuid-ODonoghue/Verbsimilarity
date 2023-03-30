@@ -1,0 +1,3 @@
+A real-time algorithm for removing scalp-blood signals from functional near-infrared spectroscopy signals is proposed. Scalp and deep signals have different dependencies on the source-detector distance. These signals were separated using this characteristic. The algorithm was validated through an experiment using a dynamic phantom in which shallow and deep absorptions were independently changed. The algorithm for measurement of oxygenated and deoxygenated hemoglobins using two wavelengths was explicitly obtained. This algorithm is potentially useful for real-time systems, e.g., brain-computer interfaces and neuro-feedback systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25437633

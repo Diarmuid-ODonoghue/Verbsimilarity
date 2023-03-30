@@ -1,0 +1,3 @@
+Understanding bystander reactions to an emergency is an important component of effective training. Four stages of bystander intervention (BI) have been previously described: noticing the situation as a problem, interpreting when it is appropriate to intervene, recognizing personal responsibility to intervene, and knowing how to intervene. Using virtual reality (VR) to simulate emergencies such as sudden cardiac arrest (SCA) can be used to study these stages.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31171944

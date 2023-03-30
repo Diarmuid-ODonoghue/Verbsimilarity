@@ -1,0 +1,3 @@
+"Augmented reality" is a technique to create a composite view by augmenting the real intervention field, visualized by the doctor, with additional information coming from a virtual volume generated using computed tomography (CT), magnetic resonance or ultrasound images previously acquired from the same patient. In the present study we verified the accuracy and validated the clinical use of an augmented reality navigation system produced to perform percutaneous CT-guided lung biopsies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23389366

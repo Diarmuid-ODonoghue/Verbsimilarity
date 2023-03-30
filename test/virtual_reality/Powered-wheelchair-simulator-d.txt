@@ -1,0 +1,3 @@
+Powered wheelchair (PW) training involving combined navigation and reaching is often limited or unfeasible. Virtual reality (VR) simulators offer a feasible alternative for rehabilitation training either at home or in a clinical setting. This study evaluated a low-cost magnetic-based hand motion controller as an interface for reaching tasks within the McGill Immersive Wheelchair (miWe) simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26786110

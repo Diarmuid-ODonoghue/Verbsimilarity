@@ -1,0 +1,3 @@
+Simulation allows interactive transthoracic echocardiography (TTE) learning using a virtual three-dimensional model of the heart and may aid in the acquisition of the cognitive and technical skills needed to perform TTE. The ability to link probe manipulation, cardiac anatomy, and echocardiographic images using a simulator has been shown to be an effective model for training anesthesiology residents in transesophageal echocardiography. A proposed alternative to real-time reality patient-based learning is simulation-based training that allows anesthesiologists to learn complex concepts and procedures, especially for specific structures such as aortic valve.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27397455

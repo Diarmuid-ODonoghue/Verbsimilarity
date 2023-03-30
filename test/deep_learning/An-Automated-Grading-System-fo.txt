@@ -1,0 +1,3 @@
+The goal of this study was to describe the development and validation of an artificial intelligence-based, deep learning algorithm (DLA) for the detection of referable diabetic retinopathy (DR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30275284

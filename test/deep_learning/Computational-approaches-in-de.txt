@@ -1,0 +1,3 @@
+The important role of non coding RNAs (ncRNAs) in the cell has made their identification a critical issue in the biological research. However, traditional approaches such as PT-PCR and Northern Blot are costly. With recent progress in bioinformatics and computational prediction technology, the discovery of ncRNAs has become realistically possible. This paper aims to introduce major computational approaches in the identification of ncRNAs, including homologous search, de novo prediction and mining in deep sequencing data. Furthermore, related software tools have been compared and reviewed along with a discussion on future improvements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24396270

@@ -1,0 +1,3 @@
+The emergence and development of robot assistant interventional vascular surgery technologies have benefited many patients with cardiovascular or cerebrovascular diseases. Due to the absence of effective training measures, these new advanced technologies have not been fully utilized and only few experienced surgeons can perform such complicated surgeries so far. In order to solve such problems, virtual reality based vascular interventional surgery training system, a promising way to train young surgeons or assist experienced surgeons to perform surgery, has been widely studied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27048290

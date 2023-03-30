@@ -1,0 +1,3 @@
+Automated Pap smear cervical screening is one of the most effective imaging based cancer detection<br /> tools used for categorizing cervical cell images as normal and abnormal. Traditional classification methods depend on<br /> hand-engineered features and show limitations in large, diverse datasets. Effective feature extraction requires an efficient<br /> image preprocessing and segmentation, which remains prominent challenge in the field of Pathology. In this paper, a<br /> deep learning concept is used for cell image classification in large datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31759371

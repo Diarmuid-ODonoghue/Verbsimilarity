@@ -1,0 +1,3 @@
+This study sought to develop a fully automated framework for cardiac function analysis from cardiac magnetic resonance (CMR), including comprehensive quality control (QC) algorithms to detect erroneous output.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31326477

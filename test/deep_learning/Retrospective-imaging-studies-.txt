@@ -1,0 +1,3 @@
+Peritoneal metastasis (PM) is a frequent condition in patients presenting with gastric cancer, especially in younger patients with advanced tumor stages. Computer tomography (CT) is the most common noninvasive modality for preoperative staging in gastric cancer. However, the challenges of limited CT soft tissue contrast result in poor CT depiction of small peritoneal tumors. The sensitivity for detecting PM remains low. About 16% of PM are undetected. Deep learning belongs to the category of artificial intelligence and has demonstrated amazing results in medical image analyses. So far, there has been no deep learning study based on CT images for the diagnosis of PM in gastric cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32080093

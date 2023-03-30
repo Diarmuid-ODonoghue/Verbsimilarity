@@ -1,0 +1,3 @@
+To quantitatively measure hyperreflective foci (HRF) during the progression of geographic atrophy (GA) secondary to age-related macular degeneration (AMD) using deep learning (DL) and investigate the association with local and global growth of GA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32277942

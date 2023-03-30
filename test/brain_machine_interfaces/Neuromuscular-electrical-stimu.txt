@@ -1,0 +1,3 @@
+Regardless of the paradigm used to implement a brain-computer interface (BCI), all systems suffer from BCI-inefficiency. In the case of patients the inefficiency can be high. Some solutions have been proposed to overcome this problem, however they have not been completely successful yet.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23642833

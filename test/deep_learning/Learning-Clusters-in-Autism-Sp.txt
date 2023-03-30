@@ -1,0 +1,3 @@
+Autism spectrum disorder (ASD) is a lifelong condition characterized by social and communication impairments. This study attempts to apply unsupervised Machine Learning to discover clusters in ASD. The key idea is to learn clusters based on the visual representation of eye-tracking scanpaths. The clustering model was trained using compressed representations learned by a deep autoencoder. Our experimental results demonstrate a promising tendency of clustering structure. Further, the clusters are explored to provide interesting insights into the characteristics of the gaze behavior involved in autism.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31946158

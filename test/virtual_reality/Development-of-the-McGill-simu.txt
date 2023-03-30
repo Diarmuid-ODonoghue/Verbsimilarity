@@ -1,0 +1,3 @@
+The technical challenges of endoscopic sinus surgery (ESS) and the high risk of complications support the development of alternative modalities to train residents in these procedures. Virtual reality simulation is becoming a useful tool for training the skills necessary for minimally invasive surgery; however, there are currently no ESS virtual reality simulators available with valid evidence supporting their use in resident education. Our aim was to develop a new rhinology simulator, as well as to define potential performance metrics for trainee assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25197920

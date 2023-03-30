@@ -1,0 +1,3 @@
+While MR-only treatment planning using synthetic CTs (synCTs) offers potential for streamlining clinical workflow, a need exists for an efficient and automated synCT generation in the brain to facilitate near real-time MR-only planning. This work describes a novel method for generating brain synCTs based on generative adversarial networks (GANs), a deep learning model that trains two competing networks simultaneously, and compares it to a deep convolutional neural network (CNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29901223

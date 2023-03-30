@@ -1,0 +1,3 @@
+To investigate the use of automated metrics from a virtual reality (VR) temporal bone surgery simulator to determine how the performance of experts and trainees differs when performing a complex otological procedure (mastoidectomy with posterior tympanotomy and cochleostomy).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28346293

@@ -1,0 +1,3 @@
+Antimicrobial resistance is a global health issue. Studies have shown that improved antibiotic prescription education among healthcare professionals reduces mistakes during the antibiotic prescription process. The aim of this study was to investigate novel educational approaches that through the use of Augmented Reality technology could make use of the real physical context and thereby enrich the educational process of antibiotics prescription. The objective is to investigate which type of information related to antibiotics could be used in an augmented reality application for antibiotics education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25548733

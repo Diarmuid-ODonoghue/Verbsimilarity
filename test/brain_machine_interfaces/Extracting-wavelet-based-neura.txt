@@ -1,0 +1,3 @@
+Understanding the long-term behavior of intracortically-recorded signals is essential for improving the performance of Brain Computer Interfaces. However, few studies have systematically investigated chronic neural recordings from an implanted microelectrode array in the human brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32232087

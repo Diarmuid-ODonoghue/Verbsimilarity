@@ -1,0 +1,3 @@
+We report an electro-optic image shifter to enhance the resolution of display devices with a Pancharatnam-Berry phase deflector (PBD). The switching time of our PBD is less than 1 ms. Through synchronizing and computational factorization, we are able to double the display resolution for reducing the screen door effect. Such a thin and lightweight PBD image shifter can be easily integrated into wearable display devices. Its potential application for virtual reality and augmented reality is emphasized.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29140355

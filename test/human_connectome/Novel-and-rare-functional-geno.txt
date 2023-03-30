@@ -1,0 +1,3 @@
+Multiple autoimmune syndrome (MAS), an extreme phenotype of autoimmune disorders, is a very well suited trait to tackle genomic variants of these conditions. Whole exome sequencing (WES) is a widely used strategy for detection of protein coding and splicing variants associated with inherited diseases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26031516

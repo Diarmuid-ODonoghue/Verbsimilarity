@@ -1,0 +1,3 @@
+Tandem mass spectrometry allows biologists to identify and quantify protein samples in the form of digested peptide sequences. When performing peptide identification, spectral library search is more sensitive than traditional database search but is limited to peptides that have been previously identified. An accurate tandem mass spectrum prediction tool is thus crucial in expanding the peptide space and increasing the coverage of spectral library search.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31874640

@@ -1,0 +1,3 @@
+Neurotechnology can contribute to the usability assessment of products by providing objective measures of neural workload and can uncover usability impediments that are not consciously perceived by test persons. In this study, the neural processing effort imposed on the viewer of 3D television by shutter glasses was quantified as a function of shutter frequency. In particular, we sought to determine the critical shutter frequency at which the 'neural flicker' vanishes, such that visual fatigue due to this additional neural effort can be prevented by increasing the frequency of the system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26644071

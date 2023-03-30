@@ -1,0 +1,3 @@
+Subthalamic nucleus deep brain stimulation (STN-DBS) in Parkinson's disease (PD) not only stimulates focal target structures but also affects distributed brain networks. The impact this network modulation has on non-motor DBS effects is not well-characterized. By focusing on the affective domain, we systematically investigate the impact of electrode placement and associated structural connectivity on changes in depressive symptoms following STN-DBS, which have been reported to improve, worsen, or remain unchanged.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32239535

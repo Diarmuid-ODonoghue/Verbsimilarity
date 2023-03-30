@@ -1,0 +1,3 @@
+We report the synthesis of ultrafine S nanoparticles with diameter 10 ~ 20 nm via a membrane-assisted precipitation technique. The S nanoparticles were then coated with conducting poly (3,4-ethylenedioxythiophene) (PEDOT) to form S/PEDOT core/shell nanoparticles. The ultrasmall size of S nanoparticles facilitates the electrical conduction and improves sulfur utilization. The encapsulation of conducting PEDOT shell restricts the polysulfides diffusion, alleviates self-discharging and the shuttle effect, and thus enhances the cycling stability. The resulting S/PEDOT core/shell nanoparticles show initial discharge capacity of 1117 mAh g(-1) and a stable capacity of 930 mAh g(-1) after 50 cycles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23714786

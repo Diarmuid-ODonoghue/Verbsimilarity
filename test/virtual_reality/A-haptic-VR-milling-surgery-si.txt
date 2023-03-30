@@ -1,0 +1,3 @@
+A haptic virtual reality milling simulator using high resolution volumetric data is presented in this paper. We discuss the graphical rendering performed from an iso-surface generated using marching cubes with a hierarchical storage method to optimize for fast dynamic changes to the data during the milling process. We also present a stable proxy-based haptic algorithm used to maintain a tip position on the surface avoiding haptic fall-through.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16404033

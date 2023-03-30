@@ -1,0 +1,3 @@
+In-hospital cardiac arrest is a major burden to public health, which affects patient safety. Although traditional track-and-trigger systems are used to predict cardiac arrest early, they have limitations, with low sensitivity and high false-alarm rates. We propose a deep learning-based early warning system that shows higher performance than the existing track-and-trigger systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29945914

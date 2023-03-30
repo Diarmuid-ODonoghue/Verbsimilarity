@@ -1,0 +1,3 @@
+The goal of the Developing Human Connectome Project is to acquire MRI in 1000 neonates to create a dynamic map of human brain connectivity during early development. High-quality imaging in this cohort without sedation presents a number of technical and practical challenges.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27643791

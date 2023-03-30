@@ -1,0 +1,3 @@
+One major challenge of social interaction research is to achieve high experimental control over social interactions to allow for rigorous scientific reasoning. Virtual reality (VR) promises this level of control. Pan and Hamilton guide us with a detailed review on existing and future possibilities and challenges of using VR for social interaction research. Here, we extend the discussion to methodological and practical implications when using VR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29748966

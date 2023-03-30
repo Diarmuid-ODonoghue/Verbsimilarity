@@ -1,0 +1,3 @@
+To develop deep learning (DL) models for the automatic detection of optical coherence tomography (OCT) measures of diabetic macular thickening (MT) from color fundus photographs (CFPs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30821810

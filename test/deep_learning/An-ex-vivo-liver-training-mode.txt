@@ -1,0 +1,3 @@
+Suture skills are essential to laparoscopic liver resection. The current suture training models are not ideal enough. The aim of this study is to develop and verify a highly simulated-bleeding continuously perfused training model (CPTM) and to evaluate its training efficacy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26873748

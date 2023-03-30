@@ -1,0 +1,3 @@
+Several MRI studies have demonstrated hippocampal atrophy in Parkinson's disease (PD), a structure considered a key element in spatial learning. Despite this, no study has been undertaken to investigate spatial navigation in PD using a virtual version of the Morris water maze, which is the gold standard for testing hippocampal function in rodents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28027851

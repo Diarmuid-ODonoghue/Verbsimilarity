@@ -1,0 +1,3 @@
+We examine the potential for immersive unit visualizations-interactive virtual environments populated with objects representing individual items in a dataset. Our virtual reality prototype highlights how immersive unit visualizations can allow viewers to examine data at multiple scales, support immersive exploration, and create affective personal experiences with data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30762534

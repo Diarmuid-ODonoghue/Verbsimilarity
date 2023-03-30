@@ -1,0 +1,3 @@
+In context of head-and-neck radiotherapy, this study aims to compare MR image quality according to diagnostic (DIAG) and radiotherapy (RT) setups; and to optimise an MRI-protocol (including 3D T1 and T2-weighted sequences) for dose-planning (based on pseudo-CT generation).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32179006

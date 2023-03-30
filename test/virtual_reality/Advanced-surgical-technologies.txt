@@ -1,0 +1,3 @@
+Virtual reality creates a simulated world in which the surgeon can practice and plan complex surgical procedures. This simulated world can be especially valuable in head and neck surgery, including congenital craniofacial surgery, facial trauma, and resection and reconstruction of head and neck tumors, whereby the complexity of the anatomy and the difficulty of the problems test the surgeon's abilities. The author presents a brief history of simulations and surgery, a background to plastic surgery simulators, and discuss the problem of limited human body models in past systems. Computer-aided surgery and virtual reality technologies are also reviewed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9518443

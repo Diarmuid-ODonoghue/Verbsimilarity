@@ -1,0 +1,3 @@
+The purpose of this work was to assess the feasibility of acquisition time reduction in MPI-SPECT imaging using deep leering techniques through two main approaches, namely reduction of the acquisition time per projection and reduction of the number of angular projections.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32347527

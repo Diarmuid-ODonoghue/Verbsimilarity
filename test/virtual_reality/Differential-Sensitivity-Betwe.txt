@@ -1,0 +1,3 @@
+Balance assessments are part of the recommended clinical concussion evaluation, along with computerized neuropsychological testing and self-reported symptoms checklists. New technology has allowed for the creation of virtual reality (VR) balance assessments to be used in concussion care, but there is little information on the sensitivity and specificity of these evaluations. The purpose of this study is to establish the sensitivity and specificity of a VR balance module for detecting lingering balance deficits clinical concussion care.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26505696

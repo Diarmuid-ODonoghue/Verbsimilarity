@@ -1,0 +1,3 @@
+To investigate the use and efficiency of 3-D deep learning, fully convolutional networks (DFCN) for simultaneous tumor cosegmentation on dual-modality nonsmall cell lung cancer (NSCLC) and positron emission tomography (PET)-computed tomography (CT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30537103

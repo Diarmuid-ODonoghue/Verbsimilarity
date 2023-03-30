@@ -1,0 +1,3 @@
+Disease caused by SARS-CoV-2 broke out in Wuhan in December 2019. We utilized confirmed cases outside Hubei Province to analyze epidemiologic characteristics and evaluate the effect of traffic restrictions implemented in Hubei beginning on January 23, 2020.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32339231

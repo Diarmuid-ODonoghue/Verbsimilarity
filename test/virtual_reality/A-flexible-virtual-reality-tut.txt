@@ -1,0 +1,3 @@
+Through definition of a comprehensive tutorial model, the Warwick, Imperial and Sheffield Haptic Knee Arthroscopy Training System (WISHKATS) aims to provide independent, flexible and consistent training and assessment. The intention is to satisfy user acceptance by limiting the constraints by which the system can be utilised, as well as demonstrating validity and reliability. System use can either be under the guidance and feedback offered by the system or of a senior surgeon. Objective metrics are defined for performance feedback and formal assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15544280

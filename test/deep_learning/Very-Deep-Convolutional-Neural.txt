@@ -1,0 +1,3 @@
+Morphologic profiling of the erythrocyte population is a widely used and clinically valuable diagnostic modality, but one that relies on a slow manual process associated with significant labor cost and limited reproducibility. Automated profiling of erythrocytes from digital images by capable machine learning approaches would augment the throughput and value of morphologic analysis. To this end, we sought to evaluate the performance of leading implementation strategies for convolutional neural networks (CNNs) when applied to classification of erythrocytes based on morphology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28877918

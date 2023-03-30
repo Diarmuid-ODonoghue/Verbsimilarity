@@ -1,0 +1,3 @@
+The emergence of new technologies in the obstetrical field should lead to the development of learning applications, specifically for obstetrical emergencies. Many childbirth simulations have been recently developed. However, to date none of them have been integrated into a serious game.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28003175

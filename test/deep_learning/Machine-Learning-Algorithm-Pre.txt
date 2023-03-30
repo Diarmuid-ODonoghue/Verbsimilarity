@@ -1,0 +1,3 @@
+Cardiac resynchronization therapy (CRT) reduces morbidity and mortality in heart failure patients with reduced left ventricular function and intraventricular conduction delay. However, individual outcomes vary significantly. This study sought to use a machine learning algorithm to develop a model to predict outcomes after CRT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29326129

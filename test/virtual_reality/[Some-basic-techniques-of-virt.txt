@@ -1,0 +1,3 @@
+Some know-how techniques of virtual reality rehabilitation vehicles are discussed in this paper after a brief introduction of the application background and the structure and functions of the vehicles. This kind of vehicles can be used for psychological treatment during rehabilitation. Pateints can select different modes of physical exercises according to their individual situations, and therefore they can get rehabilitation much faster and more easily than those under the traditional treatments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12552722

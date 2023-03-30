@@ -1,0 +1,3 @@
+Chronic obstructive pulmonary disease (COPD) is associated with high morbidity and mortality. Identification of imaging biomarkers for phenotyping is necessary for future treatment and therapy monitoring. However, translation of visual analytic pipelines into clinics or their use in large-scale studies is significantly slowed by time-consuming postprocessing steps.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31276264

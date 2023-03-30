@@ -1,0 +1,3 @@
+Much of our learning comes from interacting with objects. Two experiments investigated whether or not arbitrary actions used during category learning with objects might be incorporated into object representations and influence later recognition judgments. In a virtual-reality chamber, participants used distinct arm movements to make different classification responses. During a recognition test phase, these same objects required arm movements that were consistent or inconsistent with the classification movement. In both experiments, consistent movements were facilitated relative to inconsistent movements, suggesting that arbitrary action information is incorporated into the representations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17874596

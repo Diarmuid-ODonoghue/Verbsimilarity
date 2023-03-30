@@ -1,0 +1,3 @@
+Quantitative synthetic magnetic resonance imaging (MRI) enables synthesis of various contrast-weighted images as well as simultaneous quantification of T1 and T2 relaxation times and proton density. However, to date, it has been challenging to generate magnetic resonance angiography (MRA) images with synthetic MRI. The purpose of this study was to develop a deep learning algorithm to generate MRA images based on 3D synthetic MRI raw data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31977603

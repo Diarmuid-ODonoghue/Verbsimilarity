@@ -1,0 +1,3 @@
+A two-dimensional resistivity mapping method is presented as an analysis tool for thin films. The spatial distribution of resistivity in the interior of the film is reconstructed with the data measured on its periphery. A square window with four electrodes on each side is fabricated as the test vehicle. While the current is applied to one electrode, the potentials on the other electrodes are monitored and an iterative method generates the resistivity map. The technique is demonstrated by measurements on a homogeneous organic PEDOT:PSS film and an inhomogeneous ZnO nanoparticle coating.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21895295

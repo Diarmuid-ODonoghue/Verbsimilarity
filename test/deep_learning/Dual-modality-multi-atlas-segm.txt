@@ -1,0 +1,3 @@
+Automated segmentation of torso organs from positron emission tomography/computed tomography (PET/CT) images is a prerequisite step for nuclear medicine image analysis. However, accurate organ segmentation from clinical PET/CT is challenging due to the poor soft tissue contrast in the low-dose CT image and the low spatial resolution of the PET image. To overcome these challenges, we developed a multi-atlas segmentation (MAS) framework for torso organ segmentation from 2-deoxy-2-[18F]fluoro-D-glucose PET/CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30390179

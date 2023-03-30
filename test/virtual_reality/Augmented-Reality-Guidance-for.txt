@@ -1,0 +1,3 @@
+Modern chemotherapy achieves the shrinking of colorectal cancer liver metastases (CRLM) to such extent that they may disappear from radiological imaging. Disappearing CRLM rarely represents a complete pathological remission and have an important risk of recurrence. Augmented reality (AR) consists in the fusion of real-time patient images with a computer-generated 3D virtual patient model created from pre-operative medical imaging. The aim of this prospective pilot study is to investigate the potential of AR navigation as a tool to help locate and surgically resect missing CRLM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26316112

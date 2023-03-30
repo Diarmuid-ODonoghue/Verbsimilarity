@@ -1,0 +1,3 @@
+The purpose of this study was to establish the feasibility of manipulating a prosthetic knee directly by using a brain-computer interface (BCI) system in a transfemoral amputee. Although the other forms of control could be more reliable and quick (e.g., electromyography control), the electroencephalography (EEG)-based BCI may provide amputees an alternative way to control a prosthesis directly from brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29326653

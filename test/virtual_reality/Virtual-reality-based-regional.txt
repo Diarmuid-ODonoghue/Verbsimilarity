@@ -1,0 +1,3 @@
+In this paper, we present a simulator for regional anaesthesia for nerve blocks in the axillary plexus region. We use a novel approach based on electric distance to simulate electronic impulse transmission through soft tissue. The traversal of electrons emitted from the needle tip is calculated by modified pathfinding algorithms. Kinematic algorithms visualize the motor response of the forearm by skeletal animation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377191

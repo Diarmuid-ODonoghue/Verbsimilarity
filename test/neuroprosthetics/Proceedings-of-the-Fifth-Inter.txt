@@ -1,0 +1,3 @@
+The Fifth International Workshop on Advances in Electrocorticography convened in San Diego, CA, on November 7-8, 2013. Advancements in methodology, implementation, and commercialization across both research and in the interval year since the last workshop were the focus of the gathering. Electrocorticography (ECoG) is now firmly established as a preferred signal source for advanced research in functional, cognitive, and neuroprosthetic domains. Published output in ECoG fields has increased tenfold in the past decade. These proceedings attempt to summarize the state of the art.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25461213

@@ -1,0 +1,3 @@
+Root-zone environment is considered difficult to analyze, particularly in interpreting interactions between environment and plant. Closed-loop soilless cultures have been introduced to prevent environmental pollution, but difficulties in managing nutrients can cause nutrient imbalances with an adverse effect on crop growth. Recently, deep learning has been used to draw meaningful results from nonlinear data and long short-term memory (LSTM) is showing state-of-the-art results in analyzing time-series data. Therefore the macronutrient ion concentrations affected by accumulated environment conditions can be analyzed using LSTM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31160918

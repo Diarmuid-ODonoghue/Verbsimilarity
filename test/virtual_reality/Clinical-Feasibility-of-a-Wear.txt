@@ -1,0 +1,3 @@
+Neuronavigation systems are routinely used during neurosurgical procedures. Currently, new imaging technologies are emerging, such as virtual, augmented, and mixed reality. With mixed-reality devices, the user can analyze and interact with the real environment using virtual objects. The aim of this prospective pilot study was to offer a proof of concept by testing the clinical feasibility and accuracy of a wearable mixed-reality device (Hololens) for preoperative neurosurgical planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30257298

@@ -1,0 +1,3 @@
+With the reduction of gene sequencing cost and demand for emerging technologies such as precision medical treatment and deep learning in genome, it is an era of gene data outbreaks today. How to store, transmit and analyze these data has become a hotspot in the current research. Now the compression algorithm based on reference is widely used due to its high compression ratio. There exists a big problem that the data from different gene banks can't merge directly and share information efficiently, because these data are usually compressed with different references. The traditional workflow is decompression-and-recompression, which is too simple and time-consuming. We should improve it and speed it up.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29914357

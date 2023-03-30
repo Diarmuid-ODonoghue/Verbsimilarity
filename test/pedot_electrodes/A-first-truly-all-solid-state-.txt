@@ -1,0 +1,3 @@
+Using polymeric ionic liquids and PEDOT as ion conducting separators and electrodes, respectively, an all-polymer-based organic electrochromic device (ECD) has been constructed. The advantages of such an ECD are: fast switching time (3 s), high coloration efficiency (390 cm(2) C(-1) at 620 nm), optical contrast up to ΔT = 22% and the possibility of working under vacuum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24518924

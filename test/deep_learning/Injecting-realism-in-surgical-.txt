@@ -1,0 +1,3 @@
+The traditionally accepted form of training is direct supervision by an expert; however, modern trends in medicine have made this progressively more difficult to achieve. A 3-dimensional printer makes it possible to convert patients imaging data into accurate models, thus allowing the possibility to reproduce models with pathology. This enables a large number of trainees to be trained simultaneously using realistic models simulating actual neurosurgical procedures. The aim of this study was to assess the usefulness of these models in training surgeons to perform standard procedures that require complex techniques and equipment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24602709

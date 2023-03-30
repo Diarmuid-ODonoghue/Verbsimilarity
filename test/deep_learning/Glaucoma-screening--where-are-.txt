@@ -1,0 +1,3 @@
+Current recommendations for glaucoma screening are decidedly neutral. No studies have yet documented improved long-term outcomes for individuals who undergo glaucoma screening versus those who do not. Given the long duration that would be required to detect a benefit, future studies that may answer this question definitively are unlikely. Nevertheless, advances in artificial intelligence and telemedicine will lead to more effective screening at lower cost. With these new technologies, additional research is needed to determine the costs and benefits of screening for glaucoma.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31904596

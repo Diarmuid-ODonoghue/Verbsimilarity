@@ -1,0 +1,3 @@
+Multimodal, immersive, virtual reality (VR) techniques open new perspectives for perceptual-motor skill trainers. They also introduce new risks and dangers. This paper describes the benefits and pitfalls of multimodal training and the cognitive building blocks of a multimodal, VR training simulators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22317055

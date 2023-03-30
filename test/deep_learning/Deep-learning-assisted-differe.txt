@@ -1,0 +1,3 @@
+To evaluate whether a three-phase dynamic contrast-enhanced CT protocol, when combined with a deep learning model, has similar accuracy in differentiating hepatocellular carcinoma (HCC) from other focal liver lesions (FLLs) compared with a four-phase protocol.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32232524

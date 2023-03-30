@@ -1,0 +1,3 @@
+Patient-specific virtual reality (VR) simulation is a technologic advancement that allows planning and practice of the carotid artery stenting (CAS) procedure before it is performed on the patient. The initial findings are reported, using this novel VR technique as a tool to optimize technical and nontechnical aspects of this complex endovascular procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20974522

@@ -1,0 +1,3 @@
+The integration of electroencephalogram (EEG) sensors into virtual reality (VR) headsets can provide the capability of tracking the user's cognitive state and eventually be used to increase the sense of immersion. Recent developments in wireless, room-scale VR tracking allow users to move freely in the physical and virtual spaces. Such motion can create significant movement artifacts in EEG sensors mounted to the VR headset. This study explores the removal of EEG movement artifacts caused by repetitive, stereotyped movements during an interactive VR task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31946883

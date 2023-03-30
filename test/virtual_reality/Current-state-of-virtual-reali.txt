@@ -1,0 +1,3 @@
+Worldwide, the annual number of robotic surgical procedures continues to increase. Robotic surgical skills are unique from those used in either open or laparoscopic surgery. The acquisition of a basic robotic surgical skill set may be best accomplished in the simulation laboratory. We sought to review the current literature pertaining to the use of virtual reality (VR) simulation in the acquisition of robotic surgical skills on the da Vinci Surgical System.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26304107

@@ -1,0 +1,3 @@
+The aim of this paper is to investigate the use of fully convolutional neural networks (FCNNs) to segment scar tissue in the left ventricle from cardiac magnetic resonance with late gadolinium enhancement (CMR-LGE) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30460430

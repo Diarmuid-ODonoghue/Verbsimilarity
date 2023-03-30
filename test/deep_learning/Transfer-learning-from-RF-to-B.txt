@@ -1,0 +1,3 @@
+We present a method for prostate cancer (PCa) detection using temporal enhanced ultrasound (TeUS) data obtained either from radiofrequency (RF) ultrasound signals or B-mode images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28349507

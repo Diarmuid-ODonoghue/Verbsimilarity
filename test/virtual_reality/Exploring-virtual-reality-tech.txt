@@ -1,0 +1,3 @@
+Digital slides obtained from whole slide imaging (WSI) platforms are typically viewed in two dimensions using desktop personal computer monitors or more recently on mobile devices. To the best of our knowledge, we are not aware of any studies viewing digital pathology slides in a virtual reality (VR) environment. VR technology enables users to be artificially immersed in and interact with a computer-simulated world. Oculus Rift is among the world's first consumer-targeted VR headsets, intended primarily for enhanced gaming. Our aim was to explore the use of the Oculus Rift for examining digital pathology slides in a VR environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27217972

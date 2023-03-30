@@ -1,0 +1,3 @@
+Automated surveillance for cardiac arrests would be useful in overcrowded emergency departments. The purpose of this study is to develop and test artificial neural network (ANN) classifiers for early detection of patients at risk of cardiac arrest in emergency departments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30982559

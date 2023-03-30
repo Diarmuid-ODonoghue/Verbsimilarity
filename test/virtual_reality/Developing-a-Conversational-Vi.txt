@@ -1,0 +1,3 @@
+Although traditional virtual patient simulations are designed to teach and assess clinical reasoning skills, few employ conversational dialogue with the patients. The virtual standardized patients (VSPs) described herein represent standardized patients that students interview using natural language. Students take histories and develop differential diagnoses of the VSPs as much as they would with standardized or actual patients. The student-VSP interactions are recorded, creating a comprehensive record of questions and the order in which they were asked, which can be analyzed to assess information-gathering skills. Students document the encounter in an electronic medical record created for the VSPs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28704290

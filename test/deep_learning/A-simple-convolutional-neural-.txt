@@ -1,0 +1,3 @@
+Enhancer-promoter interactions (EPIs) in the genome play an important role in transcriptional regulation. EPIs can be useful in boosting statistical power and enhancing mechanistic interpretation for disease- or trait-associated genetic variants in genome-wide association studies. Instead of expensive and time-consuming biological experiments, computational prediction of EPIs with DNA sequence and other genomic data is a fast and viable alternative. In particular, deep learning and other machine learning methods have been demonstrated with promising performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30649185

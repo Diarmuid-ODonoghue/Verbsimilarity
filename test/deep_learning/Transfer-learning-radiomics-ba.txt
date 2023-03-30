@@ -1,0 +1,3 @@
+To propose a transfer learning (TL) radiomics model that efficiently combines the information from gray scale and elastogram ultrasound images for accurate liver fibrosis grading.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31965257

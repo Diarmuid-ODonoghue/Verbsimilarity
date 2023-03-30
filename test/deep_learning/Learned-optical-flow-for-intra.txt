@@ -1,0 +1,3 @@
+Sustained delivery of regenerative retinal therapies by robotic systems requires intra-operative tracking of the retinal fundus. We propose a supervised deep convolutional neural network to densely predict semantic segmentation and optical flow of the retina as mutually supportive tasks, implicitly inpainting retinal flow information missing due to occlusion by surgical tools.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32323210

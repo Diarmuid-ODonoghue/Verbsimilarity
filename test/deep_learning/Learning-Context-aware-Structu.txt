@@ -1,0 +1,3 @@
+Understanding how antibodies specifically interact with their antigens can enable better drug and vaccine design, as well as provide insights into natural immunity. Experimental structural characterization can detail the "ground truth" of antibody-antigen interactions, but computational methods are required to efficiently scale to large-scale studies. In order to increase prediction accuracy as well as to provide a means to gain new biological insights into these interactions, we have developed a unified deep learning-based framework to predict binding interfaces on both antibodies and antigens.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32321157

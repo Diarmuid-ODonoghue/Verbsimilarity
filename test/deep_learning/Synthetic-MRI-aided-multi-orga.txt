@@ -1,0 +1,3 @@
+Manual contouring is labor intensive, and subject to variations in operator knowledge, experience and technique. This work aims to develop an automated computed tomography (CT) multi-organ segmentation method for prostate cancer treatment planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31630868

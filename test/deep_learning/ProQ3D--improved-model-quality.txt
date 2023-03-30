@@ -1,0 +1,3 @@
+Protein quality assessment is a long-standing problem in bioinformatics. For more than a decade we have developed state-of-art predictors by carefully selecting and optimising inputs to a machine learning method. The correlation has increased from 0.60 in ProQ to 0.81 in ProQ2 and 0.85 in ProQ3 mainly by adding a large set of carefully tuned descriptions of a protein. Here, we show that a substantial improvement can be obtained using exactly the same inputs as in ProQ2 or ProQ3 but replacing the support vector machine by a deep neural network. This improves the Pearson correlation to 0.90 (0.85 using ProQ2 input features).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28052925

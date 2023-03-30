@@ -1,0 +1,3 @@
+Closed-loop electrical brain stimulation systems may enable a precisely-tailored treatment for neurological and neuropsychiatric disorders by controlling the stimulation based on neural activity feedback in real time. Developing model-based closed-loop systems requires a principled system identification framework to quantify the effect of input stimulation on output neural activity by learning an input-output (IO) dynamic model from data. Further, developing these systems needs a realistic clinical simulation testbed to design and validate the closed-loop controllers derived from the IO models before testing in human patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30221624

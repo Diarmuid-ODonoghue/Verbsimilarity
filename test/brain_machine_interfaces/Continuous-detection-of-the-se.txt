@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) as a rehabilitation tool have been used to restore functions in patients with motor impairments by actively involving the central nervous system and triggering prosthetic devices according to the detected pre-movement state. However, since EEG signals are highly variable between subjects and recording sessions, typically a BCI is calibrated at the beginning of each session. This process is inconvenient especially for patients suffering locomotor disabilities in maintaining a bipedal position for a longer time. This paper presents a continuous EEG decoder of a pre-movement state in self-initiated walking and the usage of this decoder from session to session without recalibrating.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25915773

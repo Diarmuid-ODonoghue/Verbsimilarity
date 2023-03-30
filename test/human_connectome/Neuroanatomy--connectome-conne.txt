@@ -1,0 +1,3 @@
+A recent study shows that brain connectivity in Drosophila melanogaster follows a small-world, modular and rich-club organisation that facilitates information processing. This organisation shows a striking similarity with the mammalian brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25989081

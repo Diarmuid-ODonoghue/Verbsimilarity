@@ -1,0 +1,3 @@
+Remdesivir, a nucleotide analogue prodrug that inhibits viral RNA polymerases, has shown in vitro activity against SARS-CoV-2.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32275812

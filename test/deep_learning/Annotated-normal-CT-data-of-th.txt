@@ -1,0 +1,3 @@
+The purpose of this study was to report procedures developed to annotate abdominal computed tomography (CT) images from subjects without pancreatic disease that will be used as the input for deep convolutional neural networks (DNN) for development of deep learning algorithms for automatic recognition of a normal pancreas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31358460

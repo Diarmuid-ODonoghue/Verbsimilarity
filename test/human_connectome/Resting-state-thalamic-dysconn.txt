@@ -1,0 +1,3 @@
+Schizophrenia (SZ) is a severe neuropsychiatric disorder associated with disrupted connectivity within the thalamic-cortico-cerebellar network. Resting-state functional connectivity studies have reported thalamic hypoconnectivity with the cerebellum and prefrontal cortex as well as thalamic hyperconnectivity with sensory cortical regions in SZ patients compared with healthy comparison participants (HCs). However, fundamental questions remain regarding the clinical significance of these connectivity abnormalities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29444726

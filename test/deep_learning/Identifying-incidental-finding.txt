@@ -1,0 +1,3 @@
+Radiologic imaging of trauma patients often uncovers findings that are unrelated to the trauma. These are termed as incidental findings and identifying them in radiology examination reports is necessary for appropriate follow-up. We developed and evaluated an automated pipeline to identify incidental findings at sentence and section levels in radiology reports of trauma patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31445293

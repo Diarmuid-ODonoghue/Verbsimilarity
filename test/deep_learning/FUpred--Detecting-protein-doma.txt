@@ -1,0 +1,3 @@
+Protein domains are subunits that can fold and function independently. Correct domain boundary assignment is thus a critical step towards accurate protein structure and function analyses. There is, however, no efficient algorithm available for accurate domain prediction from sequence. The problem is particularly challenging for proteins with discontinuous domains, which consist of domain segments that are separated along the sequence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32227201

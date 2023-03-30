@@ -1,0 +1,3 @@
+Pathologic prediction of prostate cancer can be made by predicting the patient's prostate metastasis prior to surgery based on biopsy information. Because biopsy variables associated with pathology have uncertainty regarding individual patient differences, a method for classification according to these variables is needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29755715

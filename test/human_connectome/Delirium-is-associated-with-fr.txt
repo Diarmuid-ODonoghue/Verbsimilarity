@@ -1,0 +1,3 @@
+Pathophysiological concepts in delirium are not sufficient to define objective biomarkers suited to improve clinical approaches. Advances in neuroimaging have revalued electroencephalography (EEG) as a tool to assess oscillatory network activity in neuropsychiatric disease. Yet, research in the field is limited to small populations and largely confined to postoperative delirium, which impedes generalizability of findings and planning of prospective studies in other populations. This study aimed to assess effect sizes of connectivity measures in a large mixed population to demonstrate that there are measurable EEG differences between delirium and control patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30631448

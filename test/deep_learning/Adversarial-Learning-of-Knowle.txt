@@ -1,0 +1,3 @@
+Incorporating the knowledge encoded in the Unified Medical Language System (UMLS) in deep learning methods requires learning knowledge embeddings from the knowledge graphs available in UMLS: the Metathesaurus and the Semantic Network. In this paper we present a technique using Generative Adversarial Networks (GANs) for learning UMLS embeddings and showcase their usage in a clinical prediction model. When the UMLS embeddings are available, the predictions improve by up to 6.9% absolute F1 score.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31259009

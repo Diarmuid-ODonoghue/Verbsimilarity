@@ -1,0 +1,3 @@
+Although most deep learning (DL) studies have reported excellent classification accuracy, these studies usually target typical Alzheimer's disease (AD) and normal cognition (NC) for which conventional visual assessment performs well. A clinically relevant issue is the selection of high-risk subjects who need active surveillance among equivocal cases. We validated the clinical feasibility of DL compared with visual rating or quantitative measurement for assessing the diagnosis and prognosis of subjects with equivocal amyloid scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31811343

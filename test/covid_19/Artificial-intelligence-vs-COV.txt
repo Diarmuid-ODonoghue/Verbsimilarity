@@ -1,0 +1,3 @@
+This paper provides an early evaluation of Artificial Intelligence (AI) against COVID-19. The main areas where AI can contribute to the fight against COVID-19 are discussed. It is concluded that AI has not yet been impactful against COVID-19. Its use is hampered by a lack of data, and by too much data. Overcoming these constraints will require a careful balance between data privacy and public health, and rigorous human-AI interaction. It is unlikely that these will be addressed in time to be of much help during the present pandemic. In the meantime, extensive gathering of diagnostic data on who is infectious will be essential to save lives, train AI, and limit economic damages.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32346223

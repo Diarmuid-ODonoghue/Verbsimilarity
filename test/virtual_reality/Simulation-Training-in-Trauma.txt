@@ -1,0 +1,3 @@
+Trauma care is the classic high-acuity event for which simulation training has the potential to greatly improve outcomes. While not a new concept, the variability and availability of training modalities in trauma continues to rapidly multiply. Spanning the continuum of fidelity, simulation extends from simple trauma scenario discussion, to advanced virtual reality experiences. The choice of simulation is largely dependent upon the desired outcome, which is broadly divided into either task-oriented or non-technical skill acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30385994

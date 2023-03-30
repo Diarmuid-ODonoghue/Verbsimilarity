@@ -1,0 +1,3 @@
+Patients with amyotrophic lateral sclerosis (ALS) may benefit from brain-computer interfaces (BCI), but the utility of such devices likely will have to account for the functional, cognitive, and behavioral heterogeneity of this neurodegenerative disorder.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26824590

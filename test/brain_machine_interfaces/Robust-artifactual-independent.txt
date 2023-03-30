@@ -1,0 +1,3 @@
+EEG artifacts of non-neural origin can be separated from neural signals by independent component analysis (ICA). It is unclear (1) how robustly recently proposed artifact classifiers transfer to novel users, novel paradigms or changed electrode setups, and (2) how artifact cleaning by a machine learning classifier impacts the performance of brain-computer interfaces (BCIs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24836294

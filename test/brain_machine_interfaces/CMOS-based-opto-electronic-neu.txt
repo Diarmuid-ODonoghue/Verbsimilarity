@@ -1,0 +1,3 @@
+CMOS-based opto-electronic neural interface devices are presented. The devices are designed with target application of in vitro and in vivo optogenetics. Two types of the opto-electronic neural interface devices are presented. One is single-chip type device for on-chip optogenetics, and the other is multi-chip type device with flexibility and wide-area coverage for in vivo optogenetics on brain. Design, packaging and functional evaluations are presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28269694

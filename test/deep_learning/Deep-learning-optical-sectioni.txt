@@ -1,0 +1,3 @@
+Current optical-sectioning methods require complex optical system or considerable computation time to improve imaging quality. Here we propose a deep learning-based method for optical sectioning of wide-field images. This method only needs one pair of contrast images for training to facilitate reconstruction of an optically sectioned image. The removal effect of background information and resolution that is achievable with our technique is similar to traditional optical-sectioning methods, but offers lower noise levels and a higher imaging depth. Moreover, reconstruction speed can be optimized to 14 Hz. This cost-effective and convenient method enables high-throughput optical sectioning techniques to be developed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30469968

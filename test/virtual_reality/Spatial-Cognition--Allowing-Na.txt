@@ -1,0 +1,3 @@
+Understanding the computational basis of spatial cognition requires observations of natural behaviour and the underlying neural circuits, which are difficult to do simultaneously: however, recent studies show how we might achieve this, combining rich virtual reality set-ups and the use of optogenetics in freely moving animals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31287984

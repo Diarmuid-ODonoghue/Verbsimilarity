@@ -1,0 +1,3 @@
+Our aim was to investigate if the accuracy of diagnosing mild cognitive impairment (MCI) using the Mini-Mental State Examination (MMSE) and logical memory (LM) test could be enhanced by adding MRI data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30480079

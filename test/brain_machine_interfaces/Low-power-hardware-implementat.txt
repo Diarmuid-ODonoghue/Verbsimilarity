@@ -1,0 +1,3 @@
+This paper describes a low-power hardware implementation for movement decoding of brain computer interface. Our proposed hardware design is facilitated by two novel ideas: (i) an efficient feature extraction method based on reduced-resolution discrete cosine transform (DCT), and (ii) a new hardware architecture of dual look-up table to perform discrete cosine transform without explicit multiplication. The proposed hardware implementation has been validated for movement decoding of electrocorticography (ECoG) signal by using a Xilinx FPGA Zynq-7000 board. It achieves more than 56× energy reduction over a reference design using band-pass filters for feature extraction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570284

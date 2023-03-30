@@ -1,0 +1,3 @@
+Virtual screening is used to distinguish potential leads from inactive compounds in a database of chemical samples. One method for accomplishing this is by docking compounds into the structure of a receptor binding site in order to rank-order compounds by the quality of the interactions they form with the receptor. It is generally established that docking can be reasonably successful at generating good poses of a ligand in an active site. However, the scoring functions that are used with docking are typically not successful at correctly ranking ligands according to binding affinity or even distinguishing correct poses of a given ligand from incorrect ones.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20298524

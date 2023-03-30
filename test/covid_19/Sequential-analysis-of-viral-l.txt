@@ -1,0 +1,3 @@
+We report changes in viral load over time in a 27-day old neonate with COVID-19 who presented with fever, cough, and vomiting. SARS-CoV-2 RNA was detected in the nasopharynx, oropharynx, stool, saliva, plasma, and urine. The highest viral RNA copies in nasopharynx decreased over time while viral load in stool remained high.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32297925

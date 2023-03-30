@@ -1,0 +1,3 @@
+To evaluate the consistency and objectivity of deep neural networks in embryo scoring and making disposition decisions for biopsy and cryopreservation in comparison to grading by highly trained embryologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32228880

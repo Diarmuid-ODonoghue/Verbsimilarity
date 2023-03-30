@@ -1,0 +1,3 @@
+Visually disabled people increasingly use computers in everyday life, thanks to novel assistive technologies better tailored to their cognitive functioning. Like sighted people, many are interested in computer games - videogames and audio-games. Tactile-games are beginning to emerge. The Tactile Radar is a device through which a visually disabled person is able to detect distal obstacles. In this study, it is connected to a computer running a tactile-game. The game consists in finding and collecting randomly arranged coins in a virtual room.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28920499

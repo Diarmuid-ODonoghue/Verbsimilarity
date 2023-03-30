@@ -1,0 +1,3 @@
+In advancing our capabilities in the realm of virtual reality, the development of haptic technology has been a rate-limiting factor in producing tactile sensations directly onto the human hands. The Living Anatomy Program seeks to obviate the need for such technology by designing physical objects based on anatomic components that feel realistic to the touch. Furthermore, synchronizing motion between physical and related virtual objects infinitely expands visual design options and provides a profound level of immersion into content.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455868

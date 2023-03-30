@@ -1,0 +1,3 @@
+The cognitive load (CL) theoretical framework suggests that working memory is limited, which has implications for learning and skills acquisition. Complex learning situations such as surgical skills training can potentially induce a cognitive overload, inhibiting learning. This study aims to compare CL in traditional cadaveric dissection training and virtual reality (VR) simulation training of mastoidectomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26481267

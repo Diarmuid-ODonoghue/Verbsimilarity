@@ -1,0 +1,3 @@
+There has been growing interest in using functional connectivity patterns, determined from fMRI data to characterize groups of individuals exhibiting common traits. However, the present challenge lies in efficient and accurate identification of distinct patterns observed consistently across multiple subjects. Existing approaches either impose strong assumptions, require aligning images before processing, or require data-intensive machine learning algorithms with manually labeled training datasets. In this paper, we propose a more principled and flexible approach to address this.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31443856

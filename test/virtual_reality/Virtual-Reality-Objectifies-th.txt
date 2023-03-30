@@ -1,0 +1,3 @@
+To date, a diagnosis in psychiatry is largely based on a clinical interview and questionnaires. The retrospective and subjective nature of these methods leads to recall and interviewer biases. Therefore, there is a clear need for more objective and standardized assessment methods to support the diagnostic process. The introduction of virtual reality (VR) creates the possibility to simultaneously provoke and measure psychiatric symptoms. Therefore, VR could contribute to the objectivity and reliability in the assessment of psychiatric disorders.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28928677

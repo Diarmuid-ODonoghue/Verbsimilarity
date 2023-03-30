@@ -1,0 +1,3 @@
+The three-dimensional (3D) structure of chromatins plays significant roles during cell differentiation and development. Hi-C and other 3C-based technologies allow us to look deep into the chromatin architectures. Many studies have suggested that topologically associating domains (TAD), as the structure and functional unit, are conserved across different organs. However, our understanding about the underlying mechanism of the TAD boundary formation is still limited.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31881832

@@ -1,0 +1,3 @@
+Bioinformatics tools have been developed to interpret gene expression data at the gene set level, and these gene set based analyses improve the biologists' capability to discover functional relevance of their experiment design. While elucidating gene set individually, inter-gene sets association is rarely taken into consideration. Deep learning, an emerging machine learning technique in computational biology, can be used to generate an unbiased combination of gene set, and to determine the biological relevance and analysis consistency of these combining gene sets by leveraging large genomic data sets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30577835

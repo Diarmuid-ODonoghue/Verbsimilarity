@@ -1,0 +1,3 @@
+In forensic investigations, crime scene reconstructions are created based on a variety of three-dimensional image modalities. Although the data gathered are three-dimensional, their presentation on computer screens and paper is two-dimensional, which incurs a loss of information. By applying immersive virtual reality (VR) techniques, we propose a system that allows a crime scene to be viewed as if the investigator were present at the scene.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25315842

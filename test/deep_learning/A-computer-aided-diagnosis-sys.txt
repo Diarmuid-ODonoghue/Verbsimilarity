@@ -1,0 +1,3 @@
+The indirect immunofluorescence (IIF) on HEp-2 cells is the recommended technique for the detection of antinuclear antibodies. However, it is burdened by some limitations, as it is time consuming and subjective, and it requires trained personnel. In other fields the adoption of deep neural networks has provided an effective high-level abstraction of the raw data, resulting in the ability to automatically generate optimized high-level features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30503016

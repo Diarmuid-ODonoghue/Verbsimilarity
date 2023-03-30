@@ -1,0 +1,3 @@
+Traumatic brain injury (TBI) is a common cause of morbidity and mortality in the United States with its sequelae often affecting individuals long after the initial injury. Innovations in virtual reality (VR) technology may offer potential therapy options in the recovery from such injuries. However, there is currently no consensus regarding the efficacy of VR in the setting of TBI rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29660958

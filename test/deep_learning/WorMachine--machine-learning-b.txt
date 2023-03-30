@@ -1,0 +1,3 @@
+Caenorhabditis elegans nematodes are powerful model organisms, yet quantification of visible phenotypes is still often labor-intensive, biased, and error-prone. We developed WorMachine, a three-step MATLAB-based image analysis software that allows (1) automated identification of C. elegans worms, (2) extraction of morphological features and quantification of fluorescent signals, and (3) machine learning techniques for high-level analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29338709

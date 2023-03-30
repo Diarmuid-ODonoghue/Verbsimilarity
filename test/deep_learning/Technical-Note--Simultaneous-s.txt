@@ -1,0 +1,3 @@
+This study demonstrated a magnetic resonance (MR) signal multitask learning method for three-dimensional (3D) simultaneous segmentation and relaxometry of human brain tissues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31396973

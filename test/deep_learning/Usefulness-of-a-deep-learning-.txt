@@ -1,0 +1,3 @@
+We evaluated the diagnostic performance of a deep learning system for the detection of Sjögren's syndrome (SjS) in ultrasonography (US) images, and compared it with the performance of inexperienced radiologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31804146

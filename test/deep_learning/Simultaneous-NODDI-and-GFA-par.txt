@@ -1,0 +1,3 @@
+To develop a robust multidimensional deep-learning based method to simultaneously generate accurate neurite orientation dispersion and density imaging (NODDI) and generalized fractional anisotropy (GFA) parameter maps from undersampled q-space datasets for use in stroke imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30426558

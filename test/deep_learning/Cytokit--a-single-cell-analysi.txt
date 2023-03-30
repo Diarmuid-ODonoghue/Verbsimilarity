@@ -1,0 +1,3 @@
+Multiplexed in-situ fluorescent imaging offers several advantages over single-cell assays that do not preserve the spatial characteristics of biological samples. This spatial information, in addition to morphological properties and extensive intracellular or surface marker profiling, comprise promising avenues for rapid advancements in the understanding of disease progression and diagnosis. As protocols for conducting such imaging experiments continue to improve, it is the intent of this study to provide and validate software for processing the large quantity of associated data in kind.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31477013

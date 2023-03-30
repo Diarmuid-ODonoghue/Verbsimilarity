@@ -1,0 +1,3 @@
+In bronchoschopy, computer vision systems for navigation assistance are an attractive low-cost solution to guide the endoscopist to target peripheral lesions for biopsy and histological analysis. We propose a decoupled deep learning architecture that projects input frames onto the domain of CT renderings, thus allowing offline training from patient-specific CT data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28508345

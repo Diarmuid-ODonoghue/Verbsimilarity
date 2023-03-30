@@ -1,0 +1,3 @@
+An artificial intelligence system of Faster Region-based Convolutional Neural Network (Faster R-CNN) is newly developed for the diagnosis of metastatic lymph node (LN) in rectal cancer patients. The primary objective of this study was to comprehensively verify its accuracy in clinical use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30707177

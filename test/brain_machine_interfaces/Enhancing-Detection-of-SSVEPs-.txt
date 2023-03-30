@@ -1,0 +1,3 @@
+This study proposes and evaluates a novel data-driven spatial filtering approach for enhancing steady-state visual evoked potentials (SSVEPs) detection toward a high-speed brain-computer interface (BCI) speller.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28436836

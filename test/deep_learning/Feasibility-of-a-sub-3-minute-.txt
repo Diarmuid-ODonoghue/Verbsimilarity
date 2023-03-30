@@ -1,0 +1,3 @@
+To develop and test the feasibility of a sub-3-minute imaging strategy for non-contrast evaluation of the extracranial carotid arteries using ungated quiescent interval slice-selective (QISS) MRA, combining single-shot radial sampling with deep neural network-based image processing to optimize image quality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31975432

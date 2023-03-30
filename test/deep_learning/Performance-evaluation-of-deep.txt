@@ -1,0 +1,3 @@
+Malaria is a life-threatening disease caused by Plasmodium parasites that infect the red blood cells (RBCs). Manual identification and counting of parasitized cells in microscopic thick/thin-film blood examination remains the common, but burdensome method for disease diagnosis. Its diagnostic accuracy is adversely impacted by inter/intra-observer variability, particularly in large-scale screening under resource-constrained settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31179181

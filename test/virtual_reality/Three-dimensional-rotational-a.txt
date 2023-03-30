@@ -1,0 +1,3 @@
+The aim of this study was to investigate the feasibility of integrating three-dimensional rotational angiography (3D-RA) data into a surgical navigation system and to assess its accuracy and potential clinical benefit.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16961135

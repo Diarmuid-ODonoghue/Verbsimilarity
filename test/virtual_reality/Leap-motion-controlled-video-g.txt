@@ -1,0 +1,3 @@
+Non-immersive video games are currently being used as technological rehabilitation tools for individuals with Parkinson's disease (PD). The aim of this feasibility study was to evaluate the effectiveness of the Leap Motion Controller® (LMC) system used with serious games designed for the upper limb (UL), as well as the levels of satisfaction and compliance among patients in mild-to-moderate stages of the disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31694653

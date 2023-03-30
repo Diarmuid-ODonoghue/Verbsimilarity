@@ -1,0 +1,3 @@
+Immersive Virtual Telepresence (IVT) tools are virtual reality environments combined with wireless multimedia facilities--real-time video and audio--and advanced input devices--tracking sensors, biosensors, brain-computer interfaces. For its features IVT can be considered an innovative communication interface based on interactive 3D visualization, able to collect and integrate different inputs and data sets in a single real-like experience. In this paper we try to outline the current state of research and technology that is relevant to the development of IVT in medicine. Moreover, we discuss the clinical principles and possible advantages associated with the use of IVT in this field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15295155

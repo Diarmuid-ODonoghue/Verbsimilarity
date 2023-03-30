@@ -1,0 +1,3 @@
+The recognition of cystoscopic findings remains challenging for young colleagues and depends on the examiner's skills. Computer-aided diagnosis tools using feature extraction and deep learning show promise as instruments to perform diagnostic classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30652604

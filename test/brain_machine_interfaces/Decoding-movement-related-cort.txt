@@ -1,0 +1,3 @@
+Control signals for brain-machine interfaces may be obtained from a variety of sources, each with their own relative merits. Electrocorticography (ECoG) provides better spatial and spectral resolution than scalp electroencephalography and does not include the risks attendant upon penetration of the brain parenchyma associated with single and multiunit recordings. For these reasons, subdural electrode recordings have been proposed as useful primary or adjunctive control signals for brain-machine interfaces. The goal of the present study was to determine if 2D control signals could be decoded from ECoG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19569886

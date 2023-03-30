@@ -1,0 +1,3 @@
+Positive clinical outcomes are now well established for deep brain stimulation, but little is known about the effects of long-term deep brain stimulation on brain structural and functional connectivity. Here, we used the rare opportunity to acquire pre- and postoperative diffusion tensor imaging in a patient undergoing deep brain stimulation in bilateral subthalamic nuclei for Parkinson's Disease. This allowed us to analyse the differences in structural connectivity before and after deep brain stimulation. Further, a computational model of spontaneous brain activity was used to estimate the changes in functional connectivity arising from the specific changes in structural connectivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24466120

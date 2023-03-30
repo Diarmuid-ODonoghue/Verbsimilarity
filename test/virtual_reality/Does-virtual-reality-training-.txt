@@ -1,0 +1,3 @@
+Virtual reality (VR) applications are effective tools in many educational disciplines. A minimally interactive VR application allowing stereoscopic viewing of surgical videos has been developed to aid veterinary students learning to perform surgery. We sought to describe how students used the VR application while preparing to perform their first canine sterilisation surgery and compare surgical performance of students who prepared using traditional methods with students who also used VR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32188768

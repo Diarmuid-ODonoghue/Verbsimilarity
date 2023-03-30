@@ -1,0 +1,3 @@
+This article describes the development of an add-on module for wheeled walkers dedicated to sensor-based posture and gait pattern recognition with the goal to develop an everyday aid for fall prevention. The core contribution is a clinical study that compared single gait parameter assessments coming from medical staff to those obtained from an automatic classification algorithm, i. e. the Mahalanobis distance over time series of sensor measurements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30997555

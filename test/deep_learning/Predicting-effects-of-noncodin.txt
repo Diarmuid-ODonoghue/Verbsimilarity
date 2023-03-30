@@ -1,0 +1,3 @@
+Identifying functional effects of noncoding variants is a major challenge in human genetics. To predict the noncoding-variant effects de novo from sequence, we developed a deep learning-based algorithmic framework, DeepSEA (http://deepsea.princeton.edu/), that directly learns a regulatory sequence code from large-scale chromatin-profiling data, enabling prediction of chromatin effects of sequence alterations with single-nucleotide sensitivity. We further used this capability to improve prioritization of functional variants including expression quantitative trait loci (eQTLs) and disease-associated variants.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26301843

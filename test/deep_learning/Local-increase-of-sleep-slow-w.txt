@@ -1,0 +1,3 @@
+Evidence is accumulating that electroencephalographic (EEG) sleep slow wave activity (SWA), the key characteristic of deep sleep, is regulated not only globally, but also locally. Several studies have shown local learning- and use-dependent changes in SWA. In vitro and in vivo animal experiments and studies in humans indicate that these local changes in SWA reflect synaptic plasticity. During maturation, when synaptic changes are most prominent, learning is of utmost importance. Thus, in this study, we aimed to examine whether intensive working memory training for 3 w would lead to a local increase of sleep SWA using high-density EEG recordings in children and young adolescents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25669190

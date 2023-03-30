@@ -1,0 +1,3 @@
+Recently developed convolutional neural network (CNN) models determine bone age more accurately than radiologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31863193

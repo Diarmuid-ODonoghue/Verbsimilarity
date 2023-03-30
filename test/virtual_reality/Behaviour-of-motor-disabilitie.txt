@@ -1,0 +1,3 @@
+We studied 23 Parkinson's disease (PD) non-demented patients and 15 controls in Virtual Reality (VR) environments reproducing usual daily living situations. In VR sessions, PD patients performed their actions worse than controls, in terms of time of execution in exploration and pointing, precision as objects avoiding, and in semantic incidental memory task. We observed clear differences of performances between on and off status medication, with a global worsening during off phase. Moreover, all six patients with motor fluctuations described visual hallucinations during off state, with occurrence of images not included in the virtual environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19592764

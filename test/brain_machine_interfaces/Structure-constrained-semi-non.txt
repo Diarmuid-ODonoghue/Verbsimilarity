@@ -1,0 +1,3 @@
+Electroencephalogram (EEG) provides a non-invasive approach to measure the electrical activities of brain neurons and has long been employed for the development of brain-computer interface (BCI). For this purpose, various patterns/features of EEG data need to be extracted and associated with specific events like cue-paced motor imagery. However, this is a challenging task since EEG data are usually non-stationary time series with a low signal-to-noise ratio.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25747342

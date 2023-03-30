@@ -1,0 +1,3 @@
+Rehabilitation aims at brain rewiring through intensive practice following brain injury. This paper presents a new supportive mechanism that will be used to isolate wrist movement and in combination to the use of serious games, to act as a motivational tool to improve adherence during home-based practice. The paper describes the proposed methodology employed to carry out the home-based programme while leap motion is used to monitor and evaluate these exercises.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29968600

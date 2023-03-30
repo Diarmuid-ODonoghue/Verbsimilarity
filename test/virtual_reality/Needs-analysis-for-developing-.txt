@@ -1,0 +1,3 @@
+INTRODUCTION AND STUDY AIM: Natural orifice translumenal endoscopic surgery (NOTES) is an emerging surgical technique that requires a cautious adoption approach to ensure patient safety. High-fidelity virtual-reality-based simulators allow development of new surgical procedures and tools and train medical personnel without risk to human patients. As part of a project funded by the National Institutes of Health, we are developing the virtual transluminal endoscopic surgery trainer (VTEST) for this purpose. The objective of this study is to conduct a structured needs analysis to identify the design parameters for such a virtual-reality-based simulator for NOTES.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23247736

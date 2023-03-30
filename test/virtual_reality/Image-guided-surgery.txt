@@ -1,0 +1,3 @@
+Interventional video tomography (IVT), a new imaging modality, achieves virtual visualization of anatomic structures in three dimensions for intraoperative stereotactic navigation. Partial immersion into a virtual data space, which is orthotopically coregistered to the surgical field, enhances, by means of a see-through head-mounted display (HMD), the surgeon's visual perception and technique by providing visual access to nonvisual data of anatomy, physiology, and function. The presented cases document the potential of augmented reality environments in maxillofacial surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/8727590

@@ -1,0 +1,3 @@
+The synergistic effect of drug combination is one of the most desirable properties for treating cancer. However, systematically predicting effective drug combination is a significant challenge. We report here a novel method based on deep belief network to predict drug synergy from gene expression, pathway and the Ontology Fingerprints-a literature derived ontological profile of genes. Using data sets provided by 2015 DREAM competition, our analysis shows that this integrative method outperforms published results from the DREAM website for 4999 drug pairs, demonstrating the feasibility of predicting drug synergy from literature and the -omics data using advanced artificial intelligence approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30081101

@@ -1,0 +1,3 @@
+We assessed the effectiveness of ToT from VR laparoscopic simulation training in 2 studies. In a second study, we also assessed the TER. ToT is a detectable performance improvement between equivalent groups, and TER is the observed percentage performance differences between 2 matched groups carrying out the same task but with 1 group pretrained on VR simulation. Concordance between simulated and in-vivo procedure performance was also assessed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23426342

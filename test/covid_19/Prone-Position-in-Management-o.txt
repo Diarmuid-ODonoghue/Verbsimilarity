@@ -1,0 +1,3 @@
+SARS-CoV-2 virus causes a pneumonia that was identified through fever, dyspnea, and acute respiratory symptoms and named COVID-19. This disease exacerbates in a number of patients and causes pulmonary edema, multi-organ failure, and acute respiratory distress syndrome (ARDS). Prevalence of ARDS among COVID-19 patients has been reported to be up to 17%. Among the introduced treatment methods for management of ARDS patients, prone position can be used as an adjuvant therapy for improving ventilation in these patients. Here we reviewed the literature regarding the role of prone position in management of COVID-19 patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32309812

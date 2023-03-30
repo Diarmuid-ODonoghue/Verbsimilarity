@@ -1,0 +1,3 @@
+In recent studies, convolutional neural networks (CNNs) outperformed dermatologists in distinguishing dermoscopic images of melanoma and nevi. In these studies, dermatologists and artificial intelligence were considered as opponents. However, the combination of classifiers frequently yields superior results, both in machine learning and among humans. In this study, we investigated the potential benefit of combining human and artificial intelligence for skin cancer classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31518967

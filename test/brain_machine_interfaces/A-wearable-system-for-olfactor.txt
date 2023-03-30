@@ -1,0 +1,3 @@
+Bran-computer interface (BCI) is an important technique used in brain science. However, the large size of equipment and wires severely limit its practical applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29859214

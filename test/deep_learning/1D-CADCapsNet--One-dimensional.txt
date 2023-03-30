@@ -1,0 +1,3 @@
+Cardiovascular disease (CVD) is a leading cause of death globally. Electrocardiogram (ECG), which records the electrical activity of the heart, has been used for the diagnosis of CVD. The automated and robust detection of CVD from ECG signals plays a significant role for early and accurate clinical diagnosis. The purpose of this study is to provide automated detection of coronary artery disease (CAD) from ECG signals using capsule networks (CapsNet).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31962284

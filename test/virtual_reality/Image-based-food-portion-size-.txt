@@ -1,0 +1,3 @@
+Current approaches to food volume estimation require the person to carry a fiducial marker (e.g. a checkerboard card), to be placed next to the food before taking a picture. This procedure is inconvenient and post-processing of the food picture is time-consuming and sometimes inaccurate. These problems keep people from using the smartphone for self-administered dietary assessment. The current bioengineering study presents a novel smartphone-based imaging approach to table-side estimation of food volume which overcomes current limitations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29623867

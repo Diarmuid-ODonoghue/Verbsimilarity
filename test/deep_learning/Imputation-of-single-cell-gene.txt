@@ -1,0 +1,3 @@
+Single-cell RNA-sequencing (scRNA-seq) is a rapidly evolving technology that enables measurement of gene expression levels at an unprecedented resolution. Despite the explosive growth in the number of cells that can be assayed by a single experiment, scRNA-seq still has several limitations, including high rates of dropouts, which result in a large number of genes having zero read count in the scRNA-seq data, and complicate downstream analyses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32274259

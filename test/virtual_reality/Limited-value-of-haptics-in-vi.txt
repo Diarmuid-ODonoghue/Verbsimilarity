@@ -1,0 +1,3 @@
+Haptics is an expensive addition to virtual reality (VR) simulators, and the added value to training has not been proven. This study evaluated the benefit of haptics in VR laparoscopic surgery training for novices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20872023

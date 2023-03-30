@@ -1,0 +1,3 @@
+The use of Virtual Environments has been widely reported as a method of teaching anatomy. Generally such environments only convey the shape of the anatomy to the student. We present the Bangor Augmented Reality Education Tool for Anatomy (BARETA), a system that combines Augmented Reality (AR) technology with models produced using Rapid Prototyping (RP) technology, to provide the student with stimulation for touch as well as sight. The principal aims of this work were to provide an interface more intuitive than a mouse and keyboard, and to evaluate such a system as a viable supplement to traditional cadaver based education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20297908

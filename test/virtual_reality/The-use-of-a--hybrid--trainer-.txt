@@ -1,0 +1,3 @@
+Tabletop inanimate trainers have proven to be a safe, inexpensive, and convenient platform for developing laparoscopic skills. Historically, programs that utilize these trainers rely on subjective evaluation of errors and time as the only measures of performance. Virtual reality simulators offer more extensive data collection capability, but they are expensive and lack realism. This study reviews a new electronic proctor (EP), and its performance within the Rosser Top Gun Laparoscopic Skills and Suturing Program. This "hybrid" training device seeks to capture the strengths of both platforms by providing an affordable, reliable, realistic training arena with metrics to objectively evaluate performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16709348

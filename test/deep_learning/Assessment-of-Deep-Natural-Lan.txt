@@ -1,0 +1,3 @@
+A rapid learning health care system for oncology will require scalable methods for extracting clinical end points from electronic health records (EHRs). Outside of clinical trials, end points such as cancer progression and response are not routinely encoded into structured data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31343664

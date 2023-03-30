@@ -1,0 +1,3 @@
+Radiology-pathology correlation has long been foundational to continuing education, peer learning, quality assurance, and multidisciplinary patient care. The objective of this study was to determine whether modern deep-learning language-modeling techniques could reliably match pathology reports to pertinent radiology reports.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31173746

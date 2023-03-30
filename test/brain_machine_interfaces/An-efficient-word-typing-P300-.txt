@@ -1,0 +1,3 @@
+A typical P300-based spelling brain computer interface (BCI) system types a single character with a character presentation paradigm and a P300 classification system. Lately, a few attempts have been made to type a whole word with the help of a smart dictionary that suggests some candidate words with the input of a few initial characters.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25464346

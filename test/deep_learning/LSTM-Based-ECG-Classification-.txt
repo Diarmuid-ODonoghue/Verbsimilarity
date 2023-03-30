@@ -1,0 +1,3 @@
+A novel electrocardiogram (ECG) classification algorithm is proposed for continuous cardiac monitoring on wearable devices with limited processing capacity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30990452

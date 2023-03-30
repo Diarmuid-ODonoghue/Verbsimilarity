@@ -1,0 +1,3 @@
+We consider the problem of Auditory Attention Detection (AAD), where the goal is to detect which speaker a person is attending to, in a multi-speaker environment, based on neural activity. This work aims to analyze the influence of head-related filtering and ear-specific decoding on the performance of an AAD algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27618842

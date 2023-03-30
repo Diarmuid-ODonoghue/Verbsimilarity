@@ -1,0 +1,3 @@
+Mobility is important for participation in daily activities and a power wheelchair (PW) can improve quality of life of individuals with mobility impairments. A virtual reality simulator may be helpful in complementing PW skills training, which is generally seen as insufficient by both clinicians and PW users. To this end, specific, ecologically valid activities, such as entering an elevator and navigating through a shopping mall crowd, have been added to the McGill wheelchair (miWe) simulator through a user-centred approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27669905

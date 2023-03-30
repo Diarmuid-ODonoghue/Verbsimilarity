@@ -1,0 +1,3 @@
+Spatial localization of neural activity from within the brain with electrocorticography (ECoG) and electroencephalography remains a challenge in clinical and research settings, and while microfabricated ECoG (micro-ECoG) array technology continues to improve, complementary methods to simultaneously modulate cortical activity while recording are needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24445482

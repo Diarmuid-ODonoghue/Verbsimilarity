@@ -1,0 +1,3 @@
+Antiviral drugs are administered in patients with severe COVID-19 respiratory syndrome (SARS-CoV-2), including those treated with direct oral anticoagulants (DOACs). Concomitant administration of antiviral agents has the potential to increase their plasma concentration. A series of patients managed in the Cremona Thrombosis Center were admitted at Cremona Hospital for SARS-CoV-2 and started antiviral drugs without stopping DOAC therapy. DOAC plasma levels were measured in-hospital and results compared with those recorded before hospitalization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32329231

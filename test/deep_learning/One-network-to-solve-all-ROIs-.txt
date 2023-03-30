@@ -1,0 +1,3 @@
+Computed tomography for the reconstruction of region of interest (ROI) has advantages in reducing the x-ray dose and the use of a small detector. However, standard analytic reconstruction methods such as filtered back projection (FBP) suffer from severe cupping artifacts, and existing model-based iterative reconstruction methods require extensive computations. Recently, we proposed a deep neural network to learn the cupping artifacts, but the network was not generalized well for different ROIs due to the singularities in the corrupted images. Therefore, there is an increasing demand for a neural network that works well for any ROI size.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31811795

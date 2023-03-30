@@ -1,0 +1,3 @@
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a novel viral pneumonia (COVID-19), which is rapidly spreading in the world. The positive result of nucleic acid test is a golden criterion to confirm SARS-CoV-2 infection, but the detection features remain unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32352933

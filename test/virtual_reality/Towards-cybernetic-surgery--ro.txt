@@ -1,0 +1,3 @@
+Augmented reality (AR) in surgery consists in the fusion of synthetic computer-generated images (3D virtual model) obtained from medical imaging preoperative workup and real-time patient images in order to visualize unapparent anatomical details. The 3D model could be used for a preoperative planning of the procedure. The potential of AR navigation as a tool to improve safety of the surgical dissection is outlined for robotic hepatectomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25392120

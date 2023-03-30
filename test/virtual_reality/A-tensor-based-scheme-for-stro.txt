@@ -1,0 +1,3 @@
+Stroke is one of the most common disorders among the elderly. A practical problem in stroke rehabilitation systems is that how to separate motor imagery patterns from electroencephalographic (EEG) recordings. There is a sharp decline in performance of these systems when classical algorithms, such as Common Spatial Pattern (CSP), are directly applied on stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24280103

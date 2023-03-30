@@ -1,0 +1,3 @@
+This study evaluates a fully immersive simulated angiosuite for training and assessment of technical endovascular and human factor skills during a crisis scenario.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24196270

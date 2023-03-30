@@ -1,0 +1,3 @@
+Sinus X-ray imaging is still used in the initial evaluation of paranasal sinusitis, which is diagnosed by the opacification or air/fluid level in the sinuses and best seen in the Waters' view of the paranasal sinus (PNS). The objective of this study was to investigate the feasibility of recognizing the maxillary sinusitis features using PNS X-ray images, as well as to propose the most effective method of determining a reasonable consensus using multiple deep learning models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31367548

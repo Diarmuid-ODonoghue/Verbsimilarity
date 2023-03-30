@@ -1,0 +1,3 @@
+This paper demonstrates the feasibility of decoding neuronal population signals using a sparse linear regression model with an elastic net penalty. In offline analysis of real electrocorticographic (ECoG) neural data the elastic net achieved a timepoint decoding accuracy of 95% for classifying hand grasps vs. rest, and 82% for moving a cursor in 1-D space towards a target. These results were superior to those obtained using ℓ(2)-penalized and unpenalized linear regression, and marginally better than ℓ(1)-penalized regression. Elastic net and the ℓ(1)-penalty also produced sparse feature sets, but the elastic net did not eliminate correlated features, which could result in a more stable decoder for brain-computer interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366872

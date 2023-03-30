@@ -1,0 +1,3 @@
+The COVID-19 outbreak in China appears to reach the late stage since late March 2020, and a stepwise restoration of economic operations is implemented. Risk assessment for such economic restoration is of significance. Here, we estimated the probability of COVID-19 resurgence caused by work resuming in typical provinces/cities and found that such probability is very limited (<5% for all the regions except Beijing). Our work may inform provincial governments to make risk level-based, differentiated control measures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32219398

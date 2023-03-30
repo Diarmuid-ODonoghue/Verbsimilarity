@@ -1,0 +1,3 @@
+Machine learning (ML) is increasingly being used in many areas of health care. Its use in infection management is catching up as identified in a recent review in this journal. We present here a complementary review to this work.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32061798

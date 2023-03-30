@@ -1,0 +1,3 @@
+Hearing Aids amplify sounds at certain frequencies to help patients, who have hearing loss, to improve the quality of life. Variables affecting hearing improvement include the characteristics of the patients' hearing loss, the characteristics of the hearing aids, and the characteristics of the frequencies. Although the two former characteristics have been studied, there are only limited studies predicting hearing gain, after wearing Hearing Aids, with utilizing all three characteristics. Therefore, we propose a new machine learning algorithm that can present the degree of hearing improvement expected from the wearing of hearing aids.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28539112

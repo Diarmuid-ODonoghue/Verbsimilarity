@@ -1,0 +1,3 @@
+No consensus has been reached regarding the existence of gender differences during motor tasks in electroencephalography. This could lead to misinterpretation of electroencephalography clinical diagnosis and affect the calibration of brain-computer interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27941960

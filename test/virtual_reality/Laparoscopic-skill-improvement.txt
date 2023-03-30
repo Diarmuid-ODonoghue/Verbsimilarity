@@ -1,0 +1,3 @@
+Definitive assessment of laparoscopic skill improvement after virtual reality simulator training is best obtained during an actual operation. However, this is impossible in medical students. Therefore, we developed an alternative assessment technique using an augmented reality simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26216064

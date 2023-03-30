@@ -1,0 +1,3 @@
+The discrepancy between predicted effect-site concentration and measured bispectral index is problematic during intravenous anesthesia with target-controlled infusion of propofol and remifentanil. We hypothesized that bispectral index during total intravenous anesthesia would be more accurately predicted by a deep learning approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28953500

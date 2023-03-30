@@ -1,0 +1,3 @@
+An accurate and real-time model of soft tissue is critical for surgical simulation for which a user interacts haptically and visually with simulated patients. This paper focuses on the real-time deformation model of brain tissue for the interactive surgical simulation, such as neurosurgical simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31104713

@@ -1,0 +1,3 @@
+Stereotactic radiosurgery (SRS) is widely used to obliterate arteriovenous malformations (AVMs). Its performance relies on the accuracy of delineating the target AVM. Manual segmentation during a framed SRS procedure is time consuming and subject to inter- and intraobserver variation. To address these drawbacks, we proposed a deep learning-based method to automatically segment AVMs on CT simulation image sets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31050804

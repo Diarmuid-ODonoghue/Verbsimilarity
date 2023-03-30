@@ -1,0 +1,3 @@
+For patients with disorders of consciousness such as coma, a vegetative state or a minimally conscious state, one challenge is to detect and assess the residual cognitive functions in their brains. Number processing and mental calculation are important brain functions but are difficult to detect in patients with disorders of consciousness using motor response-based clinical assessment scales such as the Coma Recovery Scale-Revised due to the patients' motor impairments and inability to provide sufficient motor responses for number- and calculation-based communication.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26670376

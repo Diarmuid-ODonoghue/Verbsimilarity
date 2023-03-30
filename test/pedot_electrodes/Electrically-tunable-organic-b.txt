@@ -1,0 +1,3 @@
+Organic bioelectronic devices consisting of alternating poly(3,4-ethylenedioxythiophene) (PEDOT) and reduced graphite oxide (rGO) striped microelectrode arrays were fabricated by lithography technology. It has been demonstrated that the organic bioelectronic devices can be used to spatially and temporally manipulate the location and proliferation of the neuron-like pheochromocytoma cells (PC-12 cells).
+
+https://www.ncbi.nlm.nih.gov/pubmed/22982010

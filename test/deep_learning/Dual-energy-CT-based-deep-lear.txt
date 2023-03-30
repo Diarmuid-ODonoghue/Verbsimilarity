@@ -1,0 +1,3 @@
+To build a dual-energy CT (DECT)-based deep learning radiomics nomogram for lymph node metastasis (LNM) prediction in gastric cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31953668

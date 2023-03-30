@@ -1,0 +1,3 @@
+Rapid spread of the SARS-CoV-2 virus has left many health systems around the world overwhelmed, forcing triaging of scarce medical resources. Identifying indicators of hospital admission for Covid-19 patients early in the disease course could aid the efficient allocation of medical interventions. Self-reported olfactory impairment has recently been recognized as a hallmark of Covid-19 and may be an important predictor of clinical outcome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32329222

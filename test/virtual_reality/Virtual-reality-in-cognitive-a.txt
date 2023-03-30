@@ -1,0 +1,3 @@
+Over recent decades many researchers and clinicians have started to use Virtual Reality (VR) as a new technology for implementing innovative rehabilitation treatments in cognitive and motor domains. However, the expression 'VR' has often also been improperly used to refer to video games. Further, VR efficacy, often confused with that of video-game exercises, is still debated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29313388

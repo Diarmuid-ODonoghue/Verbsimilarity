@@ -1,0 +1,3 @@
+Studying the effect on functioning of the emergency department of disasters with a potential impact on staff members themselves usually involves table top and simulated patient exercises. Computerized virtual reality simulations have the potential to configure a variety of scenarios to determine likely staff responses and how to address them without intensive utilization of resources. To decide whether such studies are justified, we determined whether a novel computer simulation has the potential to serve as a valid and reliable model of on essential function in a busy ED.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28057048

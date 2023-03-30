@@ -1,0 +1,3 @@
+Prior sleep behavior has been shown to correlate with waking resting-state functional connectivity (FC) in the default mode network (DMN). However, the impact of sleep history on FC during sleep has not been investigated. The aim of this study was to establish whether there is an association between intersubject variability in habitual sleep behaviors and the strength of FC within the regions of the DMN during non-rapid eye movement (NREM) sleep.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30516035

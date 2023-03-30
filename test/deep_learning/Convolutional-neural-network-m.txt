@@ -1,0 +1,3 @@
+Precise prediction of cancer types is vital for cancer diagnosis and therapy. Through a predictive model, important cancer marker genes can be inferred. Several studies have attempted to build machine learning models for this task however none has taken into consideration the effects of tissue of origin that can potentially bias the identification of cancer markers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32241303

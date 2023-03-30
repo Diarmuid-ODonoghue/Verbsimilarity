@@ -1,0 +1,3 @@
+We sought to create a deep learning (DL) algorithm to identify vessels, bones, nerves, and tendons on transverse upper extremity (UE) ultrasound (US) images to enable providers new to US-guided peripheral vascular access to identify anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32181922

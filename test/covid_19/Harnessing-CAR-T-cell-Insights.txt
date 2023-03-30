@@ -1,0 +1,3 @@
+Cytokine release and macrophage activation contribute to immunopathology after SARS-CoV-2 infection. We discuss approaches to decrease the morbidity and mortality in patients with COVID-19 by repurposing existing drugs previously developed for cancer therapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32303509

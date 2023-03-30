@@ -1,0 +1,3 @@
+Motor neuroscience and brain-machine interface (BMI) design is based on examining how the brain controls voluntary movement, typically by recording neural activity and behavior from animal models. Recording technologies used with these animal models have traditionally limited the range of behaviors that can be studied, and thus the generality of science and engineering research. We aim to design a freely-moving animal model using neural and behavioral recording technologies that do not constrain movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24995476

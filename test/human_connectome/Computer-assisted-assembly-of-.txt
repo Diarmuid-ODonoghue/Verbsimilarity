@@ -1,0 +1,3 @@
+A rate-limiting step in determining a connectome, the set of all synaptic connections in a nervous system, is extraction of the relevant information from serial electron micrographs. Here we introduce a software application, Elegance, that speeds acquisition of the minimal dataset necessary, allowing the discovery of new connectomes. We have used Elegance to obtain new connectivity data in the nematode worm Caenorhabditis elegans. We analyze the accuracy that can be obtained, which is limited by unresolvable ambiguities at some locations in electron microscopic images. Elegance is useful for reconstructing connectivity in any region of neuropil of sufficiently small size.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23342070

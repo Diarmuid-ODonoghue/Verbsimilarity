@@ -1,0 +1,3 @@
+To create a novel, multi-atlas-based segmentation algorithm of the facial nerve (FN) requiring minimal user intervention that could be easily deployed into an existing open-source toolkit. Specifically, the mastoid, tympanic and labyrinthine segments of the FN would be segmented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31760585

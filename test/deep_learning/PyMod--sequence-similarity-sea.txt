@@ -1,0 +1,3 @@
+In recent years, an exponential growing number of tools for protein sequence analysis, editing and modeling tasks have been put at the disposal of the scientific community. Despite the vast majority of these tools have been released as open source software, their deep learning curves often discourages even the most experienced users.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22536966

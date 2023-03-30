@@ -1,0 +1,3 @@
+Convolutional neural networks are a subclass of deep learning or artificial intelligence that are predominantly used for image analysis and classification. This proof-of-concept study attempts to train a convolutional neural network algorithm that can reliably determine if the middle turbinate is pneumatised (concha bullosa) on coronal sinus computed tomography images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32234081

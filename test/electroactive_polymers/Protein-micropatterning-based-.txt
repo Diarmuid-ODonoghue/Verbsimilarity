@@ -1,0 +1,3 @@
+We demonstrate a protein micropatterning method based on electropolymerization of a monomer with two electroactive units, hydroquinone monoester and disulfide, which enables electrochemical ON-OFF switching for immobilization of bioligands on electrodes modified with the electropolymerized film.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17109049

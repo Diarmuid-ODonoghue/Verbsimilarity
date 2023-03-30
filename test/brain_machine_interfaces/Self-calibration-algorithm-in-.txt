@@ -1,0 +1,3 @@
+Reliability is a desirable characteristic of brain-computer interface (BCI) systems when they are intended to be used under non-experimental operating conditions. In addition, their overall usability is influenced by the complex and frequent procedures that are required for configuration and calibration. Earlier studies examined the issue of asynchronous control in P300-based BCIs, introducing dynamic stopping and automatic control suspension features. This report proposes and evaluates an algorithm for the automatic recalibration of the classifier's parameters using unsupervised data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24838347

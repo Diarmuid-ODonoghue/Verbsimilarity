@@ -1,0 +1,3 @@
+To evaluate whether training on a virtual reality laparoscopic simulator improves the performance on a laparoscopic box trainer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20932370

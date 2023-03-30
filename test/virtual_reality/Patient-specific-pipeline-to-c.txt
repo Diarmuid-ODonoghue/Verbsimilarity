@@ -1,0 +1,3 @@
+Graphically realistic, haptics-enabled, virtual reality surgical simulations are becoming increasingly popular training tools for neurosurgical procedures and surgical skills. Compared with traditional training models, virtual simulations are safe, versatile, consistent, and are relatively cost effective. Most simulations are deficient, however, in representing the diverse anatomical variations that occur clinically. In this work, we describe the design and implementation of a pipeline to create patient-specific surgical scenarios for simulator-based training of the endoscopic third ventriculostomy: the procedure of choice for treating obstructive hydrocephalus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732472

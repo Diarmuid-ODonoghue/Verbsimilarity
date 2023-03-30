@@ -1,0 +1,3 @@
+Google Glass provides a platform that can be easily extended to include a vision enhancement tool. We have implemented an augmented vision system on Glass, which overlays enhanced edge information over the wearer's real-world view, to provide contrast-improved central vision to the Glass wearers. The enhanced central vision can be naturally integrated with scanning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24978871

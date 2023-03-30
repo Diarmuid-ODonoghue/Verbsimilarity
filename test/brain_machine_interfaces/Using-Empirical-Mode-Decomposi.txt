@@ -1,0 +1,3 @@
+This paper introduces a new signal processing method called Spatio-Temporal Multivariate Empirical Mode Decomposition (ST-MEMD). It is a new variation of Empirical Mode Decomposition (EMD) that takes spatial and temporal information into account simultaneously rather than processing each signal source in isolation. The original and new methods were tested on single-trial electroencephalogram data with a two-class problem, in this case data using the Motor Imagery paradigm in brain-computer interfacing. However, whilst ST-MEMD retained the increase in sensitivity and specificity from adding spatial data, the new temporal data made no meaningful difference in terms of performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25571024

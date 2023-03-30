@@ -1,0 +1,3 @@
+The aim of this work is to increase the effectiveness of real world medical training simulations by helping trainees gain a better understanding of the importance of communication and teamwork. Therefore we develop an online application which can be used together with real world simulations to improve training. To produce the online application we reconstructed two real world scenarios (one with students and one with practitioners) in an immersive virtual environment. Our application enables the trainees to view the scenario from different perspectives or to freely explore the environment. We aim to integrate it into the medical student curriculum at the University of Tübingen.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22356950

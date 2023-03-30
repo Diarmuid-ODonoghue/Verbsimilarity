@@ -1,0 +1,3 @@
+The use of brain monitoring based on EEG, in natural environments and over long time periods, is hindered by the limited portability of current wearable systems, and the invasiveness of implanted systems. To that end, we introduce an ear-EEG recording device based on generic earpieces which meets key patient needs (discreet, unobstrusive, user-friendly, robust) and that is low-cost and suitable for off-the-shelf use; thus promising great advantages for healthcare applications. Its feasibility is validated in a comprehensive comparative study with our established prototype, based on a personalized earpiece, for a key EEG paradigm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24109744

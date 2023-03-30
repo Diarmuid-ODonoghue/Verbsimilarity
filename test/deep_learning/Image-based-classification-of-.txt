@@ -1,0 +1,3 @@
+Modern plant taxonomy reflects phylogenetic relationships among taxa based on proposed morphological and genetic similarities. However, taxonomical relation is not necessarily reflected by close overall resemblance, but rather by commonality of very specific morphological characters or similarity on the molecular level. It is an open research question to which extent phylogenetic relations within higher taxonomic levels such as genera and families are reflected by shared visual characters of the constituting species. As a consequence, it is even more questionable whether the taxonomy of plants at these levels can be identified from images using machine learning techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30606100

@@ -1,0 +1,3 @@
+Thyroid nodules are a common clinical entity with high incidence. Ultrasound is often employed to detect and evaluate thyroid nodules. The development of an efficient automated method to detect thyroid nodules using ultrasound has the potential to reduce both physician workload and operator-dependence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32003318

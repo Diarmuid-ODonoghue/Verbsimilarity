@@ -1,0 +1,3 @@
+For deep learning on image data, a common approach is to augment the training data by artificial new images, using techniques like moving windows, scaling, affine distortions, and elastic deformations. In contrast to image data, electroencephalographic (EEG) data suffers even more from the lack of sufficient training data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29059912

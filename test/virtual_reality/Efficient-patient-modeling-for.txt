@@ -1,0 +1,3 @@
+This work presents a new time-saving virtual patient modeling system by way of example for an existing visuo-haptic training and planning virtual reality (VR) system for percutaneous transhepatic cholangio-drainage (PTCD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27282236

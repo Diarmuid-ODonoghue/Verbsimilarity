@@ -1,0 +1,3 @@
+The pathological bases for the cognitive and neuropsychiatric symptoms in normal pressure hydrocephalus (NPH) have not been elucidated. However, the symptoms may indicate dysfunction of subcortical regions. Previously, volume reductions of subcortical deep grey matter (SDGM) structures have been observed in NPH patients. The present study used automated segmentation methods to investigate whether SDGM structure volumes are associated with cognitive and neuropsychiatric measures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30428124

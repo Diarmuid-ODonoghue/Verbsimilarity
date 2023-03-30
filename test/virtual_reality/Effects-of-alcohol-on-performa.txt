@@ -1,0 +1,3 @@
+Prior studies report that accidents involving intoxicated drivers are more likely to occur during performance of secondary tasks. We studied this phenomenon, using a dual-task paradigm, involving performance of a visual oddball (VO) task while driving in an alcohol challenge paradigm. Previous functional MRI (fMRI) studies of the VO task have shown activation in the anterior cingulate, hippocampus, and prefrontal cortex. Thus, we predicted dose-dependent decreases in activation of these areas during VO performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19183133

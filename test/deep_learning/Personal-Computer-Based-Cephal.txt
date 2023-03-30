@@ -1,0 +1,3 @@
+Cephalometric analysis has long been, and still is one of the most important tools in evaluating craniomaxillofacial skeletal profile. To perform this, manual tracing of x-ray film and plotting landmarks have been required. This procedure is time-consuming and demands expertise. In these days, computerized cephalometric systems have been introduced; however, tracing and plotting still have to be done on the monitor display. Artificial intelligence is developing rapidly. Deep learning is one of the most evolving areas in artificial intelligence. The authors made an automated landmark predicting system, based on a deep learning neural network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30439733

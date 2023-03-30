@@ -1,0 +1,3 @@
+Deep learning has revolutionized research in image processing, speech recognition, natural language processing, game playing, and will soon revolutionize research in proteomics and genomics. Through three examples in genomics, protein structure prediction, and proteomics, we demonstrate that deep learning is changing bioinformatics research, shifting from algorithm-centric to data-centric approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29239117

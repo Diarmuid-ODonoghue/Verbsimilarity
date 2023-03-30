@@ -1,0 +1,3 @@
+The morphometric analysis of myelinated nerve fibers of peripheral nerves in cross-sectional optical microscopic images is valuable. Several automated methods for nerve fiber identification and segmentation have been reported. This paper presents a new method that uses a deep learning model of a convolutional neural network (CNN). We tested it for human sural nerve biopsy images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28837816

@@ -1,0 +1,3 @@
+The aim of the study was to explore whether learning curves on a virtual-reality (VR) sonographic simulator can be used to predict subsequent learning curves on a physical mannequin and learning curves during clinical training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27925649

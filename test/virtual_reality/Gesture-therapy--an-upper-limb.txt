@@ -1,0 +1,3 @@
+Virtual reality platforms capable of assisting rehabilitation must provide support for rehabilitation principles: promote repetition, task oriented training, appropriate feedback, and a motivating environment. As such, development of these platforms is a complex process which has not yet reached maturity. This paper presents our efforts to contribute to this field, presenting Gesture Therapy, a virtual reality-based platform for rehabilitation of the upper limb. We describe the system architecture and main features of the platform and provide preliminary evidence of the feasibility of the platform in its current status.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24760913

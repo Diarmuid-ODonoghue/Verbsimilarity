@@ -1,0 +1,3 @@
+White blood cells (WBCs) differential counting yields valued information about human health and disease. The current developed automated cell morphology equipments perform differential count which is based on blood smear image analysis. Previous identification systems for WBCs consist of successive dependent stages; pre-processing, segmentation, feature extraction, feature selection, and classification. There is a real need to employ deep learning methodologies so that the performance of previous WBCs identification systems can be increased. Classifying small limited datasets through deep learning systems is a major challenge and should be investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29173802

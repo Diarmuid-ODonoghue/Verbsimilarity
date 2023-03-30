@@ -1,0 +1,3 @@
+Minimally invasive surgery (MIS) has become the standard for many surgical procedures as it minimizes trauma, reduces infection rates and shortens hospitalization. However, the manipulation of objects in the surgical workspace can be difficult due to the unintuitive handling of instruments and limited range of motion. Apart from the advantages of robot-assisted systems such as augmented view or improved dexterity, both robotic and MIS techniques introduce drawbacks such as limited haptic perception and their major reliance on visual perception.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32323212

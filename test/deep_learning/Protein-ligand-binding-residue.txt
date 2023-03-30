@@ -1,0 +1,3 @@
+Knowledge of protein-ligand binding residues is important for understanding the functions of proteins and their interaction mechanisms. From experimentally solved protein structures, how to accurately identify its potential binding sites of a specific ligand on the protein is still a challenging problem. Compared with structure-alignment-based methods, machine learning algorithms provide an alternative flexible solution which is less dependent on annotated homogeneous protein structures. Several factors are important for an efficient protein-ligand prediction model, e.g. discriminative feature representation and effective learning architecture to deal with both the large-scale and severe imbalanced data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32091580

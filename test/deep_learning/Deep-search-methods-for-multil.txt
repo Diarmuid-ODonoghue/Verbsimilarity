@@ -1,0 +1,3 @@
+Many existing well-known multilayer design methods are based on so-called greedy algorithms. New deep search algorithms developed for needle optimization, gradual evolution, and design cleaner methods are presented. The algorithms possess machine learning features. The advantages of the deep search methods are demonstrated on a set of examples including the OIC Design Contest 2019.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32225357

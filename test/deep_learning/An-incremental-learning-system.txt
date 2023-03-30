@@ -1,0 +1,3 @@
+Atrial fibrillation (AF) is a type of arrhythmia with high incidence. Automatic AF detection methods have been studied in previous works. However, a model cannot be used all the time without any improvement. And updating model requires adequate data and cost. Therefore, this study aims at finding a low-cost way to choose learning samples and developing an incremental learning system for AF detection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31786450

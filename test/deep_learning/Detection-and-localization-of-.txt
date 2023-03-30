@@ -1,0 +1,3 @@
+To evaluate a deep learning based image analysis software for the detection and localization of distal radius fractures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32193036

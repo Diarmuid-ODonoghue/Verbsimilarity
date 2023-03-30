@@ -1,0 +1,3 @@
+To test the reliability and validity of shoulder joint angle measurements from the Microsoft Kinect™ for virtual rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26050135

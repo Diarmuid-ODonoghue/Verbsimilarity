@@ -1,0 +1,3 @@
+This chapter begins by a brief description of some of the different types of simulation tools and techniques that are being used to study self-motion perception, along with some of the advantages and disadvantages of the different interfaces. Subsequently, some of the current empirical work investigating multisensory self-motion perception using these technologies will be summarized, focusing mainly on visual, proprioceptive, and vestibular influences during full-body self-motion through space. Finally, the implications of this research for several applied areas will be briefly described.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22593878

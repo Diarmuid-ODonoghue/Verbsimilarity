@@ -1,0 +1,3 @@
+The chemical compound and drug name recognition plays an important role in chemical text mining, and it is the basis for automatic relation extraction and event identification in chemical information processing. So a high-performance named entity recognition system for chemical compound and drug names is necessary.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25810775

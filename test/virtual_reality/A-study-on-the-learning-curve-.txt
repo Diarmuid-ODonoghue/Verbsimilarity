@@ -1,0 +1,3 @@
+A robotic virtual reality simulator (dV-Trainer™, Mimic Technologies) has been accepted as an effective training tool for the da Vinci(®) Surgical System (Intuitive Surgical, Inc.) in previous reports. However, there are no data available so far on how much time is required for an individual using the simulator to become proficient. We investigated how long and how many performances it takes to gain proficiency with the robotic virtual reality simulator through the learning curve.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22401588

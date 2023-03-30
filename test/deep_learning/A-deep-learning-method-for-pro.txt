@@ -1,0 +1,3 @@
+The purpose of this study is to develop a deep learning (DL) method for producing four-dimensional computed tomography (4DCT) ventilation imaging and to evaluate the accuracy of the DL-based ventilation imaging against single-photon emission-computed tomography (SPECT) ventilation imaging (SPECT-VI). The performance of the DL-based method is assessed by comparing with density change- and Jacobian-based (HU and JAC) methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31883382

@@ -1,0 +1,3 @@
+When evaluating surgeons in the operating room, experienced physicians must rely on live or recorded video to assess the surgeon's technical performance, an approach prone to subjectivity and error. Owing to the large number of surgical procedures performed daily, it is infeasible to review every procedure; therefore, there is a tremendous loss of invaluable performance data that would otherwise be useful for improving surgical safety.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32227178

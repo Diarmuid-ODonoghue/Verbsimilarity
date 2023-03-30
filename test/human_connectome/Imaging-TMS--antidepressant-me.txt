@@ -1,0 +1,3 @@
+With the antidepressant efficacy of Transcranial Magnetic Stimulation well-established by several meta-analyses, there is growing interest in its mechanism of action. TMS has been shown to engage, and in some cases, normalize functional connectivity and neurotransmitter levels within networks dysfunctional in the depressed state. In this review, I will suggest candidate biomarkers, based on neuroimaging, that may be predictive of response to TMS. I will then review the effects of TMS on networks and neurotransmitter systems involved in depression. Throughout, I will also discuss how our current understanding of response predication and network engagement may be used to personalize treatment and optimize its efficacy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28420271

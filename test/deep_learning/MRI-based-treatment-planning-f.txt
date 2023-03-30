@@ -1,0 +1,3 @@
+The purpose of this work is to develop and validate a learning-based method to derive electron density from routine anatomical MRI for potential MRI-based SBRT treatment planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31192695

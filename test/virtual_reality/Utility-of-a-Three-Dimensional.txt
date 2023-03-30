@@ -1,0 +1,3 @@
+To improve lower extremity function and balance in elderly persons, we developed a novel, three-dimensional interactive augmented reality system (3D ARS). In this feasibility study, we assessed clinical and kinematic improvements, user participation, and the side effects of our system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26161353

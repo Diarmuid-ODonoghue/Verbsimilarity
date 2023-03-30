@@ -1,0 +1,3 @@
+Diabetic retinopathy (DR) is the leading cause of blindness worldwide, and therefore its early detection is important in order to reduce disease-related eye injuries. DR is diagnosed by inspecting fundus images. Since microaneurysms (MA) are one of the main symptoms of the disease, distinguishing this complication within the fundus images facilitates early DR detection. In this paper, an automatic analysis of retinal images using convolutional neural network (CNN) is presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31142335

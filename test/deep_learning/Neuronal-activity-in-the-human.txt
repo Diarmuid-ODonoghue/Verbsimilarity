@@ -1,0 +1,3 @@
+The subthalamic nucleus (STN), which receives excitatory inputs from the cortex and has direct connections with the inhibitory pathways of the basal ganglia, is well positioned to efficiently mediate action selection. Here, we use microelectrode recordings captured during deep brain stimulation surgery as participants engage in a decision task to examine the role of the human STN in action selection. We demonstrate that spiking activity in the STN increases when participants engage in a decision and that the level of spiking activity increases with the degree of decision conflict. These data implicate the STN as an important mediator of action selection during decision processes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22396419

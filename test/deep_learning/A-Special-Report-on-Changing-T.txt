@@ -1,0 +1,3 @@
+Cardiovascular disease (CVD) and stroke risk assessment have been largely based on the success of traditional statistically derived risk calculators such as Pooled Cohort Risk Score or Framingham Risk Score. However, over the last decade, automated computational paradigms such as machine learning (ML) and deep learning (DL) techniques have penetrated into a variety of medical domains including CVD/stroke risk assessment. This review is mainly focused on the changing trends in CVD/stroke risk assessment and its stratification from statistical-based models to ML-based paradigms using non-invasive carotid ultrasonography.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31041615

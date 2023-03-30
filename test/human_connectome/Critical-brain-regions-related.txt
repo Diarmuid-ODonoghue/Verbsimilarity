@@ -1,0 +1,3 @@
+To identify the critical brain regions associated with 7-days, 3 and 6-months aphasia severity using diffusion-weighted imaging (DWI) in acute post-stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30179751

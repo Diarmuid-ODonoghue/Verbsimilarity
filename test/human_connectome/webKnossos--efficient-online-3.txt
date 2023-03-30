@@ -1,0 +1,3 @@
+We report webKnossos, an in-browser annotation tool for 3D electron microscopic data. webKnossos provides flight mode, a single-view egocentric reconstruction method enabling trained annotator crowds to reconstruct at a speed of 1.5 ± 0.6 mm/h for axons and 2.1 ± 0.9 mm/h for dendrites in 3D electron microscopic data from mammalian cortex. webKnossos accelerates neurite reconstruction for connectomics by 4- to 13-fold compared with current state-of-the-art tools, thus extending the range of connectomes that can realistically be mapped in the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28604722

@@ -1,0 +1,3 @@
+The purpose of this study is to develop an image-based deep learning (DL) model to predict the 5-year risk of breast cancer on the basis of a single breast MR image from a screening examination.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30933651

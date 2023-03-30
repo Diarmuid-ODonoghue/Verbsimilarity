@@ -1,0 +1,3 @@
+Simulated environments present challenges to both clinical experts and novices in laparoscopic surgery. Experts and novices may have different expectations when confronted with a novel simulated environment. The LapSim is a computer-based virtual reality laparoscopic trainer. Our aim was to analyze the performance of experienced basic laparoscopists and novices during their first exposure to the LapSim Basic Skill set and Dissection module.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15718770

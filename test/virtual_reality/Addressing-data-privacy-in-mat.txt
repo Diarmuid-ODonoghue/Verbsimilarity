@@ -1,0 +1,3 @@
+Data confidentiality and shared use of research data are two desirable but sometimes conflicting goals in research with multi-center studies and distributed data. While ideal for straightforward analysis, confidentiality restrictions forbid creation of a single dataset that includes covariate information of all participants. Current approaches such as aggregate data sharing, distributed regression, meta-analysis and score-based methods can have important limitations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28882105

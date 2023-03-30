@@ -1,0 +1,3 @@
+According to current legislation, medical devices have to incorporate all the necessary information to eliminate or greatly minimise any problem associated with their use. However, the physical capacity of the actual device's packaging may frequently not be enough to contain all this information. To address this limitation, this study aimed to design and evaluate a prototype app for mobile devices applying augmented reality technology. The main feature of this kind of technology is combining virtual images with images from the real world.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31126843

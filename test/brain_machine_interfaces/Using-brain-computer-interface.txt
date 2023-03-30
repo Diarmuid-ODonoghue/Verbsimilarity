@@ -1,0 +1,3 @@
+The rapid expansion of research on Brain-Computer Interfaces (BCIs) is not only due to the promising solutions offered for persons with physical impairments. There is also a heightened need for understanding BCIs due to the challenges regarding ethics presented by new technology, especially in its impact on the relationship between man and machine. Here we endeavor to present a scoping review of current studies in the field to gain insight into the complexity of BCI use. By examining studies related to BCIs that employ social research methods, we seek to demonstrate the multitude of approaches and concerns from various angles in considering the social and human impact of BCI technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30845952

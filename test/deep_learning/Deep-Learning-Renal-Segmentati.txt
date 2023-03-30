@@ -1,0 +1,3 @@
+Convolutional neural networks (CNNs) have been shown to be powerful tools to assist with object detection and-like a human observer-may be trained based on a relatively small cohort of reference subjects. Rapid, accurate organ recognition in medical imaging permits a variety of new quantitative diagnostic techniques. In the case of therapy with targeted radionuclides, it may permit comprehensive radiation dose analysis in a manner that would often be prohibitively time-consuming using conventional methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29963496

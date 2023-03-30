@@ -1,0 +1,3 @@
+Recently, many studies demonstrated the efficacy of using Virtual Reality (VR) in clinical setting, and in particular for neuropsychological assessment. However reliability and usability of the test developed within virtual reality paradigm are often neglect. In this study we test both reliability and usability using well-known psychometrics methods for the Virtual Multiple Errands Test (VMET). In a first experiment, for the reliability, two independent researchers scored the test through several videos. For the usability assessment we analyzed 21 healthy participants and 3 patients with Parkinson's disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23792839

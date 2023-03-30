@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) have the potential to be valuable clinical tools. However, the varied nature of BCIs, combined with the large number of laboratories participating in BCI research, makes uniform performance reporting difficult. To address this situation, we present a tutorial on performance measurement in BCI research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24838070

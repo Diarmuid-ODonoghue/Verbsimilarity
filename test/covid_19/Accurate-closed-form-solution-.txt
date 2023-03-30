@@ -1,0 +1,3 @@
+An accurate closed-form solution is obtained to the SIR Epidemic Model through the use of Asymptotic Approximants (Barlow et al., 2017). The solution is created by analytically continuing the divergent power series solution such that it matches the long-time asymptotic behavior of the epidemic model. The utility of the analytical form is demonstrated through its application to the COVID-19 pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32362697

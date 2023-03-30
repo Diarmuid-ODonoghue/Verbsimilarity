@@ -1,0 +1,3 @@
+This paper describes the evolution of the design of Flatland Sound Service (FSS), a sound system for virtual reality required to support Project TOUCH (Telehealth Outreach for Unified Community Health), a multi-year collaboration between the Schools of Medicine at the state Universities of Hawaii and of New Mexico. Two virtual sonic environments specific case scenarios, a neurological trauma (Toma) and a virtual kidney nephron (Nephron), were developed using integrated services provided by FSS. Flatland is an open source visualization and virtual reality application development tool created at the University of New Mexico.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16404121

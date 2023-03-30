@@ -1,0 +1,3 @@
+Conventional video trainers lack the ability to assess the trainee objectively, but offer modalities that are often missing in virtual reality simulation, such as realistic haptic feedback. The ProMIS augmented reality laparoscopic simulator retains the benefit of a traditional box trainer, by using original laparoscopic instruments and tactile tasks, but additionally generates objective measures of performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19088648

@@ -1,0 +1,3 @@
+Despite the current era of "precision surgery", an unmet need for an optimal surgical planning and navigation still remains for most genitourinary malignancies. In this setting, the 3D virtual reconstruction of 2D cross-sectional imaging has been increasingly adopted to facilitate the surgeon in better understanding the surgical anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30293946

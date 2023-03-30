@@ -1,0 +1,3 @@
+Most neurological diseases are associated with abnormal brain asymmetries. Recent advances in automatic unsupervised techniques model normal brain asymmetries from healthy subjects only and treat anomalies as outliers. Outlier detection is usually done in a common standard coordinate space that limits its usability. To alleviate the problem, we extend a recent fully unsupervised supervoxel-based approach (SAAD) for abnormal asymmetry detection in the native image space of MR brain images. Experimental results using our new method, called N-SAAD, show that it can achieve higher accuracy in detection with considerably less false positives than a method based on unsupervised deep learning for a large set of MR-T1 images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31945935

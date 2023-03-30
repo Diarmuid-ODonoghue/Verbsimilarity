@@ -1,0 +1,3 @@
+Establishing relationships among brain structures and cognitive functions is a central task in cognitive neuroscience. Existing methods to establish associations among a set of function variables and a set of brain regions, such as dissociation logic and conjunction analysis, are hypothesis-driven. We propose a new data-driven approach to structure-function association analysis. We validated it by analyzing a simulated atrophy study. We applied the proposed method to a study of aging and dementia. We found that the most significant age-related and dementia-related volume reductions were in the hippocampal formation and the supramarginal gyrus, respectively. These findings suggest a multi-component brain-aging model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24880892

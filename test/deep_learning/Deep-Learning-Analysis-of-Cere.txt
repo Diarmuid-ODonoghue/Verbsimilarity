@@ -1,0 +1,3 @@
+Deep learning algorithms of cerebral blood flow were used to classify cognitive impairment and frailty in people living with HIV (PLWH). Feature extraction techniques identified brain regions that were the strongest predictors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31714429

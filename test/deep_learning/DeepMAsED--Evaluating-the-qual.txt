@@ -1,0 +1,3 @@
+Methodological advances in metagenome assembly are rapidly increasing in the number of published metagenome assemblies. However, identifying misassemblies is challenging due to a lack of closely related reference genomes that can act as pseudo ground truth. Existing reference-free methods are no longer maintained, can make strong assumptions that may not hold across a diversity of research projects, and have not been validated on large scale metagenome assemblies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32096824

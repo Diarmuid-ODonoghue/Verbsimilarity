@@ -1,0 +1,3 @@
+To evaluate a reverse transcription loop-mediated isothermal amplification (RT-LAMP) assay for detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and compare it with RT-PCR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32276116

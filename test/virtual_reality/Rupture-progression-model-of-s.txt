@@ -1,0 +1,3 @@
+Virtual reality (VR) simulation is expected to be advantageous to surgical training for invasive operations such as incision and dissection that are unrepeatable in the real world. This study focuses on ablation in order to provide a simulation model for soft tissue rupture progression. To simulate soft tissue handling by two or more manipulators, the model must calculate the stress accumulation at the tip of a rupture. This stress accumulation is affected by the stress condition caused by the manipulators. Herein, the authors propose a method to integrate multiple stresses with two different hypotheses. The proposed model was evaluated through the simulation of primitive board ablation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23400164

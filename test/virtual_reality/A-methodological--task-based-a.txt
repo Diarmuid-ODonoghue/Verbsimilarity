@@ -1,0 +1,3 @@
+Procedure-Specific Simulations (PSS) are 3D realistic simulations that provide a platform to practice complete surgical procedures in a virtual-reality environment. While PSS have the potential to improve surgeons' proficiency, there are no existing standards or guidelines for PSS development in a structured manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27376721

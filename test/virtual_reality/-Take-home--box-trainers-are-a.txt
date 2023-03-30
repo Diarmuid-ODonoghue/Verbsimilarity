@@ -1,0 +1,3 @@
+Practice on virtual reality simulators (VRSs) has been shown to improve surgical performance. However, VRSs are expensive and usually housed in surgical skills centers that may be inaccessible at times convenient for surgical trainees to practice. Conversely, box trainers (BT) are inexpensive and can be used anywhere at anytime. This study assesses "take-home" BTs as an alternative to VRS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28601335

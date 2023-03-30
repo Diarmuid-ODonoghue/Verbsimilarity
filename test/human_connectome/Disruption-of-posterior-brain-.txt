@@ -1,0 +1,3 @@
+Resting-state functional MRI has been proposed as a new biomarker of prodromal neurodegenerative disorders, but it has been poorly investigated in the idiopathic form of rapid-eye-movement sleep behavior disorder (IRBD), a clinical harbinger of subsequent synucleinopathy. Particularly, a complex-network approach has not been tested to study brain functional connectivity in IRBD patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31911344

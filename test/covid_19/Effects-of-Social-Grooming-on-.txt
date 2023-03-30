@@ -1,0 +1,3 @@
+This study implements a computer-assisted content analysis to identify which social grooming factors reduce social media users' incivility when commenting or posting about the COVID-19 situation in South Korea. In addition, this study conducts semantic network analysis to interpret qualitatively how people express their thoughts. The findings suggest that social network size is a negative predictor of incivility. Moreover, Twitter users who have built larger networks and gained positive responses from others are less likely to use uncivil language. Lastly, linguistic choice among users is different depending on the size of their social network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32267163

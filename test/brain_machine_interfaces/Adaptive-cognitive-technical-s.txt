@@ -1,0 +1,3 @@
+Adaptive cognitive technical systems are capable of sensing the internal state of its user and of adapting its behavior appropriately to those measurements to improve the usability of the system. One important example of such user state is the user's mental workload level. This paper gives an introduction to the topic of workload recognition and adaptation. It reviews the literature on recognition of workload from physiological signals and on how those user state estimates are employed to improve human-machine interaction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24997342

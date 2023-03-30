@@ -1,0 +1,3 @@
+Electroencephalography (EEG)-based brain-computer interfaces (BCIs), particularly those using motor-imagery (MI) data, have the potential to become groundbreaking technologies in both clinical and entertainment settings. MI data is generated when a subject imagines the movement of a limb. This paper reviews state-of-the-art signal processing techniques for MI EEG-based BCIs, with a particular focus on the feature extraction, feature selection and classification techniques used. It also summarizes the main applications of EEG-based BCIs, particularly those based on MI data, and finally presents a detailed discussion of the most prevalent challenges impeding the development and commercialization of EEG-based BCIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30909489

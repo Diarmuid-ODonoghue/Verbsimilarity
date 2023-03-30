@@ -1,0 +1,3 @@
+Apart from the clinical efficacy of high frequency spinal cord stimulation at 10 kHz, the underlying mechanism of action remains unclear. In parallel with spinal or segmental theories, supraspinal hypotheses have been recently proposed. In order to unveil hidden altered brain connectome patterns, a resting state functional magnetic resonance imaging (rsfMRI) protocol was performed in subjects routinely treated for back and/or leg pain with high-frequency spinal cord stimulation (HF-SCS) HF-SCS at 10 kHz.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30974016

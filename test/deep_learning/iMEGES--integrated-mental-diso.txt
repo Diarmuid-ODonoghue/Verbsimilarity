@@ -1,0 +1,3 @@
+A range of rare and common genetic variants have been discovered to be potentially associated with mental diseases, but many more have not been uncovered. Powerful integrative methods are needed to systematically prioritize both variants and genes that confer susceptibility to mental diseases in personal genomes of individual patients and to facilitate the development of personalized treatment or therapeutic approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30591030

@@ -1,0 +1,3 @@
+We describe a fluorescence in situ hybridization method that permits detection of the localization and abundance of single mRNAs (smFISH) in cleared whole-mount adult Drosophila brains. The approach is rapid and multiplexable and does not require molecular amplification; it allows facile quantification of mRNA expression with subcellular resolution on a standard confocal microscope. We further demonstrate single-mRNA detection across the entire brain using a custom Bessel beam structured illumination microscope (BB-SIM).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28581495

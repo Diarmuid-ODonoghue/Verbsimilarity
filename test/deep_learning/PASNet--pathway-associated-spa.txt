@@ -1,0 +1,3 @@
+Predicting prognosis in patients from large-scale genomic data is a fundamentally challenging problem in genomic medicine. However, the prognosis still remains poor in many diseases. The poor prognosis may be caused by high complexity of biological systems, where multiple biological components and their hierarchical relationships are involved. Moreover, it is challenging to develop robust computational solutions with high-dimension, low-sample size data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30558539

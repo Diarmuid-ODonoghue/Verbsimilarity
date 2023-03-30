@@ -1,0 +1,3 @@
+The human epigenome has been experimentally characterized by thousands of measurements for every basepair in the human genome. We propose a deep neural network tensor factorization method, Avocado, that compresses this epigenomic data into a dense, information-rich representation. We use this learned representation to impute epigenomic data more accurately than previous methods, and we show that machine learning models that exploit this representation outperform those trained directly on epigenomic data on a variety of genomics tasks. These tasks include predicting gene expression, promoter-enhancer interactions, replication timing, and an element of 3D chromatin architecture.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32228704

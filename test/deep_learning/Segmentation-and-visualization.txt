@@ -1,0 +1,3 @@
+Left atrium segmentation and visualization serve as a fundamental and crucial role in clinical analysis and understanding of atrial fibrillation. However, most of the existing methods are directly transmitting information, which may cause redundant information to be passed to affect segmentation performance. Moreover, they did not further consider atrial visualization after segmentation, which leads to a lack of understanding of the essential atrial anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32103401

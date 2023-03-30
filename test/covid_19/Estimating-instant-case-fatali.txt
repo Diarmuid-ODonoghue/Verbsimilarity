@@ -1,0 +1,3 @@
+The outbreak of coronavirus disease 2019 (COVID-19) in China has been basically controlled. However, the global epidemic of COVID-19 is worsening. We established a method to estimate instant case fatality rate and cure rate of COVID-19 in China.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32339723

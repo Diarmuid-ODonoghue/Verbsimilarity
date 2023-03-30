@@ -1,0 +1,3 @@
+Common spatial pattern (CSP) has been an effective technique for feature extraction in electroencephalography (EEG) based brain computer interfaces (BCIs). However, motor imagery EEG signal feature extraction using CSP generally depends on the selection of the frequency bands to a great extent.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29297303

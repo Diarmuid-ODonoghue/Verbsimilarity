@@ -1,0 +1,3 @@
+Different techniques for neurofeedback of voluntary brain activations are currently being explored for clinical application in brain disorders. One of the most frequently used approaches is the self-regulation of oscillatory signals recorded with electroencephalography (EEG). Many patients are, however, unable to achieve sufficient voluntary control of brain activity. This could be due to the specific anatomical and physiological changes of the patient's brain after the lesion, as well as to methodological issues related to the technique chosen for recording brain signals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25538591

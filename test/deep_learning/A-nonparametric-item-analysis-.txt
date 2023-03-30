@@ -1,0 +1,3 @@
+Although there have been numerous studies conducted on the psychometric properties of Biggs' Learning Process Questionnaire (LPQ), these have involved the use of traditional omnibus measures of scale quality such as corrected item total correlations, internal consistency estimates of reliability, and factor analysis. However, these omnibus measures of scale quality are sample dependent and fail to model item responses as a function of trait level. And since the item trait relationship is typically nonlinear, traditional factor analytic methods are inappropriate.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14672151

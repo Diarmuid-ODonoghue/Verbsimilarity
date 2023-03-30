@@ -1,0 +1,3 @@
+White matter disruptions in schizophrenia have been widely reported, but it remains unclear whether these abnormalities differ between illness stages. We mapped the connectome in patients with recently diagnosed and chronic schizophrenia and investigated the extent and overlap of white matter connectivity disruptions between these illness stages.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28528586

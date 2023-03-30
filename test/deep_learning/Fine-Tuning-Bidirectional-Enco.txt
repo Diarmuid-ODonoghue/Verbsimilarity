@@ -1,0 +1,3 @@
+The bidirectional encoder representations from transformers (BERT) model has achieved great success in many natural language processing (NLP) tasks, such as named entity recognition and question answering. However, little prior work has explored this model to be used for an important task in the biomedical and clinical domains, namely entity normalization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31516126

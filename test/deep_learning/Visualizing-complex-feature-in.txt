@@ -1,0 +1,3 @@
+Visualization tools for deep learning models typically focus on discovering key input features without considering how such low level features are combined in intermediate layers to make decisions. Moreover, many of these methods examine a network's response to specific input examples that may be insufficient to reveal the complexity of model decision making.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31324140

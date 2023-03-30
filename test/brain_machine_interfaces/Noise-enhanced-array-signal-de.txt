@@ -1,0 +1,3 @@
+This paper explores how noise can improve prediction accuracy of the Event-Related Potential (ERP) based on P300 signals. We propose an array of ICA-Based P300 processing systems with additive white Gaussian noise. The array system attains maximum accuracy when noise intensity is not zero and thus the system shows the stochastic resonance effect. The prediction accuracy increases as the number of stages of the array increases. Experimental results show that increasing the array size with the proper amount of noise can improve the accuracy of the original P300 signal detection using ICA-based subspace projection technique.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110668

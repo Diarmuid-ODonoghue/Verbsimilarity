@@ -1,0 +1,3 @@
+The incorporation of cone-beam computed tomography (CBCT) has allowed for enhanced image-guided radiation therapy. While CBCT allows for daily 3D imaging, images suffer from severe artifacts, limiting the clinical potential of CBCT. In this work, a deep learning-based method for generating high quality corrected CBCT (CCBCT) images is proposed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31206709

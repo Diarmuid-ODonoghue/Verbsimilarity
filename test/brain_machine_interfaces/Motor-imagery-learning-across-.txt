@@ -1,0 +1,3 @@
+In brain-computer interfaces (BCIs), electrical brain signals during motor imagery are utilized as commands connecting the brain to a computer. To use BCI in patients with stroke, unique brain signal changes should be characterized during motor imagery process. This study aimed to examine the trial-dependent motor-imagery-related activities in stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26410210

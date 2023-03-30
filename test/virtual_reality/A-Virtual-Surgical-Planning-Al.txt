@@ -1,0 +1,3 @@
+The absence of a tumor specimen from which to obtain measurements at the time of delayed maxillomandibular reconstruction introduces degrees of uncertainty, creating the need for substantial intraoperative guesswork by the surgeon. Using the virtual surgical planning environment, the size and shape of missing bony elements is determined, effectively "recreating the defect" in advance of the surgery. Three virtual surgical planning techniques assist the reconstructive surgeon: patient-specific modeling, mirroring the normal contralateral side, and scaled normative data. To facilitate delayed reconstruction a hierarchical algorithm using virtual surgical planning techniques was developed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30676509

@@ -1,0 +1,3 @@
+Motor imagery (MI) induced EEG patterns are widely used as control signals for brain-computer interfaces (BCIs). Kinetic and kinematic factors have been proved to be able to change EEG patterns during motor execution and motor imagery. However, to our knowledge, there is still no literature reporting an effective online MI-BCI using kinetic factor regulated EEG oscillations. This study proposed a novel MI-BCI paradigm in which users can online output multiple commands by imagining clenching their right hand with different force loads.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28893295

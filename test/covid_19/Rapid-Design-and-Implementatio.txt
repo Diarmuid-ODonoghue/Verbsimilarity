@@ -1,0 +1,3 @@
+To rapidly deploy a digital patient-facing self-triage and self-scheduling tool in a large academic health system to address the COVID-19 pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32267928

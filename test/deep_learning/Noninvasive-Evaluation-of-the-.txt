@@ -1,0 +1,3 @@
+To evaluate the diagnostic performance of deep learning with a multichannel fusion three-dimensional convolutional neural network (MCF-3DCNN) in the differentiation of the pathologic grades of hepatocellular carcinoma (HCC) based on dynamic contrast-enhanced magnetic resonance images (DCE-MR images).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31183380

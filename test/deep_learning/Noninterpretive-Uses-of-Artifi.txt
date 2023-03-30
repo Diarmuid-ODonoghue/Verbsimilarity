@@ -1,0 +1,3 @@
+We deem a computer to exhibit artificial intelligence (AI) when it performs a task that would normally require intelligent action by a human. Much of the recent excitement about AI in the medical literature has revolved around the ability of AI models to recognize anatomy and detect pathology on medical images, sometimes at the level of expert physicians. However, AI can also be used to solve a wide range of noninterpretive problems that are relevant to radiologists and their patients. This review summarizes some of the newer noninterpretive uses of AI in radiology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32059956

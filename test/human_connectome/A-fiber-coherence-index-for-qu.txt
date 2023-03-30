@@ -1,0 +1,3 @@
+The diffusion MRI "b-vector" table describing the diffusion sensitization direction can be flipped and permuted in dimension due to different orientation conventions used in scanners and incorrect or improperly utilized file formats. This can lead to incorrect fiber orientation estimates and subsequent tractography failure. Here, we present an automated quality control procedure to detect when the b-table is flipped and/or permuted incorrectly.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30682379

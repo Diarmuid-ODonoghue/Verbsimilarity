@@ -1,0 +1,3 @@
+This study aimed to present a simple model to follow the evolution of the COVID-19 (CV-19) pandemic in different countries. The cumulative distribution function (CDF) and its first derivative were employed for this task. The simulations showed that it is almost impossible to predict based on the initial CV-19 cases (1st 2nd or 3rd weeks) how the pandemic will evolve. However, the results presented here revealed that this approach can be used as an alternative for the exponential growth model, traditionally employed as a prediction model, and serve as a valuable tool for investigating how protective measures are changing the evolution of the pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32334161

@@ -1,0 +1,3 @@
+A novel computer-aided detection (CAD) scheme for lung nodule detection using a 3D deep convolutional neural network combined with a multi-scale prediction strategy is proposed to assist radiologists by providing a second opinion on accurate lung nodule detection, which is a crucial step in early diagnosis of lung cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30390571

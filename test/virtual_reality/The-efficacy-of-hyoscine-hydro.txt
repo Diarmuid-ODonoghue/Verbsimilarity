@@ -1,0 +1,3 @@
+Regan and Price (1994) investigated the frequency of occurrence and severity of side-effects of using an immersion virtual reality system in 150 subjects: 61% of the subjects reported symptoms of malaise at some point during a 20-min immersion and 10-min post-immersion period. This paper describes a double-blind placebo-controlled study that investigated whether 300 microgram of hyoscine/scopolamine hydrobromide administered to subjects prior to immersion in virtual reality was effective in reducing side-effects experienced during immersion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/8775399

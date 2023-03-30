@@ -1,0 +1,3 @@
+Accurate and reliable detection of tremor onset in Parkinson's disease (PD) is critical to the success of adaptive deep brain stimulation (aDBS) therapy. Here, we investigated the potential use of feature engineering and machine learning methods for more accurate detection of rest tremor in PD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31744673

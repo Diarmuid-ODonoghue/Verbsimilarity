@@ -1,0 +1,3 @@
+In this paper, virtual reality techniques are used to define an intuitive interface to a nanoscale manipulation device. This device utilizes optical methods to focus laser light to trap and reposition nano-to-microscopic particles. The underlying physics are simulated by the use of Lagrange mechanics. A unique control method for the manipulation of the particles is also provided. The user can naturally grab and steer the particles. Behind the scene, a complex computation is performed to find the new location of the potential field induced by the laser beam that would move the particles accordingly. Haptic feedback is used to constrain the steering motion within the physical capability of the potential field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27413611

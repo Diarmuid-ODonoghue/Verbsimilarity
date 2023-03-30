@@ -1,0 +1,3 @@
+In this work we propose a probabilistic graphical model framework that uses language priors at the level of words as a mechanism to increase the performance of P300-based spellers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25686293

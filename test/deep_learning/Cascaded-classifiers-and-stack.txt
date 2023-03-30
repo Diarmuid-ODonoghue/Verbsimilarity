@@ -1,0 +1,3 @@
+Detection and classification of pulmonary nodules are critical tasks in medical image analysis. The Lung Image Database Consortium (LIDC) database is a widely used resource for small pulmonary nodule classification research. This dataset is comprised of nodule characteristic evaluations and CT scans of patients. Although these characteristics are utilized in several studies, they can be used to improve classification performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30415720

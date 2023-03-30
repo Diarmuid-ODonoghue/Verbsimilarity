@@ -1,0 +1,3 @@
+A large number of healthcare workers (HCWs) were infected by SARS-CoV-2 during the ongoing outbreak of COVID-19 in Wuhan, China. Hospitals are significant epicenters for the human-to-human transmission of the SARS-CoV-2 for HCWs, patients, and visitors. No data has been reported on the details of hospital environmental contamination status in the epicenter of Wuhan.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32360881

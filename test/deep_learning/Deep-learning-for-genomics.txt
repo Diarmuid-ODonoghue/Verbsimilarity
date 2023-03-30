@@ -1,0 +1,3 @@
+Application of deep learning to genomic datasets is an exciting area that is rapidly developing and is primed to revolutionize genome analysis. We embrace the potential that deep learning holds for understanding genome biology, and we encourage further advances in this area, extending to all aspects of genomics research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30578416

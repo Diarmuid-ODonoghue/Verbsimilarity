@@ -1,0 +1,3 @@
+Recent deep learning models have shown remarkable accuracy for the diagnostic classification. However, they have limitations in clinical application due to the gap between the training cohorts and real-world data. We aimed to develop a model trained only by normal brain PET data with an unsupervised manner to identify an abnormality in various disorders as imaging data of the clinical routine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31003928

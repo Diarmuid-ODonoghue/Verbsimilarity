@@ -1,0 +1,3 @@
+To use resting-state functional magnetic resonance (MR) imaging and graph theory approaches to systematically investigate the topological organization of the functional connectome of patients with posttraumatic stress disorder (PTSD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25848901

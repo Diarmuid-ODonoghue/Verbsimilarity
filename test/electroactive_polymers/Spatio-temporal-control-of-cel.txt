@@ -1,0 +1,3 @@
+Coculture control: We report a combined photochemical and electroactive self-assembled monolayer (SAM)-based substrate strategy to generate a coculture platform with spatial and temporal control of cell-cell interactions. These dynamic substrates can present a variety of ligands on the surface for biospecific interactions between the ligands and cell surface receptors. Photopatterning enables the ligands to be immobilized in patterns and even gradients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19551797

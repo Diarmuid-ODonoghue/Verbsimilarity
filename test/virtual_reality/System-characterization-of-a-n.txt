@@ -1,0 +1,3 @@
+Natural orifice translumenal endoscopic surgery (NOTES) is a minimally invasive procedure, which utilizes the body's natural orifices to gain access to the peritoneal cavity. The VTEST(©) is a virtual reality NOTES simulator developed at the CeMSIM at RPI to train surgeons in NOTES. A novel 2 DOF decoupled haptic device was designed and built for this simulator. The haptic device can render 5.62 N and 190.05 N-mm of continuous force and torque respectively. In this work we have evaluated the haptic interface and developed a model to accurately describe the system behavior, to further incorporate into an impedance type controller for realistic haptic rendering in the VTEST(©).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25569975

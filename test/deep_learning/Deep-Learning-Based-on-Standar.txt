@@ -1,0 +1,3 @@
+Biomarkers for disease-specific survival (DSS) in early-stage melanoma are needed to select patients for adjuvant immunotherapy and accelerate clinical trial design. We present a pathology-based computational method using a deep neural network architecture for DSS prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31636101

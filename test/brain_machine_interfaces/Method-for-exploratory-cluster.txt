@@ -1,0 +1,3 @@
+The validity of ensemble averaging on event-related potential (ERP) data has been questioned, due to its assumption that the ERP is identical across trials. Thus, there is a need for preliminary testing for cluster structure in the data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25698176

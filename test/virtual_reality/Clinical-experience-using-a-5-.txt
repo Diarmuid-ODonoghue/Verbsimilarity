@@ -1,0 +1,3 @@
+Current literature views safe gait as a complex task, relying on motor and cognitive resources. The use of virtual reality (VR) in gait training offers a multifactorial approach, showing positive effects on mobility, balance, and fall risk in elderly people and individuals with neurological disorders. This form of training has been described as a viable research tool; however, it has not been applied routinely in clinical practice. Recently, VR was used to develop an adjunct training method for use by physical therapists in an ambulatory clinical setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24786944

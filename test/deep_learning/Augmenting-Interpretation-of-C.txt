@@ -1,0 +1,3 @@
+Pneumonia is a common clinical diagnosis for which chest radiographs are often an important part of the diagnostic workup. Deep learning has the potential to expedite and improve the clinical interpretation of chest radiographs. While earlier approaches have emphasized the feasibility of "binary classification" to accomplish this task, alternative strategies may be possible. We explore the feasibility of a "semantic segmentation" deep learning approach to highlight the potential foci of pneumonia on frontal chest radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32205817

@@ -1,0 +1,3 @@
+Virtual reality has the potential to change the way we work. We envision the future office worker to be able to work productively everywhere solely using portable standard input devices and immersive head-mounted displays. Virtual reality has the potential to enable this, by allowing users to create working environments of their choice and by relieving them from physical world limitations, such as constrained space or noisy environments. In this paper, we investigate opportunities and challenges for realizing this vision and discuss implications from recent findings of text entry in virtual reality as a core office task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30668459

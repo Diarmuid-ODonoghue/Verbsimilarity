@@ -1,0 +1,3 @@
+Two main learning approaches adopted by students have been identified by research: deep (seeking for meaning motivated by interest in the subject matter) and surface (rote-learning motivated by fear of failure). There is evidence that learning approach is influenced by learning environment (e.g. Trigwell et al. 1999). Online courses pose the challenge of designing software that will encourage the more desirable approach to learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19117218

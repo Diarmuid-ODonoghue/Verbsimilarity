@@ -1,0 +1,3 @@
+Simulation training in endovascular surgery provides opportunities for trainees to practice and learn from non-patient based experience. Several types of endovascular simulators are available commercially. Previous studies on endovascular simulation training can be categorized into trials in which only a simulator was used when measuring performance metrics or "trials within simulation"; patient specific procedure rehearsals; and randomized, controlled trials (RCTs) or translational studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26684597

@@ -1,0 +1,3 @@
+Deep learning is an emerging technique that allows us to capture imaging information beyond the visually recognizable level of a human being. Because of the anatomic characteristics and location, on-board target verification for radiation delivery to pancreatic tumors is a challenging task. Our goal was to use a deep neural network to localize the pancreatic tumor target on kV x-ray images acquired using an on-board imager for image guided radiation therapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31201892

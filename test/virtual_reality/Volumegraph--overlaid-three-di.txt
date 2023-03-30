@@ -1,0 +1,3 @@
+We have developed an overlaid three-dimensional image (Volumegraph)-guided navigation system that allows navigation during operative procedures. The three-dimensional image is superimposed on the patient's head and body via a semi-transparent mirror. The Volumegraph can display three-dimensional images in the air by a light beam which is based on CT/MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9711690

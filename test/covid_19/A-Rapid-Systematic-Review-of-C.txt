@@ -1,0 +1,3 @@
+The emergence of SARS-CoV-2 has presented clinicians with a difficult therapeutic dilemma. With supportive care as the current mainstay of treatment, the fatality rate of COVID-19 is 6.9%. There are currently several trials assessing the efficacy of different antivirals as treatment. Of these, Chloroquine (CQ) and derivative, Hydroxychloroquine (HCQ), have garnered the most attention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32359203

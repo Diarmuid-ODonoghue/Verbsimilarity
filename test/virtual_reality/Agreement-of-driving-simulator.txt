@@ -1,0 +1,3 @@
+On-road testing is considered the standard for assessment of driving performance; however, it lacks standardization. In contrast, driving simulators provide controlled experimental settings in a virtual reality environment. This study compares both testing conditions in patients with binocular visual field defects due to bilateral glaucomatous optic neuropathy or due to retro-chiasmal visual pathway lesions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30251198

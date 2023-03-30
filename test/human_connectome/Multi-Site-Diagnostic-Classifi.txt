@@ -1,0 +1,3 @@
+A lack of a sufficiently large sample at single sites causes poor generalizability in automatic diagnosis classification of heterogeneous psychiatric disorders such as schizophrenia based on brain imaging scans. Advanced deep learning methods may be capable of learning subtle hidden patterns from high dimensional imaging data, overcome potential site-related variation, and achieve reproducible cross-site classification. However, deep learning-based cross-site transfer classification, despite less imaging site-specificity and more generalizability of diagnostic models, has not been investigated in schizophrenia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29622496

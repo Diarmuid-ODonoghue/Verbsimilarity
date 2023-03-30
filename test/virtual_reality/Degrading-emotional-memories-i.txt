@@ -1,0 +1,3 @@
+In Eye Movement and Desensitization and Reprocessing (EMDR) therapy, a dual-task approach is used: patients make horizontal eye movements while they recall aversive memories. Studies showed that this reduces memory vividness and/or emotionality. A strong explanation is provided by working memory theory, which suggests that other taxing dual-tasks are also effective. Experiment 1 tested whether a visuospatial task which was carried out while participants were blindfolded taxes working memory. Experiment 2 tested whether this task degrades negative memories induced by a virtual reality (VR) paradigm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26999558

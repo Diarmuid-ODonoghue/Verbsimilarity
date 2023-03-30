@@ -1,0 +1,3 @@
+With the rapid development of deep sequencing techniques in the recent years, enhancers have been systematically identified in such projects as FANTOM and ENCODE, forming genome-wide landscapes in a series of human cell lines. Nevertheless, experimental approaches are still costly and time consuming for large scale identification of enhancers across a variety of tissues under different disease status, making computational identification of enhancers indispensable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29219068

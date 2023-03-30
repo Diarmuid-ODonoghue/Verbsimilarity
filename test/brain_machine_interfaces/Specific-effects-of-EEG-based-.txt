@@ -1,0 +1,3 @@
+Using EEG based neurofeedback (NF), the activity of the brain is modulated directly and, therefore, the cortical substrates of cognitive functions themselves. In the present study, we investigated the ability of stroke patients to control their own brain activity via NF and evaluated specific effects of different NF protocols on cognition, in particular recovery of memory.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26625906

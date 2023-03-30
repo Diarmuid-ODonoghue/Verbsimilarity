@@ -1,0 +1,3 @@
+Computerized management of medical information and 3D imaging has become the norm in everyday medical practice. Surgeons exploit these emerging technologies and bring information previously confined to the radiology rooms into the operating theatre. The paper reports the authors' experience with integrated stereoscopic 3D-rendered images in the da Vinci surgeon console.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23239589

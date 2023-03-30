@@ -1,0 +1,3 @@
+Individual carbon fiber microelectrodes can record unit activity in both acute and semi-chronic (∼1 month) implants. Additionally, new methods have been developed to insert a 16 channel array of carbon fiber microelectrodes. Before assessing the in vivo long-term viability of these arrays, accelerated soak tests were carried out to determine the most stable site coating material. Next, a multi-animal, multi-month, chronic implantation study was carried out with carbon fiber microelectrode arrays and silicon electrodes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27705958

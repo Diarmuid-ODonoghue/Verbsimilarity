@@ -1,0 +1,3 @@
+The purpose of this study is to introduce and evaluate the mixed structure regularization (MSR) approach for a deep sparse autoencoder aimed at unsupervised abnormality detection in medical images. Unsupervised abnormality detection based on identifying outliers using deep sparse autoencoders is a very appealing approach for computer-aided detection systems as it requires only healthy data for training rather than expert annotated abnormality. However, regularization is required to avoid overfitting of the network to the training data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30821364

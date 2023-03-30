@@ -1,0 +1,3 @@
+One of the main goals of brain-machine interface (BMI) research is to restore function to people with paralysis. Currently, multiple BMI design features are being investigated, based on various input modalities (externally applied and surgically implantable sensors) and output modalities (e.g. control of computer systems, prosthetic arms, and functional electrical stimulation systems). While these technologies may eventually provide some level of benefit, they each carry associated burdens for end-users. We sought to assess the attitudes of people with paralysis toward using various technologies to achieve particular benefits, given the burdens currently associated with the use of each system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26169880

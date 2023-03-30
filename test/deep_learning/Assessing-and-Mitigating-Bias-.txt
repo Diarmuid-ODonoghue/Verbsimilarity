@@ -1,0 +1,3 @@
+Deep learning algorithms derived in homogeneous populations may be poorly generalizable and have the potential to reflect, perpetuate, and even exacerbate racial/ethnic disparities in health and health care. In this study, we aimed to (1) assess whether the performance of a deep learning algorithm designed to detect low left ventricular ejection fraction using the 12-lead ECG varies by race/ethnicity and to (2) determine whether its performance is determined by the derivation population or by racial variation in the ECG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32064914

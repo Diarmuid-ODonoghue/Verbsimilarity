@@ -1,0 +1,3 @@
+To explore the prognostic value and the role for treatment decision of pathological microscopic features in patients with nasopharyngeal carcinoma (NPC) using the method of deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31860791

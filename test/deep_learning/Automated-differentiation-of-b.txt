@@ -1,0 +1,3 @@
+To develop and evaluate the feasibility of an objective method using artificial intelligence (AI) and image processing in a semi-automated fashion for tumour-to-cortex peak early-phase enhancement ratio (PEER) in order to differentiate CD117(+) oncocytoma from the chromophobe subtype of renal cell carcinoma (ChRCC) using convolutional neural networks (CNNs) on computed tomography imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31901213

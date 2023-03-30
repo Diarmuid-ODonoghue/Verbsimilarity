@@ -1,0 +1,3 @@
+To evaluate the feasibility and usability of an assistive technology (AT) prototype designed to be operated with conventional/alternative input channels and a P300-based brain-computer interface (BCI) in order to provide users who have different degrees of muscular impairment resulting from amyotrophic lateral sclerosis (ALS) with communication and environmental control applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25721547

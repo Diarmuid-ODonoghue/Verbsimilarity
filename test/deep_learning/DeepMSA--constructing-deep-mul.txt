@@ -1,0 +1,3 @@
+The success of genome sequencing techniques has resulted in rapid explosion of protein sequences. Collections of multiple homologous sequences can provide critical information to the modeling of structure and function of unknown proteins. There are however no standard and efficient pipeline available for sensitive multiple sequence alignment (MSA) collection. This is particularly challenging when large whole-genome and metagenome databases are involved.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31738385

@@ -1,0 +1,3 @@
+Our aim was to evaluate the performance of machine learning (ML), integrating clinical parameters with coronary artery calcium (CAC), and automated epicardial adipose tissue (EAT) quantification, for the prediction of long-term risk of myocardial infarction (MI) and cardiac death in asymptomatic subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31853543

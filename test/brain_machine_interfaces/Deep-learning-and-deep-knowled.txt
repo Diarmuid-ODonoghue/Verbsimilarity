@@ -1,0 +1,3 @@
+This paper argues that Brain-Inspired Spiking Neural Network (BI-SNN) architectures can learn and reveal deep in time-space functional and structural patterns from spatio-temporal data. These patterns can be represented as deep knowledge, in a partial case in the form of deep spatio-temporal rules. This is a promising direction for building new types of Brain-Computer Interfaces called Brain-Inspired Brain-Computer Interfaces (BI-BCI). A theoretical framework and its experimental validation on deep knowledge extraction and representation using SNN are presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31568895

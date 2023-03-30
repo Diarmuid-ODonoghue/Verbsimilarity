@@ -1,0 +1,3 @@
+Since December 2019, the newly identified coronavirus SARS-CoV-2 has caused a massive health crisis worldwide and resulted in over 70,000 COVID-19 infections so far. Clinical drugs targeting SARS-CoV-2 are urgently needed to decrease the high fatality rate of confirmed COVID-19 patients. Traditional de novo drug discovery needs more than 10 years, so drug repurposing seems the best option currently to find potential drugs for treating COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32239142

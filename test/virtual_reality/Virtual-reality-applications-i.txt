@@ -1,0 +1,3 @@
+Virtual reality technology has great potential to benefit the practice of neurosurgery. Standard 2-dimensional radiologic data of the brain can be transformed into a 3-dimensional virtual object which closely resembles the actual brain, and allows the neurosurgeon to interact it in a realistic manner. By incorporating haptics technology, simulated tactile sensations can also be conveyed to the user. This paper will describe the scope and applications of virtual reality in neurosurgery, especially in the areas of education, training, pre-operative planning and rehearsals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17281153

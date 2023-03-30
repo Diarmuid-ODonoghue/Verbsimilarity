@@ -1,0 +1,3 @@
+Pseudoprogression (PsP) occurs in 20-30% of patients with glioblastoma multiforme (GBM) after receiving the standard treatment. PsP exhibits similarities in shape and intensity to the true tumor progression (TTP) of GBM on the follow-up magnetic resonance imaging (MRI). These similarities pose challenges to the differentiation of these types of progression and hence the selection of the appropriate clinical treatment strategy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31885094

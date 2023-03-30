@@ -1,0 +1,3 @@
+It remains difficult to characterize the source of pain in knee joints either using radiographs or magnetic resonance imaging (MRI). We sought to determine if advanced machine learning methods such as deep neural networks could distinguish knees with pain from those without it and identify the structural features that are associated with knee pain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32055951

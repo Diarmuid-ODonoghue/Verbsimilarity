@@ -1,0 +1,3 @@
+Haptic robots allow the exploitation of known motor learning mechanisms, representing a valuable option for motor treatment after stroke. The aim of this feasibility multicentre study was to test the clinical efficacy of a haptic prototype, for the recovery of hand function after stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24319496

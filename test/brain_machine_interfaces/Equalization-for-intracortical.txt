@@ -1,0 +1,3 @@
+We present a method for decreasing the duration of artifacts present during intra-cortical microstimulation (ICMS) recordings by using techniques developed for digital communications. We replace the traditional monophasic or biphasic current stimulation pulse with a patterned pulse stream produced by a Zero Forcing Equalizer (ZFE) filter after characterizing the artifact as a communications channel. The results find that using the ZFE stimulus has the potential to reduce artifact width by more than 70%. Considerations for the hardware implementation of the equalizer are presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24109670

@@ -1,0 +1,3 @@
+Automatic segmentation of vestibular schwannomas (VSs) from MRI could significantly improve clinical workflow and assist in patient management. Accurate tumor segmentation and volumetric measurements provide the best indicators to detect subtle VS growth, but current techniques are labor intensive and dedicated software is not readily available within the clinical setting. The authors aim to develop a novel artificial intelligence (AI) framework to be embedded in the clinical routine for automatic delineation and volumetry of VS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31812137

@@ -1,0 +1,3 @@
+Deep learning has become the dominant technology for protein contact prediction. However, the factors that affect the performance of deep learning in contact prediction have not been systematically investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31504181

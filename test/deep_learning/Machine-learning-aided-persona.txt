@@ -1,0 +1,3 @@
+Growing interest exists for superolateral medial forebrain bundle (slMFB) deep brain stimulation (DBS) in psychiatric disorders. The surgical approach warrants tractographic rendition. Commercial stereotactic planning systems use deterministic tractography which suffers from inherent limitations, is dependent on manual interaction (ROI definition), and has to be regarded as subjective. We aimed to develop an objective but patient-specific tracking of the slMFB which at the same time allows the use of a commercial surgical planning system in the context of deep brain stimulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31144167

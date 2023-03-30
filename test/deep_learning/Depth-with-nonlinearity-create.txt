@@ -1,0 +1,3 @@
+In this paper, we prove that depth with nonlinearity creates no bad local minima in a type of arbitrarily deep ResNets with arbitrary nonlinear activation functions, in the sense that the values of all local minima are no worse than the global minimum value of corresponding classical machine-learning models, and are guaranteed to further improve via residual representations. As a result, this paper provides an affirmative answer to an open question stated in a paper in the conference on Neural Information Processing Systems 2018. This paper advances the optimization theory of deep learning only for ResNets and not for other network architectures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31295691

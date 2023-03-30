@@ -1,0 +1,3 @@
+The pandemic caused by severe acute respiratory syndrome coronavirus 2 heavily involves all those working in a laboratory. Samples from known infected patients or donors who are considered healthy can arrive, and a colleague might be asymptomatic but able to transmit the virus. Working in a clinical laboratory is posing several safety challenges. Few years ago, International Society for Advancement of Cytometry published guidelines to safely analyze and sort human samples that were revised in these days. We describe the procedures that we have been following since the first patient appeared in Italy, which have only slightly modified our standard one, being all human samples associated with risks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32275124

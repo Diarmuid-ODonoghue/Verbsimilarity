@@ -1,0 +1,3 @@
+In multiphase coronary CT angiography (CTA), a series of CT images are taken at different levels of radiation dose during the examination. Although this reduces the total radiation dose, the image quality during the low-dose phases is significantly degraded. Recently, deep neural network approaches based on supervised learning technique have demonstrated impressive performance improvement over conventional model-based iterative methods for low-dose CT. However, matched low- and routine-dose CT image pairs are difficult to obtain in multiphase CT. To address this problem, we aim at developing a new deep learning framework.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30449055

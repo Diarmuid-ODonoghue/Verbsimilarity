@@ -1,0 +1,3 @@
+To evaluate whether a computed tomography (CT)-based computerized decision-support system for muscle-invasive bladder cancer treatment response assessment (CDSS-T) can improve identification of patients who have responded completely to neoadjuvant chemotherapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30424999

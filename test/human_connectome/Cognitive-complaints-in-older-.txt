@@ -1,0 +1,3 @@
+Pathophysiological changes that accompany early clinical symptoms in prodromal Alzheimer's disease (AD) may have a disruptive influence on brain networks. We investigated resting-state functional magnetic resonance imaging (rsfMRI), combined with brain connectomics, to assess changes in whole-brain functional connectivity (FC) in relation to neurocognitive variables.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28149942

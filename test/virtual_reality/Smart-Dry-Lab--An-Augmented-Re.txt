@@ -1,0 +1,3 @@
+Smart Dry Lab (SDL) is a low-cost, AR-based surgical training box, using the ARToolKit API. This is an add-on function for existing surgical training box, which enables quantitative evaluation of forceps maneuver and simulation of soft tissue deformation. In this paper we demonstrate functionality of our prototype system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732559

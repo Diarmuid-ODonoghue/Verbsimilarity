@@ -1,0 +1,3 @@
+Recent studies have shown that auditory cortex better encodes the envelope of attended speech than that of unattended speech during multi-speaker ('cocktail party') situations. We investigated whether these differences were sufficiently robust within single-trial electroencephalographic (EEG) data to accurately determine where subjects attended. Additionally, we compared this measure to other established EEG markers of attention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24963838

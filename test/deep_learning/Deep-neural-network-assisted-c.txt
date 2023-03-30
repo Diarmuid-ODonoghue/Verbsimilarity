@@ -1,0 +1,3 @@
+Artificial intelligence-assisted image recognition technology is currently able to detect the target area of an image and fetch information to make classifications according to target features. This study aimed to use deep neural networks for computed tomography (CT) diagnosis of perigastric metastatic lymph nodes (PGMLNs) to simulate the recognition of lymph nodes by radiologists, and to acquire more accurate identification results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31764182

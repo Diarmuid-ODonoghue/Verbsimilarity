@@ -1,0 +1,3 @@
+The carotid intima-media thickness (cIMT) is an important biomarker for cardiovascular diseases and stroke monitoring. This study presents an intelligence-based, novel, robust, and clinically-strong strategy that uses a combination of deep-learning (DL) and machine-learning (ML) paradigms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29778925

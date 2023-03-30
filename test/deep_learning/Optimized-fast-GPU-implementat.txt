@@ -1,0 +1,3 @@
+Robust Artificial-neural-networks for k-space Interpolation (RAKI) is a recently proposed deep-learning-based reconstruction algorithm for parallel imaging. Its main premise is to perform k-space interpolation using convolutional neural networks (CNNs) trained on subject-specific autocalibration signal (ACS) data. Since training is performed individually for each subject, the reconstruction time is longer than approaches that pre-train on databases. In this study, we sought to reduce the computational time of RAKI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31644542

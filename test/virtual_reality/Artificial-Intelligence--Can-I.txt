@@ -1,0 +1,3 @@
+Artificial intelligence (AI) is being rapidly integrated into various medical applications. Although early application of AI has been achieved in image-based, as well as statistical computational models, translation into procedure-based specialties such as surgery may take longer to achieve. A potential application of AI in surgical education is as a teaching coach or mentor that interacts with the used via virtual and/or augmented reality. The question arises as to whether machines will achieve the wisdom and intelligence of human educators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31235303

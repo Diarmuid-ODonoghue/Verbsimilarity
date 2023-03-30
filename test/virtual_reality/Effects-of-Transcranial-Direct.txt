@@ -1,0 +1,3 @@
+Recent changes in surgical training environments may have limited opportunities for trainees to gain proficiency in skill. Complex skills such as neurosurgery require extended periods of training. Methods to enhance surgical training are required to overcome duty-hour restrictions, to ensure the acquisition of skill proficiency. Transcranial direct-current stimulation (tDCS) can enhance motor skill learning, but is untested in surgical procedural training. We aimed to determine the effects of tDCS on simulation-based neurosurgical skill acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28864400

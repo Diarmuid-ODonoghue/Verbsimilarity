@@ -1,0 +1,3 @@
+There is a growing need to develop surgical skills outside the operating theatre. In this study we describe the development of a virtual reality training system for practising transurethral resection of the prostate (TURP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/16118107

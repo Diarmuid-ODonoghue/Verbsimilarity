@@ -1,0 +1,3 @@
+Gait movies recorded in daily clinical practice are usually not filmed with specific devices, which prevents neurologists benefitting from leveraging gait analysis technologies. Here we propose a novel unsupervised approach to quantifying gait features and to extract cadence from normal and parkinsonian gait movies recorded with a home video camera by applying OpenPose, a deep learning-based 2D-pose estimator that can obtain joint coordinates from pictures or videos recorded with a monocular camera.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31725754

@@ -1,0 +1,3 @@
+Tracking behavior with a virtual spider and a neutral target is compared in fearful and nonfearful subjects. Head-tracking in virtual environments appears to be a scale-free behavior with long-range fractal-like patterns. Moreover, these fractal patterns change according to what the target affords the tracker and the level of behavioral avoidance manifested by the subjects. Results are interpreted in terms of ecological psychology and nonlinear dynamics, and implications for virtual reality (VR) psychology are outlined.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12381040

@@ -1,0 +1,3 @@
+The COVID-19 pandemic is bringing healthcare systems worldwide to the brink of collapse. One reason for this is the rapidly increasing number of new infections. On the other hand, the high sickness rates of doctors and nurses, particularly in ENT medicine, are aggravating the situation. Telemedicine can be a useful tool to reduce the number of physician-patient contacts. This could break infection chains and minimize the risk of infection for physicians.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32300823

@@ -1,0 +1,3 @@
+Electronic health records (EHRs) are important data resources for clinical studies and applications. Physicians or clinicians describe patients' disorders or treatment procedures in EHRs using free text (unstructured) clinical notes. The narrative information plays an important role in patient treatment and clinical research. However, it is challenging to make machines understand the clinical narratives.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30559093

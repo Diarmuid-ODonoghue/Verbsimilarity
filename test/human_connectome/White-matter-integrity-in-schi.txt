@@ -1,0 +1,3 @@
+Diffusion imaging abnormalities have been associated with schizophrenia (SZ) and bipolar disorder (BD), indicating impaired structural connectivity. Newer methods permit the automated reconstruction of major white matter tracts from diffusion-weighted MR images in each individual's native space. Using high-definition diffusion data from SZ and BP subjects, we investigated brain white matter integrity using both an automated tract-based and voxel-based methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30639179

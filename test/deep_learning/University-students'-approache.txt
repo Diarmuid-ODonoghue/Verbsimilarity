@@ -1,0 +1,3 @@
+This study assessed reliability and validity of the Approaches to earning Mathematics Questionnaire, for 218 university students. The study also identified the relationship between subscales. Internal consistency as Cronbach alpha was .77 for the Surface Approach to Learning scale and .88 for the Deep Approach to Learning scale. Principal components analysis yielded a two-factor solution accounting for only 34.6% of variance. The factors were interpreted as Surface Approach and Deep Approach to learning mathematics, as in Australia. The former subscale scores were negatively correlated -.2 with the latter subscale scores.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14723453

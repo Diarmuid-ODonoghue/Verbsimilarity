@@ -1,0 +1,3 @@
+Non-contact resonant ultrasound spectroscopy (NC-RUS) has been proven as a reliable technique for the dynamic determination of leaf water status. It has been already tested in more than 50 plant species. In parallel, relative water content (RWC) is highly used in the ecophysiological field to describe the degree of water saturation in plant leaves. Obtaining RWC implies a cumbersome and destructive process that can introduce artefacts and cannot be determined instantaneously.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31709000

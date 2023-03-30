@@ -1,0 +1,3 @@
+ Ungefähr zwei Drittel aller Patienten mit depressiver Störung (major depressive disorder, MDD) erleiden ein Rezidiv. Die Mechanismen des depressiven Rezidivs sind allerdings noch wenig verstanden. In den letzten Jahren wurde zunehmend das Konnektom des Gehirns untersucht, um mögliche Biomarker eines depressiven Rezidivs zu identifizieren. Der Begriff „Konnektom“ beschreibt die Karte aller struktureller und funktioneller Verbindungen des Gehirns. Es kann mittels struktureller oder funktioneller Magnetresonanztomografie und anschließender Graphentheorie-basierter Analyse untersucht werden, um die Netzwerk-Topologie auf globaler und regionaler Ebene zu beschreiben.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30103235

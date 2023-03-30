@@ -1,0 +1,3 @@
+Wearable sensors are receiving a great deal of attention as they offer the potential to become a key technological tool for healthcare. In order for this potential to come to fruition, new electroactive materials endowing high performance need to be integrated with textiles. Here we present a simple and reliable technique that allows the patterning of conducting polymers on textiles. Electrodes fabricated using this technique showed a low impedance contact with human skin, were able to record high quality electrocardiograms at rest, and determine heart rate even when the wearer was in motion. This work paves the way towards imperceptible electrophysiology sensors for human health monitoring.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26446346

@@ -1,0 +1,3 @@
+Emergency Cricothyroidotomy (CCT) is a surgical procedure performed to secure a patient's airway. This high-stakes, but seldom-performed procedure is an ideal candidate for a virtual reality simulator to enhance physician training. For the first time, this study characterizes the force/torque characteristics of the cricothyroidotomy procedure, to guide development of a virtual reality CCT simulator for use in medical training. We analyze the upper force and torque thresholds experienced at the human-scalpel interface. We then group individual surgical cuts based on style of cut and cut medium and perform a regression analysis to create two models that allow us to predict the style of cut performed and the cut medium.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28268756

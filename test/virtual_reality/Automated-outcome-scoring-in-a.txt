@@ -1,0 +1,3 @@
+We address the problem of automated outcome assessment in a virtual reality (VR) simulator for endodontic surgery. Outcome assessment is an essential component of any system that provides formative feedback, which requires assessing the outcome, relating it to the procedure, and communicating in a language natural to dental students. This study takes a first step toward automated generation of such comprehensive feedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29157461

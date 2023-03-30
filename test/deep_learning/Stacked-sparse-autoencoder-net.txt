@@ -1,0 +1,3 @@
+The quantitative morphological analysis of the trochlear region in the distal femur and the precise staging of the potential dysplastic condition constitute a key point for the use of personalized treatment options for the patella-femoral joint. In this paper, we integrated statistical shape models (SSM), able to represent the individual morphology of the trochlea by means of a set of parameters and stacked sparse autoencoder (SSPA) networks, which exploit the parameters to discriminate among different levels of abnormalities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30073759

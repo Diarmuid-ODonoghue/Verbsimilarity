@@ -1,0 +1,3 @@
+Cognition and magnetic resonance imaging correlations are well established in patients with multiple sclerosis (MS), but it is unclear whether lesion burden or atrophy accounts for most of the predictive variance. These indices have been directly compared in only a few studies. No such study included measurement of the third ventricle, which was strongly predictive of neuropsychological competence in the early literature. Furthermore, few studies accounted for the influence of age, premorbid intelligence, or depression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14967771

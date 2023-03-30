@@ -1,0 +1,3 @@
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infects host cells with angiotensin receptors, leading to pneumonia linked to COVID-19. The virus has a double impact on the cardiovascular system, the infection will be more intense if the host has cardiovascular co-morbidities and the virus can cause life-threatening cardiovascular lesions. Therapies associated with COVID-19 may have adverse cardiovascular effects. Therefore, special attention should be given to cardiovascular protection during COVID-19 infection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32303363

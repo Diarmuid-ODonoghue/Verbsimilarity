@@ -1,0 +1,3 @@
+Application of virtual reality (VR) to rehabilitation is relatively recent with clinical implementation very rapidly following technological advancement and scientific discovery. Implementation is often so rapid that demonstrating intervention efficacy and establishing research priorities is more reactive than proactive. This study used analytical tools from information science to examine whether application of VR to rehabilitation has evolved as a distinct field of research or is primarily a methodology in core disciplines such as biomedical engineering, medicine and psychology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31226995

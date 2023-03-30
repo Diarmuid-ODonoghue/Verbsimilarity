@@ -1,0 +1,3 @@
+Virtual reality (VR) surgery simulation is an emerging teaching tool to train residents in cataract surgery. The widespread adoption of virtual surgery has been limited, however, by high costs and the absence of standardized curricula and evidence demonstrating the impact of VR training on resident surgical outcomes. We outline a resident virtual cataract surgery course--freely accessible online--that we hope will contribute to the development of a standardized VR cataract surgery curriculum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23923120

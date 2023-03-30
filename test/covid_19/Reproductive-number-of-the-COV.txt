@@ -1,0 +1,3 @@
+The reproductive number in Switzerland was between 1.5 and 2 during the first third of March, and has consistently decreased to around 1. After the announcement of the latest strict measure on 20 March 2020, namely that gatherings of more than five people in public spaces are prohibited, the reproductive number dropped significantly below 1; the authors of this study estimate the reproductive number to be between 0.6 and 0.8 in the first third of April.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32365217

@@ -1,0 +1,3 @@
+This paper describes a novel approach to correct osteotomy deformities of long bones using virtual reality and image processing techniques on personal computers. The discussed method allows to simulate osteotomy corrections by implementing a single cut and a rearrangement of the dissected bone parts. It allows the surgeon to directly control the pre-operative situation and the post-operative result of the simulation by comparing bone-length, angles, and torsion of the bone. In addition, he or she obtains the coordinates and angles of the planned cut relative to anatomical landmarks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11317749

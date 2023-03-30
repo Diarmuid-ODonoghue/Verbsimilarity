@@ -1,0 +1,3 @@
+The use of structured curricula for minimally invasive surgery training is becoming increasingly popular. However, many laparoscopic training programs still use basic skills and isolated task training, despite increasing evidence to support the use of training models with higher functional resemblance, such as whole procedural modules. In contrast to basic skills training, procedural training involves several cognitive skills such as elements of planning, movement integration, and how to avoid adverse events. The objective of this trial is to investigate the specificity of procedural practice in laparoscopic simulator training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25304939

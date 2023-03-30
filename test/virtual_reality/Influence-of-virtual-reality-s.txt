@@ -1,0 +1,3 @@
+Virtual reality (VR) offers powerful therapy options within a functional, purposeful and motivating context. Several studies have shown that patients' motivation plays a crucial role in determining therapy outcome. However, few studies have demonstrated the potential of VR in pediatric rehabilitation. Therefore, we developed a VR-based soccer scenario, which provided interactive elements to engage patients during robotic assisted treadmill training (RAGT). The aim of this study was to compare the immediate effect of different supportive conditions (VR versus non-VR conditions) on motor output in patients and healthy control children during training with the driven gait orthosis Lokomat*.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20412572

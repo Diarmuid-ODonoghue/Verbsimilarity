@@ -1,0 +1,3 @@
+To assess interrater reliability of the Power Mobility Road Test (PMRT) when administered through the Virtual Reality-based SIMulator-version 2 (VRSIM-2).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26921680

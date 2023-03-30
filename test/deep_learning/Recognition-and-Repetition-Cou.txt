@@ -1,0 +1,3 @@
+Activity recognition using off-the-shelf smartwatches is an important problem in humanactivity recognition. In this paper, we present an end-to-end deep learning approach, able to provideprobability distributions over activities from raw sensor data. We apply our methods to 10 complexfull-body exercises typical in CrossFit, and achieve a classification accuracy of 99.96%. We additionallyshow that the same neural network used for exercise recognition can also be used in repetitioncounting. To the best of our knowledge, our approach to repetition counting is novel and performswell, counting correctly within an error of 1 repetitions in 91% of the performed sets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30744158

@@ -1,0 +1,3 @@
+Touch Surgery™ (TS) is a serious gaming application for cognitive task simulation and rehearsal of key steps in surgical procedures. The aim was to establish face, content, and construct validity of TS for laparoscopic cholecystectomy (LC). Furthermore, learning curves with TS and a virtual reality (VR) trainer were compared in a randomized trial.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28281111

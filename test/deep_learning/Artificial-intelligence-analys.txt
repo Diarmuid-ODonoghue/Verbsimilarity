@@ -1,0 +1,3 @@
+We aimed to identify new biomarkers in Diffuse Large B-cell Lymphoma (DLBCL) using the deep learning technique.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32219808

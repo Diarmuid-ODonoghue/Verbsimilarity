@@ -1,0 +1,3 @@
+In virtual surgery of minimally invasive vascular intervention, the force feedback is transmitted through the flexible guide wire. The disturbance caused by the flexible deformation would affect the fidelity of the VR (virtual reality) training. SMC (sliding mode control) strategy with delayed-output observer is adopted to suppress the effect of flexible deformation. In this study, the control performance of the strategy is assessed when the length of guide wire between actuator and the operating point changes. The performance assessment results demonstrate the effectiveness of the proposed method and find the optimal length of guide wire for the force feedback control.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25254063

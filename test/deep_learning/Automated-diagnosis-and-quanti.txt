@@ -1,0 +1,3 @@
+The purpose of this study was to develop an automated diagnosis and quantitative analysis system for plus disease. The system provides a diagnostic decision but also performs quantitative analysis of the typical pathological features of the disease, which helps the physicians to make the best judgement and communicate the decisions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31559701

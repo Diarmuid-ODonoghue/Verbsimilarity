@@ -1,0 +1,3 @@
+Pioneering effort has been made to facilitate the recognition of pathology in malignancies based on whole-slide images (WSIs) through deep learning approaches. It remains unclear whether we can accurately detect and locate basal cell carcinoma (BCC) using smartphone-captured images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31017653

@@ -1,0 +1,3 @@
+Virtual Reality (VR) platforms gained a lot of attention in the rehabilitation field due to their ability to engage patients and the opportunity they offer to use real world scenarios. As neglect is characterized by an impairment in exploring space that greatly affects daily living, VR could be a powerful tool compared to classical paper and pencil tasks and computer training. Nevertheless, available platforms are costly and obstructive. Here we describe a low cost platform for neglect rehabilitation, that using consumer equipments allows the patient to train at home in an intensive fashion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22713415

@@ -1,0 +1,3 @@
+The prevalence of dementia, which presents as cognitive decline in one or more cognitive domains affecting function, is increasing worldwide. Traditional cognitive screening tools for dementia have their limitations, with emphasis on memory and, to a lesser extent, on the cognitive domain of executive function. The use of virtual reality (VR) in screening for cognitive function in older persons is promising, but evidence for its use is sparse.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31373274

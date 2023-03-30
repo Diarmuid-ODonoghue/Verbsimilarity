@@ -1,0 +1,3 @@
+Maintaining stability, especially in the mediolateral direction, is important for successful walking. Navigating in the community, however, may require people to reduce stability to make quick lateral transitions, creating a tradeoff between stability and maneuverability. Walking slower can improve stability during steady state walking, but there remains a need to better understand how walking speed influences maneuverability. This study investigated how walking at different speeds influenced how individuals modulate both stability and maneuverability in a virtual obstacle course.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29494819

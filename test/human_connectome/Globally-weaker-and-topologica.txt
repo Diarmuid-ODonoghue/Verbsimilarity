@@ -1,0 +1,3 @@
+There is a lack of agreement about functional connectivity differences in individuals with autism spectrum disorder (ASD). Studies using absolute strength have found reduced connectivity, while those using relative strength--a measure of system topology--reveal mostly enhanced connectivity. We hypothesized that mixed findings may be driven by the metric of functional connectivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28770039

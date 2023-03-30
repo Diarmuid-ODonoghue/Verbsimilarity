@@ -1,0 +1,3 @@
+We present a method for computer-generated holography based on deep learning. The inverse process of light propagation is regressed with a number of computationally generated speckle data sets. This method enables noniterative calculation of computer-generated holograms (CGHs). The proposed method was experimentally verified with a phase-only CGH.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29791353

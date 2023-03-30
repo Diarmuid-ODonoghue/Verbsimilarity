@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) technology can restore communication and control to people who are severely paralyzed. There has been speculation that this technology might also be useful for a variety of diverse therapeutic applications. This survey considers possible ways that BCI technology can be applied to motor rehabilitation following stroke, Parkinson's disease, and psychiatric disorders. We consider potential neural signals as well as the design and goals of BCI-based therapeutic applications. These diverse applications all share a reliance on neuroimaging and signal processing technologies. At the same time, each of these potential applications presents a series of unique challenges.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29527538

@@ -1,0 +1,3 @@
+Mangosteen peel is an inedible portion of a fruit. We are interested in using these residues as components of a dye sensitized solar cell (DSSC). Carbonized mangosteen peel was used with mangosteen peel dye as a natural counter electrode and a natural photosensitizer, respectively. A distinctive mesoporous honeycomb-like carbon structure with a rough nanoscale surface was found in carbonized mangosteen peels. The efficiency of a dye sensitized solar cell using carbonized mangosteen peel was compared to that of DSSCs with Pt and PEDOT-PSS counter electrodes. The highest solar conversion efficiency (2.63%) was obtained when using carbonized mangosteen peel and an organic disulfide/thiolate (T2/T(-)) electrolyte.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26458745

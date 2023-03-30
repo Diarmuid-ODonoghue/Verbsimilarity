@@ -1,0 +1,3 @@
+We estimated the case-fatality risk for 2019 novel coronavirus disease cases in China (3.5%); China, excluding Hubei Province (0.8%); 82 countries, territories, and areas (4.2%); and on a cruise ship (0.6%). Lower estimates might be closest to the true value, but a broad range of 0.25%-3.0% probably should be considered.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32168463

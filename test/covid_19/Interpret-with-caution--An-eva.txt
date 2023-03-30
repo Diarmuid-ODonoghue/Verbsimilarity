@@ -1,0 +1,3 @@
+There is limited data on the analytical performance of commercial nucleic acid tests (NATs) for laboratory confirmation of COVID-19 infection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32361322

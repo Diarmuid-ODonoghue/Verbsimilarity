@@ -1,0 +1,3 @@
+Compensations are commonly observed in patients with stroke when they engage in reaching without supervision; these behaviors may be detrimental to long-term functional improvement. Automatic detection and reduction of compensation cab help patients perform tasks correctly and promote better upper extremity recovery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32345335

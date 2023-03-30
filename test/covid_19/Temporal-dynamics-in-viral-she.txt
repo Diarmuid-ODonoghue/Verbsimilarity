@@ -1,0 +1,3 @@
+We report temporal patterns of viral shedding in 94 patients with laboratory-confirmed COVID-19 and modeled COVID-19 infectiousness profiles from a separate sample of 77 infector-infectee transmission pairs. We observed the highest viral load in throat swabs at the time of symptom onset, and inferred that infectiousness peaked on or before symptom onset. We estimated that 44% (95% confidence interval, 25-69%) of secondary cases were infected during the index cases' presymptomatic stage, in settings with substantial household clustering, active case finding and quarantine outside the home. Disease control measures should be adjusted to account for probable substantial presymptomatic transmission.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32296168

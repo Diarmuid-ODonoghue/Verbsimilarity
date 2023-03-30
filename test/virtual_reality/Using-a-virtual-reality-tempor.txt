@@ -1,0 +1,3 @@
+The objective of this study is to determine the feasibility of computerized evaluation of resident performance using hand motion analysis on a virtual reality temporal bone (VR TB) simulator. We hypothesized that both computerized analysis and expert ratings would discriminate the performance of novices from experienced trainees. We also hypothesized that performance on the virtual reality temporal bone simulator (VR TB) would differentiate based on previous drilling experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17204992

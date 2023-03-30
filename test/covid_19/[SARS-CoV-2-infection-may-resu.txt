@@ -1,0 +1,3 @@
+The initial clinical presentation of CoronaVirus Disease 2019 may be appendicular syndrome. An abdominal CT scan ruled out a diagnosis of appendicitis and a chest CT scan yielded a diagnosis of SARS-CoV-2 infection. CT scan is required before considering emergency surgery for acute appendicitis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32296473

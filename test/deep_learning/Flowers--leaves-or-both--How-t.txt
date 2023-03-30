@@ -1,0 +1,3 @@
+Deep learning algorithms for automated plant identification need large quantities of precisely labelled images in order to produce reliable classification results. Here, we explore what kind of perspectives and their combinations contain more characteristic information and therefore allow for higher identification accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31367223

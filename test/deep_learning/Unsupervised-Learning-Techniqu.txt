@@ -1,0 +1,3 @@
+This article reviews the principles of unsupervised learning, a novel technique which has increasingly been reported as a tool for the investigation of chronic rhinosinusitis (CRS). It represents a paradigm shift from the traditional approach to investigating CRS based upon the clinically recognized phenotypes of "with polyps" and "without polyps" and instead relies upon the application of complex mathematical models to derive subgroups which can then be further examined. This review article reports on the principles which underlie this investigative technique and some of the published examples in CRS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31319675

@@ -1,0 +1,3 @@
+Nonophthalmologist physicians do not confidently perform direct ophthalmoscopy. The use of artificial intelligence to detect papilledema and other optic-disk abnormalities from fundus photographs has not been well studied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32286748

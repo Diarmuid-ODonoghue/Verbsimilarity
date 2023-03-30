@@ -1,0 +1,3 @@
+Recent years have witnessed an increasing interest in multi-omics data, because these data allow for better understanding complex diseases such as cancer on a molecular system level. In addition, multi-omics data increase the chance to robustly identify molecular patient sub-groups and hence open the door towards a better personalized treatment of diseases. Several methods have been proposed for unsupervised clustering of multi-omics data. However, a number of challenges remain, such as the magnitude of features and the large difference in dimensionality across different omics data sources.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32299344

@@ -1,0 +1,3 @@
+This paper reports the results of the second of the two systems developed by JUST, a collaborative project supported by the European Union under the Information Society Technologies (IST) Programme. The most innovative content of the project has been the design and development of a complementary training course for non-professional health emergency operators, which supports the traditional learning phase, and which purports to improve the retention capability of the trainees. This was achieved with the use of advanced information technology techniques, which provide adequate support and can help to overcome the present weaknesses of the existing training mechanisms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15747937

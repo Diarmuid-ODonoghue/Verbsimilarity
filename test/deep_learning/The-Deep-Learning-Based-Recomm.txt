@@ -1,0 +1,3 @@
+It is of great importance for researchers to publish research results in high-quality journals. However, it is often challenging to choose the most suitable publication venue, given the exponential growth of journals and conferences. Although recommender systems have achieved success in promoting movies, music, and products, very few studies have explored recommendation of publication venues, especially for biomedical research. No recommender system exists that can specifically recommend journals in PubMed, the largest collection of biomedical literature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31127715

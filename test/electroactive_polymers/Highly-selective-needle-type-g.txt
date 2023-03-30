@@ -1,0 +1,3 @@
+Fine needle-type glucose sensors with an outer diameter of less that 0.2 mm were fabricated using a low-cost biodegradable γ-polyglutamic acid (PGA) not only as a glucose oxidase (GOx) immobilizing material, but also as a permselective inner membrane. PGA film was prepared on a cellulose acetate-coated Pt-Ir wire electrode, and GOx was covalently immobilized on its surface using water-soluble carbodiimide. The obtained electrode was practically not affected by the existence of electroactive compounds, and provided long-term stability for approximately one month. It also functioned in horse serum with a good linear relationship between the current and glucose concentrations within the range of 2.8 to 22.4 mM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21415521

@@ -1,0 +1,3 @@
+Working together and collaborating in a group can provide greater benefits for people with severe motor disability. However, it is still not clear how collaboration should be supported by BCI systems. The present study explored BCI-supported collaborative work by investigating differences in performance and brain activity between when a pair of users performs a task jointly with each other and when they do alone only through means of their brain activity. We found differences in performance and brain activity between different work conditions. The results of this research should provide fundamental knowledge of BCI-supported cooperative work.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24109676

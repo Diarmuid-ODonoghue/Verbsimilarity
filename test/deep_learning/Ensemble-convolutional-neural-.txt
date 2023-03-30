@@ -1,0 +1,3 @@
+Recently, a method known as "ensemble deep learning invariant hologram classification" (EDL-IHC) for classifying of holograms of deformable objects with deep learning network (DLN) has been demonstrated. However DL-IHC requires substantial computational resources to attain near perfect success rate (≥99%). In practice, it is always desirable to have higher success rate with a low complexity DLN. In this paper we propose a low complexity DLN known as "ensemble deep learning invariant hologram classification" (EDL-IHC). In comparison with DL-IHC, our proposed hologram classifier has promoted the success rate by 2.86% in the classification of holograms of handwritten numerals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31878461

@@ -1,0 +1,3 @@
+The technologies needed to map the wiring of the human brain might finally be upon us. But the process is still slow, and the data sets are proving difficult to manage. Jeffrey Perkel looks at how far connectomics has come and how far it still needs to go.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25391911

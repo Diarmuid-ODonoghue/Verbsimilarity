@@ -1,0 +1,3 @@
+Deep brain stimulation of the subthalamic nucleus (STN-DBS) has become an effective treatment strategy for patients with Parkinson's disease. However, the biological mechanism underlying DBS treatment remains poorly understood.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29222835

@@ -1,0 +1,3 @@
+The large-scale kinome-wide virtual profiling for small molecules is a daunting task by experimental and traditional in silico drug design approaches. Recent advances in deep learning algorithms have brought about new opportunities in promoting this process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31228181

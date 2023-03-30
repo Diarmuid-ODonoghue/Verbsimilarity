@@ -1,0 +1,3 @@
+This project aims to create a three-dimensional digital model of the human hand and wrist which can be virtually 'dissected' through a haptic interface. Tissue properties will be added to the various anatomical structures to replicate a realistic look and feel. The project will explore the role of the medical artist, and investigate cross-discipline collaborations in the field of virtual anatomy. The software will be used to train anatomy students in dissection skills, before experience on a real cadaver. The effectiveness of the software will be evaluated and assessed both quantitatively as well as qualitatively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22229585

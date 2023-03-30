@@ -1,0 +1,3 @@
+Protein Structural Annotations are essential abstractions to deal with the prediction of Protein Structures. Many increasingly sophisticated Protein Structural Annotations have been devised in the last few decades. However the need for annotations that are easy to compute, process and predict has not diminished. This is especially true for protein structures that are hardest to predict such as novel folds.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32207516

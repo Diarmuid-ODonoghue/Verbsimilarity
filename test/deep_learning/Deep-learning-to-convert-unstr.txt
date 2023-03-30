@@ -1,0 +1,3 @@
+Structured reports have been shown to improve communication between radiologists and providers. However, some radiologists are concerned about resultant decreased workflow efficiency. We tested a machine learning-based algorithm designed to convert unstructured computed tomography pulmonary angiography (CTPA) reports into structured reports.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31549323

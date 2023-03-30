@@ -1,0 +1,3 @@
+We present a novel virtual-reality P300-based Brain Computer Interface (BCI) paradigm using social cues to direct the focus of attention. We combined interactive immersive virtual-reality (VR) technology with the properties of P300 signals in a training tool which can be used in social attention disorders such as autism spectrum disorder (ASD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28760486

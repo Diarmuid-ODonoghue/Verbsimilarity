@@ -1,0 +1,3 @@
+The present review describes the latest development of 3D virtual surgical planning (VSP) and computer aided design (CAD) for reconstruction of maxillary defects with an aim of fully prosthetic rehabilitation. The purpose is to give an overview of different methods that use CAD in maxillary reconstruction in patients with head and neck cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32102008

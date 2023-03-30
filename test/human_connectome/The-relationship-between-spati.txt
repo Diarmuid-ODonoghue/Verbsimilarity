@@ -1,0 +1,3 @@
+Previously we showed that network-based modelling of brain connectivity interacts strongly with the shape and exact location of brain regions, such that cross-subject variations in the spatial configuration of functional brain regions are being interpreted as changes in functional connectivity (Bijsterbosch et al., 2018). Here we show that these spatial effects on connectivity estimates actually occur as a result of spatial overlap between brain networks. This is shown to systematically bias connectivity estimates obtained from group spatial ICA followed by dual regression. We introduce an extended method that addresses the bias and achieves more accurate connectivity estimates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31066676

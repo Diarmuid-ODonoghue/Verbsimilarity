@@ -1,0 +1,3 @@
+Resection of gliomas invading primary motor cortex and subcortical motor pathway is difficult in both surgical decision-making and functional outcome prediction. In this study, magnetic resonance (MR) diffusion tensor imaging (DTI) data were used to perform tractography to visualize pyramidal tract (PT) along its whole length in a stereoscopic virtual reality (VR) environment. The potential value of its clinical application was evaluated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20652607

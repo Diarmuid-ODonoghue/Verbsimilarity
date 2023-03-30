@@ -1,0 +1,3 @@
+An upper limb stroke rehabilitation system is developed which combines electrical stimulation with mechanical arm support, to assist patients performing 3D reaching tasks in a virtual reality environment. The Stimulation Assistance through Iterative Learning (SAIL) platform applies electrical stimulation to two muscles in the arm using model-based control schemes which learn from previous trials of the task. This results in accurate movement which maximises the therapeutic effect of treatment. The principal components of the system are described and experimental results confirm its efficacy for clinical use in upper limb stroke rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22275615

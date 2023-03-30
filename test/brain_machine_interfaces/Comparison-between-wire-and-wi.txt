@@ -1,0 +1,3 @@
+This paper presents a comparison between two different technologies of acquisition systems (BrainNet36 and Emotiv Epoc) for an Independent-BCI based on Steady-State Visual Evoked Potential (SSVEP). Two stimuli separated by a viewing angle <; 1° were used. Multivariate Synchronization Index (MSI) technique was used as feature extractor and five subjects participated in the experiments. The class is obtained through a criterion of maxima. The left and right flicker stimuli were modulated at frequencies of 8.0 and 13.0 Hz, respectively. Acquisition via BrainNet system showed better results, obtaining the highest value for accuracy (100%) and the highest ITR (35.18 bits/min). This Independent-BCI is based on covert attention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25569887

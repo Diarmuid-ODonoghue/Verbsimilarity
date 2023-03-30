@@ -1,0 +1,3 @@
+We review diffusion tensor imaging (DTI) studies that investigate white matter abnormalities in patients with chronic schizophrenia, first episode schizophrenia, and those who are at genetic risk for developing schizophrenia. Additionally, we include studies that combine DTI and functional MRI (fMRI) to investigate brain connectivity abnormalities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23324948

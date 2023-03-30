@@ -1,0 +1,3 @@
+Palpation is a widely used diagnostic method in medical practice. The sensitivity of palpation is highly dependent upon the skill of clinicians, which is often difficult to master. There is a need of simulators in palpation training. This paper summarizes important work and the latest achievements in simulation for palpation training. Three types of simulators; physical models, Virtual Reality (VR) based simulations, and hybrid (computerized and physical) simulators, are surveyed. Comparisons among different kinds of simulators are presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377204

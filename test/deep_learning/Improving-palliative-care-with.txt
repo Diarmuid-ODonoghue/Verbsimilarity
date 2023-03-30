@@ -1,0 +1,3 @@
+Access to palliative care is a key quality metric which most healthcare organizations strive to improve. The primary challenges to increasing palliative care access are a combination of physicians over-estimating patient prognoses, and a shortage of palliative staff in general. This, in combination with treatment inertia can result in a mismatch between patient wishes, and their actual care towards the end of life.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30537977

@@ -1,0 +1,3 @@
+A substantial proportion of schizophrenia patients also meets DSM-IV criteria for obsessive-compulsive disorder (OCD). Schizophrenia with OCD ("schizo-obsessive") patients are characterized by distinct clinical characteristics, treatment response and prognosis. Whether schizo-obsessive patients exhibit a distinct pattern of brain activation is yet unknown. To address this question, the present functional magnetic resonance imaging (fMRI) study explicitly compared alterations in brain activation and functional connectivity (FC) underlying a working memory deficit in schizophrenia patients with and without OCD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23764406

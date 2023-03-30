@@ -1,0 +1,3 @@
+A physiological small animal model that resembles COVID-19 with low mortality is lacking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32215622

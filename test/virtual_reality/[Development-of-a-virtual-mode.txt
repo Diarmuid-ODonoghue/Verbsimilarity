@@ -1,0 +1,3 @@
+A virtual model of fibro-bronchoscopy is reported. The virtual model represents in 3D the trachea and the bronchi creating a virtual world of the bronchial tree. The bronchoscope is modeled to look over the bronchial tree imitating the displacement and rotation of the real bronchoscope. The parameters of the virtual model were gradually adjusted according to expert opinion and allowed the training of specialists with a virtual bronchoscope of great realism. The virtual bronchial tree provides clues of reality regarding the movement of the bronchoscope, creating the illusion that the virtual instrument is behaving as the real one with all the benefits in costs that this means.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22215396

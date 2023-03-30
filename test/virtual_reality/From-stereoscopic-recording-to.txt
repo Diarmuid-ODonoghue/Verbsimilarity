@@ -1,0 +1,3 @@
+To improve surgical practice, there are several different approaches to simulation. Due to wearable technologies, recording 3D movies is now easy. The development of a virtual reality headset allows imagining a different way of watching these videos: using dedicated software to increase interactivity in a 3D immersive experience. The objective was to record 3D movies via a main surgeon's perspective, to watch files using virtual reality headsets and to validate pedagogic interest.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28233530

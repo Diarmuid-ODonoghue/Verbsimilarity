@@ -1,0 +1,3 @@
+Rehabilitation interventions in remote areas are problematic because of distance and available resources. Orthopedic impairments acquired by individuals in remote areas can then lead to permanent disabilities/loss of function because of lack of appropriate rehabilitation. A system being developed by Rutgers and Stanford Universities provides therapy at the patient's home, with remote monitoring and periodic re-assessment. This telerehabilitation system uses virtual reality and haptic interfaces, and a pair of networked PCs. It is intended for rehabilitation of patients with hand, elbow, knee and ankle impairments. Data from the first patient treated with the telerehabilitation system is encouraging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11001524

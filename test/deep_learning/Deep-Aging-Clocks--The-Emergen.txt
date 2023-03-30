@@ -1,0 +1,3 @@
+First published in 2016, predictors of chronological and biological age developed using deep learning (DL) are rapidly gaining popularity in the aging research community. These deep aging clocks can be used in a broad range of applications in the pharmaceutical industry, spanning target identification, drug discovery, data economics, and synthetic patient data generation. We provide here a brief overview of recent advances in this important subset, or perhaps superset, of aging clocks that have been developed using artificial intelligence (AI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31279569

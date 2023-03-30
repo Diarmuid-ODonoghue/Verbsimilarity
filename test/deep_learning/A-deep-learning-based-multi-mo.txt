@@ -1,0 +1,3 @@
+Cancer is a complex worldwide health problem associated with high mortality. With the rapid development of the high-throughput sequencing technology and the application of various machine learning methods that have emerged in recent years, progress in cancer prediction has been increasingly made based on gene expression, providing insight into effective and accurate treatment decision making. Thus, developing machine learning methods, which can successfully distinguish cancer patients from healthy persons, is of great current interest. However, among the classification methods applied to cancer prediction so far, no one method outperforms all the others.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29157442

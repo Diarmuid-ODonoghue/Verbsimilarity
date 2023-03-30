@@ -1,0 +1,3 @@
+To evaluate the performance of apparent diffusion coefficient (ADC) mapping compared with voxel-based morphometry and to demonstrate the clinical usefulness of ADC mapping in the diagnosis of Alzheimer's disease (AD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27908444

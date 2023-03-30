@@ -1,0 +1,3 @@
+Immuno-oncology requires objective and standardized methods for measuring immune cell infiltrates for therapy selection and clinical trials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30350177

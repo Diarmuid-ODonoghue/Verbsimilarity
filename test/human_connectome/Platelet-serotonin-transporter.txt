@@ -1,0 +1,3 @@
+The serotonin transporter (5-HTT) is abundantly expressed in humans by the serotonin transporter gene SLC6A4 and removes serotonin (5-HT) from extracellular space. A blood-brain relationship between platelet and synaptosomal 5-HT reuptake has been suggested, but it is unknown today, if platelet 5-HT uptake can predict neural activation of human brain networks that are known to be under serotonergic influence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24667541

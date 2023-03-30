@@ -1,0 +1,3 @@
+Increasingly, studies have identified abnormalities in the functional connectivity (FC) of large-scale neural networks in early psychosis, but the findings thus far have been inconclusive. Therefore, the aim of this study was to identify robust alterations in FC of the default mode (DMN), salience (SN), and central executive networks (CEN), in patients with first-episode psychosis (FEP) using a meta-analytic approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29982729

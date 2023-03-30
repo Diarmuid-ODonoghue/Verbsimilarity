@@ -1,0 +1,3 @@
+Otologic diseases are often difficult to diagnose accurately for primary care providers. Deep learning methods have been applied with great success in many areas of medicine, often outperforming well trained human observers. The aim of this work was to develop and evaluate an automatic software prototype to identify otologic abnormalities using a deep convolutional neural network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31771647

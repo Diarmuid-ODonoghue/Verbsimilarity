@@ -1,0 +1,3 @@
+Thoracic diseases include a variety of common human primary malignant tumors, among which lung cancer and esophageal cancer are among the top 10 in cancer incidence and mortality. Early diagnosis is an important part of cancer treatment, so artificial intelligence (AI) systems have been developed for the accurate and automated detection and diagnosis of thoracic tumors. However, the complicated AI structure and image processing made the diagnosis result of AI-based system unstable. The purpose of this study is to systematically review published evidence to explore the accuracy of AI systems in diagnosing thoracic cancers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32049826

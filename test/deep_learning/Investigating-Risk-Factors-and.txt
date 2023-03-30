@@ -1,0 +1,3 @@
+Deep brain stimulation (DBS) surgery is an option for patients experiencing medically resistant neurologic symptoms. DBS complications are rare; finding significant predictors requires a large number of surgeries. Machine learning algorithms may be used to effectively predict these outcomes. The aims of this study were to 1) investigate preoperative clinical risk factors and 2) build machine learning models to predict adverse outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31634625

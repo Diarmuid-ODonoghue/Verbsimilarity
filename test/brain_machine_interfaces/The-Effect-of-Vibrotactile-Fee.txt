@@ -1,0 +1,3 @@
+This work presents an implementation of Error-related Potential (ErrP) detection to produce progressive adaptation of a motor imagery task classifier. The main contribution is in the evaluation of the effect of vibrotactile feedback on both ErrP and motor imagery detection. Results confirm the potential of self-adaptive techniques to improve motor imagery classification, and support the design of vibratory and in general tactile feedback into Brain-Computer Interfaces to improve both static and adaptive performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31947390

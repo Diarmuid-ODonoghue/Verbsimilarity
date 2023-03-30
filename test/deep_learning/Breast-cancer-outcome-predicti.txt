@@ -1,0 +1,3 @@
+Recent advances in machine learning have enabled better understanding of large and complex visual data. Here, we aim to investigate patient outcome prediction with a machine learning method using only an image of tumour sample as an input.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31119567

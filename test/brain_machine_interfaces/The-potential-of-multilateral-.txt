@@ -1,0 +1,3 @@
+Current brain-machine interfaces are based on the implicit assumption that information encoded by neuronal activities does not change despite some recent physiological studies indicating that information encoded by neuronal activities changes. Here, we highlight the necessity for advanced decoding of neuronal activities. Especially, we discuss the advantages of multilateral analyses of neuronal activities, including synchronization and variability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110166

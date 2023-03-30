@@ -1,0 +1,3 @@
+The unparalleled performance of deep learning approaches in generic image processing has motivated its extension to neuroimaging data. These approaches learn abstract neuroanatomical and functional brain alterations that could enable exceptional performance in classification of brain disorders, predicting disease progression, and localizing brain abnormalities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32275915

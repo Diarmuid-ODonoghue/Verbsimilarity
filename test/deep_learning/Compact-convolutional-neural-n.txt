@@ -1,0 +1,3 @@
+Steady-state visual evoked potentials (SSVEPs) are neural oscillations from the parietal and occipital regions of the brain that are evoked from flickering visual stimuli. SSVEPs are robust signals measurable in the electroencephalogram (EEG) and are commonly used in brain-computer interfaces (BCIs). However, methods for high-accuracy decoding of SSVEPs usually require hand-crafted approaches that leverage domain-specific knowledge of the stimulus signals, such as specific temporal frequencies in the visual stimuli and their relative spatial arrangement. When this knowledge is unavailable, such as when SSVEP signals are acquired asynchronously, such approaches tend to fail.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30279309

@@ -1,0 +1,3 @@
+Atrial fibrillation (AF) is the most common cardiac arrhythmia, with an estimated prevalence of around 1.6% in the adult population. The analysis of the electrocardiogram (ECG) data acquired in the UK Biobank represents an opportunity to screen for AF in a large sub-population in the UK. The main objective of this paper is to assess ten machine-learning methods for automated detection of subjects with AF in the UK Biobank dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31978903

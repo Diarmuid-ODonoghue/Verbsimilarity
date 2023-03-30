@@ -1,0 +1,3 @@
+Virtual reality (VR) and physical model (PM) simulators differ in terms of whether the trainee is manipulating actual 3-dimensional objects (PM) or computer-generated 3-dimensional objects (VR). Much like video games (VG), VR simulators utilize computer-generated graphics. These differences may have profound effects on the utility of VR and PM training platforms. In this study, we aimed to determine whether a relationship exists between VR, PM, and VG platforms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24797861

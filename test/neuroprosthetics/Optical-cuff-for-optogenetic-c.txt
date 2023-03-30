@@ -1,0 +1,3 @@
+Nerves in the peripheral nervous system (PNS) contain axons with specific motor, somatosensory and autonomic functions. Optogenetics offers an efficient approach to selectively activate axons within the nerve. However, the heterogeneous nature of nerves and their tortuous route through the body create a challenging environment to reliably implant a light delivery interface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28978778

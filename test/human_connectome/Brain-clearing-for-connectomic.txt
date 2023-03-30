@@ -1,0 +1,3 @@
+The article reflects on the development of tissue clearing methods in the last decade. This technological innovation has been achieved in the neuroscience community thanks to the combined efforts of molecular biologists, brain anatomists and light microscopists. Although this technology is becoming increasingly diversified, it mostly aims at the large-scale, three-dimensional reconstruction of brain structures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25652426

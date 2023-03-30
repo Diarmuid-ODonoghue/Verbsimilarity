@@ -1,0 +1,3 @@
+Thanks to the recent advances in structural biology, nowadays 3D structures of various proteins are solved on a routine basis. A large portion of these structures contain structural repetitions or internal symmetries. To understand the evolution mechanisms of these proteins and how structural repetitions affect the protein function, we need to be able to detect such proteins very robustly. As deep learning is particularly suited to deal with spatially organized data, we applied it to the detection of proteins with structural repetitions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31161198

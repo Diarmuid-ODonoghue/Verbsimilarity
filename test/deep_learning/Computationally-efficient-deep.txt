@@ -1,0 +1,3 @@
+Deep neural network-based image reconstruction has demonstrated promising performance in medical imaging for undersampled and low-dose scenarios. However, it requires large amount of memory and extensive time for the training. It is especially challenging to train the reconstruction networks for three-dimensional computed tomography (CT) because of the high resolution of CT images. The purpose of this work is to reduce the memory and time consumption of the training of the reconstruction networks for CT to make it practical for current hardware, while maintaining the quality of the reconstructed images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31132144

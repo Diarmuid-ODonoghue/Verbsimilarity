@@ -1,0 +1,3 @@
+We report on the development and accuracy assessment of a hybrid tracking system that integrates optical spatial tracking into a video pass-through head-mounted display.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31069642

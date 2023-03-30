@@ -1,0 +1,3 @@
+To compare the accuracy and repeatability of emerging machine learning based (i.e. deep) automatic segmentation algorithms with those of well-established semi-automatic (interactive) methods for determining liver volume in living liver transplant donors at computerized tomography (CT) imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31904568

@@ -1,0 +1,3 @@
+To develop an objective and automated method for measuring intraocular pressure using deep learning and fixed-force Goldmann applanation tonometry (GAT) techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32344074

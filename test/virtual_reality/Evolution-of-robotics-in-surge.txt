@@ -1,0 +1,3 @@
+Use of robotics is expanding rapidly in the medical arena. Not only are a growing number of facilities purchasing robotic systems, but the number of surgeons using them also is increasing, which creates many challenges (eg, cost, training, safety). The evolution of robotics in surgery is presented within the context of virtual reality, telepresence, telemanipulation, and passive (ie, master-slave) robotic surgical systems. A new perioperative nursing role, the robotics nurse specialist, was developed and implemented at one facility. The need for a robotics nurse specialist and how this role can help the entire surgical team promote positive patient and facility outcomes also is discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16579121

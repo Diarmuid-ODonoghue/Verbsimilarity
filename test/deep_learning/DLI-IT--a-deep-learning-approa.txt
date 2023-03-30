@@ -1,0 +1,3 @@
+Drug label, or packaging insert play a significant role in all the operations from production through drug distribution channels to the end consumer. Image of the label also called Display Panel or label could be used to identify illegal, illicit, unapproved and potentially dangerous drugs. Due to the time-consuming process and high labor cost of investigation, an artificial intelligence-based deep learning model is necessary for fast and accurate identification of the drugs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32293428

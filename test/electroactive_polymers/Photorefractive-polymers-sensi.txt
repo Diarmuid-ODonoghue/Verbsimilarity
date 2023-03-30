@@ -1,0 +1,3 @@
+We demonstrate the recording of holograms and their nondestructive readout in a photorefractive polymer, using two-photon absorption. Sensitivity is provided by the excitation of the electroactive chromophore with femtosecond pulses, followed by charge injection into the photoconducting poly(N -vinylcarbazole) matrix. The holograms can be fully erased with a pulsed laser source but are insensitive to cw laser beams with the same wavelength. Studies of the field and intensity dependence of the diffraction efficiency indicate that the holograms are formed through the photorefractive effect.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18007702

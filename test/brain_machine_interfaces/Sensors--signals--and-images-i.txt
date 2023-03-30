@@ -1,0 +1,3 @@
+To summarize current research in the field of sensors, signals, and imaging in medicine and the impact of it in the medical informatics field through the selection of important and representative papers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18660878

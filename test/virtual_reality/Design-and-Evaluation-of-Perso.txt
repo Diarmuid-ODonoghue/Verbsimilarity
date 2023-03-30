@@ -1,0 +1,3 @@
+Systems incorporating virtual agents can play a major role in electronic-mental (e-mental) health care, as barriers to care still prevent some patients from receiving the help they need. To properly assist the users of these systems, a virtual agent needs to promote motivation. This can be done by offering motivational messages.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30916660

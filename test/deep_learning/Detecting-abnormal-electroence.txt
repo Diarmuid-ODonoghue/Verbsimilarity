@@ -1,0 +1,3 @@
+Electroencephalography (EEG) is a central part of the medical evaluation for patients with neurological disorders. Training an algorithm to label the EEG normal vs abnormal seems challenging, because of EEG heterogeneity and dependence of contextual factors, including age and sleep stage. Our objectives were to validate prior work on an independent data set suggesting that deep learning methods can discriminate between normal vs abnormal EEGs, to understand whether age and sleep stage information can improve discrimination, and to understand what factors lead to errors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30481649

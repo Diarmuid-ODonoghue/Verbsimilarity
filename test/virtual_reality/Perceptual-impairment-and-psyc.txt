@@ -1,0 +1,3 @@
+It is recognised that one of the major difficulties in performing laparoscopic surgery is the translation of two-dimensional video image information to a three-dimensional working area. However, research has tended to ignore the gaze and eye-hand coordination strategies employed by laparoscopic surgeons as they attempt to overcome these perceptual constraints. This study sought to examine if measures related to tool movements, gaze strategy, and eye-hand coordination (the quiet eye) differentiate between experienced and novice operators performing a two-handed manoeuvres task on a virtual reality laparoscopic surgical simulator (LAP Mentor™).
+
+https://www.ncbi.nlm.nih.gov/pubmed/21359902

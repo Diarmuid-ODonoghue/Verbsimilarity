@@ -1,0 +1,3 @@
+To evaluate the use of ultrasound coupled with machine learning (ML) and deep learning (DL) techniques for automated or semi-automated classification of myositis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28854220

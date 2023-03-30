@@ -1,0 +1,3 @@
+The recent emergence of SARS-CoV-2 lead to a current pandemic of unprecedented scale. Though diagnostic tests are fundamental to the ability to detect and respond, overwhelmed healthcare systems are already experiencing shortages of reagents associated with this test, calling for a lean immediately-applicable protocol.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32358960

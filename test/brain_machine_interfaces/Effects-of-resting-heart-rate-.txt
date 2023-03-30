@@ -1,0 +1,3 @@
+Brain computer interfaces (BCI) can serve as a communication system for people with severe impairment in speech and motor function due to neurodegenerative disease or injury. Reasons for inter-individual differences in capability of BCI usage are not yet fully understood. Paradigms making use of the P300 event-related potential are widely used. Success in a P300 based BCI requires the capability to focus attention and inhibit interference by distracting irrelevant stimuli. Such inhibitory control has been closely linked to peripheral physiological parameters, such as heart rate variability (HRV). The present study investigated the association between resting HRV and performance in the P300-BCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22172335

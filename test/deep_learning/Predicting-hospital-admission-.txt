@@ -1,0 +1,3 @@
+To predict hospital admission at the time of ED triage using patient history in addition to information collected at triage.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30028888

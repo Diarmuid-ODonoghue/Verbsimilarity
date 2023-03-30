@@ -1,0 +1,3 @@
+To obtain attenuation-corrected PET images directly from non-attenuation-corrected images using a convolutional encoder-decoder network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31227879

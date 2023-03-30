@@ -1,0 +1,3 @@
+To investigate the structural connectivity of the motor subnetwork in multiple system atrophy with cerebellar features (MSA-C), a distinct subtype of MSA, characterized by predominant cerebellar symptoms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30552481

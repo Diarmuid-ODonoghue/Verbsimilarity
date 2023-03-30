@@ -1,0 +1,3 @@
+Longitudinal measurement of glioma burden with MRI is the basis for treatment response assessment. In this study, we developed a deep learning algorithm that automatically segments abnormal fluid attenuated inversion recovery (FLAIR) hyperintensity and contrast-enhancing tumor, quantitating tumor volumes as well as the product of maximum bidimensional diameters according to the Response Assessment in Neuro-Oncology (RANO) criteria (AutoRANO).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31190077

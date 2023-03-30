@@ -1,0 +1,3 @@
+The cochlear nucleus (CN) is the target of the auditory brainstem implant (ABI). Most ABI candidates have Neurofibromatosis Type 2 (NF2) and distorted brainstem anatomy from bilateral vestibular schwannomas. The CN is difficult to characterize as routine structural MRI does not resolve detailed anatomy. We hypothesize that diffusion tensor imaging (DTI) enables both in vivo localization and quantitative measurements of CN morphology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32032299

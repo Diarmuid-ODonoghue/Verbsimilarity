@@ -1,0 +1,3 @@
+With the continuous development of artificial intelligence (AI) technology, big datasupported AI technology with considerable computer and learning capacity has been applied in diagnosing different types of diseases. This study reviews the application of expert system, neural network, and deep learning used by AI technology in disease diagnosis. This paper also gives a glimpse of the intelligent diagnosis and treatment of digestive system diseases, respiratory system diseases, and osteoporosis by AI technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32228416

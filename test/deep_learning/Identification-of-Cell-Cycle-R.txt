@@ -1,0 +1,3 @@
+The cell cycle-regulated genes express periodically with the cell cycle stages, and the identification and study of these genes can provide a deep understanding of the cell cycle process. Large false positives and low overlaps are big problems in cell cycle-regulated gene detection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28413974

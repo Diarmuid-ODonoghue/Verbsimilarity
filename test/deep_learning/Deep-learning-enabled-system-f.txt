@@ -1,0 +1,3 @@
+Prompt diagnosis and quantitation of pneumothorax impact decisions pertaining to patient management. The purpose of our study was to develop and evaluate the accuracy of a deep learning (DL)-based image classification program for detection of pneumothorax on chest CT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31585302

@@ -1,0 +1,3 @@
+A computer based virtual reality system is presented allowing the user to train skills related to brain retraction. The system is designed and the core training system implemented and tested. The initial test shows promising results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455886

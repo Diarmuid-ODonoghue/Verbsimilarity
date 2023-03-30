@@ -1,0 +1,3 @@
+this study on real-time decoding of visuospatial attention has two objectives: first, to reliably decode self-directed shifts of attention from electroencephalography (EEG) data, and second, to analyze whether this information can be used to enhance visuospatial performance. Visuospatial performance was measured in a target orientation discrimination task, in terms of reaction time, and error rate.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29667934

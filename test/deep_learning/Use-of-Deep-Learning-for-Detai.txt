@@ -1,0 +1,3 @@
+Although deep learning (DL) can identify the intermediate or advanced stages of age-related macular degeneration (AMD) as a binary yes or no, stratified gradings using the more granular Age-Related Eye Disease Study (AREDS) 9-step detailed severity scale for AMD provide more precise estimation of 5-year progression to advanced stages. The AREDS 9-step detailed scale's complexity and implementation solely with highly trained fundus photograph graders potentially hampered its clinical use, warranting development and use of an alternate AREDS simple scale, which although valuable, has less predictive ability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30242349

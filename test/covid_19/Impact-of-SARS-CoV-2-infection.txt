@@ -1,0 +1,3 @@
+SARS-CoV-2 was first detected in December 2019 in the Chinese city of Wuhan and has since spread across the world. At present, the virus has infected over 1.7 million people and caused over 100 000 deaths worldwide. Research is currently focused on understanding the acute infection and developing effective treatment strategies. In view of the magnitude of the epidemic, we conducted a speculative review of possible medium- and long-term neurological consequences of SARS-CoV-2 infection, with particular emphasis on neurodegenerative and neuropsychiatric diseases of neuroinflammatory origin, based on the available evidence on neurological symptoms of acute SARS-CoV-2 infection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32364119

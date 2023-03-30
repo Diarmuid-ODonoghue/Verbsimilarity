@@ -1,0 +1,3 @@
+Brain computer interface (BCI) technology is a communication and control approach. Up to now many studies have attempted to develop an EEG-based BCI system to improve the quality of life of people with severe disabilities, such as amyotrophic lateral sclerosis (ALS), paralysis, brain stroke and so on. The proposed BCIBSHS could help to provide a new way for supporting life of paralyzed people and elderly people.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30103356

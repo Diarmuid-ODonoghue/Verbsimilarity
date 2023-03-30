@@ -1,0 +1,3 @@
+The aim of the study was to implement a deep-learning tool to produce synthetic double inversion recovery (synthDIR) images and compare their diagnostic performance to conventional sequences in patients with multiple sclerosis (MS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31977602

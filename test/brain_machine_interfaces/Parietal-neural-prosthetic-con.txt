@@ -1,0 +1,3 @@
+To date, the majority of Brain-Machine Interfaces have been used to perform simple tasks with sequences of individual targets in otherwise blank environments. In this study we developed a more practical and clinically relevant task that approximated modern computers and graphical user interfaces (GUIs). This task could be problematic given the known sensitivity of areas typically used for BMIs to visual stimuli, eye movements, decision-making, and attentional control. Consequently, we sought to assess the effect of a complex, GUI-like task on the quality of neural decoding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25394419

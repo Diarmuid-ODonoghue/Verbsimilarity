@@ -1,0 +1,3 @@
+The symptom of oscillopsia in patients with bilateral vestibular loss (BVL) can be reduced as dynamic visual acuity (DVA), the reduction in visual acuity during head movement, is improved by using real-time image stabilization, delivered by augmented reality eyewear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22261498

@@ -1,0 +1,3 @@
+Deep learning has been developed by computer scientists. Here, we discuss techniques for improving the image quality of diagnostic computed tomography and magnetic resonance imaging with the aid of deep learning. We categorize the techniques for improving the image quality as "noise and artifact reduction", "super resolution" and "image acquisition and reconstruction". For each category, we present and outline the features of some studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30498876

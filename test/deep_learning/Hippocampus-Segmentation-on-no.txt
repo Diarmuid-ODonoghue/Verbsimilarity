@@ -1,0 +1,3 @@
+Accurate segmentation of the hippocampus for hippocampal avoidance whole brain radiotherapy currently requires high resolution MRI in addition to neuroanatomic expertise for manual segmentation. Removing the need for MR images to identify the hippocampus would reduce planning complexity, the need for a treatment planning MR imaging session, potential uncertainties associated with MRI-CT image registration, and cost. Three-dimensional deep convolutional network models have the potential to automate hippocampal segmentation. In this study, we demonstrate that deep learning models, utilizing 3D convolutional neural networks, can accurately delineate the hippocampus using only high-resolution non-contrast CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32065401

@@ -1,0 +1,3 @@
+To study the clinical potential of a deep learning neural network (convolutional neural networks [CNN]) as a supportive tool for detection of intracranial aneurysms from 3D time-of-flight magnetic resonance angiography (TOF-MRA) by comparing the diagnostic performance to that of human readers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31227844

@@ -1,0 +1,3 @@
+Recent advances in deep neural networks (DNNs) have unlocked opportunities for their application for automatic image segmentation. We have evaluated a DNN-based algorithm for automatic segmentation of the prostate gland on a large cohort of patient images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30890447

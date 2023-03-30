@@ -1,0 +1,3 @@
+To build a low-cost, small, and wireless electroencephalogram (EEG) system suitable for field recordings, we merged consumer EEG hardware with an EEG electrode cap. Auditory oddball data were obtained while participants walked outdoors on university campus. Single-trial P300 classification with linear discriminant analysis revealed high classification accuracies for both indoor (77%) and outdoor (69%) recording conditions. We conclude that good quality, single-trial EEG data suitable for mobile brain-computer interfaces can be obtained with affordable hardware.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23013047

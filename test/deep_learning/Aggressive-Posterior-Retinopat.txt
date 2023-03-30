@@ -1,0 +1,3 @@
+Aggressive posterior retinopathy of prematurity (AP-ROP) is a vision-threatening disease with a significant rate of progression to retinal detachment. The purpose of this study was to characterize AP-ROP quantitatively by demographics, rate of disease progression, and a deep learning-based vascular severity score.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32197913

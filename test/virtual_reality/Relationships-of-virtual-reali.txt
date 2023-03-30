@@ -1,0 +1,3 @@
+Advances in computer technology have permitted virtual reality images of the ventricular system. To determine the relevance of these images we have compared virtual reality simulations of the ventricular system with endoscopic findings in three patients. The virtual fly-through can be simulated after definition of waypoints. Flight objects of interest can be viewed from all sides. Important drawbacks are that filigree structures may be missed and blood vessels cannot be distinguished clearly. However, virtual endoscopy can presently be used as a planning tool or for training and has future potential for neurosurgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11270826

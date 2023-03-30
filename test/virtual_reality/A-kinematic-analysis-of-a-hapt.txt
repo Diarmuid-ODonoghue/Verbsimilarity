@@ -1,0 +1,3 @@
+Virtual Reality provides new options for conducting motor assessment and training within computer-generated 3 dimensional environments. To date very little has been reported about normal performance in virtual environments. The objective of this study was to evaluate the test-retest reliability of a clinical procedure measuring trajectories with a haptic handheld stylus in a virtual environment and to establish normative data in healthy subjects using this haptic device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17490470

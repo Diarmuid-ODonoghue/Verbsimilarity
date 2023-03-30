@@ -1,0 +1,3 @@
+To assess the performance of deep learning approaches for differentiating nonglaucomatous optic neuropathy versus glaucomatous optic neuropathy (GON) on color fundus photographs by the use of image recognition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32247778

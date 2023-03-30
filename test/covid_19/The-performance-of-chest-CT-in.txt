@@ -1,0 +1,3 @@
+To assess the clinical severity of COVID-19 pneumonia using qualitative and/or quantitative chest CT indicators and identify the CT characteristics of critical cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32304402

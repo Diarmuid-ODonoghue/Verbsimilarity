@@ -1,0 +1,3 @@
+This study seeks to systematically review the selection of features and algorithms for machine learning and automation in deep brain stimulation surgery (DBS) for Parkinson's disease. This will assist in consolidating current knowledge and accuracy levels to allow greater understanding and research to be performed in automating this process, which could lead to improved clinical outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30293864

@@ -1,0 +1,3 @@
+Rice panicle phenotyping is important in rice breeding, and rice panicle segmentation is the first and key step for image-based panicle phenotyping. Because of the challenge of illumination differentials, panicle shape deformations, rice accession variations, different reproductive stages and the field's complex background, rice panicle segmentation in the field is a very large challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29209408

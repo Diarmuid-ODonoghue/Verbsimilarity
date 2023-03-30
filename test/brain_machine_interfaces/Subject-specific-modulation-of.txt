@@ -1,0 +1,3 @@
+Intracortical brain-machine interfaces (BMIs) have predominantly utilized spike activity as the control signal. However, an increasing number of studies have shown the utility of local field potentials (LFPs) for decoding motor related signals. Currently, it is unclear how well different LFP frequencies can serve as features for continuous, closed-loop BMI control.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24503623

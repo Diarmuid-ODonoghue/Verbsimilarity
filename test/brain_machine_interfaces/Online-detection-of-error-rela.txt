@@ -1,0 +1,3 @@
+Increasing the communication speed of brain-computer interfaces (BCIs) is a major aim of current BCI-research. The idea to automatically detect error-related potentials (ErrPs) in order to veto erroneous decisions of a BCI has been existing for more than one decade, but this approach was so far little investigated in online mode.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22336293

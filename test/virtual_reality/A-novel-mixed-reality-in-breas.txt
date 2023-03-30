@@ -1,0 +1,3 @@
+Surgical telepresence has been implemented using Mixed reality (MR) but, MR is theory based and only used for investigating research. The Aim of this paper is to propose and implement a new solution by merging augmented video (generating in local site) and virtual expertise surgeon hand (remote site). This system is to improve the visualization of surgical area, overlay accuracy in the merged video without having any discoloured patterns on hand, smudging artefacts on surgeon hand boundary and occluded areas of surgical area.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31319954

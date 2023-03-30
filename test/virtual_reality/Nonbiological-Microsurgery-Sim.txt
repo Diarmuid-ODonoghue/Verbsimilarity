@@ -1,0 +1,3 @@
+Simulation has gained notable recognition for its role as an effective training and assessment modality in the present era of competency-based medical education. Despite the well-documented efficacy of both live and cadaveric animal models, several ethical, financial, and accessibility issues persist with their use. Lower fidelity nonbiological simulators have gained recognition for their ability to circumvent these challenges. This systematic review reports on all prosthetic and virtual reality simulators in use for microsurgery training, with an emphasis on each model's complexity, characteristics, advantages, disadvantages, and validation measures taken.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31461050

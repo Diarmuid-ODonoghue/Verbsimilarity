@@ -1,0 +1,3 @@
+A large-scale effort was carried out to test the performance of seven types of ionic electroactive polymer (IEAP) actuators in space-hazardous environmental factors in laboratory conditions. The results substantiate that the IEAP materials are tolerant to long-term freezing and vacuum environments as well as ionizing Gamma-, X-ray, and UV radiation at the levels corresponding to low Earth orbit (LEO) conditions. The main aim of this material behaviour investigation is to understand and predict device service time for prolonged exposure to space environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25372857

@@ -1,0 +1,3 @@
+This paper proposes a virtual reality (VR) haptic simulator with realistic instruments, an exchangeable patient-specific three-dimensional (3D)-printed external nostril and a caudal septum model to facilitate real surgical motion for training in endoscopic sinus and skull-base surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32310866

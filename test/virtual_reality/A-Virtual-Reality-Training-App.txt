@@ -1,0 +1,3 @@
+Asperger's syndrome is a disorder that involves a qualitative impairment in social interactions. While most treatments are aimed at children or adolescents, in this paper we present the development of a virtual reality training application in which adults with Asperger's syndrome can train in an autonomous and controlled way how to present in public.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30908187

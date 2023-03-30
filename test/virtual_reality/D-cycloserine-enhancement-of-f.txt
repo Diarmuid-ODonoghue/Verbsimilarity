@@ -1,0 +1,3 @@
+Whereas some studies have shown clear evidence for an augmentation effect of D-cycloserine (DCS) on exposure therapy for anxiety disorders, other studies have shown weak effects or no effect at all. Some preclinical data suggest that the DCS augmentation effect is moderated by the success of extinction learning. Therefore, we conducted a reanalysis of existing data to examine whether the effects of DCS on clinical outcome would vary as a function of response to the exposure session (i.e., exposure success).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23332511

@@ -1,0 +1,3 @@
+To establish objective benchmarks at the level of a competent robotic surgeon across different exercises and metrics for the RobotiX Mentor virtual reality (VR) simulator suitable for use within a robotic surgical training curriculum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29511043

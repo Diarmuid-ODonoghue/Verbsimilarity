@@ -1,0 +1,3 @@
+Non-hermetically sealed eye protection does not fully protect the eyes from airborne particles. Hermetically sealed eye protection fully protects the eyes from particles, but tend to fog up rendering unusable. The purpose of this study was build and test a filtered eye mask (FEM) to protect the eyes from airborne particles while being usable without excessive fog build up.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32334119

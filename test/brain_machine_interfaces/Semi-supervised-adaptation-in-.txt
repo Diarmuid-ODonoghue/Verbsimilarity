@@ -1,0 +1,3 @@
+This paper presents a novel and computationally simple tri-training based semi-supervised steady-state visual evoked potential (SSVEP)-based brain-computer interface (BCI). It is implemented with autocorrelation-based features and a Naïve-Bayes classifier (NBC). The system uses nine characters presented on a 100 Hz CRT-monitor, three scalp electrodes for signal acquisition, a gUSB-amp for preamplification and two PCs for data-processing and stimulus control respectively. Preliminary test results of the system on nine healthy subjects, with and without tri-training, indicates that the accuracy improves as a result of tri-training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110678

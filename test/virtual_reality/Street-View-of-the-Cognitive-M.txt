@@ -1,0 +1,3 @@
+To understand the origins of spatial navigational signals, Acharya et al. record the activity of hippocampal neurons in rats running in open two-dimensional environments in both the real world and in virtual reality. They find that a subset of hippocampal neurons have directional tuning that persists in virtual reality, where vestibular cues are absent.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26771481

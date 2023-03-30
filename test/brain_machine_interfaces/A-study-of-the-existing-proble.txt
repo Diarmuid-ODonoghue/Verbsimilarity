@@ -1,0 +1,3 @@
+Today, the brain-computer interface (BCI) community lacks a standard method to evaluate an online BCI's performance. Even the most commonly used metric, the information transfer rate (ITR), is often reported differently, even incorrectly, in many papers, which is not conducive to BCI research. This paper aims to point out many of the existing problems and give some suggestions and methods to overcome these problems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23448963

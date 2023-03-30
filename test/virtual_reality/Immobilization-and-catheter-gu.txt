@@ -1,0 +1,3 @@
+Brachytherapy is an important mode of breast cancer treatment; however, improvements in both treatment planning and delivery are needed. In order to meet these specific needs, integration of pre-operative imaging, supplemented by computerized surgical planning and mathematical optimization were used to develop and test an intra-operative immobilization and catheter guidance system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21594567

@@ -1,0 +1,3 @@
+Virtual simulators have been widely implemented in medical and surgical training, including ophthalmology. The increasing number of published articles in this field mandates a review of the available results to assess current technology and explore future opportunities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24158838

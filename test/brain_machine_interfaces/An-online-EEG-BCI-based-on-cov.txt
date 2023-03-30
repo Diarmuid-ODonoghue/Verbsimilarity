@@ -1,0 +1,3 @@
+In this work we present--for the first time--the online operation of an electroencephalogram (EEG) brain-computer interface (BCI) system based on covert visuospatial attention (CVSA), without relying on any evoked responses. Electrophysiological correlates of pure top-down CVSA have only recently been proposed as a control signal for BCI. Such systems are expected to share the ease of use of stimulus-driven BCIs (e.g. P300, steady state visually evoked potential) with the autonomy afforded by decoding voluntary modulations of ongoing activity (e.g. motor imagery).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23918205

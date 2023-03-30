@@ -1,0 +1,3 @@
+This article summarizes the preparation, organization, evaluation, and results of Track 2 of the 2018 National NLP Clinical Challenges shared task. Track 2 focused on extraction of adverse drug events (ADEs) from clinical records and evaluated 3 tasks: concept extraction, relation classification, and end-to-end systems. We perform an analysis of the results to identify the state of the art in these tasks, learn from it, and build on it.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31584655

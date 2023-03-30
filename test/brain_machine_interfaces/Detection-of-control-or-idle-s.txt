@@ -1,0 +1,3 @@
+We consider the detection of the control or idle state in an asynchronous Steady-state visually evoked potential (SSVEP)-based brain computer interface system. We propose a likelihood ratio test using Canonical Correlation Analysis (CCA) scores calculated from the EEG measurements. The test exploits the state-specific distributions of CCA scores. The algorithm was tested on offline measurements from 42 participants and the results should a significant improvement in detection error rate over the support vector machine classifier. The proposed test is also shown to be robust against training sample size.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28268627

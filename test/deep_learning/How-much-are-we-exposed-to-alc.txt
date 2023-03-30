@@ -1,0 +1,3 @@
+Evidence demonstrates that seeing alcoholic beverages in electronic media increases alcohol initiation and frequent and excessive drinking, particularly among young people. To efficiently assess this exposure, the aim was to develop the Alcoholic Beverage Identification Deep Learning Algorithm (ABIDLA) to automatically identify beer, wine and champagne/sparkling wine from images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31954949

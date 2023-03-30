@@ -1,0 +1,3 @@
+To perform test-retest reproducibility analyses for deep learning-based automatic detection algorithm (DLAD) using two stationary chest radiographs (CRs) with short-term intervals, to analyze influential factors on test-retest variations, and to investigate the robustness of DLAD to simulated post-processing and positional changes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31900698

@@ -1,0 +1,3 @@
+Segmentation of anatomical structures of the heart from cardiac magnetic resonance images (MRI) has a significant impact on the quantitative analysis of the cardiac contractile function. Although deep convolutional neural networks (ConvNets) have achieved considerable success in medical imaging segmentation, it is still a challenging task for existing deep ConvNets to precisely and automatically segment multiple heart structures from cardiac MRI. This paper presents a novel recurrent interleaved attention network (RIANet) to comprehensively tackle this issue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31100582

@@ -1,0 +1,3 @@
+Integrated analysis of existing radiosensitivity data obtained by the gold-standard clonogenic assay has the potential to improve our understanding of cancer cell radioresistance. However, extraction of radiosensitivity data from the literature is highly labor-intensive. To aid in this task, using deep convolutional neural networks (CNNs) and other computer technologies, we developed an analysis pipeline that extracts radiosensitivity data derived from clonogenic assays from the literature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31431384

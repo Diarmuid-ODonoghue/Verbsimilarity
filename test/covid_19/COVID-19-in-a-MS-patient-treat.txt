@@ -1,0 +1,3 @@
+Coronavirus disease 19 (COVID-19) is a novel disease entity that is spreading throughout the world. It has been speculated that patients with comorbidities and elderly patients could be at high risk for respiratory insufficiency and death. Immunosuppression could expose infected patients to even higher risks of disease complications due to dampened immune response. However, it has been speculated that overactive immune response could drive clinical deterioration and, based on this hypothesis, several immunosuppressants are currently being tested as potential treatment for COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315980

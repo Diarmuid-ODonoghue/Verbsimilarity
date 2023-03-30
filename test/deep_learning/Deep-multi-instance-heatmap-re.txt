@@ -1,0 +1,3 @@
+The analysis of the retinal vasculature plays an important role in the diagnosis of many ocular and systemic diseases. In this context, the accurate detection of the vessel crossings and bifurcations is an important requirement for the automated extraction of relevant biomarkers. In that regard, we propose a novel approach that addresses the simultaneous detection of vessel crossings and bifurcations in eye fundus images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31783244

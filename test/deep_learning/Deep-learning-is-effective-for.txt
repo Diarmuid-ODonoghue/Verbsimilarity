@@ -1,0 +1,3 @@
+The advent of Electronic Medical Records (EMR) with large electronic imaging databases along with advances in deep neural networks with machine learning has provided a unique opportunity to achieve milestones in automated image analysis. Optical coherence tomography (OCT) is the most commonly obtained imaging modality in ophthalmology and represents a dense and rich dataset when combined with labels derived from the EMR. We sought to determine if deep learning could be utilized to distinguish normal OCT images from images from patients with Age-related Macular Degeneration (AMD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30693348

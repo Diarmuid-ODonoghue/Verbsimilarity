@@ -1,0 +1,3 @@
+The detection of intestinal/rectal gas is very important during image-guided radiation therapy (IGRT) of prostate cancer patients because intestinal/rectal gas increases the inter- and intra-fractional prostate motion. We propose a deep convolutional neural network (DCNN) to detect intestinal/rectal gas in the pelvic region.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31515026

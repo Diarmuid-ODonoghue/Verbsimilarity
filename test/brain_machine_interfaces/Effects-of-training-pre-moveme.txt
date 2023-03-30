@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) technology might contribute to rehabilitation of motor function. This speculation is based on the premise that modifying the electroencephalographic (EEG) activity will modify behavior, a proposition for which there is limited empirical data. The present study asked whether learned modulation of pre-movement sensorimotor rhythm (SMR) activity can affect motor performance in normal human subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26529119

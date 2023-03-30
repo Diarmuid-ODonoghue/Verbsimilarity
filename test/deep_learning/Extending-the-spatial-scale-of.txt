@@ -1,0 +1,3 @@
+We paired existing land use regression (LUR) models for ambient ultrafine particles in Montreal and Toronto, Canada with satellite images and deep convolutional neural networks as a means of extending the spatial coverage of these models. Our findings demonstrate that this method can be used to expand the spatial scale of LUR models, thus providing exposure estimates for larger populations. The cost of this approach is a small loss in precision as the training data are themselves modelled values.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31185385

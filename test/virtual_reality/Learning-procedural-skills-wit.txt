@@ -1,0 +1,3 @@
+Virtual Reality (VR) simulation has recently been developed and has improved surgical training. Most VR simulators focus on learning technical skills and few on procedural skills. Studies that evaluated VR simulators focused on feasibility, reliability or easiness of use, but few of them used a specific acceptability measurement tool.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31132727

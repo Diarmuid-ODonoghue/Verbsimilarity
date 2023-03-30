@@ -1,0 +1,3 @@
+Usually the training set of online brain-computer interface (BCI) experiment is small. For the small training set, it lacks enough information to deeply train the classifier, resulting in the poor classification performance during online testing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26550023

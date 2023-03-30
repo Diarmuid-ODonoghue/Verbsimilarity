@@ -1,0 +1,3 @@
+Enhancer elements are noncoding stretches of DNA that play key roles in controlling gene expression programmes. Despite major efforts to develop accurate enhancer prediction methods, identifying enhancer sequences continues to be a challenge in the annotation of mammalian genomes. One of the major issues is the lack of large, sufficiently comprehensive and experimentally validated enhancers for humans or other species. Thus, the development of computational methods based on limited experimentally validated enhancers and deciphering the transcriptional regulatory code encoded in the enhancer sequences is urgent.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28334114

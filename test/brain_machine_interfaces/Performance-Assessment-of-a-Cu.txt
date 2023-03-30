@@ -1,0 +1,3 @@
+Conventional brain-computer interfaces (BCIs) are often expensive, complex to operate, and lack portability, which confines their use to laboratory settings. Portable, inexpensive BCIs can mitigate these problems, but it remains unclear whether their low-cost design compromises their performance. Therefore, we developed a portable, low-cost BCI and compared its performance to that of a conventional BCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28207382

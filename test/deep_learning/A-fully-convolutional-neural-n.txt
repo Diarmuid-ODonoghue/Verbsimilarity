@@ -1,0 +1,3 @@
+Longitudinal magnetic resonance imaging (MRI) has an important role in multiple sclerosis (MS) diagnosis and follow-up. Specifically, the presence of new T2-w lesions on brain MR scans is considered a predictive biomarker for the disease. In this study, we propose a fully convolutional neural network (FCNN) to detect new T2-w lesions in longitudinal brain MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31918065

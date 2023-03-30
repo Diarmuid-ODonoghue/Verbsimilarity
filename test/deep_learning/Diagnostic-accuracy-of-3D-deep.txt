@@ -1,0 +1,3 @@
+Although deep-learning algorithms have been used to compute fractional flow reserve (FFR) from coronary computed tomography angiography (CCTA), no study has achieved 'fully automated' (i.e. free from human input) FFR calculation using deep-learning algorithms. The purpose of the study was to evaluate the accuracy of a fully automated 3D deep-learning model for estimating minimum FFR from CCTA data, with invasive FFR as the reference standard.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31230076

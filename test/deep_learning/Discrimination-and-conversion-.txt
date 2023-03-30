@@ -1,0 +1,3 @@
+Recently, studies have demonstrated that machine learning techniques, particularly cutting-edge deep learning technology, have achieved significant progression on the classification of Alzheimer's disease (AD) and its prodromal phase, mild cognitive impairment (MCI). Moreover, accurate prediction of the progress and the conversion risk from MCI to probable AD has been of great importance in clinical application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30598877

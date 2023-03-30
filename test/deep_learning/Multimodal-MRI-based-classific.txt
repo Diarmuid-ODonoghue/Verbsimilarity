@@ -1,0 +1,3 @@
+Recently, deep learning technologies have rapidly expanded into medical image analysis, including both disease detection and classification. As far as we know, migraine is a disabling and common neurological disorder, typically characterized by unilateral, throbbing and pulsating headaches. Unfortunately, a large number of migraineurs do not receive the accurate diagnosis when using traditional diagnostic criteria based on the guidelines of the International Headache Society. As such, there is substantial interest in developing automated methods to assist in the diagnosis of migraine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30314437

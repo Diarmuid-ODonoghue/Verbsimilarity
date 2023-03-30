@@ -1,0 +1,3 @@
+The field of brain⁻computer interfaces (BCIs) has grown rapidly in the last few decades, allowing the development of ever faster and more reliable assistive technologies for converting brain activity into control signals for external devices for people with severe disabilities [...].
+
+https://www.ncbi.nlm.nih.gov/pubmed/30682766

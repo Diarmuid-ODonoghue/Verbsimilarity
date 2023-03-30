@@ -1,0 +1,3 @@
+Previous studies have shown a correlation between previous video game experience and performance in minimally invasive surgical simulators. The hypothesis is that systematic video game training with high visual-spatial demands and visual similarity to endoscopy would show a transfer effect on performance in virtual reality endoscopic surgical simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19649553

@@ -1,0 +1,3 @@
+Drug discovery demands rapid quantification of compound-protein interaction (CPI). However, there is a lack of methods that can predict compound-protein affinity from sequences alone with high applicability, accuracy and interpretability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30768156

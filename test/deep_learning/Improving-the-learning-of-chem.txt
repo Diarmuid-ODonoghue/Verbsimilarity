@@ -1,0 +1,3 @@
+In this paper, we explore the application of artificial neural network ('deep learning') methods to the problem of detecting chemical-protein interactions in PubMed abstracts. We present here a system using multiple Long Short Term Memory layers to analyse candidate interactions, to determine whether there is a relation and which type. A particular feature of our system is the use of unlabelled data, both to pre-train word embeddings and also pre-train LSTM layers in the neural network. On the BioCreative VI CHEMPROT test corpus, our system achieves an F score of 61.51% (56.10% precision, 67.84% recall).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30010749

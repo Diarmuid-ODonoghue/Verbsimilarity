@@ -1,0 +1,3 @@
+The relationships between self-reported Approaches to Studying and Self-concept, Self-capability and Studying and Learning Behaviour are usually studied by measuring the variables separately (using factor analysis and Cronbach Alphas) and then using various correlation techniques (such as multiple regression and path analysis). This procedure has measurement problems and is called into question.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12495568

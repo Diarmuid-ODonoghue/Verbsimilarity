@@ -1,0 +1,3 @@
+Our objective was to predict endoscopic performance in a cadaver model using basic performance resources (BPRs) measurements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16720156

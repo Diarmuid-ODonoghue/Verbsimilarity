@@ -1,0 +1,3 @@
+Lung cancer is the leading cause of cancer-related deaths in both men and women in the United States, and it has a much lower five-year survival rate than many other cancers. Accurate survival analysis is urgently needed for better disease diagnosis and treatment management.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32183709

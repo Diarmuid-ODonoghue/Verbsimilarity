@@ -1,0 +1,3 @@
+Multiple sclerosis (MS) lesions are heterogeneous with regard to inflammation, demyelination, axonal injury, and neuronal loss. We previously developed a diffusion basis spectrum imaging (DBSI) technique to better address MS lesion heterogeneity. We hypothesized that the profiles of multiple DBSI metrics can identify lesion-defining patterns. Here we test this hypothesis by combining a deep learning algorithm using deep neural network (DNN) with DBSI and other imaging methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32304291

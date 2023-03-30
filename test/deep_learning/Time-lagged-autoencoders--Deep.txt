@@ -1,0 +1,3 @@
+Inspired by the success of deep learning techniques in the physical and chemical sciences, we apply a modification of an autoencoder type deep neural network to the task of dimension reduction of molecular dynamics data. We can show that our time-lagged autoencoder reliably finds low-dimensional embeddings for high-dimensional feature spaces which capture the slow dynamics of the underlying stochastic processes-beyond the capabilities of linear dimension reduction techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29960344

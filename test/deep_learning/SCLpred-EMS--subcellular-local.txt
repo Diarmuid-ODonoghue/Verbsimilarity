@@ -1,0 +1,3 @@
+The subcellular location of a protein can provide useful information for protein function prediction and drug design. Experimentally determining the subcellular location of a protein is an expensive and time-consuming task. Therefore, various computer-based tools have been developed, mostly using machine learning algorithms, to predict the subcellular location of proteins.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32142105

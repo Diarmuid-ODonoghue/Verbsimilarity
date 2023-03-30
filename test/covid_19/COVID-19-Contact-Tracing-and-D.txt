@@ -1,0 +1,3 @@
+We discuss the implementation of app-based contact tracing to control the coronavirus disease (COVID-19) pandemic and discuss its data protection and user acceptability aspects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32294052

@@ -1,0 +1,3 @@
+Scoring laboratory polysomnography (PSG) data remains a manual task of visually annotating 3 primary categories: sleep stages, sleep disordered breathing, and limb movements. Attempts to automate this process have been hampered by the complexity of PSG signals and physiological heterogeneity between patients. Deep neural networks, which have recently achieved expert-level performance for other complex medical tasks, are ideally suited to PSG scoring, given sufficient training data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30445569

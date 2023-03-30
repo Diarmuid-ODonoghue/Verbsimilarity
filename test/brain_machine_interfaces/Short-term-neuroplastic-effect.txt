@@ -1,0 +1,3 @@
+Functional electrical stimulation (FES) has been shown to facilitate the recovery of grasping function in individuals with incomplete spinal cord injury. Neurophysiological theory suggests that this benefit may be further enhanced by a more consistent pairing of the voluntary commands sent from the user's brain down their spinal cord with the electrical stimuli applied to the user's periphery. The objective of the study was to compare brain-machine interfaces (BMIs)-controlled and electromyogram (EMG)-controlled FES therapy to three more well-researched therapies, namely, push button-controlled FES therapy, voluntary grasping (VOL), and BMI-guided voluntary grasping.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24802088

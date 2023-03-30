@@ -1,0 +1,3 @@
+Predicting protein function and structure from sequence is one important challenge for computational biology. For 26 years, most state-of-the-art approaches combined machine learning and evolutionary information. However, for some applications retrieving related proteins is becoming too time-consuming. Additionally, evolutionary information is less powerful for small families, e.g. for proteins from the Dark Proteome. Both these problems are addressed by the new methodology introduced here.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31847804

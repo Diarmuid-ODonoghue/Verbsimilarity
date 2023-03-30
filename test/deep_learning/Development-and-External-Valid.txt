@@ -1,0 +1,3 @@
+We aim to explore the additional discriminative accuracy of a deep learning (DL) algorithm using repeated-measures data for identifying people at high risk for cardiovascular disease (CVD), compared to Cox hazard regression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31456363

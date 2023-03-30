@@ -1,0 +1,3 @@
+Current treatment of intraventricular hemorrhage (IVH) involves cerebral shunt placement or an invasive brain surgery. Magnetic resonance-guided focused ultrasound (MRgFUS) applied to the brains of pediatric patients presents an opportunity to treat IVH in a noninvasive manner, termed "incision-less surgery." Current clinical and research focused ultrasound systems lack the capability to perform neonatal transcranial surgeries due to either range of motion or dexterity requirements. A novel robotic system is proposed to position a focused ultrasound transducer accurately above the head of a neonatal patient inside an MRI machine to deliver the therapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27587029

@@ -1,0 +1,3 @@
+Code assignment is of paramount importance in many levels in modern hospitals, from ensuring accurate billing process to creating a valid record of patient care history. However, the coding process is tedious and subjective, and it requires medical coders with extensive training. This study aims to evaluate the performance of deep-learning-based systems to automatically map clinical notes to ICD-9 medical codes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31319942

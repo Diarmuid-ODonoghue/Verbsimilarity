@@ -1,0 +1,3 @@
+Hydroxychloroquine (HCQ) has been used for the treatment of novel coronavirus disease (COVID-19) cases. However, evidence of efficacy remains limited, and adverse events can be associated with its use. Here, we report a case of a patient with severe COVID-19 who, after being administered HCQ, exhibited a 10-fold increase in serum levels of transaminases, followed by a rapid decrease after HCQ was withdrawn. Considering the significantly increased use of HCQ during the COVID-19 pandemic, this case alerts us to the potential for HCQ to be associated with hepatotoxicity and the need to monitor liver function during HCQ therapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32314698

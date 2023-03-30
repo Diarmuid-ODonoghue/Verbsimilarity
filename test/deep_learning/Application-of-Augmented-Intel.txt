@@ -1,0 +1,3 @@
+Identification of adverse events and determination of their seriousness ensures timely detection of potential patient safety concerns. Adverse event seriousness is a key factor in defining reporting timelines and is often performed manually by pharmacovigilance experts. The dramatic increase in the volume of safety reports necessitates exploration of scalable solutions that also meet reporting timeline requirements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31605285

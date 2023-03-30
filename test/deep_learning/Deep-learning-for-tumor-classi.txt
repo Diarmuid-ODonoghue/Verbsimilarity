@@ -1,0 +1,3 @@
+Tumor classification using imaging mass spectrometry (IMS) data has a high potential for future applications in pathology. Due to the complexity and size of the data, automated feature extraction and classification steps are required to fully process the data. Since mass spectra exhibit certain structural similarities to image data, deep learning may offer a promising strategy for classification of IMS data as it has been successfully applied to image classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29126286

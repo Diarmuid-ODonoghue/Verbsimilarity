@@ -1,0 +1,3 @@
+To compare manual and robot-assisted vitreoretinal surgery using a virtual-reality surgical simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31842191

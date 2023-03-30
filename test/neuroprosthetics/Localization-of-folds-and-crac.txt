@@ -1,0 +1,3 @@
+Thin metal films coated on soft elastomeric foam substrates exhibit enhanced electromechanical performance. The open-cell foam structure conveys highly anisotropic mechanical properties within the top, thin capping elastomer at the surface of the foam. Upon stretching, large strain fields inducing cracks and folds localize above the foam cells, while the surrounding cell ligaments remain almost strain-free, enabling stable electrical conduction in the metallic coating.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23629920

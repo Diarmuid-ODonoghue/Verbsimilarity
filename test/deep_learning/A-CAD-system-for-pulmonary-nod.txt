@@ -1,0 +1,3 @@
+Detection of pulmonary nodules is an important aspect of an automatic detection system. Incomputer-aided diagnosis (CAD) systems, the ability to detect pulmonary nodules is highly important, which plays an important role in the diagnosis and early treatment of lung cancer. Currently, the detection of pulmonary nodules depends mainly on doctor experience, which varies. This paper aims to address the challenge of pulmonary nodule detection more effectively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31299053

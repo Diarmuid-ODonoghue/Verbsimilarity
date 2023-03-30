@@ -1,0 +1,3 @@
+Automatic approach for bladder segmentation from computed tomography (CT) images is highly desirable in clinical practice. It is a challenging task since the bladder usually suffers large variations of appearance and low soft-tissue contrast in CT images. In this study, we present a deep learning-based approach which involves a convolutional neural network (CNN) and a 3D fully connected conditional random fields recurrent neural network (CRF-RNN) to perform accurate bladder segmentation. We also propose a novel preprocessing method, called dual-channel preprocessing, to further advance the segmentation performance of our approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29556905

@@ -1,0 +1,3 @@
+People with Parkinson's disease (PD) commonly experience postural instability, resulting in poor balance and an increased risk of falls. Exercise-based video gaming (exergaming) is a form of physical training that is delivered through virtual reality technology to facilitate motor learning and is efficacious in improving balance in aged populations. In addition, studies have shown that anodal transcranial direct current stimulation (a-tDCS), when applied to the primary motor cortex, can augment motor learning when combined with physical training. However, no studies have investigated the combined effects of exergaming and tDCS on balance in people with PD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30012175

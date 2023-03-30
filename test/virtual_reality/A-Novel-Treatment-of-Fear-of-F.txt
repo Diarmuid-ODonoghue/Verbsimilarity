@@ -1,0 +1,3 @@
+Fear of flying (FoF), a common phobia in the developed world, is usually treated with cognitive behavioral therapy, most efficiently when combined with exposure methods, e.g., virtual reality exposure therapy (VRET). We evaluated FoF treatment using VRET in a large motion-based VR system. The treated subjects were seated on a moving platform. The virtual scenery included the interior of an aircraft and a window view to the outside world accompanied by platform movements simulating, e.g., takeoff, landing, and air turbulence. Relevant auditory stimuli were also incorporated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27026126

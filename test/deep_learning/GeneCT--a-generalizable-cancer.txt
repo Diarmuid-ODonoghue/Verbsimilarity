@@ -1,0 +1,3 @@
+Tissue biopsy is commonly used in cancer diagnosis and molecular studies. However, advanced skills are required for determining cancerous status of biopsies and tissue origin of tumor for cancerous ones. Correct classification is essential for downstream experiment design and result interpretation, especially in molecular cancer studies. Methods for accurate classification of cancerous status and tissue origin for pan-cancer biopsies are thus urgently needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29947737

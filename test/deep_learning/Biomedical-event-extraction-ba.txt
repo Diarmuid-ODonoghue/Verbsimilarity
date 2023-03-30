@@ -1,0 +1,3 @@
+Biomedical event extraction is a crucial task in biomedical text mining. As the primary forum for international evaluation of different biomedical event extraction technologies, BioNLP Shared Task represents a trend in biomedical text mining toward fine-grained information extraction (IE). The fourth series of BioNLP Shared Task in 2016 (BioNLP-ST'16) proposed three tasks, in which the Bacteria Biotope event extraction (BB) task has been put forward in the earlier BioNLP-ST. Deep learning methods provide an effective way to automatically extract more complex features and achieve notable results in various natural language processing tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30367569

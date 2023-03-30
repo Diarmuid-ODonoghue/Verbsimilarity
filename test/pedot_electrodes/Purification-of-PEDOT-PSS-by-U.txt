@@ -1,0 +1,3 @@
+A highly conductive, air stable and scalable poly(3,4-ethylenedioxythiophene) (PEDOT): poly(4-styrenesulfonate) (PEDOT:PSS) are prepared by using mass production ultrafiltration. By effectively removing excess PSS and various reaction impurities using repeated 100 nm pore membrane filtration, purified PEDOT:PSS exhibit conductivity as high as 2000 S cm-1 .
+
+https://www.ncbi.nlm.nih.gov/pubmed/27714926

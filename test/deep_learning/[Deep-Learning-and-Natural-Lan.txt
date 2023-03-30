@@ -1,0 +1,3 @@
+The field of natural language processing (NLP) has seen rapid advances in the past several years since the introduction of deep learning techniques. A variety of NLP tasks including syntactic parsing, machine translation, and summarization can now be performed by relatively simple combinations of general neural network models such as recurrent neural networks and attention mechanisms. This manuscript gives a brief introduction to deep learning and an overview of the current deep learning-based NLP technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30630129

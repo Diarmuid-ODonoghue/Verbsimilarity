@@ -1,0 +1,3 @@
+Spinal cord injury (SCI) can leave the affected individuals with paraparesis or paraplegia, thus rendering them unable to ambulate. Since there are currently no restorative treatments for this population, novel approaches such as brain-controlled prostheses have been sought. Our recent studies show that a brain-computer interface (BCI) can be used to control ambulation within a virtual reality environment (VRE), suggesting that a BCI-controlled lower extremity prosthesis for ambulation may be feasible. However, the operability of our BCI has not yet been tested in a SCI population.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23866985

@@ -1,0 +1,3 @@
+The development of biometric identification technology and intelligent medication has enabled researchers to analyze subcutaneous veins from near-infrared images. However, the stereo reconstruction of subcutaneous veins has not been well studied, and the results are difficult to utilize in clinical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30119847

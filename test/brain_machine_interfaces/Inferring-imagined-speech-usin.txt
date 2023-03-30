@@ -1,0 +1,3 @@
+In this paper, we investigate the suitability of imagined speech for brain-computer interface (BCI) applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28745299

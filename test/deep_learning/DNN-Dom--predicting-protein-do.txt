@@ -1,0 +1,3 @@
+Accurate delineation of protein domain boundary plays an important role for protein engineering and structure prediction. Although machine-learning methods are widely used to predict domain boundary, these approaches often ignore long-range interactions among residues, which have been proven to improve the prediction performance. However, how to simultaneously model the local and global interactions to further improve domain boundary prediction is still a challenging problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31197306

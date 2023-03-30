@@ -1,0 +1,3 @@
+Prior studies of emotional cognition have found that emotion-based bimodal face and voice stimuli can elicit larger event-related potential (ERP) amplitudes and enhance neural responses compared with visual-only emotional face stimuli. Recent studies on brain-computer interface have shown that emotional face stimuli have significantly improved the performance of the traditional P300 speller system, but its performance needs to be further improved for practical applications. Therefore, we herein propose a novel audiovisual P300 speller based on bimodal emotional cognition to further improve the performance of the P300 system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31729840

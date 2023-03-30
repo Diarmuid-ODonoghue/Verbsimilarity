@@ -1,0 +1,3 @@
+We propose a single network trained by pixel-to-label deep learning to address the general issue of automatic multiple organ segmentation in three-dimensional (3D) computed tomography (CT) images. Our method can be described as a voxel-wise multiple-class classification scheme for automatically assigning labels to each pixel/voxel in a 2D/3D CT image.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28730602

@@ -1,0 +1,3 @@
+Carbon fiber electrodes may enable better long-term brain implants, minimizing the tissue response commonly seen with silicon-based electrodes. The small diameter fiber may enable high-channel count brain-machine interfaces capable of reproducing dexterous movements. Past carbon fiber electrodes exhibited both high fidelity single unit recordings and a healthy neuronal population immediately adjacent to the recording site. However, the recording yield of our carbon fiber arrays chronically implanted in the brain typically hovered around 30%, for previously unknown reasons. In this paper we investigated fabrication process modifications aimed at increasing recording yield and longevity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32209743

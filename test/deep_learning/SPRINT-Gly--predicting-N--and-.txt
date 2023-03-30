@@ -1,0 +1,3 @@
+Protein glycosylation is one of the most abundant post-translational modifications that plays an important role in immune responses, intercellular signaling, inflammation and host-pathogen interactions. However, due to the poor ionization efficiency and microheterogeneity of glycopeptides identifying glycosylation sites is a challenging task, and there is a demand for computational methods. Here, we constructed the largest dataset of human and mouse glycosylation sites to train deep learning neural networks and support vector machine classifiers to predict N-/O-linked glycosylation sites, respectively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30903686

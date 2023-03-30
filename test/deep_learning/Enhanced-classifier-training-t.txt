@@ -1,0 +1,3 @@
+In recent months, multiple publications have demonstrated the use of convolutional neural networks (CNN) to classify images of skin cancer as precisely as dermatologists. However, these CNNs failed to outperform the International Symposium on Biomedical Imaging (ISBI) 2016 challenge which ranked the average precision for classification of dermoscopic melanoma images. Accordingly, the technical progress represented by these studies is limited. In addition, the available reports are impossible to reproduce, due to incomplete descriptions of training procedures and the use of proprietary image databases or non-disclosure of used images. These factors prevent the comparison of various CNN classifiers in equal terms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31233565

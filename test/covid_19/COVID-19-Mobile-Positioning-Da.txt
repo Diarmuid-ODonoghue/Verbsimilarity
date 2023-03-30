@@ -1,0 +1,3 @@
+The coronavirus disease (COVID-19) pandemic is the biggest global economic and health challenge of the century. Its effect and impact are still evolving, with deaths estimated to reach 40 million if unchecked. One effective and complementary strategy to slow the spread and reduce the impact is to trace the primary and secondary contacts of confirmed COVID-19 cases using contact tracing technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32310817

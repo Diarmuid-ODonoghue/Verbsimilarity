@@ -1,0 +1,3 @@
+To predict the spatial and temporal trajectories of lung tumor during radiotherapy monitored under a longitudinal magnetic resonance imaging (MRI) study via a deep learning algorithm for facilitating adaptive radiotherapy (ART).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31410855

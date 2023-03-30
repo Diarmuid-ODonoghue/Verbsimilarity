@@ -1,0 +1,3 @@
+Surgical simulation is becoming an increasingly common training tool in residency programs. The first objective was to implement real-time soft-tissue deformation and cutting into a virtual reality myringotomy simulator. The second objective was to test the various implemented incision algorithms to determine which most accurately represents the tympanic membrane during myringotomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22566189

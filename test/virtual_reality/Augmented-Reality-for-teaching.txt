@@ -1,0 +1,3 @@
+Clinical procedures have traditionally been taught at the bedside, in the morgue and in the animal lab. Augmented Reality (AR) technology (the merging of virtual reality and real objects or patients) provides a new method for teaching clinical and surgical procedures. Improved patient safety is a major advantage. We describe a system which employs AR technology to teach endotracheal intubation, using the Visible Human datasets, as well as MR images from live patient volunteers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14728393

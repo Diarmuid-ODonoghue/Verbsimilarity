@@ -1,0 +1,3 @@
+Virtual reality (VR) is an emerging new modality for laparoscopic skills training; however, most simulators lack realistic haptic feedback. Augmented reality (AR) is a new laparoscopic simulation system offering a combination of physical objects and VR simulation. Laparoscopic instruments are used within an hybrid mannequin on tissue or objects while using video tracking. This study was designed to assess the difference in realism, haptic feedback, and didactic value between AR and VR laparoscopic simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17361356

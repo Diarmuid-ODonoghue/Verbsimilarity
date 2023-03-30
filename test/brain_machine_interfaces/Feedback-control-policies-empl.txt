@@ -1,0 +1,3 @@
+When using an intracortical BCI (iBCI), users modulate their neural population activity to move an effector towards a target, stop accurately, and correct for movement errors. We call the rules that govern this modulation a 'feedback control policy'. A better understanding of these policies may inform the design of higher-performing neural decoders.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27900953

@@ -1,0 +1,3 @@
+The advantages of 3D reconstruction, immersive virtual reality (VR) and 3D printing in abdominal surgery have been enunciated for many years, but still today their application in routine clinical practice is almost nil. We investigate their feasibility, user appreciation and clinical impact.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28084141

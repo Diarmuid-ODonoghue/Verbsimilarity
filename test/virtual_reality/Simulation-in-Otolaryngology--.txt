@@ -1,0 +1,3 @@
+Simulation in medical education is an effective method of teaching and learning, allowing standardisation of the learning and teaching processes without compromising the patient. Different types of simulation exist within subspecialty areas of Otolaryngology. Models that have been developed include phantom imaging, dummy patients, virtual models and animal models that are used to teach and practice different skills. Each model has advantages and disadvantages, where virtual reality is an emerging model with a promising future. However, there is still a need for further development of simulation in the area of Otolaryngology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27566856

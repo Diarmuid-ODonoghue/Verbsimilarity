@@ -1,0 +1,3 @@
+RNA regulation is significantly dependent on its binding protein partner, known as the RNA-binding proteins (RBPs). Unfortunately, the binding preferences for most RBPs are still not well characterized. Interdependencies between sequence and secondary structure specificities is challenging for both predicting RBP binding sites and accurate sequence and structure motifs detection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29970003

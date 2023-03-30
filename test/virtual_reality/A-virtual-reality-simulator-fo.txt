@@ -1,0 +1,3 @@
+We present a dental training system with a haptic interface that allows dental students or experts to practice dental procedures in a virtual environment. The simulator is able to monitor and classify the performance of an operator into novice or expert categories. The intelligent training module allows a student to simultaneously and proactively follow the correct dental procedures demonstrated by an intelligent tutor.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20582388

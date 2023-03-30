@@ -1,0 +1,3 @@
+Applications of natural language processing to mental health notes are not common given the sensitive nature of the associated narratives. The CEGS N-GRID 2016 Shared Task in Clinical Natural Language Processing (NLP) changed this scenario by providing the first set of neuropsychiatric notes to participants. This study summarizes our efforts and results in proposing a novel data use case for this dataset as part of the third track in this shared task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28606869

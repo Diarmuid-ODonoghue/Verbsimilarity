@@ -1,0 +1,3 @@
+An outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has led to 95 333 confirmed cases as of March 5, 2020. Understanding the early transmission dynamics of the infection and evaluating the effectiveness of control measures is crucial for assessing the potential for sustained transmission to occur in new areas. Combining a mathematical model of severe SARS-CoV-2 transmission with four datasets from within and outside Wuhan, we estimated how transmission in Wuhan varied between December, 2019, and February, 2020. We used these estimates to assess the potential for sustained human-to-human transmission to occur in locations outside Wuhan if cases were introduced.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32171059

@@ -1,0 +1,3 @@
+We describe a networked, two-user virtual reality (VR) power wheelchair (PWC) simulator system in which an actor (client) and an observer (clinician) meet. We then present a study with 15 observers (expert clinicians) evaluating the effect of three principal forms of viewpoint control (egocentric-egomotion, egocentric-tethered, and client-centric) on the observer's assessment of driving tasks in a virtual environment (VE).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31306040

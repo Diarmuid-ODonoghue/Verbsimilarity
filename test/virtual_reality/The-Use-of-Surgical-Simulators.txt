@@ -1,0 +1,42 @@
+The training of a surgeon includes the acquisition of a number of
+characteristics. These include a cognitive knowledge base,
+problem formulation and decisionmaking abilities, appropriate
+psychosocial relationships, and other attributes that can be
+measured with objective testing, such as national board or
+specialty certifying examinations. Perhaps most critical to the
+surgeon, however, are the core technical skills of the
+profession. A battery of sophisticated devices is being created
+to teach and provide objective evaluations of the trainee's
+technical abilities. These innovative state-of-the-art
+simulation devices, used to teach basic skills and surgical
+tasks through repetitive proctored challenges, will enable
+detection and analysis of surgical errors and near miss
+incidents without risk to patients. As with flight simulation,
+near miss detection capabilities anticipate potential errors
+before they occur and prevent resulting complications. In
+collaboration with a number of otolaryngology residency
+programs, we have developed a comprehensive training curriculum,
+based on complementary simulation tools and several perceptual
+and spatial ability test instruments, to provide objective
+metrics for assessing the technical skills of trainees. These
+tools include an endoscopic sinus surgery simulator for
+procedural training, and the Minimally Invasive Surgical
+Trainer-Virtual Reality (MIST-VR) system for basic surgical
+skills training. Technical errors are identified, quantified,
+and used to monitor surgical performance, after which the
+metrics are used for outcome analysis, for the purpose of
+improving patient safety. Validated metrics include
+time-to-completion, errors, economy of motion, and psychomotor
+tracking. Endoscopic sinus surgery is a suitable operation
+substrate, since it is a frequently performed procedure (more
+than 300,000 times annually in the United States.) and carries a
+significant risk of injury to the delicate neighboring eye and
+brain structures. The endoscopic sinus surgery simulator (ES3)
+is an advanced surgical simulation device based largely on jet
+pilot flight simulation, and provides the trainee with
+appropriate levels of challenge and instruction. ES3 validation
+studies are reported here, along with a description of the World
+Wide Web-based Intelligent Information Interface (WI3)
+simulation database.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21250030

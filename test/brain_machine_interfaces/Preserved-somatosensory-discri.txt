@@ -1,0 +1,3 @@
+To assess somatosensory discrimination and command following using a vibrotactile P300-based Brain-Computer Interface (BCI) in Unresponsive Wakefulness Syndrome (UWS), and investigate the predictive role of this cognitive process on the clinical outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29627716

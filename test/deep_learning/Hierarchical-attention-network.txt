@@ -1,0 +1,3 @@
+We explored how a deep learning (DL) approach based on hierarchical attention networks (HANs) can improve model performance for multiple information extraction tasks from unstructured cancer pathology reports compared to conventional methods that do not sufﬁciently capture syntactic and semantic contexts from free-text documents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29155996

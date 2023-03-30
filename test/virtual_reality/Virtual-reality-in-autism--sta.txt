@@ -1,0 +1,3 @@
+Autism spectrum disorders are characterized by core deficits with regard to three domains, i.e. social interaction, communication and repetitive or stereotypic behaviour. It is crucial to develop intervention strategies helping individuals with autism, their caregivers and educators in daily life. For this purpose, virtual reality (VR), i.e. a simulation of the real world based on computer graphics, can be useful as it allows instructors and therapists to offer a safe, repeatable and diversifiable environment during learning. This mini review examines studies that have investigated the use of VR in autism.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21922965

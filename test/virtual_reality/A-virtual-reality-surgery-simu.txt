@@ -1,0 +1,3 @@
+A virtual-reality surgical simulator aimed at neurosurgery is presented. The simulator utilises boundary element (BE) technology to develop real-time realistic deformable models of the brain. The simulator incorporates the simulation of surgical prodding, pulling and cutting. Advanced features include the separation the cut surfaces by retractors and post-cutting deformations. The experience of virtual surgery is enhanced by implementing 3D stereo-vision and the use of two hand-held force-feedback devices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16938364

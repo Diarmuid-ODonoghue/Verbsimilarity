@@ -1,0 +1,3 @@
+High throughput non-destructive phenotyping is emerging as a significant approach for phenotyping germplasm and breeding populations for the identification of superior donors, elite lines, and QTLs. Detection and counting of spikes, the grain bearing organs of wheat, is critical for phenomics of a large set of germplasm and breeding lines in controlled and field conditions. It is also required for precision agriculture where the application of nitrogen, water, and other inputs at this critical stage is necessary. Further, counting of spikes is an important measure to determine yield. Digital image analysis and machine learning techniques play an essential role in non-destructive plant phenotyping analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32206080

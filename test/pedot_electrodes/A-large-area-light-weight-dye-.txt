@@ -1,0 +1,3 @@
+Light-weight PEDOT-Pt/Ti mesh and Ti/TiO(2) foil electrodes are prepared. Owing to the PEDOT-Pt/Ti photocathode's high transparency, good electrocatalytic activity, and low resistance; the Ti/TiO(2) anode's large specific area and high conductivity, a light-weight backside illuminated large-area (100 cm(2) ) dye-sensitized solar cell achieves an energy conversion efficiency of 6.69% under an outdoors sunlight irradiation of 55 mW cm(-2) .
+
+https://www.ncbi.nlm.nih.gov/pubmed/22407518

@@ -1,0 +1,3 @@
+Subject motion in MRI remains an unsolved problem; motion during image acquisition may cause blurring and artifacts that severely degrade image quality. In this work, we approach motion correction as an image-to-image translation problem, which refers to the approach of training a deep neural network to predict an image in 1 domain from an image in another domain. Specifically, the purpose of this work was to develop and train a conditional generative adversarial network to predict artifact-free brain images from motion-corrupted data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31006909

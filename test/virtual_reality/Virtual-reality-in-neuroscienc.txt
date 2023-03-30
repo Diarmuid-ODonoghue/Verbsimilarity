@@ -1,0 +1,3 @@
+Some research projects have begun to test the possibility of using Virtual Environments (VEs) for research in neuroscience, neurosurgery and for the study and rehabilitation of human cognitive and functional activities. In fact, VEs let users navigate and interact with computer-generated 3-D environments in real time, allowing for the control of complex stimulus presentations. VEs enable the neuroscientist to present a wide variety of controlled stimuli and to measure and monitor a wide variety of responses made by the user. This paper highlights recent and ongoing research related to the applications of VEs in the neuroscience arena. In particular it focuses on the European and US applications in this field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10350919

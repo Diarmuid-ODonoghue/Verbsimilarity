@@ -1,0 +1,3 @@
+To automatically and efficiently segment the lesion area of the colonoscopy polyp image, a polyp segmentation method has been presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31610020

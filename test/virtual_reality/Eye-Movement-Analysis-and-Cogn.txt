@@ -1,0 +1,3 @@
+An adequate behavioral response depends on attentional and mnesic processes. When these basic cognitive functions are impaired, the use of non-immersive Virtual Reality Applications (VRAs) can be a reliable technique for assessing the level of impairment. However, most non-immersive VRAs use indirect measures to make inferences about visual attention and mnesic processes (e.g., time to task completion, error rate).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27922659

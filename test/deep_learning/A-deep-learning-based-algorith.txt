@@ -1,0 +1,3 @@
+Automatic and reliable characterization of cells in cell cultures is key to several applications such as cancer research and drug discovery. Given the recent advances in light microscopy and the need for accurate and high-throughput analysis of cells, automated algorithms have been developed for segmenting and analyzing the cells in microscopy images. Nevertheless, accurate, generic and robust whole-cell segmentation is still a persisting need to precisely quantify its morphological properties, phenotypes and sub-cellular dynamics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30285608

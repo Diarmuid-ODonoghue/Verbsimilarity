@@ -1,0 +1,3 @@
+Cerebrovascular diseases (CVDs) affect a large number of patients and often have devastating outcomes. The hallmarks of CVDs are the abnormalities formed on brain blood vessels, including protrusions, narrows, widening, and bifurcation of the blood vessels. CVDs are often diagnosed by digital subtraction angiography (DSA) yet the interpretation of DSA is challenging as one must carefully examine each brain blood vessel. The objective of this work is to develop a computerized analysis approach for automated segmentation of brain blood vessels.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31710990

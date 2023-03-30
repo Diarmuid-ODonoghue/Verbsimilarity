@@ -1,0 +1,3 @@
+Recent publications in the Electroencephalogram (EEG)-based brain-computer interface field suggest that this technology could be ready to go outside the research labs and enter the market as a new consumer product. This assumption is supported by the recent advantages obtained in terms of front-end graphical user interfaces, back-end classification algorithms, and technology improvement in terms of wearable devices and dry EEG sensors. This editorial paper aims at mentioning these aspects, starting from the review paper "Brain-Computer Interface Spellers: A Review" (Rezeika et al., 2018), published within the Brain Sciences journal, and citing other relevant review papers that discussed these points.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32182818

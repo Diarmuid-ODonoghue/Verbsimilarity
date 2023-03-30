@@ -1,0 +1,3 @@
+To develop a fully automatic method, based on deep learning algorithms, for determining the locations of cone photoreceptors within adaptive optics scanning laser ophthalmoscope images and evaluate its performance against a dataset of manually segmented images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31737434

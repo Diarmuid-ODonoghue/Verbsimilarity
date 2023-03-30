@@ -1,0 +1,3 @@
+To investigate the performance of deep learning (DL) based on fully convolutional neural network (FCNN) in segmenting brain tissues in a large cohort of multiple sclerosis (MS) patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31190607

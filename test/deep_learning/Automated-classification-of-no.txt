@@ -1,0 +1,3 @@
+Recent advances in deep learning have seen an increase in its application to automated image analysis in ophthalmology for conditions with a high prevalence. We wanted to identify whether deep learning could be used for the automated classification of optical coherence tomography (OCT) images from patients with Stargardt disease (STGD) using a smaller dataset than traditionally used.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31981283

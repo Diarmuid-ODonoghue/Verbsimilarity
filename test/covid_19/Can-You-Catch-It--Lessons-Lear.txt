@@ -1,0 +1,3 @@
+Efficient identification and isolation of patients with communicable diseases limits exposure to health care workers, other patients, and visitors. In August 2014, our team developed and implemented an algorithm to triage suspected cases of Ebola virus disease in a midwestern United States emergency department and outpatient clinics based on patient travel history and symptoms. Here, we present the lessons learned and modifications to update the tool.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32340737

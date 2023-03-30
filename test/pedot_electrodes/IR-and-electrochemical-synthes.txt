@@ -1,0 +1,3 @@
+Thin films of PEDOT synthesized on platinum single electrodes in contact with the ionic liquid 1-ethyl-2,3-dimethylimidazolium triflimide ([EMMIM]Tf2N) were studied by cyclic voltammetry, chronoamperometry, infrared spectroscopy and atomic force microscopy. It was found that the polymer grows faster on Pt(111) than on Pt(110) or Pt(100) and that the redox reactions associated with the PEDOT p-doping process are much more reversible in [EMMIM]Tf2N than in acetonitrile. Finally, the ion exchange and charge carriers' formation during the p-doping reaction of PEDOT were studied using in situ FTIR spectroscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25815089

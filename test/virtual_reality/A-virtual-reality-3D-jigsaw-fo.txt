@@ -1,0 +1,3 @@
+Virtual Reality has some advantages over traditional teaching and learning media. Here we describe a VR Jigsaw which uses a novel interface to facilitate learning the anatomy of the skull. A small trial was performed which indicates that the software succeeds at engaging students and suggests that their comprehension of complex 3D structures was improved.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391337

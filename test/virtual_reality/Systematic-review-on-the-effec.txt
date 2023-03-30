@@ -1,0 +1,3 @@
+Computer-based applications are increasingly used to support the training of medical professionals. Augmented reality applications (ARAs) render an interactive virtual layer on top of reality. The use of ARAs is of real interest to medical education because they blend digital elements with the physical learning environment. This will result in new educational opportunities. The aim of this systematic review is to investigate to which extent augmented reality applications are currently used to validly support medical professionals training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26905573

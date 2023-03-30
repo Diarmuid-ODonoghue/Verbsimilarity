@@ -1,0 +1,3 @@
+VR-based surgery simulation provides a cost-effective and efficient method to train novices. In this study, a virtual training system for maxillofacial surgery (VR-MFS), which aims mainly at the simulation of operations on mandible and maxilla, was developed and demonstrated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23720249

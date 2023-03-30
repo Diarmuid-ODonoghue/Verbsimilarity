@@ -1,0 +1,3 @@
+Deep learning (DL) is a promising methodology for automatic detection of abnormalities in brain MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30811739

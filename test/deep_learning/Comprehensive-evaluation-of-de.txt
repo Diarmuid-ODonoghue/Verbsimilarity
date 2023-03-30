@@ -1,0 +1,3 @@
+Deep learning architectures have recently demonstrated their power in predicting DNA- and RNA-binding specificity. Existing methods fall into three classes: Some are based on convolutional neural networks (CNNs), others use recurrent neural networks (RNNs) and others rely on hybrid architectures combining CNNs and RNNs. However, based on existing studies the relative merit of the various architectures remains unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31510640

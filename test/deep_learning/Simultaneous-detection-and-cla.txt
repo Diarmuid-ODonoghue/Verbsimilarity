@@ -1,0 +1,3 @@
+Automatic detection and classification of the masses in mammograms are still a big challenge and play a crucial role to assist radiologists for accurate diagnosis. In this paper, we propose a novel Computer-Aided Diagnosis (CAD) system based on one of the regional deep learning techniques, a ROI-based Convolutional Neural Network (CNN) which is called You Only Look Once (YOLO). Although most previous studies only deal with classification of masses, our proposed YOLO-based CAD system can handle detection and classification simultaneously in one framework.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29477437

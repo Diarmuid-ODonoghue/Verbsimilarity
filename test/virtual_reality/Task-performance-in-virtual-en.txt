@@ -1,0 +1,3 @@
+This report describes a reliability study using a prototype computer-simulated virtual environment to assess basic daily living skills in a sample of persons with traumatic brain injury (TBI). The benefits of using virtual reality in training for situations where safety is a factor have been established in defense and industry, but have not been demonstrated in rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9710158

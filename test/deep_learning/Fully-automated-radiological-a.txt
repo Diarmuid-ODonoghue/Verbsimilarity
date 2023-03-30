@@ -1,0 +1,3 @@
+We present an automated method for extracting anatomical parameters from biplanar radiographs of the spine, which is able to deal with a wide scenario of conditions, including sagittal and coronal deformities, degenerative phenomena as well as images acquired with different fields of view.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30864061

@@ -1,0 +1,3 @@
+The detection rate for identifying the underlying mutation in neurocutaneous syndromes is affected by the sensitivity of the mutation test and the heterogeneity of the disease based on the diagnostic criteria. Neurofibromatosis type (NF1) has been defined for 29years by the National Institutes for Health (NIH) criteria which include ≥6 Café au Lait macules (CAL) as a defining criterion. The discovery of SPRED1 as a cause of Legius syndrome which is manifested by CAL, freckling and learning difficulties has introduced substantial heterogeneity to the NIH criteria.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27322474

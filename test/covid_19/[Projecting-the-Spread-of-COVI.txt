@@ -1,0 +1,3 @@
+The authors model the evolution of the number of confi rmed cases of COVID-19 in Germany. Their theoretical framework builds on a continuous time Markov chain with four physical states: healthy, sick, recovered or asymptomatic infected, and dead. Their quantitative solution matches the number of sick individuals based on the most recent fi gures with the share of sick individuals following from infection rates and sickness probabilities. They employ this framework to study the expected peak of the number of sick individuals in a scenario without public regulation of social contacts. They also study the impact of public regulations. For all scenarios, they report the expected end of the COVID-19 epidemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32336803

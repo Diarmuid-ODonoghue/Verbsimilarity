@@ -1,0 +1,3 @@
+This study was carried out with the purpose of testing the ability of deep learning machine vision to identify microscopic objects and geometries found in chemical crystal structures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30290837

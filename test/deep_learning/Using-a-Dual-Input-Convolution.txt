@@ -1,0 +1,3 @@
+This study aimed to develop a dual-input convolutional neural network (CNN)-based deep-learning algorithm that utilizes both anteroposterior (AP) and lateral elbow radiographs for the automated detection of pediatric supracondylar fracture in conventional radiography, and assess its feasibility and diagnostic performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31725064

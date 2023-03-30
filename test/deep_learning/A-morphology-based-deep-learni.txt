@@ -1,0 +1,3 @@
+Deep learning (DL) has shown promising results in improving atrial fibrillation (AF) detection algorithms. However, these models are often criticized because of their "black box" nature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315684

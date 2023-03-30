@@ -1,0 +1,3 @@
+The use of virtual reality (VR) simulation to train surgeons has been supported by a body of experimental data derived from randomized trials of VR simulation training versus no such training. These investigations have focused on the use of VR devices to train surgeons in laparoscopic and flexible endoscopic skills, and the studies have generally demonstrated that skills acquired through courses of training in VR transfer to the clinical or animal laboratory setting, where assessments of various types have been used to measure performance. These studies, as well as the study model that describes them, and the future of randomized trials of this type are reviewed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18060453

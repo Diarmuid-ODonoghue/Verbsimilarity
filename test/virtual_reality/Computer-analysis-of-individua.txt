@@ -1,0 +1,3 @@
+Objective feedback is important for the continuous development of surgical skills. Motion tracking, which has previously been validated across an entire cataract procedure, can be a useful adjunct. We aimed to measure quantitative differences between junior and senior surgeons' performance in three distinct segments. We further explored whether automated analysis of trainee surgical videos through PhacoTracking could be aligned with metrics from the EyeSi virtual reality simulator, allowing focused improvement of these areas in a controlled environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30206417

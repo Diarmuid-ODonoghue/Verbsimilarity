@@ -1,0 +1,3 @@
+We carried out a preliminary clinical validation of 3D spiral CT virtual endoscopic reconstructions of the tracheobronchial tree, by comparing virtual bronchoscopic images with actual endoscopic findings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9465209

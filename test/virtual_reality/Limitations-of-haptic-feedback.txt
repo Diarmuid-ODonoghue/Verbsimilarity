@@ -1,0 +1,3 @@
+Surgeons performing laparoscopy need a high degree of psychomotor skills, which can be trained and assessed on virtual reality (VR) simulators. VR simulators simulate the surgical environment and assess psychomotor skills according to predefined parameters. This study aimed to validate a proficiency-based training setup that consisted of two tasks with predefined threshold values and handles with haptic feedback on the LapSim(®) VR simulator. The two tasks have been found to have construct validity in previous studies using handles without haptic feedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23233004

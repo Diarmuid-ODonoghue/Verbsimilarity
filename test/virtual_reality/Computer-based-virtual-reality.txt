@@ -1,0 +1,3 @@
+Colonoscopy simulators that enable one to perform computer-based virtual colonoscopy now exist. However, data regarding the effectiveness of this virtual training are limited.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24729994

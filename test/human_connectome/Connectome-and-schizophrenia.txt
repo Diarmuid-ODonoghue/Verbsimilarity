@@ -1,0 +1,3 @@
+The neural connections, interconnections and organized networks of the central nervous system (CNS), which represent the human connectome, are critical for intact brain function. Consequently, disturbances at any level or juncture of these networks may alter behaviour and/or lead to brain dysfunction. In this review, we focus on highlighting recent work using advanced imaging methods to address alterations in the structural and functional connectome in patients with schizophrenia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25768086

@@ -1,0 +1,3 @@
+Technological innovations have had a profound influence on how we study the sensory perception in humans and other animals. One example was the introduction of affordable computers, which radically changed the nature of visual experiments. It is clear that vision research is now at cusp of a similar shift, this time driven by the use of commercially available, low-cost, high-fidelity virtual reality (VR). In this review we will focus on: (a) the research questions VR allows experimenters to address and why these research questions are important, (b) the things that need to be considered when using VR to study human perception.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26161632

@@ -1,0 +1,3 @@
+The efficient organization and communication of brain networks underlie cognitive processing and their disruption can lead to pathological behaviours. Few studies have focused on whole-brain networks in obesity and binge eating disorder (BED). Here we used multi-echo resting-state functional magnetic resonance imaging (rsfMRI) along with a data-driven graph theory approach to assess brain network characteristics in obesity and BED.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27804899

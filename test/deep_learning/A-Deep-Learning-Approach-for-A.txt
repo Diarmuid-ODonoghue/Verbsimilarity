@@ -1,0 +1,3 @@
+To assess the utility of deep learning in the detection of geographic atrophy (GA) from color fundus photographs and to explore potential utility in detecting central GA (CGA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31358385

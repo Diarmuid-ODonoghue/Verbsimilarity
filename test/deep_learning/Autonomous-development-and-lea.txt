@@ -1,0 +1,3 @@
+Autonomous lifelong development and learning are fundamental capabilities of humans, differentiating them from current deep learning systems. However, other branches of artificial intelligence have designed crucial ingredients towards autonomous learning: curiosity and intrinsic motivation, social learning and natural interaction with peers, and embodiment. These mechanisms guide exploration and autonomous choice of goals, and integrating them with deep learning opens stimulating perspectives.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29342696

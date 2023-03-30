@@ -1,0 +1,3 @@
+Active learning techniques result in greater knowledge acquisition compared to passive methods. For medical students with limited hands-on operative experiences, virtual reality platforms represent active learning and may enhance procedural training. We hypothesize that virtual reality simulators like Toolkit for Illustration of Procedures in Surgery (TIPS) are a more effective modality in teaching laparoscopic surgical techniques to medical students when compared to passive learning tools like videos.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31466895

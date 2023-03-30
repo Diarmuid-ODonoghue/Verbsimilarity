@@ -1,0 +1,3 @@
+We assess the performance of a model combining a deep convolutional neural network and a hand-crafted radiomics signature for predicting KRAS status in patients with colorectal cancer (CRC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31982342

@@ -1,0 +1,3 @@
+Polysomnography (PSG) scoring is labor intensive and suffers from variability in inter- and intra-rater reliability. Automated PSG scoring has the potential to reduce the human labor costs and the variability inherent to this task. Deep learning is a form of machine learning that uses neural networks to recognize data patterns by inspecting many examples rather than by following explicit programming.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31289828

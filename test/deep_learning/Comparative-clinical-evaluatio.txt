@@ -1,0 +1,3 @@
+Accurate and standardized descriptions of organs at risk (OARs) are essential in radiation therapy for treatment planning and evaluation. Traditionally, physicians have contoured patient images manually, which, is time-consuming and subject to inter-observer variability. This study aims to a) investigate whether customized, deep-learning-based auto-segmentation could overcome the limitations of manual contouring and b) compare its performance against a typical, atlas-based auto-segmentation method organ structures in liver cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31775825

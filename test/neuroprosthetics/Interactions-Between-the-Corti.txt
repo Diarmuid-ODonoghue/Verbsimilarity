@@ -1,0 +1,3 @@
+Brain imaging has continuously enhanced our understanding how different brain networks contribute to motor recovery after stroke. However, the present models are still incomplete and do not fit for every patient. The interaction between the degree of damage of the corticospinal tract (CST) and of corticocortical motor connections, that is, the influence of the microstructural state of one connection on the importance of another has been largely neglected.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28904231

@@ -1,0 +1,3 @@
+In neuroimaging studies, long-term unilateral hearing loss (UHL) is associated with functional changes in specific brain regions and connections; however, little is known regarding alterations in the topological organization of whole-brain functional networks and whether these alterations are related to hearing behavior in UHL patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29484269

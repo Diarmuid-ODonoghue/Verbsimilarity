@@ -1,0 +1,3 @@
+The specific capture and remotely controlled release of the EpCAM-positive cancer cells from biotin-doped polypyrrole (Ppy) films in response to an electrical potential is presented. As Ppy allows the direct incorporation of biotin molecules during the electrochemical process, densely packed biotin molecules can serve as the binding sites for streptavidin-tagged biomolecular complexes. This study demonstrates not only the enhanced capture and enrichment of EpCAM-positive cancer cells but also "on-demand" release of the viable cells from conductive Ppy in an electrical-potential-dependent way. This novel approach is of great importance in a diverse range of applications, and in particular in cancer diagnostics and screening.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24652762

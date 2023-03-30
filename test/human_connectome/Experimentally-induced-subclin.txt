@@ -1,0 +1,3 @@
+The aim of this study was to experimentally evaluate the effects of subclinical mild hypothyroidism on brain network connectivity as determined by resting state fMRI (rsfMRI) which serves as a proxy for global changes in brain function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30557763

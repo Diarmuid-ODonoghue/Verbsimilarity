@@ -1,0 +1,3 @@
+Spectral computed tomography (CT) has the capability to resolve the energy levels of incident photons, which has the potential to distinguish different material compositions. Although material decomposition methods based on x-ray attenuation characteristics have good performance in dual-energy CT imaging, there are some limitations in terms of image contrast and noise levels.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31177260

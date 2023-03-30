@@ -1,0 +1,3 @@
+Although recent deep learning methodologies have shown promising results in fast MR imaging, how to explore it to learn an explicit prior and leverage it into the observation constraint is still desired.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31429993

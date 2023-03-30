@@ -1,0 +1,3 @@
+In this paper, we present a design for a wearable computational DSP system that alleviates the issues of a previous design and provides a much smaller and lower power solution for the overall BMI goals. The system first acquires the neural data through a high speed data bus in order to train and evaluate prediction models. Then it wirelessly transmits the predicted results to a simulated robot arm. This system has been built and successfully tested with real and simulated data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17946962

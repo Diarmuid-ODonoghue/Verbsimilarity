@@ -1,0 +1,3 @@
+Diabetic retinopathy (DR) is one of the leading causes of preventable blindness globally. Performing retinal screening examinations on all diabetic patients is an unmet need, and there are many undiagnosed and untreated cases of DR. The objective of this study was to develop robust diagnostic technology to automate DR screening. Referral of eyes with DR to an ophthalmologist for further evaluation and treatment would aid in reducing the rate of vision loss, enabling timely and accurate diagnoses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28359545

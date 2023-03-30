@@ -1,0 +1,3 @@
+Virtual reality presents a platform for therapeutic gaming, and incorporation of immersive biofeedback on gait may enhance outcomes in rehabilitation. Time is limited in therapeutic practice, therefore any potential gait training tool requires a short set up time, while maintaining clinical relevance and accuracy. The aim of this study was to develop, validate, and establish the usability of an avatar-based application for biofeedback-enhanced gait training with minimal set up time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31499394

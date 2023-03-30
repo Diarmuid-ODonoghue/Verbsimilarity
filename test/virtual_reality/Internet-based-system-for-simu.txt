@@ -1,0 +1,3 @@
+Current practice in vascular surgery utilizes only diagnostic and empirical data to plan treatments, which does not enable quantitative a priori prediction of the outcomes of interventions. We have previously described simulation-based medical planning methods to model blood flow in arteries and plan medical treatments based on physiologic models. An important consideration for the design of these patient-specific modeling systems is the accessibility to physicians with modest computational resources. We describe a simulation-based medical planning environment developed for the World Wide Web (WWW) using the Virtual Reality Modeling Language (VRML) and the Java programming language.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12834168

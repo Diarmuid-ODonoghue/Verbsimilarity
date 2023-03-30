@@ -1,0 +1,3 @@
+To predict the rate of prostate cancer detection on prostate biopsy more accurately, the performance of deep learning using a multilayer artificial neural network was investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30332595

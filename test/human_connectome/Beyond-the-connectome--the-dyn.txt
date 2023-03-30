@@ -1,0 +1,3 @@
+The human connectome will provide a detailed mapping of the brain's connectivity, with fundamental insights for health and disease. However, further understanding of brain function and dysfunction will require an integrated framework that links brain connectivity with brain dynamics, as well as the biological details that relate this connectivity more directly to function. In this Perspective, we describe such a framework for studying the brain's "dynome" and its relationship to cognition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25233314

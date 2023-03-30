@@ -1,0 +1,3 @@
+Protein remote homology detection plays a vital role in studies of protein structures and functions. Almost all of the traditional machine leaning methods require fixed length features to represent the protein sequences. However, it is never an easy task to extract the discriminative features with limited knowledge of proteins. On the other hand, deep learning technique has demonstrated its advantage in automatically learning representations. It is worthwhile to explore the applications of deep learning techniques to the protein remote homology detection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29017445

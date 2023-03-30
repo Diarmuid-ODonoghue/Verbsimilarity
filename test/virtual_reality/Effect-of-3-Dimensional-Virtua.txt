@@ -1,0 +1,3 @@
+Planning complex operations such as robotic-assisted partial nephrectomy requires surgeons to review 2-dimensional computed tomography or magnetic resonance images to understand 3-dimensional (3-D), patient-specific anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31532520

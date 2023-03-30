@@ -1,0 +1,3 @@
+To develop and test a deep learning algorithm to automatically detect cortical tubers in magnetic resonance imaging (MRI), to explore the utility of deep learning in rare disorders with limited data, and to generate an open-access deep learning standalone application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348367

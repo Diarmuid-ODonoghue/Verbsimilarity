@@ -1,0 +1,3 @@
+Stroke and other nervous system injuries can damage or destroy hand motor control and greatly upset daily activities. Brain computer interfaces (BCIs) represent an emerging technology that can bypass damaged nerves to restore basic motor function and provide more effective rehabilitation. A wireless BCI system was implemented to realize these goals using electroencephalographic brain signals, machine learning techniques, and a custom designed orthosis. The IpsiHand Bravo BCI system is designed to reach a large demographic by using non-traditional brain signals and improving on past BCI system pitfalls.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366248

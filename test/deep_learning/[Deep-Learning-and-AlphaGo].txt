@@ -1,0 +1,3 @@
+When the Information Processing Society of Japan (IPSJ) declared the end of the challenge to the Japanese Shogi Association in 2015, the belief was that it would take more than 20 years for computers to catch up with human professional Go players, as Go is far more complex than shogi from a combinatorial perspective. However, AlphaGo, whose paper was just published the same year, beat the Go world champion in all three games in 2017. In this paper, we describe the artificial intelligence methods adopted by AlphaGo, especially deep learning, and consider their relationship with neuroscience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31289242

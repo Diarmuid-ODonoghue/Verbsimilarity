@@ -1,0 +1,3 @@
+Intracortical brain-computer interfaces (BCIs) are being developed to assist people with motor disabilities in communicating and interacting with the world around them. This technology relies on recordings from the primary motor cortex, which may vary from day to day.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29553484

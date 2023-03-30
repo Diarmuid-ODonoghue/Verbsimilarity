@@ -1,0 +1,3 @@
+Many recent studies have separately investigated functional and white matter (WM) based structural connectivity, yet their relationship remains less understood. In this paper, we proposed the functional-by-structural hierarchical (FSH) mapping to integrate multimodal connectome data from resting state fMRI (rsfMRI) and the whole brain tractography-derived connectome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24409139

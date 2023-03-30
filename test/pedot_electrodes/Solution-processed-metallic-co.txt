@@ -1,0 +1,3 @@
+The conductivity of PEDOT:PSS films was significantly enhanced from 0.3 S cm(-1) to 3065 S cm(-1) through a treatment with dilute sulfuric acids. PEDOT:PSS films with a sheet resistance of 39 Ω sq(-1) and transparency of around 80% at 550 nm are obtained. These PEDOT:PSS films with conductivity and transparency comparable to ITO can replace ITO as the transparent electrode of optoelectronic devices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22488584

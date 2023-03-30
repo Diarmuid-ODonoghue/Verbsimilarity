@@ -1,0 +1,3 @@
+Within Brain-Machine Interface systems, cortically implanted microelectrode arrays and associated hardware have a low power budget for data sampling, processing and transmission. It is already possible to reduce neural data rates by on-site spike detection; we propose a method to further compress spiking data at a low computational cost, with the objective of maintaining clustering and classification abilities. The method relies on random binary vector projections, and simulations show that it is possible to achieve a compression ratio of 5 at virtually no cost in terms of classification errors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366463

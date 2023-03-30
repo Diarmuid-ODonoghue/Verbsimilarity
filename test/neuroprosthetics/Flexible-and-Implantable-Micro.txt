@@ -1,0 +1,3 @@
+Implantable electrical probes that can record neural activities at single-neuron and sub-millisecond resolution are the most widely applied tools in both neuroscience research and neuroprosthetics. However, the structural and mechanical mismatch between conventional rigid probes and neural tissues results in inflammatory responses and signal degradation over chronic recordings. Reducing the cross-sectional footprints and rigidity of the probes can effectively improve the long-term stability of neural interfaces. Herein, recent progress in the development of implantable microelectrodes for chronically stable neural interfaces is highlighted, with a focus on the utilization of advanced materials and structural design concepts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30300442

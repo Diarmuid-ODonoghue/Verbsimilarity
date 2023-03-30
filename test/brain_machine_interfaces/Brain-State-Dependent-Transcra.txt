@@ -1,0 +1,3 @@
+Desynchronization of sensorimotor rhythmic activity increases instantaneous corticospinal excitability, as indexed by amplitudes of motor-evoked potentials (MEP) elicited by transcranial magnetic stimulation (TMS). The accumulative effect of cortical stimulation in conjunction with sensorimotor desynchronization is, however, unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26970878

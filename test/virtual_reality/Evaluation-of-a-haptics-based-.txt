@@ -1,0 +1,3 @@
+Virtual reality simulation training may improve knowledge of anatomy and surgical skills. We evaluated a 3-dimensional, haptic, virtual reality temporal bone simulator for dissection training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24280627

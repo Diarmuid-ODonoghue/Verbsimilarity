@@ -1,0 +1,3 @@
+We report resolution enhancement in scanning electron microscopy (SEM) images using a generative adversarial network. We demonstrate the veracity of this deep learning-based super-resolution technique by inferring unresolved features in low-resolution SEM images and comparing them with the accurately co-registered high-resolution SEM images of the same samples. Through spatial frequency analysis, we also report that our method generates images with frequency spectra matching higher resolution SEM images of the same fields-of-view. By using this technique, higher resolution SEM images can be taken faster, while also reducing both electron charging and damage to the samples.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31427691

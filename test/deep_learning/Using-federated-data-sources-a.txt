@@ -1,0 +1,3 @@
+In this study we trained a deep neural network model for female pelvis organ segmentation using data from several sites without any personal data sharing. The goal was to assess its prediction power compared with the model trained in a centralized manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32197221

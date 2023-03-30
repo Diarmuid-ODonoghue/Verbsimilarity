@@ -1,0 +1,3 @@
+In this supplement, we build on work previously published under the Human Connectome Project. Specifically, we seek to show a comprehensive anatomic atlas of the human cerebrum demonstrating all 180 distinct regions comprising the cerebral cortex. The location, functional connectivity, and structural connectivity of these regions are outlined, and where possible a discussion is included of the functional significance of these areas. In part 7, we specifically address regions relevant to the lateral parietal lobe.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30260428

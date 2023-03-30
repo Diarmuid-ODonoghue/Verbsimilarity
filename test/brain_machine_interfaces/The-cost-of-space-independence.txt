@@ -1,0 +1,3 @@
+Though non-invasive EEG-based Brain Computer Interfaces (BCI) have been researched extensively over the last two decades, most designs require control of spatial attention and/or gaze on the part of the user.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23895406

@@ -1,0 +1,3 @@
+In recent years, deep learning has gained remarkable attention in medical image analysis due to its capacity to provide results comparable to specialists and, in some cases, surpass them. Despite the emergence of deep learning research on gastric tissues diseases, few intensive reviews are addressing this topic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32337060

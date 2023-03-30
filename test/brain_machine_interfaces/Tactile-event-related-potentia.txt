@@ -1,0 +1,3 @@
+We investigated neurophysiological brain responses elicited by a tactile event-related potential paradigm in a sample of ALS patients. Underlying cognitive processes and neurophysiological signatures for brain-computer interface (BCI) are addressed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26209283

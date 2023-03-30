@@ -1,0 +1,3 @@
+Laparoscopic surgery requires fundamental skills peculiar to endoscopic procedures such as eye-hand coordination. Acquisition of such skills prior to performing actual surgery is highly desirable for favorable outcome. Virtual-reality simulators have been developed for both surgical training and assessment of performance. The aim of the current study is to show construct validity of a novel simulator, LapVR (Immersion Medical, San Jose, CA, USA), for Japanese surgeons and surgical residents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20585960

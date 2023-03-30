@@ -1,0 +1,3 @@
+Micro-RNAs (miRNAs) play a significant role in regulating gene expression under physiological and pathological conditions such as cancers. However, it remains a challenging problem to discover the target messenger RNAs (mRNAs) of a miRNA in a data driven fashion. On one hand, sequence-based methods for predicting miRNA targets tend to make too many false positive calls. On the other hand, analyzing expression correlation between miRNAs and mRNAs cannot establish whether relationship between a pair of correlated miRNA and mRNA is causal.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30598118

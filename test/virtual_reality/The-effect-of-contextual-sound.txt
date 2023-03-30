@@ -1,0 +1,3 @@
+Previous work has shown that sound can affect the perception of visual fidelity. Here we build upon this previous work by examining the effect of contextual sound cues (i.e., sounds that are related to the visuals) on visual fidelity perception. Results suggest that contextual sound cues do influence visual fidelity perception and, more specifically, our perception of visual fidelity increases with contextual sound cues. These results have implications for designers of multimodal virtual worlds and serious games that, with the appropriate use of contextual sounds, can reduce visual rendering requirements without a corresponding decrease in the perception of visual fidelity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732534

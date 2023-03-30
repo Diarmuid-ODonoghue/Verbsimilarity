@@ -1,0 +1,3 @@
+Recent advances in deep learning have given rise to a new paradigm of holographic image reconstruction and phase recovery techniques with real-time performance. Through data-driven approaches, these emerging techniques have overcome some of the challenges associated with existing holographic image reconstruction methods while also minimizing the hardware requirements of holography. These recent advances open up a myriad of new opportunities for the use of coherent imaging systems in biomedical and engineering research and related applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31645929

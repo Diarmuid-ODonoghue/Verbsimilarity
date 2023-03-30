@@ -1,0 +1,3 @@
+Residue contact prediction was revolutionized recently by the introduction of direct coupling analysis (DCA). Further improvements, in particular for small families, have been obtained by the combination of DCA and deep learning methods. However, existing deep learning contact prediction methods often rely on a number of external programs and are therefore computationally expensive.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30590407

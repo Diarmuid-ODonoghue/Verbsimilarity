@@ -1,0 +1,3 @@
+Neurofeedback of event-related desynchronization (ERD) in electroencephalograms (EEG) of the sensorimotor cortex (SM1) using a brain-computer interface (BCI) paradigm is a powerful tool to promote motor recovery from post-stroke hemiplegia. However, the feedback delay attenuates the degree of motor learning and neural plasticity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29055718

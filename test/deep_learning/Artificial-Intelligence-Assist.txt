@@ -1,0 +1,3 @@
+Radiographic bone age assessment (BAA) is used in the evaluation of pediatric endocrine and metabolic disorders. We previously developed an automated artificial intelligence (AI) deep learning algorithm to perform BAA using convolutional neural networks. We compared the BAA performance of a cohort of pediatric radiologists with and without AI assistance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30069585

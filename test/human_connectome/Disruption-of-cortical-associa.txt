@@ -1,0 +1,3 @@
+Psychotic disorders (including schizophrenia, schizoaffective disorder, and psychotic bipolar disorder) are devastating illnesses characterized by breakdown in the integration of information processing. Recent advances in neuroimaging allow for the estimation of brain networks on the basis of intrinsic functional connectivity, but the specific network abnormalities in psychotic disorders are poorly understood.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24306091

@@ -1,0 +1,3 @@
+To assess awareness in subjects who are in a minimally conscious state by using an electroencephalogram-based brain-computer interface (BCI), and to determine whether these patients may learn to modulate sensorimotor rhythms with visual feedback, stereo auditory feedback, or both.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25721549

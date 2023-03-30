@@ -1,0 +1,3 @@
+To elucidate the mechanisms of how snack foods may induce non-homeostatic food intake, we used resting state functional magnetic resonance imaging (fMRI), as resting state networks can individually adapt to experience after short time exposures. In addition, we used graph theoretical analysis together with machine learning techniques (support vector machine) to identifying biomarkers that can categorize between high-caloric (potato chips) vs. low-caloric (zucchini) food stimulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29616603

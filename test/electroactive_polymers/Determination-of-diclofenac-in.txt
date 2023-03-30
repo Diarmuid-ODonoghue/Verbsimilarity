@@ -1,0 +1,3 @@
+A novel potentiometric PVC membrane sensor for determination of diclofenac in pharmaceutical preparations has been developed. The sensor is based on the use of the 2,4,6-tri(2-pyridyl)-s-triazine iron(II) diclofenac complex [diclofenac-TPTZ-Fe(II)] as an electroactive material in a plasticized PVC membrane matrix. The sensor exhibits fast, stable and near Nernstian response for diclofenac over the concentration range 10(-2)-10(-6) M and pH 5.5-9.5. Application to quality control analysis of diclofenac in various dosage forms shows an average recovery of 99% with a mean standard deviation of 0.2%. No significant interferences are caused by inorganic and organic anions and various drug excipients and diluents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12622249

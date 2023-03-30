@@ -1,0 +1,3 @@
+Virtual reality surgical simulators provide a safe environment for trainees to practice specific surgical scenarios and allow for self-guided learning. Artificial intelligence technology, including artificial neural networks, offers the potential to manipulate large datasets from simulators to gain insight into the importance of specific performance metrics during simulated operative tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31832652

@@ -1,0 +1,3 @@
+Brain-Computer Interfaces (BCI) can potentially be used to aid in the recovery of lost motor control in a limb following stroke. BCIs are typically used by subjects with no damage to the brain therefore relatively little is known about the technical requirements for the design of a rehabilitative BCI for stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24468185

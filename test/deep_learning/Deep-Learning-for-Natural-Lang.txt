@@ -1,0 +1,3 @@
+Entering all information from narrative documentation for clinical research into databases is time consuming, costly, and nearly impossible. Even high-volume databases do not cover all patient characteristics and drawn results may be limited. A new viable automated solution is machine learning based on deep neural networks applied to natural language processing (NLP), extracting detailed information from narratively written (eg, pathologic radical prostatectomy [RP]) electronic health records (EHRs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30652616

@@ -1,0 +1,3 @@
+Quantitative assessment of subretinal fluid in spectral domain optical coherence tomography (SD-OCT) images is crucial for the diagnosis of central serous chorioretinopathy. For the subretinal fluid segmentation, the traditional methods need to segment retinal layers and then segment subretinal fluid. The layer segmentation has a high influence on subretinal fluid segmentation, so we aim to develop a deep learning model to segment subretinal fluid automatically without layer segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31200913

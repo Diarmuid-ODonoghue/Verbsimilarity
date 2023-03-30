@@ -1,0 +1,3 @@
+The aim of this study was to determine whether deep features extracted from digital mammograms using a pretrained deep convolutional neural network are prognostic of occult invasive disease for patients with ductal carcinoma in situ (DCIS) on core needle biopsy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29398498

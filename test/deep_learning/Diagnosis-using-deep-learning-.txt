@@ -1,0 +1,3 @@
+The endocytoscopic system (ECS) helps in virtual realization of histology and can aid in confirming histological diagnosis in vivo. We propose replacing biopsy-based histology for esophageal squamous cell carcinoma (ESCC) by using the ECS. We applied deep-learning artificial intelligence (AI) to analyse ECS images of the esophagus to determine whether AI can support endoscopists for the replacement of biopsy-based histology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30547352

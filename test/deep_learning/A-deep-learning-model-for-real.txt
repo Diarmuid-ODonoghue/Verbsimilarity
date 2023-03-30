@@ -1,0 +1,3 @@
+The rapid development in big data analytics and the data-rich environment of intensive care units together provide unprecedented opportunities for medical breakthroughs in the field of critical care. We developed and validated a machine learning-based model, the Pediatric Risk of Mortality Prediction Tool (PROMPT), for real-time prediction of all-cause mortality in pediatric intensive care units.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31412949

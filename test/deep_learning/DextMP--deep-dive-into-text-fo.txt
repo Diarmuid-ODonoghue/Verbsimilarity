@@ -1,0 +1,3 @@
+Moonlighting proteins (MPs) are an important class of proteins that perform more than one independent cellular function. MPs are gaining more attention in recent years as they are found to play important roles in various systems including disease developments. MPs also have a significant impact in computational function prediction and annotation in databases. Currently MPs are not labeled as such in biological databases even in cases where multiple distinct functions are known for the proteins. In this work, we propose a novel method named DextMP, which predicts whether a protein is a MP or not based on its textual features extracted from scientific literature and the UniProt database.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28881966

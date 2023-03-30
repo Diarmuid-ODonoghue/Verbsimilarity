@@ -1,0 +1,3 @@
+Brain computer interface technology is of great interest to researchers as a potential therapeutic measure for people with severe neurological disorders. The aim of this study was to examine the efficacy of brain computer interface, by comparing conventional neuromuscular electrical stimulation and brain computer interface-driven neuromuscular electrical stimulation, using an A-B-A-B withdrawal single-subject design.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24590225

@@ -1,0 +1,3 @@
+In longitudinal electroencephalography (EEG) studies, repeatable electrode positioning is essential for reliable EEG assessment. Conventional methods use anatomical landmarks as fiducial locations for the electrode placement. Since the landmarks are manually identified, the EEG assessment is inevitably unreliable because of individual variations among the subjects and the examiners. To overcome this unreliability, an augmented reality (AR) visualization-based electrode guidance system was proposed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29793498

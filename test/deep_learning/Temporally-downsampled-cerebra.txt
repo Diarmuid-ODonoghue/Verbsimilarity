@@ -1,0 +1,3 @@
+Acute ischemic stroke is one of the most causes of death all over the world. Onset to treatment time is critical in stroke diagnosis and treatment. Considering the time consumption and high price of MR imaging, CT perfusion (CTP) imaging is strongly recommended for acute stroke. However, too much CT radiation during CTP imaging may increase the risk of health problems. How to reduce CT radiation dose in CT perfusion imaging has drawn our great attention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31673961

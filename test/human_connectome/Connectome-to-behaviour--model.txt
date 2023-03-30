@@ -1,0 +1,3 @@
+It has been 30 years since the 'mind of the worm' was published in Philosophical Transactions B (White et al 1986 Phil. Trans. R. Soc. Lond. B314, 1-340). Predicting Caenorhabditis elegans' behaviour from its wiring diagram has been an enduring challenge since then. This special theme issue of Philosophical Transactions B combines research from neuroscientists, physicists, mathematicians and engineers to discuss advances in neural activity imaging, behaviour quantification and multiscale simulations, and how they are bringing the goal of whole-animal modelling at cellular resolution within reach.This article is part of a discussion meeting issue 'Connectome to behaviour: modelling C. elegans at cellular resolution'.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30201832

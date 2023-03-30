@@ -1,0 +1,3 @@
+This study aimed at investigating whether a virtual reality display (VRD) is an appropriate tool for evoking visual event-related potentials (VEPs). VEPs evoked by VRD stimuli were highly similar in form to VEPs evoked by using a computer monitor, both having two dominant peaks, labeled P100 and N200. Monitor and VRD N200 latencies and amplitudes were highly correlated. However, peak latencies were longer and the peaks were broader when stimuli were presented on the VRD. Besides, VRD P100 amplitude was smaller, and an N75 peak could be seen usually only on monitor VEPs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10755169

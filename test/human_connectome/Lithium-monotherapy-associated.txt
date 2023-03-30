@@ -1,0 +1,3 @@
+Lithium is one of the most effective and specific treatments for bipolar disorder (BP), but the neural mechanisms by which lithium impacts symptoms remain unclear. Past research has been limited by a reliance on cross-sectional designs, which does not allow for identification of within-person changes due to lithium and has not examined communication between brain regions (ie, networks). In the present study, we prospectively investigated the lithium monotherapy associated effects in vivo on the brain connectome in medication-free BP patients. In particular, we examined the within-person impact of lithium treatment on connectome indices previously linked to mania and depression in bipolar disorder.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30421491

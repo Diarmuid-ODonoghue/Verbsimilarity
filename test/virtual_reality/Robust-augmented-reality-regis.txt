@@ -1,0 +1,3 @@
+Augmented reality (AR) is the fusion of computer-generated and real-time images. AR can be used in surgery as a navigation tool, by creating a patient-specific virtual model through 3D software manipulation of DICOM imaging (e.g., CT scan). The virtual model can be superimposed to real-time images enabling transparency visualization of internal anatomy and accurate localization of tumors. However, the 3D model is rigid and does not take into account inner structures' deformations. We present a concept of automated AR registration, while the organs undergo deformation during surgical manipulation, based on finite element modeling (FEM) coupled with optical imaging of fluorescent surface fiducials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27796600

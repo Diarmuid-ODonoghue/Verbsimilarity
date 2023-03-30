@@ -1,0 +1,3 @@
+This article explores the combination of live, virtual, and constructive (LVC) simulations in healthcare. Live, virtual, and constructive simulations have long existed in the military, but their consideration (and deployment) in medical and healthcare domains is relatively new. We conducted a review on LVC- its current application in the military domain -and highlight an approach, challenges, and present suggestions for its implementation in healthcare learning. Furthermore, based on the state of the art in simulation in healthcare, we suggest that a combination of two simulation types (LV, VC, LC) at the time may be a simpler approach to the community at large.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29677055

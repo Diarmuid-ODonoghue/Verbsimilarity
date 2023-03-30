@@ -1,0 +1,3 @@
+Automatic clinical text classification is a natural language processing (NLP) technology that unlocks information embedded in clinical narratives. Machine learning approaches have been shown to be effective for clinical text classification tasks. However, a successful machine learning model usually requires extensive human efforts to create labeled training data and conduct feature engineering. In this study, we propose a clinical text classification paradigm using weak supervision and deep representation to reduce these human efforts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30616584

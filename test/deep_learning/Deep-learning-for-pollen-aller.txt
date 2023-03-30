@@ -1,0 +1,3 @@
+The paper introduces a deep learning-based approach for real-time detection and insights generation about one of the most prevalent chronic conditions in Australia - Pollen allergy. The popular social media platform is used for data collection as cost-effective and unobtrusive alternative for public health monitoring to complement the traditional survey-based approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31699071

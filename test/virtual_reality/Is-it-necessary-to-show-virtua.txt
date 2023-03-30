@@ -1,0 +1,3 @@
+Action observation neurorehabilitation systems are usually based on the observation of a virtual limb performing different kinds of actions. In this way, the activity in the frontoparietal Mirror Neuron System is enhanced, which can be helpful to rehabilitate stroke patients. However, the presence of limbs in such systems might not be necessary to produce mirror activity, for example, frontoparietal mirror activity can be produced just by the observation of virtual tool movements. The objective of this work was to explore to what point the presence of a virtual limb impacts the Mirror Neuron System activity in neurorehabilitation systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31360538

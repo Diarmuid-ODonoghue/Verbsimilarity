@@ -1,0 +1,3 @@
+The severe acute respiratory syndrome coronavirus 2, better known as COVID-19 has become the current health concern to the entire world. Initially appeared in Wuhan, China around December 2019, it had spread to almost 187 countries due to its high contagious nature. Precautionary measures remain the sole obliging tactic to cease the person to person transmissions till any effective method of treatment or vaccine is developed. Amidst the pandemic, research and development of new molecule is labour-intensive and tedious process. Drug repurposing is the concept of identifying therapeutically potent molecule from the library of pre-existing molecules.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32278693

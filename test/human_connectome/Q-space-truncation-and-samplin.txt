@@ -1,0 +1,3 @@
+To characterize the q-space truncation and sampling on the spin-displacement probability density function (PDF) in diffusion spectrum imaging (DSI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26762670

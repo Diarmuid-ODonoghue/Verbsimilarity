@@ -1,0 +1,3 @@
+Accurate determination of the epileptogenic focus is of paramount diagnostic and therapeutic importance in epilepsy. The current gold standard for focus localization is from ictal (seizure) onset and thus requires the occurrence and recording of multiple typical seizures of a patient. Localization of the focus from seizure-free (interictal) periods remains a challenging problem, especially in the absence of interictal epileptiform activity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28092511

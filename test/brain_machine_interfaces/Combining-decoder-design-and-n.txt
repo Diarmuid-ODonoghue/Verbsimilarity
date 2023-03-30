@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) aim to help people with paralysis by decoding movement-related neural signals into control signals for guiding computer cursors, prosthetic arms, and other assistive devices. Despite compelling laboratory experiments and ongoing FDA pilot clinical trials, system performance, robustness, and generalization remain challenges. We provide a perspective on how two complementary lines of investigation, that have focused on decoder design and neural adaptation largely separately, could be brought together to advance BMIs. This BMI paradigm should also yield new scientific insights into the function and dysfunction of the nervous system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25459407

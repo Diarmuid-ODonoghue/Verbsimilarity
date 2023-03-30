@@ -1,0 +1,3 @@
+Although quantitative measurements improve the assessment of disc degeneration, acquirement of quantitative measurements relies on manual segmentation on lumbar magnetic resonance images (MRIs), which may introduce subjective bias. To date, only a few semiautomatic systems have been developed to quantify important components on MRIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31759132

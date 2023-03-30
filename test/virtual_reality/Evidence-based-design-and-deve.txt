@@ -1,0 +1,3 @@
+Virtual reality (VR) in neurorehabilitation allows to reduce patient's risk and allows him to learn on a faster way. Up to now VR has been used in patients with Parkinson disease (PD) as a research tool and none of the developed systems are used in clinical practice. The goal of this project is to develop a VR-based system for gait therapy, and gait research of patients with PD designed based on published evidence. The developed system uses a digital camera to measure spatiotemporal gait parameters. The software was developed in C#, using Open-Source libraries that facilitates VR programming. The system has potential uses in clinical and research settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25264796

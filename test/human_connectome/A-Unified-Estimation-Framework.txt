@@ -1,0 +1,3 @@
+This paper addresses the critical problem of estimating time-evolving effective brain connectivity. Current approaches based on sliding window analysis or time-varying coefficient models do not simultaneously capture both slow and abrupt changes in causal interactions between different brain regions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27323355

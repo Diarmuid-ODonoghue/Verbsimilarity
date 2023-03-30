@@ -1,0 +1,3 @@
+The paper presents a report on the recently developed BCI alternative for users suffering from impaired vision (lack of focus or eye-movements) or from the so-called "ear-blocking-syndrome" (limited hearing). We report on our recent studies of the extents to which vibrotactile stimuli delivered to the head of a user can serve as a platform for a brain computer interface (BCI) paradigm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24768575

@@ -1,0 +1,3 @@
+As we know more about the clinical and laboratory features of COVID-19, which is now accepted as a pandemic, many questions have been raised about how to manage and monitor the treatment of cancer patients. It was determined that the incidence of lymphopenia increased in COVID-19 and there was a significant relationship between lymphopenia and mortality. This can be thought of as an unresponsive problem in how to maintain anti-cancer drugs that cause lymphopenia. This article was written for a hypothetical approach in cancer patients diagnosed with COVID-19 in order to be an idea of collecting data for treatment with anti-cancer drugs that cause lymphopenia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32333196

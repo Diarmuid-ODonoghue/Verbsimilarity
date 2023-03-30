@@ -1,0 +1,3 @@
+We report a new electrochemical amplification strategy for an ultrasensitive electrochemical detection of DNA sequences using aggregates composed of a water-soluble, ferrocene-functionalized polythiophene. A two-step hybridization is performed at one addressing surface with PNA capture probes whereas the electrochemical detection is done on an electrode nearby. Specific and quantitative detection of DNA targets with a detection limit of 4 × 10(-16) M (about 4 zeptomoles or about 2500 copies of oligonucleotides) was achieved.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21932839

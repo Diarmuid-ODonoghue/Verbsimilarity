@@ -1,0 +1,3 @@
+Collective cell migration is a significant and complex phenomenon that affects many basic biological processes. The coordination between leader cell and follower cell affects the rate of collective cell migration. However, there are still very few papers on the impacts of the stimulus signal released by the leader on the follower. Tracking cell movement using 3D time-lapse microscopy images provides an unprecedented opportunity to systematically study and analyze collective cell migration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31760946

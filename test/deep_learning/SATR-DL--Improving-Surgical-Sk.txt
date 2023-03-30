@@ -1,0 +1,3 @@
+This paper focuses on an automated analysis of surgical motion profiles for objective skill assessment and task recognition in robot-assisted surgery. Existing techniques heavily rely on conventional statistic measures or shallow modelings based on hand-engineered features and gesture segmentation. Such developments require significant expert knowledge, are prone to errors, and are less efficient in online adaptive training systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30440742

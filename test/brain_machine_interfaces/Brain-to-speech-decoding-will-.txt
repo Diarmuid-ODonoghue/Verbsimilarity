@@ -1,0 +1,3 @@
+Advances in electrophysiological methods such as electrocorticography (ECoG) have enabled researchers to decode phonemes, syllables, and words from brain activity. The ultimate aspiration underlying these efforts is the development of a brain-machine interface (BMI) that will enable speakers to produce real-time, naturalistic speech. In the effort to create such a device, researchers have typically followed a bottom-up approach whereby low-level units of language (e.g. phonemes, syllables, or letters) are decoded from articulation areas (e.g. premotor cortex) with the aim of assembling these low-level units into words and sentences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30256217

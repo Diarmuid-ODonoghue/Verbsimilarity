@@ -1,0 +1,3 @@
+To assess the performance of deep learning algorithms for different tasks in retinal fundus images: (1) detection of retinal fundus images versus optical coherence tomography (OCT) or other images, (2) evaluation of good quality retinal fundus images, (3) distinction between right eye (OD) and left eye (OS) retinal fundus images,(4) detection of age-related macular degeneration (AMD) and (5) detection of referable glaucomatous optic neuropathy (GON).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32103888

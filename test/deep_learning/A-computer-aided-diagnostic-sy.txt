@@ -1,0 +1,3 @@
+Detection (diagnosis) of diabetic retinopathy (DR) in optical coherence tomography (OCT) images for patients with type 2 diabetes, but almost clinically normal retina appearances.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28035657

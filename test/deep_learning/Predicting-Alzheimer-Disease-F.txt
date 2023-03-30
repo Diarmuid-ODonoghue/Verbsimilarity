@@ -1,0 +1,3 @@
+Accurate diagnosis of early Alzheimer disease (AD) plays a critical role in preventing the progression of memory impairment. We aimed to develop a new deep belief network (DBN) framework using 18F-fluorodeoxyglucose (FDG) positron emission tomography (PET) metabolic imaging to identify patients at the mild cognitive impairment (MCI) stage with presymptomatic AD and to discriminate them from other patients with MCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31552787

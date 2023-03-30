@@ -1,0 +1,3 @@
+Computer-aided methods have been widely applied to diagnose lesions detected on breast MRI, but fully-automatic diagnosis using deep learning is rarely reported.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31675151

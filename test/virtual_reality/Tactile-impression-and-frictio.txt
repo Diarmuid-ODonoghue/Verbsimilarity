@@ -1,0 +1,3 @@
+Water has a unique touch as well as characteristic physical properties. However, nobody knows the real identity of its touch. Here, we show that water creates a stick-slip feel when a small amount is rubbed using fingertip on an artificial skin that mimics the structure of human skin. The results of frictional analyses predict that this stick-slip feel is caused by a drastic change in frictional resistance. The present result is valuable for biologists and robot engineers as well as cognitive scientists and tribologists, because it is a new example of stick-slip phenomena on biological surfaces. The tactile texture of this most familiar material could also be applied to consumer products or virtual reality systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19124227

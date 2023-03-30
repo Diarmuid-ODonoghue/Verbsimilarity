@@ -1,0 +1,3 @@
+Human field of regard (FOR) is an important concept that should be considered along with field of view (FOV) for people with/without handicaps, but previous studies have neglected this aspect of human perception. In the current study, we suggest and test a new virtual reality (VR) software with which to evaluate individual's detection abilities in the human FOR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27586485

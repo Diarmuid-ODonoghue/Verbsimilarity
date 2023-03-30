@@ -1,0 +1,3 @@
+The purpose of the study was to create computer-aided design models of the paranasal sinuses (frontal, maxillary, and sphenoid) and to perform virtual endoscopy (VE) to them by using virtual reality modelling language technique.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26916200

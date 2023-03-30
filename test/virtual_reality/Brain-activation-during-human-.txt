@@ -1,0 +1,3 @@
+Visuospatial navigation in animals and human subjects is generally studied using maze exploration. We used functional MRI to observe brain activation in male and female subjects as they searched for the way out of a complex, three-dimensional, virtual-reality maze. Navigation activated the medial occipital gyri, lateral and medial parietal regions, posterior cingulate and parahippocampal gyri as well as the right hippocampus proper. Gender-specific group analysis revealed distinct activation of the left hippocampus in males, whereas females consistently recruited right parietal and right prefrontal cortex. Thus we demonstrate a neural substrate of well established human gender differences in spatial-cognition performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10725932

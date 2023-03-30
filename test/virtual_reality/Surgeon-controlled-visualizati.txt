@@ -1,0 +1,3 @@
+Surgeon-to-computer interaction difficulties in using virtual reality (VR)-guided surgical environments arise from disorientation, insufficient depth information, and delegation of view control. This study focuses on optimizing information delivery for VR-guided beating heart surgery. Initial human factors evaluation and participatory design has provided insight for developing an effective surgeon-controlled interface for VR-guided cardiac interventions. We discuss the motivation for and development of three interface prototypes as well as the methodology used to measure the effect of these novel techniques on user performance and workload.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377140

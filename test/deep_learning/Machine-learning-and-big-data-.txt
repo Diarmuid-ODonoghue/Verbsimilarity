@@ -1,0 +1,3 @@
+The International Society for Bipolar Disorders Big Data Task Force assembled leading researchers in the field of bipolar disorder (BD), machine learning, and big data with extensive experience to evaluate the rationale of machine learning and big data analytics strategies for BD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31465619

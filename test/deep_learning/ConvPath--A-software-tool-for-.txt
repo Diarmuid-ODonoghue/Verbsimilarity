@@ -1,0 +1,3 @@
+The spatial distributions of different types of cells could reveal a cancer cell's growth pattern, its relationships with the tumor microenvironment and the immune response of the body, all of which represent key "hallmarks of cancer". However, the process by which pathologists manually recognize and localize all the cells in pathology slides is extremely labor intensive and error prone.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31767541

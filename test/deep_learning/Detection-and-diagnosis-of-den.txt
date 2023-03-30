@@ -1,0 +1,3 @@
+Deep convolutional neural networks (CNNs) are a rapidly emerging new area of medical research, and have yielded impressive results in diagnosis and prediction in the fields of radiology and pathology. The aim of the current study was to evaluate the efficacy of deep CNN algorithms for detection and diagnosis of dental caries on periapical radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30056118

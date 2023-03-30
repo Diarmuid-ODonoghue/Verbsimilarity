@@ -1,0 +1,3 @@
+The use of computers or machines in medicine dates back to the 1960s. Deep learning software programming is a subset of artificial intelligence (AI) based on the ability of a machine to learn from data and adaptively change. Deep learning is creating the next industrial revolution across the economy by replacing repetitive low-skilled tasks with learning algorithms. In medicine, image-based fields such as radiology, dermatology, and pathology have seen an increase in the number of studies using deep learning. However, given the current lack of standardized data sets to train these machines, it is difficult to predict if the present results eventually will be translated to real-life clinical settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32074153

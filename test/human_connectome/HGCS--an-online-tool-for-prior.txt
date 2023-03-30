@@ -1,0 +1,3 @@
+Identifying the genotypes underlying human disease phenotypes is a fundamental step in human genetics and medicine. High-throughput genomic technologies provide thousands of genetic variants per individual. The causal genes of a specific phenotype are usually expected to be functionally close to each other. According to this hypothesis, candidate genes are picked from high-throughput data on the basis of their biological proximity to core genes - genes already known to be responsible for the phenotype. There is currently no effective gene-centric online interface for this purpose.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24694260

@@ -1,0 +1,3 @@
+Machine learning-based approaches now outperform competing methods in most disciplines relevant to diagnostic radiology. Image-guided procedures, however, have not yet benefited substantially from the advent of deep learning, in particular because images for procedural guidance are not archived and thus unavailable for learning, and even if they were available, annotations would be a severe challenge due to the vast amounts of data. In silico simulation of X-ray images from 3D CT is an interesting alternative to using true clinical radiographs since labeling is comparably easy and potentially readily available.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31187399

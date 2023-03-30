@@ -1,0 +1,3 @@
+With impressive speed Garcia-Cremades et al[1] have modelled the association between hydroxychloroquine (HCQ) and viral load, merging literature in vitro data and data from a recently published clinical study (which as of April 11 2020 is under investigation by the publisher[2]). Whilst the authors are to be commended on bringing quantitative clinical pharmacology insight to this health emergency, caution is required on interpreting their results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348551

@@ -1,0 +1,3 @@
+It was proved that the human face stimulus were superior to the flash only stimulus in BCI system. However, human face stimulus may lead to copyright infringement problems and was hard to be edited according to the requirement of the BCI study. Recently, it was reported that facial expression changes could be done by changing a curve in a dummy face which could obtain good performance when it was applied to visual-based P300 BCI systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25314905

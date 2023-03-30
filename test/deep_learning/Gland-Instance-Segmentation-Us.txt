@@ -1,0 +1,3 @@
+A new image instance segmentation method is proposed to segment individual glands (instances) in colon histology images. This process is challenging since the glands not only need to be segmented from a complex background, they must also be individually identified.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28358671

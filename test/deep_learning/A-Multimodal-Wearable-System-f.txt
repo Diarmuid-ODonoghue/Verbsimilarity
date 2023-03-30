@@ -1,0 +1,3 @@
+This study aims to understand breathing patterns during daily activities by developing a wearable respiratory and activity monitoring (WRAM) system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31902783

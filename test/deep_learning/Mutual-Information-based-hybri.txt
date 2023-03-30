@@ -1,0 +1,3 @@
+Due to the development in digital microscopic imaging, image processing and classification has become an interesting area for diagnostic research. Various techniques are available in the literature for the detection of Acute Lymphocytic Leukemia from the single cell blood smear images. The purpose of this work is to develop an effective method for leukemia detection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31443862

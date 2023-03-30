@@ -1,0 +1,3 @@
+Simulators are effective devices for the development of certain skills needed in laparoscopic surgery. Bench models with laparoscopy equipment, virtual reality and mirror boxes have been used; however, they have limitations such as the need for laparoscopy equipment, high cost or a considerable mismatch with reality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17470320

@@ -1,0 +1,3 @@
+Point-of-care ultrasonography plays an increasingly important role in the initial resuscitation of critically ill patients but acquisition of the skill is associated with long learning curves. The skills required to perform ultrasound examinations can be practiced in a simulated setting before being performed on actual patients. The aim of this study was to investigate the learning curves for novices training the FAST protocol on a virtual-reality simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29392718

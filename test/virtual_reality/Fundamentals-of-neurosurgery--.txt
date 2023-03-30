@@ -1,0 +1,3 @@
+Technical skills training in neurosurgery is mostly done in the operating room. New educational paradigms are encouraging the development of novel training methods for surgical skills. Simulation could answer some of these needs. This article presents the development of a conceptual training framework for use on a virtual reality neurosurgical simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23178917

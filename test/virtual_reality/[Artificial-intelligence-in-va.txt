@@ -1,0 +1,3 @@
+New digital technologies will also gain in importance in vascular surgery. There is a wide field of potential applications. Simulation-based training of endovascular procedures can lead to improvement in procedure-specific parameters and reduce fluoroscopy and procedural times. The use of intraoperative image-guided navigation and robotics also enables a reduction of the radiation dose. Artificial intelligence can be used for risk stratification and individualization of treatment approaches. Health apps can be used to improve the follow-up care of patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32060576

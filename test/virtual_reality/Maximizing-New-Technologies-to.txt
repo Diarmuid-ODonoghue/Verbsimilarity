@@ -1,0 +1,3 @@
+In an era of rapid technological evolution, mental healthcare providers are tapping into technology that offers feasible and effective alternatives to reach patients who suffer from depression. This paper provides a brief history and description of current technologies, frequently used taxonomies, and specific applications for the assessment and treatment of depression. These include online healthcare communities and social media, automated screening, wearable technology, and virtual reality therapy. A review of a secondary analysis that incorporated technology used with patients experiencing depressive symptoms is provided and future trends in mHealth or cellular-based technologies to treat depression are explored.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30620622

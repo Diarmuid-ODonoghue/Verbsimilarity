@@ -1,0 +1,3 @@
+To address a dearth of mentoring and to avoid the pitfalls of dyadic mentoring, the authors implemented and evaluated a novel collaborative group peer mentoring program in a large academic department of medicine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26378425

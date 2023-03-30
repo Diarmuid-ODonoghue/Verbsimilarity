@@ -1,0 +1,3 @@
+Patient education for external beam radiation therapy (EBRT) is traditionally delivered in verbal and/or written form, which may not provide a full picture of the complex, technical aspects of treatment. The purpose of this pilot study was to create and evaluate a prototype 360-degree virtual reality (VR) video outlining the technical aspects of EBRT to the pelvis as a supplement to traditional education methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32046946

@@ -1,0 +1,3 @@
+Intracortical brain-computer interface (BCI) decoders are typically retrained daily to maintain stable performance. Self-recalibrating decoders aim to remove the burden this may present in the clinic by training themselves autonomously during normal use but have only been developed for continuous control. Here we address the problem for discrete decoding (classifiers).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24503597

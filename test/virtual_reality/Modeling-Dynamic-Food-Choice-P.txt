@@ -1,0 +1,3 @@
+Meal construction is largely governed by nonconscious and habit-based processes that can be represented as a collection of in dividual, micro-level food choices that eventually give rise to a final plate. Despite this, dietary behavior intervention research rarely captures these micro-level food choice processes, instead measuring outcomes at aggregated levels. This is due in part to a dearth of analytic techniques to model these dynamic time-series events.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29538666

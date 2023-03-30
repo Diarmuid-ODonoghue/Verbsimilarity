@@ -1,0 +1,3 @@
+PTSD, which has been identified in up to 23% of post-9-11 veterans, often results in a chronic, pernicious course. Thus, effective treatments are imperative. The Institute of Medicine (IOM) concluded that the only intervention for PTSD with sufficient evidence to conclude efficacy is exposure therapy. This Phase III trial compares the efficacy of exposure therapy for combat-related PTSD delivered in two different formats- via virtual reality exposure therapy (VRE) or prolonged exposure therapy (PE)- combined with D-Cycloserine (DCS), a cognitive enhancer shown to facilitate the extinction of fear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31669451

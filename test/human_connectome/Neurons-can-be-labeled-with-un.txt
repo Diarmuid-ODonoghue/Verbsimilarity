@@ -1,0 +1,3 @@
+A central problem in neuroscience is elucidating synaptic connections, the connectome. Because mammalian forebrains contain many neurons, labeling specific neurons with unique tags is desirable. A novel technology, Brainbow, creates hundreds of hues by combinatorial expression of multiple fluorescent proteins (FPs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25448383

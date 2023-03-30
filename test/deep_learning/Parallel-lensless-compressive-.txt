@@ -1,0 +1,3 @@
+We report a parallel lensless compressive imaging system, which enjoys real-time reconstruction using deep convolutional neural networks. A prototype composed of a low-cost LCD, 16 photo-diodes and isolation chambers, has been built. Each of these 16 channels captures a fraction of the scene with 16×16 pixels and they are performing in parallel. An efficient inversion algorithm based on deep convolutional neural networks is developed to reconstruct the image. We have demonstrated encouraging results using only 2% (relative to pixel numbers, e.g. 5 for a block with 16×16 pixels) measurements per sensor for digits and around 10% measurements per sensor for facial images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29401917

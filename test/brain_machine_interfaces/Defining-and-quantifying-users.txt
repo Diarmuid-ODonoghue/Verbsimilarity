@@ -1,0 +1,3 @@
+While promising for many applications, electroencephalography (EEG)-based brain-computer interfaces (BCIs) are still scarcely used outside laboratories, due to a poor reliability. It is thus necessary to study and fix this reliability issue. Doing so requires the use of appropriate reliability metrics to quantify both the classification algorithm and the BCI user's performances. So far, classification accuracy (CA) is the typical metric used for both aspects. However, we argue in this paper that CA is a poor metric to study BCI users' skills. Here, we propose a definition and new metrics to quantify such BCI skills for mental imagery (MI) BCIs, independently of any classification algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29769435

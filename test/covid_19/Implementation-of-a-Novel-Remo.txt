@@ -1,0 +1,3 @@
+During the COVID-19 pandemic, alternative methods of care are needed to reduce the relative risk of transmission in departments. Also needed is the ability to provide vital radiation oncological care if radiation oncologists (RO) are reallocated to other departments. We implemented a novel remote RO SBRT coverage practice, requiring it to be reliable, of high audio and visual quality, timely, and the same level of specialty care as our current in-person treatment coverage practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32346656

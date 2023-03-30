@@ -1,0 +1,3 @@
+Deep learning-based image segmentation is by now firmly established as a robust tool in image segmentation. It has been widely used to separate homogeneous areas as the first and critical component of diagnosis and treatment pipeline. In this article, we present a critical appraisal of popular methods that have employed deep-learning techniques for medical image segmentation. Moreover, we summarize the most common challenges incurred and suggest possible solutions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31144149

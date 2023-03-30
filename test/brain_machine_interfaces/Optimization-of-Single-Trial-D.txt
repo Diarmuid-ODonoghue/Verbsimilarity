@@ -1,0 +1,3 @@
+Many brain-computer interface (BCI) classification techniques rely on a large number of labeled brain responses to create efficient classifiers. A large database representing all of the possible variability in the signal is impossible to obtain in a short period of time, and prolonged calibration times prevent efficient BCI use. We propose to improve BCIs based on the detection of event-related potentials (ERPs) in two ways.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25823030

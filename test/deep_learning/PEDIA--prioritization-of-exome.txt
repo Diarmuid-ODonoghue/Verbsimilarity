@@ -1,0 +1,3 @@
+Phenotype information is crucial for the interpretation of genomic variants. So far it has only been accessible for bioinformatics workflows after encoding into clinical terms by expert dysmorphologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31164752

@@ -1,0 +1,3 @@
+Diabetes emerged as major risk factor for severe acute respiratory syndrome (SARS) and adverse outcome in patients with the coronavirus disease 2019 (COVID-19). Nevertheless, the role of admission hyperglycemia in patients with COVID-19 has not been well-explored, yet. With this retrospective analysis, we report for the first time that hyperglycemia on day-1 is the best predictor of radiographic imaging of SARS-Cov2, regardless of the past medical history of diabetes. Admission hyperglycemia should not be overlooked, but adequately treated to improve the outcomes of COVID-19 patients with our without diabetes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32360710

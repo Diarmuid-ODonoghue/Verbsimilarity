@@ -1,0 +1,3 @@
+This paper proposes a multiclass deep learning method for the classification of dementia using an informant-based questionnaire.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31966933

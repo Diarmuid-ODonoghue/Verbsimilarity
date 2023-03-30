@@ -1,0 +1,3 @@
+Cognitive difficulties are prevalent in people with diagnosis of schizophrenia and are associated with poor long-term functioning. In particular, memory, selective, divided and sustained attention and executive functions are altered by this disease. We used a Virtual Reality environment (developed via the NeuroVr2.0 software) for the rehabilitation of shifting, sustained attention and action planning functions using tasks reminiscent of daily life tasks. Test and retest showed significant differences in the assessed cognitive dimensions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23792865

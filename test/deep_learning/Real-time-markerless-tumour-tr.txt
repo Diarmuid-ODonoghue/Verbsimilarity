@@ -1,0 +1,3 @@
+For real-time markerless tumour tracking in stereotactic lung radiotherapy, we propose a different approach which uses patient-specific deep learning (DL) using a personalised data generation strategy, avoiding the need for collection of a large patient data set. We validated our strategy with digital phantom simulation and epoxy phantom studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32101456

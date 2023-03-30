@@ -1,0 +1,3 @@
+Clustering the information content of large high-dimensional gene expression datasets has widespread application in "omics" biology. Unfortunately, the underlying structure of these natural datasets is often fuzzy, and the computational identification of data clusters generally requires knowledge about cluster number and geometry.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20202218

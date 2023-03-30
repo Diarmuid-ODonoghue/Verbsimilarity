@@ -1,0 +1,3 @@
+Currently a substantial research effort is devoted to automated representation of metabolic and gene networks. Automatic visualization plays a significant role in such efforts, and becomes an important problem on its own. Graphical visualization of metabolic pathways has to be information dense and not 'overloaded', recognizable and unified, close to traditional and algebraically consistent. The use of three-dimensional 'virtual reality' visualizations may help to understand better the intricate topology of metabolic and regulatory networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14668228

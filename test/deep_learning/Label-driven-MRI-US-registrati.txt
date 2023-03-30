@@ -1,0 +1,3 @@
+Registration and fusion of magnetic resonance imaging (MRI) and transrectal ultrasound (TRUS) of prostate can provide guidance for prostate brachytherapy. However, accurate registration remains a challenging task due to the lack of ground-truth regarding voxel-level spatial correspondence, limited field of view, low contrast-to-noise ratio in TRUS. In this study, we proposed a weakly supervised deep learning approach to address these issues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32330922

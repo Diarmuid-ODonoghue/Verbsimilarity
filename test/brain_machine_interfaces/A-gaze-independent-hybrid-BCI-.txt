@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) use measures of brain activity to convey a user's intent without the need for muscle movement. Hybrid designs, which use multiple measures of brain activity, have been shown to increase the accuracy of BCIs, including those based on EEG signals reflecting covert attention. Our study examined whether incorporating a measure of the P3 response improved the performance of a previously reported attention-based BCI design that incorporates measures of steady-state visual evoked potentials (SSVEP) and alpha band modulations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28513478

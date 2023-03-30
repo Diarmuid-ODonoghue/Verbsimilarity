@@ -1,0 +1,3 @@
+Many important cellular processes involve physical interactions of proteins. Therefore, determining protein quaternary structures provide critical insights for understanding molecular mechanisms of functions of the complexes. To complement experimental methods, many computational methods have been developed to predict structures of protein complexes. One of the challenges in computational protein complex structure prediction is to identify near-native models from a large pool of generated models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31746961

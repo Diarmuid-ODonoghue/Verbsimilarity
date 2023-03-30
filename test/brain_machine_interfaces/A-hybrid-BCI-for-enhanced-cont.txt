@@ -1,0 +1,3 @@
+Motor-disabled end users have successfully driven a telepresence robot in a complex environment using a Brain-Computer Interface (BCI). However, to facilitate the interaction aspect that underpins the notion of telepresence, users must be able to voluntarily and reliably stop the robot at any moment, not just drive from point to point. In this work, we propose to exploit the user's residual muscular activity to provide a fast and reliable control channel, which can start/stop the telepresence robot at any moment. Our preliminary results show that not only does this hybrid approach increase the accuracy, but it also helps to reduce the workload and was the preferred control paradigm of all the participants.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110383

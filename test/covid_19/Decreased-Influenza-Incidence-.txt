@@ -1,0 +1,3 @@
+We compared indicators of influenza activity in 2020 before and after public health measures were taken to reduce coronavirus disease (COVID-19) with the corresponding indicators from 3 preceding years. Influenza activity declined substantially, suggesting that the measures taken for COVID-19 were effective in reducing spread of other viral respiratory diseases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32339092

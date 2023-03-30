@@ -1,0 +1,3 @@
+Hemispatial neglect is a cognitive disorder defined as a lack of attention for stimuli contra-lateral to the brain lesion. The assessment is traditionally done with basic pencil and paper tests and the rehabilitation programs are generally not well adapted. We propose a virtual reality system featuring an eye-tracking device for a better characterization of the neglect that will lead to new rehabilitation techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17640377

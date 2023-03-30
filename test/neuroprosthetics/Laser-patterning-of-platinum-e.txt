@@ -1,0 +1,3 @@
+Laser surface modification of platinum (Pt) electrodes was investigated for use in neuroprosthetics. Surface modification was applied to increase the surface area of the electrode and improve its ability to transfer charge within safe electrochemical stimulation limits.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25188649

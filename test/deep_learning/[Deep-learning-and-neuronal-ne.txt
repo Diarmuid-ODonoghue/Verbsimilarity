@@ -1,0 +1,3 @@
+Deep learning is increasingly becoming the focus of various imaging methods in medicine. Due to the large number of different imaging modalities, ophthalmology is particularly suitable for this field of application. This article gives a general overview on the topic of deep learning and its current applications in the field of optical coherence tomography. For the benefit of the reader it focuses on the clinical rather than the technical aspects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29675699

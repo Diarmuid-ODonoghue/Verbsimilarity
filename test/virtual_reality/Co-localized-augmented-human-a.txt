@@ -1,0 +1,3 @@
+Image-guided percutaneous interventions are safer alternatives to conventional orthopedic and trauma surgeries. To advance surgical tools in complex bony structures during these procedures with confidence, a large number of images is acquired. While image-guidance is the de facto standard to guarantee acceptable outcome, when these images are presented on monitors far from the surgical site the information content cannot be associated easily with the 3D patient anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31350704

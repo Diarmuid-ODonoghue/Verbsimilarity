@@ -1,0 +1,3 @@
+Our objectives were to provide an automated method for spatially resolved detection and quantification of motion artifacts in MR images of the head and abdomen as well as a quality control of the trained architecture.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28932991

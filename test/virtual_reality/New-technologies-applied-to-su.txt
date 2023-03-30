@@ -1,0 +1,3 @@
+AYRA is software of virtual reality for training, planning and optimizing surgical procedures. AYRA was developed under a research, development and innovation project financed by the Andalusian Ministry of Health, called VirSSPA. Nowadays AYRA has been successfully used in more than 1160 real cases and after proving its efficiency it has been introduced in the clinical practice at the Virgen del Rocío University Hospital . Furthermore, AYRA allows generating physical 3D biomodels using rapid prototyping technology. They are used for surgical planning support, intraoperative reference or defect reconstruction. In this paper, some of these tools and some real cases are presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25991234

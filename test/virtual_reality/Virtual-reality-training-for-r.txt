@@ -1,0 +1,3 @@
+A report in 2007 to the UK Government identified a crisis in England for training staff and students for the radiotherapy treatment of cancer. The Hull authors have developed an immersive life size virtual environment of a radiotherapy treatment room, known as VERT, to address this problem. VERT provides the trainee with models, simulation, enhanced visualization and training aids for treatment of virtual patients in a virtual treatment room. In 2007 immersive VERT systems for radiotherapy training were established for training purposes at the University Aarhus Hospital (Denmark) and the Birmingham City University (UK). This paper reports on early evaluations of VERT by these two institutions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391323

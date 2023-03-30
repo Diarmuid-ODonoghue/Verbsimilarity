@@ -1,0 +1,3 @@
+A novel method for motor imagery (MI) electroencephalogram (EEG) data classification is proposed in this study. Time-frequency representation is constructed by means of continuous wavelet transform from EEG signals and then weighted with 2-sample t-statistics, which are also used to automatically select the area of interest in advance. Finally, normalized cross-correlation is used to discriminate the test MI data. Compared with the nonweighted version on MI data, the experimental results indicate that the proposed system achieves satisfactory results in the applications of brain-computer interface (BCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24599891

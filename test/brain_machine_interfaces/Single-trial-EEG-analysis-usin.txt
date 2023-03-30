@@ -1,0 +1,3 @@
+Single-trial electroencephalogram (EEG) data are analyzed with similarity measure. Time-frequency representation is constructed from EEG signals. It is then weighted with t-statistics. Finally, the test data are discriminated with similarity measure. Compared with non-weighted version, the experimental results indicate that the proposed method obtains better results in classification accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26684888

@@ -1,0 +1,3 @@
+To identify the extent to which transfer learning from deep convolutional neural networks (CNNs), pre-trained on non-medical images, can be used for automated fracture detection on plain radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29269036

@@ -1,0 +1,3 @@
+In multi-label text classification, each textual document is assigned 1 or more labels. As an important task that has broad applications in biomedicine, a number of different computational methods have been proposed. Many of these methods, however, have only modest accuracy or efficiency and limited success in practical use. We propose ML-Net, a novel end-to-end deep learning framework, for multi-label classification of biomedical texts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31233120

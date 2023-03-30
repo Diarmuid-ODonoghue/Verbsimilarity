@@ -1,0 +1,3 @@
+Arthroscopic simulation tools will assist in the training of skills that are transferrable to the operating room. Success in that endeavor requires the following: relevant outcome metrics rather than surrogate measures of performance, evaluation tools that enable scoring of step and error metrics rather than global rating scales, construct validation of simulators and metrics based on actual performance, development of simulators that not only assess performance but also train additional skills and provide feedback, and a focus first on effective training as opposed to high-fidelity realism.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30827432

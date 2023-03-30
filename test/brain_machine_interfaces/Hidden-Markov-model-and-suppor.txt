@@ -1,0 +1,3 @@
+Support vector machines (SVM) have developed into a gold standard for accurate classification in brain-computer interfaces (BCI). The choice of the most appropriate classifier for a particular application depends on several characteristics in addition to decoding accuracy. Here we investigate the implementation of hidden Markov models (HMM) for online BCIs and discuss strategies to improve their performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24045504

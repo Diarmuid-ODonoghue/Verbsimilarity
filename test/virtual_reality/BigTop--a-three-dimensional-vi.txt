@@ -1,0 +1,3 @@
+Genome-wide association studies (GWAS) are typically visualized using a two-dimensional Manhattan plot, displaying chromosomal location of SNPs along the x-axis and the negative log-10 of their p-value on the y-axis. This traditional plot provides a broad overview of the results, but offers little opportunity for interaction or expansion of specific regions, and is unable to show additional dimensions of the dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32005132

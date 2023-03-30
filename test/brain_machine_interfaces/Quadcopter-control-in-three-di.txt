@@ -1,0 +1,3 @@
+At the balanced intersection of human and machine adaptation is found the optimally functioning brain-computer interface (BCI). In this study, we report a novel experiment of BCI controlling a robotic quadcopter in three-dimensional (3D) physical space using noninvasive scalp electroencephalogram (EEG) in human subjects. We then quantify the performance of this system using metrics suitable for asynchronous BCI. Lastly, we examine the impact that the operation of a real world device has on subjects' control in comparison to a 2D virtual cursor task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23735712

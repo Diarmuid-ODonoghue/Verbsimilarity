@@ -1,0 +1,3 @@
+The number grain per panicle of rice is an important phenotypic trait and a significant index for variety screening and cultivation management. The methods that are currently used to count the number of grains per panicle are manually conducted, making them labor intensive and time consuming. Existing image-based grain counting methods had difficulty in separating overlapped grains.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31695727

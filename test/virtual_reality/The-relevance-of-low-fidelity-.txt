@@ -1,0 +1,3 @@
+The use of simulators has shown a profound impact on the development of both training and assessment of endovascular skills. Furthermore, there is evidence that simulator training is of great benefit for novice trainees. However, there are only a few simulators available geared specifically toward novice learners. Whereas research suggests that low-fidelity simulators could fill this gap, there are insufficient data available to determine the role of low-fidelity simulators in the training of endovascular skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30579447

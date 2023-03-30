@@ -1,0 +1,3 @@
+Hybrid brain computer interfaces (BCIs) combining multiple brain imaging modalities have been proposed recently to boost the performance of single modality BCIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30590086

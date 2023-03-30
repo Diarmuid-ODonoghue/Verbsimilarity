@@ -1,0 +1,3 @@
+Colonoscopy is the gold standard for polyp detection, but polyps may be missed. Artificial intelligence (AI) technologies may assist in polyp detection. To date, most studies for polyp detection have validated algorithms in ideal endoscopic conditions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31789758

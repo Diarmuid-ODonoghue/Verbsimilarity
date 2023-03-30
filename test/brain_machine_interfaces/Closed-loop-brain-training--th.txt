@@ -1,0 +1,3 @@
+Neurofeedback is a psychophysiological procedure in which online feedback of neural activation is provided to the participant for the purpose of self-regulation. Learning control over specific neural substrates has been shown to change specific behaviours. As a progenitor of brain-machine interfaces, neurofeedback has provided a novel way to investigate brain function and neuroplasticity. In this Review, we examine the mechanisms underlying neurofeedback, which have started to be uncovered. We also discuss how neurofeedback is being used in novel experimental and clinical paradigms from a multidisciplinary perspective, encompassing neuroscientific, neuroengineering and learning-science viewpoints.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28003656

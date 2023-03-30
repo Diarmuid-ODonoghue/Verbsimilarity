@@ -1,0 +1,3 @@
+Virtual reality surgical simulators are becoming popular as a means of providing trainees with an opportunity to practice laparoscopic skills. The Lap-X (Epona Medical, Rotterdam, the Netherlands) is a novel VR simulator for training basic skills in laparoscopic surgery. The objective of this study was to validate the LAP-X laparoscopic virtual reality simulator by assessing the face and construct validity in order to determine whether the simulator is adequate for basic skills training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24773373

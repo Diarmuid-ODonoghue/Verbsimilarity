@@ -1,0 +1,3 @@
+To apply a deep-learning system for diagnosis of maxillary sinusitis on panoramic radiography, and to clarify its diagnostic performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30539342

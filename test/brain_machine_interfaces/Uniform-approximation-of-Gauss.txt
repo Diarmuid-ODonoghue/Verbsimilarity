@@ -1,0 +1,3 @@
+Signal processing in analog domain is favorable when power consumption is a critical design constraint. Continuous Wavelet Transform (CWT), which is increasingly being used in characterizing biomedical signals, when implemented in analog domain consumes less power provided the mother wavelet is properly approximated. This paper presents an approximation of Gaussian wavelet by making use of the Uniform approximation. Simulations of the approximated wavelet and the actual wavelet in MATLAB are performed and the results discussed. Simulations show that (i) approximation obtained closely matches the mother wavelet chosen and (ii) a stable approximation which helps in physical realization using any circuit design methodology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110330

@@ -1,0 +1,3 @@
+Virtual-reality (VR) simulation provides a safe and effective learning environment prior to practicing on patients. However, existing bronchoscopy simulators are expensive and not easily portable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22823900

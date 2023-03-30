@@ -1,0 +1,3 @@
+To compare the traditional teaching approach of binocular indirect ophthalmoscopy (BIO) to the EyeSI augmented reality (AR) BIO simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28985799

@@ -1,0 +1,3 @@
+In this Letter we propose the Fourier-space diffractive deep neural network (F-D^{2}NN) for all-optical image processing that performs advanced computer vision tasks at the speed of light. The F-D^{2}NN is achieved by placing the extremely compact diffractive modulation layers at the Fourier plane or both Fourier and imaging planes of an optical system, where the optical nonlinearity is introduced from ferroelectric thin films. We demonstrated that F-D^{2}NN can be trained with deep learning algorithms for all-optical saliency detection and high-accuracy object classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31386516

@@ -1,0 +1,3 @@
+This paper tackles the problem of transfer learning in the context of electroencephalogram (EEG)-based brain-computer interface (BCI) classification. In particular, the problems of cross-session and cross-subject classification are considered. These problems concern the ability to use data from previous sessions or from a database of past users to calibrate and initialize the classifier, allowing a calibration-less BCI mode of operation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28841546

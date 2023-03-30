@@ -1,0 +1,3 @@
+In this study, we propose visual stimulation based on the primary colors (red, green, and blue) in order to investigate the characteristics of the P300 response. Eleven healthy volunteers participated in our experiment, and their brain signals were recorded by electroencephalography (EEG). Using two basic measures referred to as `on-peak' and `off-peak' for comparison of the P300 response among the participants, we found that the P300 response varies depending on the color of the stimulus. The results of this investigation are expected to contribute to various existing and future EEG-based applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25571090

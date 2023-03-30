@@ -1,0 +1,3 @@
+GI endoscopy simulation-based training augments early clinical performance; however, the optimal manner by which to deliver training is unknown.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26007221

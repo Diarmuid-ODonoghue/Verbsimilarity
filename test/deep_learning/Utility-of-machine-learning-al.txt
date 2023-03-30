@@ -1,0 +1,3 @@
+To investigate the utility of novel deep learning (DL) algorithms in recognizing transposition of the great arteries (TGA) after atrial switch procedure or congenitally corrected TGA (ccTGA) based on routine transthoracic echocardiograms. In addition, the ability of DL algorithms for delineation and segmentation of the systemic ventricle was evaluated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30629127

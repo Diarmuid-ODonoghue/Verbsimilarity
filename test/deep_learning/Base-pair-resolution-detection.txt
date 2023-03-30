@@ -1,0 +1,3 @@
+Transcription factor (TF) binds to the promoter region of a gene to control gene expression. Identifying precise TF binding sites (TFBSs) is essential for understanding the detailed mechanisms of TF-mediated gene regulation. However, there is a shortage of computational approach that can deliver single base pair resolution prediction of TFBS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29757349

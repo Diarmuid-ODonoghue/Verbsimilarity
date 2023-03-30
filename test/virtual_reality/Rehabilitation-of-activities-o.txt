@@ -1,0 +1,3 @@
+To investigate the feasibility of using a virtual rehabilitation system with intuitive user interface and force feedback to improve the skills in activities of daily living (ADL).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27782750

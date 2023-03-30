@@ -1,0 +1,3 @@
+Virtual reality simulators contribute to basic laparoscopic skill acquisition. These trainers have not yet been shown to contribute to the acquisition of more advanced laparoscopic skills as measured by the Fundamentals of Laparoscopic Surgery (FLS). We have customized novel basic and advanced curricula for the LapSim trainer (Surgical Science, Göteborg, Sweden). Successful completion of these programs is required of our residents. We hypothesize that the successful completion of our advanced curriculum will result in the significant improvement of our residents' advanced laparoscopic skills as measured by the FLS skills scores.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21338968

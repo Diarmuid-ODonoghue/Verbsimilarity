@@ -1,0 +1,3 @@
+When single pulse transcranial magnetic stimulation (TMS) is applied over the primary motor cortex (M1) with sufficient intensity, it evokes muscular contractions (motor-evoked potentials, MEPs) and muscle twitches (TMS-evoked movements). Participants may also report various hand sensations related to TMS, but the perception elicited by TMS and its relationship to MEPs and evoked movements has not been systematically studied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30611706

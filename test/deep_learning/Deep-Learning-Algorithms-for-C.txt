@@ -1,0 +1,3 @@
+The aim of this study was to train and validate deep learning algorithms to quantitate relative amyloid deposition (RAD; mean amyloid deposited area per stromal area) in corneal sections from patients with familial amyloidosis, Finnish (FAF), and assess its relationship with visual acuity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32002407

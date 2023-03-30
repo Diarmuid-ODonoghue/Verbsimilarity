@@ -1,0 +1,3 @@
+Glomeruli identification, i.e., detection and characterization, is a key procedure in many nephropathology studies. In this paper, semantic segmentation based on convolutional neural networks (CNN) is proposed to detect glomeruli using Whole Slide Imaging (WSI) follows by a classification CNN to divide the glomeruli into normal and sclerosed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31891905

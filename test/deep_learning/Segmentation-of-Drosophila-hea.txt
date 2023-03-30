@@ -1,0 +1,3 @@
+Convolutional neural networks (CNNs) are powerful tools for image segmentation and classification. Here, we use this method to identify and mark the heart region of Drosophila at different developmental stages in the cross-sectional images acquired by a custom optical coherence microscopy (OCM) system. With our well-trained CNN model, the heart regions through multiple heartbeat cycles can be marked with an intersection over union of ~86%. Various morphological and dynamical cardiac parameters can be quantified accurately with automatically segmented heart regions. This study demonstrates an efficient heart segmentation method to analyze OCM images of the beating heart in Drosophila.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29992766

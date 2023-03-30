@@ -1,0 +1,3 @@
+A novel testing system is designed to simulate the mechanical performance and evaluate the biomechanical properties of the bone and the corresponding bone fixator. It is mainly composed of movement platform and servo motor system, sensors and hardware circuit system and software system. In order to prove the feasibility of the design, on the basis of the calibration for the force sensor, the fatigue experiment is carried out using the tibia of the sheep. It is concluded from the result that under the condition of 1 Hz in frequency, 50 kg in loading force and 18 000 cycles, the bone fixator can be still in good condition, which proves the feasibility of the design.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29845804

@@ -1,0 +1,3 @@
+Virtual reality viewed using a head-mounted display (HMD-VR) has the potential to be a useful tool for motor learning and rehabilitation. However, when developing tools for these purposes, it is important to design applications that will effectively transfer to the real world. Therefore, it is essential to understand whether motor skills transfer between HMD-VR and conventional screen-based environments and what factors predict transfer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32276664

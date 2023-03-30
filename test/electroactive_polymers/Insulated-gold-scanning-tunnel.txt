@@ -1,0 +1,3 @@
+Chemically functionalized probes are required for tunneling measurements made via chemical contacts ("Recognition Tunneling"). Here, we describe the etching of gold STM probes suitable for chemical functionalization with moieties bearing thiol groups. Insulated with high density polyethylene, these probes may be used in aqueous electrolytes with sub pA leakage currents. The area of the exposed probe surface was characterized via the saturation current in an electroactive solution (0.1 M K(3)Fe(CN)(6)). Twenty five percent of the probes had an exposed region of 10 nm radius or less.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22299981

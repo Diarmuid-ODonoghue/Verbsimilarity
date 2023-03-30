@@ -1,0 +1,3 @@
+To train and evaluate a very deep dilated residual network (DD-ResNet) for fast and consistent auto-segmentation of the clinical target volume (CTV) for breast cancer (BC) radiotherapy with big data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29891089

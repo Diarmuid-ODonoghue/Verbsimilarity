@@ -1,0 +1,3 @@
+To develop and test deep learning classifiers that detect gonioscopic angle closure and primary angle closure disease (PACD) based on fully automated analysis of anterior segment OCT (AS-OCT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31445003

@@ -1,0 +1,3 @@
+The purpose of this project is to develop a method of providing a complete set of movement commands to an upper extremity neuroprosthesis when the number of command signals available is fewer than required by the mechanical system. The functional relevance of the developed command interface will be tested in a virtual reality environment, where users-able bodied and paralyzed-will use a limited number of commands to control a simulated neuroprosthesis capable of executing a set of important daily activities that require coordinated motion of a larger number of mechanical degrees of freedom.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21097164

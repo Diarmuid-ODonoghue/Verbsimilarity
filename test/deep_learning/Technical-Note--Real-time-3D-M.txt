@@ -1,0 +1,3 @@
+The purpose of this study was to present real-time three-dimensional (3D) magnetic resonance imaging (MRI) in the presence of motion for MRI-guided radiotherapy (MRgRT) using dynamic keyhole imaging for high-temporal acquisition and super-resolution generative (SRG) model for high-spatial reconstruction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31376292

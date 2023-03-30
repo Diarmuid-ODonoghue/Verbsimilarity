@@ -1,0 +1,3 @@
+Recurrence is the main risk for high-grade serous ovarian cancer (HGSOC) and few prognostic biomarkers were reported. In this study, we proposed a novel deep learning (DL) method to extract prognostic biomarkers from preoperative computed tomography (CT) images, aiming at providing a non-invasive recurrence prediction model in HGSOC.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30392780

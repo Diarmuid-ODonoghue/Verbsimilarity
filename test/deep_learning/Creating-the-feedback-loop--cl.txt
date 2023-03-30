@@ -1,0 +1,3 @@
+Current DBS therapy delivers a train of electrical pulses at set stimulation parameters. This open-loop design is effective for movement disorders, but therapy may be further optimized by a closed loop design. The technology to record biosignals has outpaced our understanding of their relationship to the clinical state of the whole person. Neuronal oscillations may represent or facilitate the cooperative functioning of brain ensembles, and may provide critical information to customize neuromodulation therapy. This review addresses advances to date, not of the technology per se, but of the strategies to apply neuronal signals to trigger or modulate stimulation systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24262909

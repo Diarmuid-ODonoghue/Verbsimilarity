@@ -1,0 +1,3 @@
+Many diagnostic or treatment planning applications critically depend on the successful localization of bony structures in CT images. Manual or semiautomatic bone segmentation is tedious, however, and often not practical in clinical routine. In this paper, we present a reliable and fully automatic bone segmentation in whole-body CT scans of patients suffering from multiple myeloma.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30426400

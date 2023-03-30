@@ -1,0 +1,3 @@
+We present a cross-modality and fully automatic pipeline for labeling of intervertebral discs and vertebrae in volumetric data of the lumbar and thoracolumbar spine. The main goal is to provide an algorithm that is applicable to a wide range of different sequences and acquisition protocols, like T1- and T2- weighted MR scans, MR Dixon data, and CT scans. This requires that the learned models generalize without retraining to modalities and scans with unseen image contrasts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30027302

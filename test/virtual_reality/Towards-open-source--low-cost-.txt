@@ -1,0 +1,3 @@
+In minimally invasive surgery (MIS), virtual reality (VR) training systems have become a promising education tool. However, the adoption of these systems in research and clinical settings is still limited by the high costs of dedicated haptics hardware for MIS. In this paper, we present ongoing research towards an open-source, low-cost haptic interface for MIS simulation. We demonstrate the basic mechanical design of the device, the sensor setup as well as its software integration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732544

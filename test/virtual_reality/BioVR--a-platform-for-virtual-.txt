@@ -1,0 +1,3 @@
+Functional characterization of single nucleotide variants (SNVs) involves two steps, the first step is to convert DNA to protein and the second step is to visualize protein sequences with their structures. As massively parallel sequencing has emerged as a leading technology in genomics, resulting in a significant increase in data volume, direct visualization of SNVs together with associated protein sequences/structures in a new user interface (UI) would be a more effective way to assess their potential effects on protein function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30767777

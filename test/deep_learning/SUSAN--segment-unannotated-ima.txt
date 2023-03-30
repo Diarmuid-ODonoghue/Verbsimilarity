@@ -1,0 +1,3 @@
+To describe and evaluate a segmentation method using joint adversarial and segmentation convolutional neural network to achieve accurate segmentation using unannotated MR image datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30536427

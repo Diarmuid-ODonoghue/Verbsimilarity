@@ -1,0 +1,3 @@
+Clinical text classification is an fundamental problem in medical natural language processing. Existing studies have cocnventionally focused on rules or knowledge sources-based feature engineering, but only a limited number of studies have exploited effective representation learning capability of deep learning methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30943960

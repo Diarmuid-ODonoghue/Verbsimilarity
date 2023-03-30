@@ -1,0 +1,3 @@
+Although there has been a significant increase in mHealth interventions addressing the HIV prevention and care continuum, interventions using game mechanics have been less explored. Digital games are rapidly becoming an important tool for improving health behaviors and supporting the delivery of care and education. The purpose of this review is to provide a historical context for the use of gamification and videogames (including those using virtual reality) used in technology-based HIV interventions and to review new research in the field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28692490

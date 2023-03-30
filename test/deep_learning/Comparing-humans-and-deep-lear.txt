@@ -1,0 +1,3 @@
+When left untreated, age-related macular degeneration (AMD) is the leading cause of vision loss in people over fifty in the US. Currently it is estimated that about eight million US individuals have the intermediate stage of AMD that is often asymptomatic with regard to visual deficit. These individuals are at high risk for progressing to the advanced stage where the often treatable choroidal neovascular form of AMD can occur. Careful monitoring to detect the onset and prompt treatment of the neovascular form as well as dietary supplementation can reduce the risk of vision loss from AMD, therefore, preferred practice patterns recommend identifying individuals with the intermediate stage in a timely manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28167406

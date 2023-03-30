@@ -1,0 +1,3 @@
+Recently introduced effective connectivity methods allow for the in-vivo investigation of large-scale functional interactions between brain regions. However, dynamic causal modeling, the most widely used technique to date, typically captures only a few predefined regions of interest. In this study, we present an alternative computational approach to infer effective connectivity within the entire connectome and show its performance on a developmental cohort with emerging language capacities. The novel approach provides new opportunities to quantify effective connectivity changes in the human brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31186486

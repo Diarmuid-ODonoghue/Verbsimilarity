@@ -1,0 +1,3 @@
+Reliable identification of expressed somatic insertions/deletions (indels) is an unmet need due to artifacts generated in PCR-based RNA-Seq library preparation and the lack of normal RNA-Seq data, presenting analytical challenges for discovery of somatic indels in tumor transcriptome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31593214

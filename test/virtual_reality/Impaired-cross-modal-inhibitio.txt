@@ -1,0 +1,3 @@
+Successful cognitive performance depends not only on the activation of specific neuronal networks but also on selective suppression of task-irrelevant modalities, i.e., deactivation of non-required cerebral regions. This ability to suppress the activation of specific brain regions has, to our knowledge, never been systematically evaluated in patients with Alzheimer disease (AD). The aim of the current study was to evaluate both cerebral activation and deactivation in (1) healthy volunteers, (2) patients with mild cognitive impairment (MCI) who are at risk for AD, and (3) patients with moderate AD during active navigation, representing a cognitive task typically affected in AD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16159306

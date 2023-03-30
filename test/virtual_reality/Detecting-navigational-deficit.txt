@@ -1,0 +1,3 @@
+Older adults get lost, in many cases because of recognized or incipient Alzheimer disease (AD). In either case, getting lost can be a threat to individual and public safety, as well as to personal autonomy and quality of life. Here we compare our previously described real-world navigation test with a virtual reality (VR) version simulating the same navigational environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18794491

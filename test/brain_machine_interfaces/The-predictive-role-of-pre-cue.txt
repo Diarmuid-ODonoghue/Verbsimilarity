@@ -1,0 +1,3 @@
+One of the main issues in motor imagery-based (MI-based) brain-computer interface (BCI) systems is a large variation in the classification performance of BCI users. However, the exact reason of low performance of some users is still under investigation. Having some prior knowledge about the performance of users may be helpful in understanding possible reasons of performance variations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24979726

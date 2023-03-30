@@ -1,0 +1,3 @@
+This paper presents a Transfer Learning approach for dealing with the statistical variability of electroencephalographic (EEG) signals recorded on different sessions and/or from different subjects. This is a common problem faced by brain-computer interfaces (BCI) and poses a challenge for systems that try to reuse data from previous recordings to avoid a calibration phase for new users or new sessions for the same user.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30596565

@@ -1,0 +1,3 @@
+To summarise the features of chest computed tomography (CT) of a series of patients infected with 2019 novel coronavirus (2019-nCov) to speed up recognition and have a better understanding of COVID-19 disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32327229

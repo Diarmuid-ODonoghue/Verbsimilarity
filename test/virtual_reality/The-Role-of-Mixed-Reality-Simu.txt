@@ -1,0 +1,3 @@
+This study shows the first phase of validation of a new model for realistic training on spine surgery, conducted from January 2014 to November 2015.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30180147

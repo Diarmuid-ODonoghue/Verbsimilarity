@@ -1,0 +1,3 @@
+In this work, we develop an affordable haptic simulator for examining haptic skills required for endovascular Seldinger needle placement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732541

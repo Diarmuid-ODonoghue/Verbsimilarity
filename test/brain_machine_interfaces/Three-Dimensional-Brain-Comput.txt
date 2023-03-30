@@ -1,0 +1,3 @@
+While noninvasive electroenceph-alography (EEG) based brain-computer interfacing (BCI) has been successfully demonstrated in two-dimensional (2-D) control tasks, little work has been published regarding its extension to practical three-dimensional (3-D) control.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30281428

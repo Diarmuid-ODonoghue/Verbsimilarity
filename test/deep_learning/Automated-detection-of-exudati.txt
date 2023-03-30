@@ -1,0 +1,3 @@
+Our purpose was to use deep learning for the automated detection of age-related macular degeneration (AMD) in spectral domain optical coherence tomography (SD-OCT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29159541

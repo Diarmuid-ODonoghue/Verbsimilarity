@@ -1,0 +1,3 @@
+Deep learning is a type of artificial intelligence (AI) that imitates the neural network in the brain. We generated an AI to diagnose Helicobacter pylori (H. pylori) infection using blue laser imaging (BLI)-bright and linked color imaging (LCI). The aim of this pilot study was to establish an AI diagnosing system that predicts H. pylori infection status using endoscopic images to improve the accuracy and productivity of endoscopic examination.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29991891

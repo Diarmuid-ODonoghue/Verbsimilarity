@@ -1,0 +1,3 @@
+Recent experiments have shown that electrocorticography (ECoG) can provide robust control signals for a brain-computer interface (BCI). Strategies that attempt to adapt a BCI control algorithm by learning from past trials often assume that the subject is attending to each training trial. Likewise, automatic disabling of movement control would be desirable during resting periods when random brain fluctuations might cause unintended movements of a device. To this end, our goal was to identify ECoG differences that arise between periods of active BCI use and rest.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23715295

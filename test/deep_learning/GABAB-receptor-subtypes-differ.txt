@@ -1,0 +1,3 @@
+Activation of GABAB receptors in the dentate gyrus (DG) enhances granule cell (GC) activity by reducing synaptic inhibition imposed by hilar interneurons. This disinhibitory action facilitates signal transfer from the perforant path to the hippocampus. However, as the two main molecular subtypes, GABA(B(1a,2)) and GABA(B(1b,2)) receptors, prefer axonal terminal and dendritic compartments, respectively, they may modulate the hilar pathways at different synaptic localizations. We examined their relative expression and functions in the DG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23186302

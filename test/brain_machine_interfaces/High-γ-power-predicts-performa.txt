@@ -1,0 +1,3 @@
+Subjects operating a brain-computer interface (BCI) based on sensorimotor rhythms exhibit large variations in performance over the course of an experimental session. Here, we show that high-frequency γ-oscillations, originating in fronto-parietal networks, predict such variations on a trial-to-trial basis. We interpret this finding as empirical support for an influence of attentional networks on BCI performance via modulation of the sensorimotor rhythm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22713543

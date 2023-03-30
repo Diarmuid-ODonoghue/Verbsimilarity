@@ -1,0 +1,3 @@
+Individuals living with long-term physical health conditions frequently experience co-occurring mental health problems. This comorbidity has a significant impact on an individual's levels of emotional distress, health outcomes, and associated health care utilization. As health care services struggle to meet demand and care increasingly moves to the community, digital tools are being promoted to support patients to self-manage their health. One such technology is the autonomous virtual agent (chatbot, conversational agent), which uses artificial intelligence (AI) to process the user's written or spoken natural language and then to select or construct the corresponding appropriate responses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31148545

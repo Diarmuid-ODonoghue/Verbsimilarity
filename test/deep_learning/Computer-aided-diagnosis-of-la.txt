@@ -1,0 +1,3 @@
+Ultrahigh-resolution optical coherence microscopy (OCM) has recently demonstrated its potential for accurate diagnosis of human cervical diseases. One major challenge for clinical adoption, however, is the steep learning curve clinicians need to overcome to interpret OCM images. Developing an intelligent technique for computer-aided diagnosis (CADx) to accurately interpret OCM images will facilitate clinical adoption of the technology and improve patient care.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30605087

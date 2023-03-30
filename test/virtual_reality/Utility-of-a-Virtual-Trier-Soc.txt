@@ -1,0 +1,3 @@
+The Trier Social Stress Test (TSST) is one of the most widely used laboratory-based acute psychosocial stressors. However, there may be advantages to conducting the TSST through the virtual world, including reducing the cost and burden (i.e., no need for colocation between the evaluators and participants). The virtual TSST might also increase the standardization between studies and provide the capacity to bring psychology experiments to more settings (e.g., the home, the magnetic resonance imaging scanner).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27136503

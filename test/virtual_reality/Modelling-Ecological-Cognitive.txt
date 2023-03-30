@@ -1,0 +1,3 @@
+Brain Injury (BI) has become one of the most common causes of neurological disability in developed countries. Cognitive disorders result in a loss of independence and patients' quality of life. Cognitive rehabilitation aims to promote patients' skills to achieve their highest degree of personal autonomy. New technologies such as virtual reality or interactive video allow developing rehabilitation therapies based on reproducible Activities of Daily Living (ADLs), increasing the ecological validity of the therapy. However, the lack of frameworks to formalize and represent the definition of this kind of therapies can be a barrier for widespread use of interactive virtual environments in clinical routine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26391897

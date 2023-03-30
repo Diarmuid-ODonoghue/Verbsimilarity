@@ -1,0 +1,3 @@
+Isolation of cases and contact tracing is used to control outbreaks of infectious diseases, and has been used for coronavirus disease 2019 (COVID-19). Whether this strategy will achieve control depends on characteristics of both the pathogen and the response. Here we use a mathematical model to assess if isolation and contact tracing are able to control onwards transmission from imported cases of COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32119825

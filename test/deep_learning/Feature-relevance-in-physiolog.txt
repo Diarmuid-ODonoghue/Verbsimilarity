@@ -1,0 +1,3 @@
+Physiological networks (PN) model couplings between organs in a high-dimensional parameter space. Machine learning methods, in particular artifical neural networks (ANNs), are powerful on high-dimensional classification tasks. However, lack of interpretability of the resulting models has been a drawback in research. We assess relevant PN topology changes in obstructive sleep apnea (OSA) by novel ANN interpretation techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30524083

@@ -1,0 +1,3 @@
+An understanding of the basics concepts of deep learning can be helpful in not only understanding the potential applications of this technique but also in critically reviewing literature in which neural networks are utilized for analysis and modeling.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30334108

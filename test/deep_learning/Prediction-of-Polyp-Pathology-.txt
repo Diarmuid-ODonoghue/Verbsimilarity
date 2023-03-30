@@ -1,0 +1,3 @@
+Reliable in situ diagnosis of diminutive (≤5 mm) colorectal polyps could allow for "resect and discard" and "diagnose and leave" strategies, resulting in $1 billion cost savings per year in the United States alone. Current methodologies have failed to consistently meet the Preservation and Incorporation of Valuable endoscopic Innovations (PIVIs) initiative thresholds. Convolutional neural networks (CNNs) have the potential to predict polyp pathology and achieve PIVI thresholds in real time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31651444

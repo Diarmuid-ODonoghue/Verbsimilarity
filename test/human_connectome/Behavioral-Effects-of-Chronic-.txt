@@ -1,0 +1,3 @@
+In functional magnetic resonance imaging studies, picture naming engages widely distributed brain regions in the parietal, frontal, and temporal cortices. However, it remains unknown whether those activated areas, along with white matter pathways between them, are actually crucial for naming.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29890878

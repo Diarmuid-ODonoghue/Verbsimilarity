@@ -1,0 +1,3 @@
+Shape displays are an emerging class of devices that emphasize actuation to enable rich physical interaction, complementing concepts in virtual and augmented reality. The ability to render form introduces new opportunities to touch, grasp, and manipulate dynamic physical content and tangible objects, in both nearby and remote environments. This article presents novel hardware, interaction techniques, and applications, which point to the potential for extending the ways that we traditionally interact with the physical world, empowered by digital computation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26416359

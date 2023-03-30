@@ -1,0 +1,3 @@
+We investigated if a neural network could be used to predict the change in mean heart dose when a patient's heart deviates from its planned position during radiotherapy treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31465979

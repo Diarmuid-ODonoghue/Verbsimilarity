@@ -1,0 +1,3 @@
+The primary objective was to test whether motor imagery (MI) questionnaires can be used to detect BCI 'illiterate'. The second objective was to test how different MI paradigms, with and without the physical presence of the goal of an action, influence a BCI classifier.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23535455

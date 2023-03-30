@@ -1,0 +1,3 @@
+The aim of this study is to optimize the set-up and port placement in robotic surgery and enhance intraoperative orientation by video overlay of the angiographic coronary tree.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15919306

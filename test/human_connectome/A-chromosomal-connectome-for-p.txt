@@ -1,0 +1,3 @@
+Midbrain dopaminergic neurons (MDN) represent 0.0005% of the brain's neuronal population and mediate cognition, food intake, and metabolism. MDN are also posited to underlay the neurobiological dysfunction of schizophrenia (SCZ), a severe neuropsychiatric disorder that is characterized by psychosis as well as multifactorial medical co-morbidities, including metabolic disease, contributing to markedly increased morbidity and mortality. Paradoxically, however, the genetic risk sequences of psychosis and traits associated with metabolic disease, such as body mass, show very limited overlap.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32075678

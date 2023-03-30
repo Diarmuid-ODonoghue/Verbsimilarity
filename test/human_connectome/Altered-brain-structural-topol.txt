@@ -1,0 +1,3 @@
+In this study, the alterations of structural topological properties in Parkinson's disease (PD) patients with levodopa-induced dyskinesias (LIDs) were explored using white matter structural network connectome derived from diffusion tensor imaging (DTI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31621605

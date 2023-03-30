@@ -1,0 +1,3 @@
+In the recent years, machine learning algorithms have been more widely and increasingly applied in biomedical fields. In particular, their application has been drawing more attention in the field of psychiatry, for instance, as diagnostic tests/tools for autism spectrum disorder (ASD). However, given their complexity and potential clinical implications, there is an ongoing need for further research on their accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31562756

@@ -1,0 +1,3 @@
+Augmented reality (AR) has the potential to offer a novel approach to CPR training that supplements conventional training methods with gamification and a more interactive learning experience. This is done through computer-generated imagery superimposed on users' view of the real environment to simulate interactive training scenarios. We sought to test the feasibility of an AR CPR training system (CPReality) for health care providers (HCPs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31406943

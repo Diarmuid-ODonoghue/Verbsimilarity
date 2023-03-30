@@ -1,0 +1,3 @@
+The first case of pneumonia subsequently attributed to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) occurred in Wuhan, Hubei Province on December 8, 2019. The symptoms included fever, coughing, and breathing difficulties. A few patients with this infection may only have atypical symptoms, which could lead to a misdiagnosis and subsequently further facilitate the spread of the virus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32337201

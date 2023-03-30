@@ -1,0 +1,3 @@
+To test whether graph analysis of vascular images obtained with hepatic dynamic contrast material-enhanced (DCE) ultrasonography (US) allows calculation of the degree of organization of the liver circulation and whether graph properties are correlated to the severity of portal hypertension.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26020435

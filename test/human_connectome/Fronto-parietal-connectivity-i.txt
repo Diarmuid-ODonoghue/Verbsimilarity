@@ -1,0 +1,3 @@
+It has been previously shown that loss of consciousness is associated with a breakdown of dominating fronto-parietal feedback connectivity as assessed by electroencephalogram (EEG) recordings. Structure and strength of network connectivity may change over time. Aim of the current study is to investigate cortico-cortical connectivity at different time intervals during consciousness and unconsciousness. For this purpose, EEG symbolic transfer entropy (STEn) was calculated to indicate cortico-cortical information transfer at different transfer times.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24475298

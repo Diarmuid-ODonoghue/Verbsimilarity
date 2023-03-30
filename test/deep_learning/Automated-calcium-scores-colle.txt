@@ -1,0 +1,3 @@
+Myocardial perfusion imaging (MPI) is an accurate noninvasive test for patients with suspected obstructive coronary artery disease (CAD) and coronary artery calcium (CAC) score is known to be a powerful predictor of cardiovascular events. Collection of CAC scores simultaneously with MPI is unexplored.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31768415

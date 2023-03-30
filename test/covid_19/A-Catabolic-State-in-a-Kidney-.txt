@@ -1,0 +1,3 @@
+Patients with coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus are at risk for acute kidney injury (AKI). Requirements of kidney replacement therapies (KRT) may be particularly intense for kidney transplant recipients with COVID-19 who develop AKI, due to their chronic use of steroids (1) and theoretically higher viral loads (2) that may lead to a catabolic state (3). Herein, we report the case of a kidney transplant recipient with COVID-19 infection, AKI, and a high catabolic state evidenced by refractory hyperkalemia and azotemia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32357273

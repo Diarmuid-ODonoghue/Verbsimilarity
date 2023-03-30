@@ -1,0 +1,3 @@
+The purpose of the present study was to evaluate deep learning-based image-guided surgical planning for deep brain stimulation (DBS). We developed deep learning semantic segmentation-based DBS targeting and prospectively applied the method clinically.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31708729

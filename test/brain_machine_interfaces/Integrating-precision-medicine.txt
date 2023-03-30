@@ -1,0 +1,3 @@
+In recent years, there has been an explosion in the number of technical and medical diagnostic platforms being developed. This has greatly improved our ability to more accurately, and more comprehensively, explore and characterize human biological systems on the individual level. Large quantities of biomedical data are now being generated and archived in many separate research and clinical activities, but there exists a paucity of studies that integrate the areas of clinical neuropsychiatry, personal genomics and brain-machine interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24109560

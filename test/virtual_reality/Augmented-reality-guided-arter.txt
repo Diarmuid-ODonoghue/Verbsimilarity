@@ -1,0 +1,3 @@
+Augmented Reality (AR) in surgery consists in the fusion of synthetic computer-generated images (3D virtual model) obtained from medical imaging preoperative work-up and real-time patient images with the aim to visualize unapparent anatomical details. The potential of AR navigation as a tool to improve safety of the surgical dissection is presented in a case of pancreatico-duodenectomy (PD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23943389

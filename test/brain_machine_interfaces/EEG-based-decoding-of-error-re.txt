@@ -1,0 +1,3 @@
+Recent studies have started to explore the implementation of brain-computer interfaces (BCI) as part of driving assistant systems. The current study presents an EEG-based BCI that decodes error-related brain activity. Such information can be used, e.g., to predict driver's intended turning direction before reaching road intersections.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26595103

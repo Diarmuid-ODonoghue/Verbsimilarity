@@ -1,0 +1,3 @@
+Ergonomics in laparoscopic surgery is an unsolved problem. Deficiencies of the instrument handles are well-known and described in several reports and studies. Today, virtual training modules for laparoscopic surgery are available. The aim of this study was to evaluate the ability of a virtual reality (VR) simulator to determine the ergonomic properties of two different laparoscopic instrument handles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15868271

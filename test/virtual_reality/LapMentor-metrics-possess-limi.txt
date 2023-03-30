@@ -1,0 +1,3 @@
+Many surgical training programs are introducing virtual-reality laparoscopic simulators into their curriculum. If a surgical simulator will be used to determine when a trainee has reached an "expert" level of performance, its evaluation metrics must accurately reflect varying levels of skill. The ability of a metric to differentiate novice from expert performance is referred to as construct validity. The present study was undertaken to determine whether the LapMentor's metrics demonstrate construct validity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19088638

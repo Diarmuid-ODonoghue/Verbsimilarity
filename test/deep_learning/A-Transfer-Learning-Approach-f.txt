@@ -1,0 +1,3 @@
+In prostate focal therapy, it is important to accurately localize malignant lesions in order to increase biological effect of the tumor region while achieving a reduction in dose to noncancerous tissue. In this work, we proposed a transfer learning-based deep learning approach, for classification of prostate lesions in multiparametric magnetic resonance imaging images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31221034

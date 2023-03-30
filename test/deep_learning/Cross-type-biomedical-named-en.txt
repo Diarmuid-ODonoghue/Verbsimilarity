@@ -1,0 +1,3 @@
+State-of-the-art biomedical named entity recognition (BioNER) systems often require handcrafted features specific to each entity type, such as genes, chemicals and diseases. Although recent studies explored using neural network models for BioNER to free experts from manual feature engineering, the performance remains limited by the available training data for each entity type.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30307536

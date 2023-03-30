@@ -1,0 +1,3 @@
+Access to the laboratory component of a class is limited by resources, while lab training is not currently possible for distance learning. To overcome the problem a solution is proposed to enable hands-on, interactive, objectively scored and appropriately mentored learning in a widely accessible environment. The proposed solution is the Virtual-Reality Motor-Skills trainer to teach basic fine-motor skills using Haptics for touch and feel interaction as well as a 3D virtual reality environment for visualization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16404005

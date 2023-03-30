@@ -1,0 +1,3 @@
+The human neocortex is organized with distributed networks that connect distant regions together, but what determines their spatial layout? A recent study sheds light on the topological placement of regions along the cortical surface in relation to gradients of connectivity in both humans and macaques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28007482

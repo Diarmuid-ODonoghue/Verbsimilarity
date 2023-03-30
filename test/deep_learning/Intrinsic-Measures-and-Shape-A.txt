@@ -1,0 +1,3 @@
+To characterize anatomical measurements and shape variation of the facial nerve within the temporal bone, and to create statistical shape models (SSMs) to enhance knowledge of temporal bone anatomy and aid in automated segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31917770

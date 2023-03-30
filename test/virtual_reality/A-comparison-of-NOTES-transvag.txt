@@ -1,0 +1,3 @@
+A virtual reality-based simulator for natural orifice translumenal endoscopic surgery (NOTES) procedures may be used for training and discovery of new tools and procedures. Our previous study (Sankaranarayanan et al. in Surg Endosc 27:1607-1616, 2013) shows that developing such a simulator for the transvaginal cholecystectomy procedure using a rigid endoscope will have the most impact on the field. However, prior to developing such a simulator, a thorough task analysis is necessary to determine the most important phases, tasks, and subtasks of this procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24619331

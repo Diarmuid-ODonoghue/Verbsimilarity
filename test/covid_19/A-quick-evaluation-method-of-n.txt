@@ -1,0 +1,3 @@
+Nosocomial infections caused by COVID-19 will result in the immediate closure of the infected medical facility due to the highly contagious nature of COVID-19, further worsening medical shortages. We performed a Delphi consulting study to develop a risk model based on the experience of recently resumed activities in many cancer hospitals in China. Similar method had been used in a Chinese cancer hospital and effectively reduced the nosocomial Infection. We believe that the model can quickly identify COVID-19 cluster risks for medical facilities. The evaluation model could also be integrated into the hospital's emergency response system in a timely manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32342200

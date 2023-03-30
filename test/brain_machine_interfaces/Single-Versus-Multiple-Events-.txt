@@ -1,0 +1,3 @@
+This work aimed to find and evaluate a new method for detecting errors in continuous brain-computer interface (BCI) applications. Instead of classifying errors on a single-trial basis, the new method was based on multiple events (MEs) analysis to increase the accuracy of error detection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26259213

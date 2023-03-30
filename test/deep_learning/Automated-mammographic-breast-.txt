@@ -1,0 +1,3 @@
+The purpose of this study was to develop a fully automated algorithm for mammographic breast density estimation using deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29363774

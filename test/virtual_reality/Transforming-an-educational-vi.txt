@@ -1,0 +1,3 @@
+This paper outlines user interface and interaction issues, technical considerations, and problems encountered in transforming an educational VR simulation of a reified kidney nephron into an interactive artwork appropriate for a fine arts museum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391319

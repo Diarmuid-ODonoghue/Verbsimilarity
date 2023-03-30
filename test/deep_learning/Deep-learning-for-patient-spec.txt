@@ -1,0 +1,3 @@
+Patient-specific quality assurance (QA) for intensity-modulated radiation therapy (IMRT) is a ubiquitous clinical procedure, but conventional methods have often been criticized as being insensitive to errors or less effective than other common physics checks. Recently, there has been interest in the application of radiomics, quantitative extraction of image features, to radiotherapy QA. In this work, we investigate a deep learning approach to classify the presence or absence of introduced radiotherapy treatment delivery errors from patient-specific QA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30548601

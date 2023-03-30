@@ -1,0 +1,3 @@
+The various parameters that define a hand movement such as its trajectory, speed, etc, are encoded in distinct brain activities. Decoding this information from neurophysiological recordings is a less explored area of brain-computer interface (BCI) research. Applying non-invasive recordings such as electroencephalography (EEG) for decoding makes the problem more challenging, as the encoding is assumed to be deep within the brain and not easily accessible by scalp recordings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26501230

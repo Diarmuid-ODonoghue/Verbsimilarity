@@ -1,0 +1,3 @@
+Studies show that students, trained to perform compressions between 40 and 50mm deep, often do not achieve sufficient depth at retention testing. We hypothesized that training to achieve depths >50mm would decrease the proportion of students with depth <40mm after 6 months, compared to students trained to a depth interval of 40-50mm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21723028

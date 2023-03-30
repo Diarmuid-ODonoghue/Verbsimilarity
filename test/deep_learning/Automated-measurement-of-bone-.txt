@@ -1,0 +1,3 @@
+We propose a deep learning-based image interpretation system for skeleton segmentation and extraction of hot spots of bone metastatic lesion from a whole-body bone scintigram followed by automated measurement of a bone scan index (BSI), which will be clinically useful.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31836956

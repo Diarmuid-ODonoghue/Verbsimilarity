@@ -1,0 +1,3 @@
+Microbes have been shown to play a crucial role in various ecosystems. Many human diseases have been proved to be associated with bacteria, so it is essential to extract the interaction between bacteria for medical research and application. At the same time, many bacterial interactions with certain experimental evidences have been reported in biomedical literature. Integrating this knowledge into a database or knowledge graph could accelerate the progress of biomedical research. A crucial and necessary step in interaction extraction (IE) is named entity recognition (NER). However, due to the specificity of bacterial naming, there are still challenges in bacterial named entity recognition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31787075

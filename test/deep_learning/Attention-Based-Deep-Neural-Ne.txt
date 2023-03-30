@@ -1,0 +1,3 @@
+Deep learning-based methods, such as the sliding window approach for cropped-image classification and heuristic aggregation for whole-slide inference, for analyzing histological patterns in high-resolution microscopy images have shown promising results. These approaches, however, require a laborious annotation process and are fragmented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31693124

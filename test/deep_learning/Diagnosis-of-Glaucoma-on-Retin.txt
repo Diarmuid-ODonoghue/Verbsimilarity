@@ -1,0 +1,3 @@
+Early detection of glaucoma is important to slow down progression of the disease and to prevent total vision loss. Retinal fundus photography is frequently obtained for various eye disease diagnosis and record and is a suitable screening exam for its simplicity and low cost. However, the number of ophthalmologists who are specialized in glaucoma diagnosis is limited. We have been studying automated schemes for detection of nerve fiber layer defects and analysis of optic disc deformation, two major signs of glaucoma, in assisting ophthalmologists' accurate and efficient diagnosis. In this chapter, our recent progress in computerized methods is discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32030667

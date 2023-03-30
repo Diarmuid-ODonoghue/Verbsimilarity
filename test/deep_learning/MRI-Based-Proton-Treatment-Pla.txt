@@ -1,0 +1,3 @@
+To introduce a novel, deep-learning method to generate synthetic computed tomography (SCT) scans for proton treatment planning and evaluate its efficacy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31998817

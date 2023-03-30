@@ -1,0 +1,3 @@
+Many strategies are being deployed to rapidly uncover targetable mechanisms of infection for SARS-CoV-2, and Hoffman et al exploit our understanding and immunological experience with SARS-CoV in our global race to understand, mitigate, and eventually prevent COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32245885

@@ -1,0 +1,3 @@
+The novel 2019 strain of coronavirus is a source of profound morbidity and mortality worldwide. Compared with recent viral outbreaks, COVID-19 infection has a relatively high mortality rate, the reasons for which are not entirely clear. Furthermore, treatment options for COVID-19 infection are currently limited. In this Perspective, we explore the contributions of the innate and adaptive immune systems to both viral control as well as toxicity during COVID-19 infections and offer suggestions to both understand and therapeutically modulate anti-COVID immunity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32353870

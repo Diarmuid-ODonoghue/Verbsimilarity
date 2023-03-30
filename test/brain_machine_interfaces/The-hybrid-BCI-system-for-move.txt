@@ -1,0 +1,3 @@
+Movement control is an important application for EEG-BCI (EEG-based brain-computer interface) systems. A single-modality BCI cannot provide an efficient and natural control strategy, but a hybrid BCI system that combines two or more different tasks can effectively overcome the drawbacks encountered in single-modality BCI control.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28145274

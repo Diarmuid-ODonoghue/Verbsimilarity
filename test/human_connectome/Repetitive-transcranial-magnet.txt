@@ -1,0 +1,3 @@
+Writer's cramp (WC) is a focal task-specific dystonia of the hand which is increasingly being accepted as a network disorder. Non-invasive cortical stimulation using repetitive transcranial magnetic stimulation (rTMS) has produced therapeutic benefits in some of these patients. This study aimed to visualize the motor network abnormalities in WC and also its rTMS induced modulations using resting state functional magnetic resonance imaging (rsfMRI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25623591

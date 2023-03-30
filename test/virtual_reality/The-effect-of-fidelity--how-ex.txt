@@ -1,0 +1,3 @@
+We compare the behavior of expert surgeons operating on the "gold standard" of simulation-the cadaveric temporal bone-against a high-fidelity virtual reality (VR) simulation. We aim to determine whether expert behavior changes within the virtual environment and to understand how the fidelity of simulation affects users' behavior.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24715702

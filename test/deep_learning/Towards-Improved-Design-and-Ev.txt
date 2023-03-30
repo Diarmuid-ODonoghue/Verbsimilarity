@@ -1,0 +1,3 @@
+Key issues in the epilepsy seizure prediction research are (1) the reproducibility of results (2) the inability to compare multiple approaches directly. To overcome these problems, the seizure prediction challenge was organized on Kaggle.com. It aimed at establishing benchmarks on a dataset with predefined train, validation, and test sets. Our main objective is to analyze the competition format, and to propose improvements, which would facilitate a better comparison of algorithms. The second objective is to present a novel deep learning approach to seizure prediction and compare it to other commonly used methods using patient centered metrics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28475041

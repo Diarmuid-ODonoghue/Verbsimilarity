@@ -1,0 +1,3 @@
+To evaluate the performance of an artificial intelligence (AI) based software solution tested on liver volumetric analyses and to compare the results to the manual contour segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32171914

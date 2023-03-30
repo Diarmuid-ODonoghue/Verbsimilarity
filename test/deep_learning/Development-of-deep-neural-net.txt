@@ -1,0 +1,3 @@
+Accurate prediction of radiation toxicity of healthy organs-at-risks (OARs) critically determines the radiation therapy (RT) success. The existing dose-volume histogram-based metric may grossly under/overestimate the therapeutic toxicity after 27% in liver RT and 50% in head-and-neck RT. We propose the novel paradigm for toxicity prediction by leveraging the enormous potential of deep learning and go beyond the existing dose/volume histograms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30098025

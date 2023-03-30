@@ -1,0 +1,3 @@
+The possibility of creating purely instrumental methods to study the sensory sphere was shown by an example of a muscle analyzer. The methods are necessary for the development and optimization of man-machine systems, in particular, virtual reality. Earlier the connection between a stimulus and perception was estimated by a statistical analysis of subjective answers of an examinee concerning the perception and lack perception or the difference between two similar stimuli. The novel approach proposed in this work is based on the study of the connection between the instrumentally measured value of error during the performance of a control task by the examinee and the value of the stimulus, which serves as a control signal.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11155245

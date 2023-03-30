@@ -1,0 +1,3 @@
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused an epidemic in China and many other countries. Many infected clusters have been found within familial households, but the data about secondary transmission among household contacts is limited.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32283139

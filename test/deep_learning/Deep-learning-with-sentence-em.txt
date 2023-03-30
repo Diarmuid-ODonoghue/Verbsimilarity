@@ -1,0 +1,3 @@
+Capturing sentence semantics plays a vital role in a range of text mining applications. Despite continuous efforts on the development of related datasets and models in the general domain, both datasets and models are limited in biomedical and clinical domains. The BioCreative/OHNLP2018 organizers have made the first attempt to annotate 1068 sentence pairs from clinical notes and have called for a community effort to tackle the Semantic Textual Similarity (BioCreative/OHNLP STS) challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32349758

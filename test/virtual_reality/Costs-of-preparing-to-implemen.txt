@@ -1,0 +1,3 @@
+Individual Placement and Support (IPS) is an evidence based strategy for facilitating employment among adults with severe mental illness (SMI) where staff may lead mock job interviews to prepare clients for real-world interviews (a method with limited scalability and cost effectiveness). A virtual reality job interview training program (VR-JIT)-delivered via the internet-has demonstrated efficacy for increasing employment among adults with SMI. Now, VR-JIT is being implemented with a community mental health agency (CMHA) and evaluated for its effectiveness within IPS. This study is a budget impact analysis, evaluating the costs of preparing a CMHA to implement VR-JIT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31631470

@@ -1,0 +1,3 @@
+Unobtrusive metrics that can auto-assess performance during clinical procedures are of value. Three approaches to deriving wearable technology-based metrics are explored: (1) eye tracking, (2) psychophysiological measurements [e.g. electrodermal activity (EDA)] and (3) arm and hand movement via accelerometry. We also measure attentional capacity by tasking the operator with an additional task to track an unrelated object during the procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30730031

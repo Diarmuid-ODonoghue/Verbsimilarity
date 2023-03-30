@@ -1,0 +1,3 @@
+A significant gap presently exists between box-lap and virtual-reality simulators and live surgery. Live animal and cadaver use has significant downsides. We have developed a high fidelity, real tissue simulator that allows training in laparoscopic foregut operations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28537779

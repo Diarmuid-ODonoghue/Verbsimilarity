@@ -1,0 +1,3 @@
+In an era of residency duty-hour restrictions, there has been a recent effort to implement simulation-based training methods in neurosurgery teaching institutions. Several surgical simulators have been developed, ranging from physical models to sophisticated virtual reality systems. To date, there is a paucity of information describing the clinical benefits of existing simulators and the assessment strategies to help implement them into neurosurgical curricula. Here, we present a systematic review of the current models of simulation and discuss the state-of-the-art and future directions for simulation in neurosurgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26438547

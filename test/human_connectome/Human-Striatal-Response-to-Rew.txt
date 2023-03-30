@@ -1,0 +1,3 @@
+Dysfunctional reward processing is associated with a number of psychiatric disorders, such as addiction and schizophrenia. It is thought that reward is regulated mainly by dopamine transmission in the ventral striatum. Contemporary animal models suggest that striatal dopamine concentrations and associated behaviors are related to glutamatergic functioning in the ventral hippocampus. However, in humans the association between reward-related ventral striatal response and hippocampal glutamate levels is unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29444252

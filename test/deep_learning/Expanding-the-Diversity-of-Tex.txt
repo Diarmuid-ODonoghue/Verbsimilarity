@@ -1,0 +1,3 @@
+ To summarize recent research and present a selection of the best papers published in 2017 in the field of clinical Natural Language Processing (NLP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30157523

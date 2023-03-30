@@ -1,0 +1,3 @@
+We report acute antibody responses to SARS-CoV-2 in 285 patients with COVID-19. Within 19 days after symptom onset, 100% of patients tested positive for antiviral immunoglobulin-G (IgG). Seroconversion for IgG and IgM occurred simultaneously or sequentially. Both IgG and IgM titers plateaued within 6 days after seroconversion. Serological testing may be helpful for the diagnosis of suspected patients with negative RT-PCR results and for the identification of asymptomatic infections.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32350462

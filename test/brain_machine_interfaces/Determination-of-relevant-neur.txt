@@ -1,0 +1,3 @@
+Identification of functional dependence among neurons is a necessary component in both the rational design of neural prostheses as well as in the characterization of network physiology. The objective of this article is to provide a tutorial for neurosurgeons regarding information theory, specifically time-delayed mutual information, and to compare time-delayed mutual information, an information theoretic quantity based on statistical dependence, with cross-correlation, a commonly used metric for this task in a preliminary analysis of rat hippocampal neurons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22120279

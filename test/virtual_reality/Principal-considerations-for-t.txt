@@ -1,0 +1,3 @@
+The simulation and rehearsal of virtual endovascular procedures are anticipated to improve the outcomes of actual procedures. Contemporary, high-fidelity simulation is based on feedback systems that combine concepts of mechanical, electrical, computer, and control systems engineering to reproduce an interactive endovascular case. These sophisticated devices also include psychometric instruments for objective surgical skill assessment. The goal of this report is to identify the design characteristics of commercially available simulators for endovascular procedures and to provide a cross-section comparison across all devices to aid in the simulator selection process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24418640

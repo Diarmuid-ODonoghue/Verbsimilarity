@@ -1,0 +1,3 @@
+Wnt/β-catenin signaling is often portrayed as a simple pathway that is initiated by Wnt ligand at the cell surface leading, via linear series of interactions between 'core pathway' members, to the induction of nuclear transcription from genes flanked by β-catenin/TCF transcription factor binding sites. Wnt/β-catenin signaling is also regulated by a much larger set of 'non-core regulators'. However the relationship between 'non-core regulators' is currently not well understood. Aberrant activation of the pathway has been shown to drive tumorgenesis in a number of different tissues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26643252

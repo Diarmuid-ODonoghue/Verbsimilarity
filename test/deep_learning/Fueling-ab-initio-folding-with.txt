@@ -1,0 +1,3 @@
+The ocean microbiome represents one of the largest microbiomes and produces nearly half of the primary energy on the planet through photosynthesis or chemosynthesis. Using recent advances in marine genomics, we explore new applications of oceanic metagenomes for protein structure and function prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31676016

@@ -1,0 +1,3 @@
+This article presents a summary of the current simulation training for otologic skills. There is a wide variety of educational approaches, assessment tools, and simulators in use, including simple low-cost task trainers to complex computer-based virtual reality systems. A systematic approach to otologic skills training using adult learning theory concepts, such as repeated and distributed practice, self-directed learning, and mastery learning, is necessary for these educational interventions to be effective. Future directions include development of measures of performance to assess efficacy of simulation training interventions and, for complex procedures, improvement in fidelity based on educational goals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28822580

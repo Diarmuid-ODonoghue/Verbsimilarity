@@ -1,0 +1,3 @@
+To investigate white matter structural connectivity changes associated with amyotrophic lateral sclerosis (ALS) using network analysis and compare the results with those obtained using standard voxel-based methods, specifically Tract-based Spatial Statistics (TBSS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25044733

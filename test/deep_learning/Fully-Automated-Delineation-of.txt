@@ -1,0 +1,3 @@
+In this study, we proposed an automated deep learning (DL) method for head and neck cancer (HNC) gross tumor volume (GTV) contouring on positron emission tomography-computed tomography (PET-CT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30473644

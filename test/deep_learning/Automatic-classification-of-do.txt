@@ -1,0 +1,3 @@
+This study investigated the potential of deep convolutional neural networks (CNN) for automatic classification of FP-CIT SPECT in multi-site or multi-camera settings with variable image characteristics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31473800

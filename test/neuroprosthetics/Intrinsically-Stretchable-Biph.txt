@@ -1,0 +1,3 @@
+Stretchable biphasic conductors are formed by physical vapor deposition of gallium onto an alloying metal film. The properties of the photolithography-compatible thin metal films are highlighted by low sheet resistance (0.5 Ω sq(-1) ) and large stretchability (400%). This novel approach to deposit and pattern liquid metals enables extremely robust, multilayer and soft circuits, sensors, and actuators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26923313

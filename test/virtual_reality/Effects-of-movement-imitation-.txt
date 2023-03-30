@@ -1,0 +1,3 @@
+Hypometria is a clinical motor sign in Parkinson's disease. Its origin likely emerges from basal ganglia dysfunction, leading to an impaired control of inhibitory intracortical motor circuits. Some neurorehabilitation approaches include movement imitation training; besides the effects of motor practice, there might be a benefit due to observation and imitation of un-altered movement patterns. In this sense, virtual reality facilitates the process by customizing motor-patterns to be observed and imitated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26972526

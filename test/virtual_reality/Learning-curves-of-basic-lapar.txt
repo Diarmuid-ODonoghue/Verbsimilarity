@@ -1,0 +1,3 @@
+Surgical simulators are currently essential within any laparoscopic training program because they provide a low-stakes, reproducible and reliable environment to acquire basic skills. The purpose of this study is to determine the training learning curve based on different metrics corresponding to five tasks included in SINERGIA laparoscopic virtual reality simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22492427

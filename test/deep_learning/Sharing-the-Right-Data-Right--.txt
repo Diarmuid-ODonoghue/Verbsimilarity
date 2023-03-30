@@ -1,0 +1,3 @@
+In 2014 plant phenotyping research was not benefiting from the machine learning (ML) revolution because appropriate data were lacking. We report the success of the first open-access dataset suitable for ML in image-based plant phenotyping suitable for machine learning, fuelling a true interdisciplinary symbiosis, increased awareness, and steep performance improvements on key phenotyping tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30497879

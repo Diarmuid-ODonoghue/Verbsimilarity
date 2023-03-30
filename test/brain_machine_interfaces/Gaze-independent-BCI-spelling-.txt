@@ -1,0 +1,3 @@
+A Brain Computer Interface (BCI) speller is a communication device, which can be used by patients suffering from neurodegenerative diseases to select symbols in a computer application. For patients unable to overtly fixate the target symbol, it is crucial to develop a speller independent of gaze shifts. In the present online study, we investigated rapid serial visual presentation (RSVP) as a paradigm for mental typewriting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23466266

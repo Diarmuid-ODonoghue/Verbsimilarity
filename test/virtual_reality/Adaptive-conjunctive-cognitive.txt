@@ -1,0 +1,3 @@
+Current evidence for the effectiveness of post-stroke cognitive rehabilitation is weak, possibly due to two reasons. First, patients typically express cognitive deficits in several domains. Therapies focusing on specific cognitive deficits might not address their interrelated neurological nature. Second, co-occurring psychological problems are often neglected or not diagnosed, although post-stroke depression is common and related to cognitive deficits. This pilot trial aims to test a rehabilitation program in virtual reality that trains various cognitive domains in conjunction, by adapting to the patient's disability and while investigating the influence of comorbidities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32143674

@@ -1,0 +1,3 @@
+Realistic virtual reality surgical training simulators require an accurate biomechanical model of in vivo soft tissue behaviour. One of the challenges in modelling is to characterize soft tissue properties incorporating the experimental measurements of organ behaviour.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18727148

@@ -1,0 +1,3 @@
+The purpose of this study was to evaluate the performance of a deep learning algorithm in detecting abnormalities of thyroid cartilage from computed tomography (CT) examination.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30819638

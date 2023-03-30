@@ -1,0 +1,3 @@
+Fundus fluorescein angiography (FFA) imaging is a standard diagnostic tool for many retinal diseases such as age-related macular degeneration and diabetic retinopathy. High-resolution FFA images facilitate the detection of small lesions such as microaneurysms, and other landmark changes, in the early stages; this can help an ophthalmologist improve a patient's cure rate. However, only low-resolution images are available in most clinical cases. Super-resolution (SR), which is a method to improve the resolution of an image, has been successfully employed for natural and remote sensing images. To the best of our knowledge, no one has applied SR techniques to FFA imaging so far.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30231879

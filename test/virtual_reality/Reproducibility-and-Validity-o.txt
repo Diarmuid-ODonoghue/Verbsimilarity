@@ -1,0 +1,3 @@
+The 6-minute walk test (6MWT) in a regular hallway is commonly used to assess functional exercise capacity in patients with chronic obstructive pulmonary disease (COPD). However, treadmill walking might provide additional advantages over overground walking, especially if virtual reality and self-paced treadmill walking are combined. Therefore, this study aimed to assess the reproducibility and validity of the 6MWT using the Gait Real-time Analysis Interactive Lab (GRAIL) in patients with COPD and healthy elderly.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27607426

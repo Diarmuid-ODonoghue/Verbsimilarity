@@ -1,0 +1,3 @@
+We propose a possible approach for the remote monitoring of infection risk in people with multiple sclerosis, especially those on immunosuppressant drugs, during COVID-19 pandemic. We developed a digital triage tool to be sent to patients to quickly identify people with high risk of COVID-19 infection. This tool will also limit unnecessary accesses to the MS centers reducing the risk of spreading the infection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32303856

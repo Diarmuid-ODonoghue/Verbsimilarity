@@ -1,0 +1,3 @@
+Colonoscopy with computer-aided detection (CADe) has been shown in non-blinded trials to improve detection of colon polyps and adenomas by providing visual alarms during the procedure. We aimed to assess the effectiveness of a CADe system that avoids potential operational bias.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31981517

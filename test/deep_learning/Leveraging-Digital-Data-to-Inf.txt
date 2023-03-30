@@ -1,0 +1,3 @@
+Efficient capture of routine clinical care and patient outcomes is needed at a population-level, as is evidence on important treatment-related side effects and their effect on well-being and clinical outcomes. The increasing availability of electronic health records (EHR) offers new opportunities to generate population-level patient-centered evidence on oncologic care that can better guide treatment decisions and patient-valued care.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32066619

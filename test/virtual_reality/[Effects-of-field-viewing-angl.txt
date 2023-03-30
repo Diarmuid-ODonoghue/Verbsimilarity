@@ -1,0 +1,3 @@
+To investigate the effect of viewing angle on human judgement reliability for objects in virtual environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14594040

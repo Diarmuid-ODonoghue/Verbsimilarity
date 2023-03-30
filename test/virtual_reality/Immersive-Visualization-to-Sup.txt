@@ -1,0 +1,3 @@
+The Virtual Reality Design for Science course explores the visual and human-computer interaction design process for scientific applications in immersive virtual reality. The fall 2015 version of the class, which has run on occasion for 14 years, was cross-listed at Brown University and the Rhode Island School of Design. The course feeds upon both artistic and scientific perspectives in considering the design of science-support tool prototypes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28113156

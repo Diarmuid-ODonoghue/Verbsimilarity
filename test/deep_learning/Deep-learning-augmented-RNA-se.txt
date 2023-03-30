@@ -1,0 +1,3 @@
+A major limitation of RNA sequencing (RNA-seq) analysis of alternative splicing is its reliance on high sequencing coverage. We report DARTS (https://github.com/Xinglab/DARTS), a computational framework that integrates deep-learning-based predictions with empirical RNA-seq evidence to infer differential alternative splicing between biological samples. DARTS leverages public RNA-seq big data to provide a knowledge base of splicing regulation via deep learning, thereby helping researchers better characterize alternative splicing using RNA-seq datasets even with modest coverage.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30923373

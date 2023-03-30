@@ -1,0 +1,3 @@
+Our aim was the development and validation of a modular signal processing and classification application enabling online electroencephalography (EEG) signal processing on off-the-shelf mobile Android devices. The software application SCALA (Signal ProCessing and CLassification on Android) supports a standardized communication interface to exchange information with external software and hardware.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29349070

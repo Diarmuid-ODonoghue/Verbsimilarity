@@ -1,0 +1,3 @@
+For comprehensive surgical planning with sophisticated patient-specific models, all relevant anatomical structures need to be segmented. This could be achieved using deep neural networks given sufficiently many annotated samples; however, datasets of multiple annotated structures are often unavailable in practice and costly to procure. Therefore, being able to build segmentation models with datasets from different studies and centers in an incremental fashion is highly desirable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31049802

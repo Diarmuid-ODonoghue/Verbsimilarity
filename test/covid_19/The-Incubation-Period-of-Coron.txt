@@ -1,0 +1,3 @@
+A novel human coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was identified in China in December 2019. There is limited support for many of its key epidemiologic features, including the incubation period for clinical disease (coronavirus disease 2019 [COVID-19]), which has important implications for surveillance and control activities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32150748

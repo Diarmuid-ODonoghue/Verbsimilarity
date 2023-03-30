@@ -1,0 +1,3 @@
+Virtual-reality solutions have successfully been used to train distributed teams. This study aimed to investigate the correlation between user characteristics and sense of presence in an online virtual-reality environment where distributed teams are trained. A greater sense of presence has the potential to make training in the virtual environment more effective, leading to the formation of teams that perform better in a real environment. Being able to identify, before starting online training, those user characteristics that are predictors of a greater sense of presence can lead to the selection of trainees who would benefit most from the online simulated training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24310164

@@ -1,0 +1,3 @@
+To evaluate the use of artificial intelligence (AI) to shorten digital breast tomosynthesis (DBT) reading time while maintaining or improving accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32076660

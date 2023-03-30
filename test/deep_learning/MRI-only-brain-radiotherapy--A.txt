@@ -1,0 +1,3 @@
+This study assessed the dosimetric accuracy of synthetic CT images generated from magnetic resonance imaging (MRI) data for focal brain radiation therapy, using a deep learning approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31015130

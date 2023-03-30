@@ -1,0 +1,3 @@
+A variety of pattern analysis techniques for model training in brain interfaces exploit neural feature dimensionality reduction based on feature ranking and selection heuristics. In the light of broad evidence demonstrating the potential sub-optimality of ranking-based feature selection by any criterion, we propose to extend this focus with an information theoretic learning-driven feature transformation concept.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30932828

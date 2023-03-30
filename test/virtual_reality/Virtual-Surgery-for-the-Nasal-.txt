@@ -1,0 +1,3 @@
+Nasal airway obstruction (NAO) is a common problem that affects patient quality of life. Surgical success for NAO correction is variable. Virtual surgery planning via computational fluid dynamics (CFD) has the potential to improve the success rates of NAO surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29049474

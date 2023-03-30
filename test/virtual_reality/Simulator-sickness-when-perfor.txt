@@ -1,0 +1,3 @@
+Wide field of view virtual environments offer some unique features that may be beneficial for use in vestibular rehabilitation. For one, optic flow information extracted from the periphery may be critical for recalibrating the sensory processes used by people with vestibular disorders. However, wide FOV devices also have been found to result in greater simulator sickness. Before a wide FOV device can be used in a clinical setting, its safety must be demonstrated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15679946

@@ -1,0 +1,3 @@
+In the treatment planning process of intensity-modulated radiation therapy (IMRT), a human planner operates the treatment planning system (TPS) to adjust treatment planning parameters, for example, dose volume histogram (DVH) constraints' locations and weights, to achieve a satisfactory plan for each patient. This process is usually time-consuming, and the plan quality depends on planer's experience and available planning time. In this study, we proposed to model the behaviors of human planners in treatment planning by a deep reinforcement learning (DRL)-based virtual treatment planner network (VTPN), such that it can operate the TPS in a human-like manner for treatment planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32141086

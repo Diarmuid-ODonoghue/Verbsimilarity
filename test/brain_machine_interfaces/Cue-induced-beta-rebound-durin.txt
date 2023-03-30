@@ -1,0 +1,3 @@
+Beta rebound is the term for bursts of EEG activity in the beta band observable after movement or somatosensory stimulation. It is assumed to reflect an active inhibition process. Our aim was to investigate the differences in the beta rebound between movement termination and withholding of movement, and the withholding of overt and covert movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22349305

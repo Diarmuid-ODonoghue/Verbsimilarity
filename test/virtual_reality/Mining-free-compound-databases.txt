@@ -1,0 +1,3 @@
+The search for effective ways to discover new and better chemical probes to explore basic biology is never ending. With the advent of genomics and proteomics, data are rapidly accumulating on the role of several proteins and their implications in cellular function. However, the accumulation of knowledge on new proteins is not reciprocated at the level of new chemical probes that would help us understand protein function by modulating it. An emerging solution is virtual screening in which millions of molecules are evaluated with computers rapidly and cheaply relative to high-throughput screening.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23480538

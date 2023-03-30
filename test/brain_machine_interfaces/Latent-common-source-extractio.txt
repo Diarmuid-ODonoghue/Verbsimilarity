@@ -1,0 +1,3 @@
+This study introduces and evaluates a novel target identification method, latent common source extraction (LCSE), that uses subject-specific training data for the enhancement of detection of steady-state visual evoked potential (SSVEP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30917349

@@ -1,0 +1,3 @@
+Human papillomavirus vaccination and cervical screening are lacking in most lower resource settings, where approximately 80% of more than 500 000 cancer cases occur annually. Visual inspection of the cervix following acetic acid application is practical but not reproducible or accurate. The objective of this study was to develop a "deep learning"-based visual evaluation algorithm that automatically recognizes cervical precancer/cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30629194

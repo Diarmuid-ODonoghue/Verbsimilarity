@@ -1,0 +1,3 @@
+Haptic control is a useful therapeutic option in rehabilitation featuring virtual reality interaction. As with visual and vibrotactile biofeedback, kinesthetic haptic feedback may assist in postural control, and can achieve balance control. Kinesthetic haptic feedback in terms of body sway can be delivered via a commercially available haptic device and can enhance the balance stability of both young healthy subjects and stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25889581

@@ -1,0 +1,3 @@
+Preterm infants' limb monitoring in neonatal intensive care units (NICUs) is of primary importance for assessing infants' health status and motor/cognitive development. Herein, we propose a new approach to preterm-infants' limb pose estimation that features spatio-temporal information to detect and track limb joint position from depth videos with high reliability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31870974

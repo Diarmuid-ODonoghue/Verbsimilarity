@@ -1,0 +1,3 @@
+Alleles of human leukocyte antigen (HLA)-A DNAs are classified and expressed graphically by using artificial intelligence "Deep Learning (Stacked autoencoder)". Nucleotide sequence data corresponding to the length of 822 bp, collected from the Immuno Polymorphism Database, were compressed to 2-dimensional representation and were plotted. Profiles of the two-dimensional plots indicate that the alleles can be classified as clusters are formed. The two-dimensional plot of HLA-A DNAs gives a clear outlook for characterizing the various alleles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29327117

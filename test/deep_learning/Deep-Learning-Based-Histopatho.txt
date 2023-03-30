@@ -1,0 +1,3 @@
+The development of deep neural networks is facilitating more advanced digital analysis of histopathologic images. We trained a convolutional neural network for multiclass segmentation of digitized kidney tissue sections stained with periodic acid-Schiff (PAS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31488607

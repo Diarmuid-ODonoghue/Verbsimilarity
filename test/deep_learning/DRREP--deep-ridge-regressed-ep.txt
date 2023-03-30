@@ -1,0 +1,3 @@
+The ability to predict epitopes plays an enormous role in vaccine development in terms of our ability to zero in on where to do a more thorough in-vivo analysis of the protein in question. Though for the past decade there have been numerous advancements and improvements in epitope prediction, on average the best benchmark prediction accuracies are still only around 60%. New machine learning algorithms have arisen within the domain of deep learning, text mining, and convolutional networks. This paper presents a novel analytically trained and string kernel using deep neural network, which is tailored for continuous epitope prediction, called: Deep Ridge Regressed Epitope Predictor (DRREP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28984193

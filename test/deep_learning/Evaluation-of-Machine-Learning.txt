@@ -1,0 +1,3 @@
+The ability to predict readmission accurately after hospitalization for acute myocardial infarction (AMI) is limited in current statistical models. Machine-learning (ML) methods have shown improved predictive ability in various clinical contexts, but their utility in predicting readmission after hospitalization for AMI is unknown.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32204950

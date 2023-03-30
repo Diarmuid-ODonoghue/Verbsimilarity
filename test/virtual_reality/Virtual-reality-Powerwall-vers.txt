@@ -1,0 +1,3 @@
+Virtual slides could replace the conventional microscope. However, it can take 60% longer to make a diagnosis with a virtual slide, due to the small display size and inadequate user interface of current systems. The aim was to create and test a virtual reality (VR) microscope using a Powerwall (a high-resolution array of 28 computer screens) for viewing virtual slides more efficiently.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19723144

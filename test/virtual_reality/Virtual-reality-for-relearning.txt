@@ -1,0 +1,3 @@
+The explosive increase in the power of computers has enabled the creation of fast, interactive 3D environments, sometimes called virtual reality (VR). This technology, often associated with arcade games, is increasingly being used for more serious applications. This paper describes research showing transfer of skills from a virtual environment to the real world. We then describe our VR authoring tool and an application to help cognitively impaired individuals relearn important daily living skills. Additionally we describe the development of a prototype networked system to enable a doctor to monitor remotely the rehabilitation of a group of patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11137470

@@ -1,0 +1,3 @@
+Consumers increasingly turn to the internet in search of health-related information; and they want their questions answered with short and precise passages, rather than needing to analyze lists of relevant documents returned by search engines and reading each document to find an answer. We aim to answer consumer health questions with information from reliable sources.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31592532

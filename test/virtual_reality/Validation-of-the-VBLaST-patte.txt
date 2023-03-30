@@ -1,0 +1,3 @@
+Mastery of laparoscopic skills is essential in surgical practice and requires considerable time and effort to achieve. The Virtual Basic Laparoscopic Skill Trainer (VBLaST-PC©) is a virtual simulator that was developed as a computerized version of the pattern cutting (PC) task in the Fundamentals of Laparoscopic Surgery (FLS) system. To establish convergent validity for the VBLaST-PC©, we assessed trainees' learning curves using the cumulative summation (CUSUM) method and compared them with those on the FLS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29052071

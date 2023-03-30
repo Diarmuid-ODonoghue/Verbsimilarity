@@ -1,0 +1,3 @@
+Many brain-computer interfaces (BCIs) use band power (BP) changes in the electroencephalogram to distinguish between different motor imagery (MI) patterns. Most current approaches do not take connectivity of separated brain areas into account. Our objective is to introduce single-trial connectivity features and apply these features to BCI data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23751454

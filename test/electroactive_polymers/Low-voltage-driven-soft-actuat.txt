@@ -1,0 +1,3 @@
+Soft actuators based on electroactive polymers (EAPs) are the core constituents of future soft robots owing to their fascinating properties such as lightweight, compactness, easy fabrication into various forms, and low cost. Ionic EAP actuators are particularly attractive owing to the low driving voltages (<3 V) as compared to those of electronic EAP actuators (usually kilovolts). This paper presents a brief overview of the recent progress in a range of EAP actuators by focusing on low voltage operation, in addition to the challenges and future strategies for their wide applicability in artificial muscles and various innovative soft robot technologies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29623967

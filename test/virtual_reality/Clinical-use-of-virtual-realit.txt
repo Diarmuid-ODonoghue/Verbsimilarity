@@ -1,0 +1,3 @@
+Virtual reality (VR) has been used by clinicians to manage pain in clinical populations. This study examines the use of VR as a form of distraction for dental patients using both subjective and objective measures to determine how a VR system affects patients' reported anxiety level, pain level, and physiological factors. As predicted, results of self-evaluation questionnaires showed that patients experienced less anxiety and pain after undergoing VR treatment. Physiological data reported similar trends in decreased anxiety. Overall, the favorable subjective and objective responses suggest that VR distraction systems can reduce discomfort and pain for patients with mild to moderate fear and anxiety.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24892198

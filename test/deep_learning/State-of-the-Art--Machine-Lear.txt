@@ -1,0 +1,3 @@
+Machine learning has recently gained considerable attention because of promising results for a wide range of radiology applications. Here we review recent work using machine learning in brain tumor imaging, specifically segmentation and MRI radiomics of gliomas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30332296

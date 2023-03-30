@@ -1,0 +1,3 @@
+The Gleason score is the strongest correlating predictor of recurrence for prostate cancer, but has substantial inter-observer variability, limiting its usefulness for individual patients. Specialised urological pathologists have greater concordance; however, such expertise is not widely available. Prostate cancer diagnostics could thus benefit from robust, reproducible Gleason grading. We aimed to investigate the potential of deep learning to perform automated Gleason grading of prostate biopsies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31926805

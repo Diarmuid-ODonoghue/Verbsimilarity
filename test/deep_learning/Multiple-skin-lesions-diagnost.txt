@@ -1,0 +1,3 @@
+Computer automated diagnosis of various skin lesions through medical dermoscopy images remains a challenging task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32028084

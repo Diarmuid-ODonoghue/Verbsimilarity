@@ -1,0 +1,3 @@
+there has been a recent increase in the use of connectome-based multivariate pattern analysis (MVPA) of resting-state functional magnetic resonance imaging (fMRI) data aimed at distinguishing patients with major depressive disorder (MDD) from healthy controls (HCs). However, the validity of this method needs to be confirmed in independent samples.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28499208

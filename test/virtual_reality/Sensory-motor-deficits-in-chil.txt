@@ -1,0 +1,3 @@
+Fetal alcohol spectrum disorder (FASD) is associated with a large number of cognitive and sensory-motor deficits. In particular, the accurate assessment of sensory-motor deficits in children with FASD is not always simple and relies on clinical assessment tools that may be coarse and subjective. Here we present a new approach: using robotic technology to accurately and objectively assess motor deficits of children with FASD in a center-out reaching task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23915298

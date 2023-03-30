@@ -1,0 +1,3 @@
+To evaluate the added value of deep learning (DL) analysis of the left ventricular myocardium (LVM) in resting coronary CT angiography (CCTA) over determination of coronary degree of stenosis (DS), for identification of patients with functionally significant coronary artery stenosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30421020

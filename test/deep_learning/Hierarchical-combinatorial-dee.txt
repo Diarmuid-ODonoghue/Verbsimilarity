@@ -1,0 +1,3 @@
+Efficient computational recognition and segmentation of target organ from medical images are foundational in diagnosis and treatment, especially about pancreas cancer. In practice, the diversity in appearance of pancreas and organs in abdomen, makes detailed texture information of objects important in segmentation algorithm. According to our observations, however, the structures of previous networks, such as the Richer Feature Convolutional Network (RCF), are too coarse to segment the object (pancreas) accurately, especially the edge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29745840

@@ -1,0 +1,3 @@
+In epilepsy, asymmetries in the organization of mesial temporal lobe (MTL) functions help determine the cognitive risk associated with procedures such as anterior temporal lobectomy. Past studies have investigated the change/shift in a visual episodic memory laterality index (LI) in mesial temporal lobe structures through functional magnetic resonance imaging (fMRI) task activations. Here, we examine whether underlying task-related functional connectivity (FC) is concordant with such standard fMRI laterality measures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29499551

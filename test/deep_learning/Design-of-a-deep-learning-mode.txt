@@ -1,0 +1,3 @@
+Currently, manual scoring is the gold standard of leg movement scoring (LMs) and periodic LMs (PLMS) in overnight polysomnography (PSG) studies, which is subject to inter-scorer variability. The objective of this study is to design and validate an end-to-end deep learning system for the automatic scoring of LMs and PLMS in sleep.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32062037

@@ -1,0 +1,3 @@
+A deep understanding of human behavior is critical to designing effective health care delivery models, tools, and processes. Currently, however, few mechanisms exist to systematically apply insights about human behavior to improve health outcomes. Behavioral design teams (BDTs) are a successful model for applying behavioral insights within an organization. Already operational within government, this model can be adapted to function in a health care setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29232079

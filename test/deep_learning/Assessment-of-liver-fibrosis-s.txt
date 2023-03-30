@@ -1,0 +1,3 @@
+To evaluate whether the liver and spleen volumetric indices, measured on portal venous phase CT images, could be used to assess liver fibrosis severity in chronic liver disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32055946

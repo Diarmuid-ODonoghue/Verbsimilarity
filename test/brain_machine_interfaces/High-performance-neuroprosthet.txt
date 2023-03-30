@@ -1,0 +1,3 @@
+Paralysis or amputation of an arm results in the loss of the ability to orient the hand and grasp, manipulate, and carry objects, functions that are essential for activities of daily living. Brain-machine interfaces could provide a solution to restoring many of these lost functions. We therefore tested whether an individual with tetraplegia could rapidly achieve neurological control of a high-performance prosthetic limb using this type of an interface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23253623

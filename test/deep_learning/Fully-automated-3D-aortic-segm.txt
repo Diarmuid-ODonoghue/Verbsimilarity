@@ -1,0 +1,3 @@
+To generate fully automated and fast 4D-flow MRI-based 3D segmentations of the aorta using deep learning for reproducible quantification of aortic flow, peak velocity, and dimensions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32167203

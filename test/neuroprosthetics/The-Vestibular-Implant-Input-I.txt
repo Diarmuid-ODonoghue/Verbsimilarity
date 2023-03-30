@@ -1,0 +1,3 @@
+Patients with bilateral vestibulopathy (BV) can still have residual "natural" function. This might interact with "artificial" vestibular implant input (VI-input). When fluctuating, it could lead to vertigo attacks. Main objective was to investigate how "artificial" VI-input is integrated with residual "natural" input by the central vestibular system. This, to explore (1) whether misalignment in the response of "artificial" VI-input is sufficiently counteracted by well-aligned residual "natural" input and (2) whether "artificial" VI-input is able to influence and counteract the response to residual "natural" input, to show feasibility of a "vestibular pacemaker."
+
+https://www.ncbi.nlm.nih.gov/pubmed/29312107

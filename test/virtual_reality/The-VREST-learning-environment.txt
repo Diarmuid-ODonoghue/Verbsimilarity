@@ -1,0 +1,3 @@
+The VREST learning environment is an integrated architecture to improve the education of health care professionals. It is a combination of a learning, content and assessment management system based on virtual reality. The generic architecture is now being build and tested around the Lichtenstein protocol for hernia inguinalis repair.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15718742

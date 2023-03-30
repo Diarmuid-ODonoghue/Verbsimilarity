@@ -1,0 +1,3 @@
+Automatically detecting and quantifying pneumothorax on chest computed tomography (CT) may impact clinical decision-making. Machine learning methods published so far struggle with the heterogeneity of technical parameters and the presence of additional pathologies, highlighting the importance of stable algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32303861

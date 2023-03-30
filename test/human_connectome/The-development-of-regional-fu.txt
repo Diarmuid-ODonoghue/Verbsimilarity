@@ -1,0 +1,3 @@
+Resting state networks are proposed to reflect the neuronal connectivity that underlies cognitive processes. Consequently, abnormal behaviour of these networks due to disease or altered development may predict poor cognitive outcome. To understand how very preterm birth may affect the development of resting state connectivity, we followed a cohort of very preterm-born infants from birth through to 4 years of age using resting state functional MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23881450

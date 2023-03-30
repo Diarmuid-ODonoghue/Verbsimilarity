@@ -1,0 +1,3 @@
+This study aims to adapt and evaluate the performance of different state-of-the-art deep learning object detection methods to automatically identify esophageal adenocarcinoma (EAC) regions from high-definition white light endoscopy (HD-WLE) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30666547

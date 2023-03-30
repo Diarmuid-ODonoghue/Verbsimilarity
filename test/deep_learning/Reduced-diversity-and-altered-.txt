@@ -1,0 +1,3 @@
+Gastrointestinal disturbances are among symptoms commonly reported by individuals diagnosed with myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). However, whether ME/CFS is associated with an altered microbiome has remained uncertain. Here, we profiled gut microbial diversity by sequencing 16S ribosomal ribonucleic acid (rRNA) genes from stool as well as inflammatory markers from serum for cases (n = 48) and controls (n = 39). We also examined a set of inflammatory markers in blood: C-reactive protein (CRP), intestinal fatty acid-binding protein (I-FABP), lipopolysaccharide (LPS), LPS-binding protein (LBP), and soluble CD14 (sCD14).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27338587

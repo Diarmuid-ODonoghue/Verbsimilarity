@@ -1,0 +1,3 @@
+This review determines the effects of virtual reality interventions for stroke subjects based on the International Classification of Functioning, Disability,and Health (ICF) framework. Virtual reality is a promising tool for therapy for stroke rehabilitation, but the effects of virtual reality interventions on post-stroke patients based on the specific ICF domains (Body Structures, Body Functions, Activity, and Participation) have not been investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27796177

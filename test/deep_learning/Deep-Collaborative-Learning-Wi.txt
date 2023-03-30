@@ -1,0 +1,3 @@
+Multi-modal functional magnetic resonance imaging has been widely used for brain research. Conventional data-fusion methods cannot capture complex relationship (e.g., nonlinear predictive relationship) between multiple data. This paper aims to develop a neural network framework to extract phenotype related cross-data relationships and use it to study the brain development.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30872216

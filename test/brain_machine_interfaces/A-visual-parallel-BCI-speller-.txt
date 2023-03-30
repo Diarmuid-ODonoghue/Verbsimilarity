@@ -1,0 +1,3 @@
+Spelling is one of the most important issues in brain-computer interface (BCI) research. This paper is to develop a visual parallel-BCI speller system based on the time-frequency coding strategy in which the sub-speller switching among four simultaneously presented sub-spellers and the character selection are identified in a parallel mode.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24608672

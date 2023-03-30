@@ -1,0 +1,3 @@
+Medaka (Oryzias latipes) and zebrafish (Danio rerio) contribute substantially to our understanding of the genetic and molecular etiology of human cardiovascular diseases. In this context, the quantification of important cardiac functional parameters is fundamental. We have developed a framework that segments the ventricle of a medaka hatchling from image sequences and subsequently quantifies ventricular dimensions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31536467

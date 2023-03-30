@@ -1,0 +1,3 @@
+One of the major drawbacks in EEG brain-computer interfaces (BCI) is the need for subject-specific training of the classifier. By removing the need for a supervised calibration phase, new users could potentially explore a BCI faster. In this work we aim to remove this subject-specific calibration phase and allow direct classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26824883

@@ -1,0 +1,3 @@
+This study endeavors to build a deep learning (DL)-based model for predicting disease progression in head and neck squamous cell carcinoma (HNSCC) patients by integrating multi-omics data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31658045

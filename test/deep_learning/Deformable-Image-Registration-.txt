@@ -1,0 +1,3 @@
+Analysis of modern large-scale, multicenter or diseased data requires deformable registration algorithms that can cope with data of diverse nature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29993391

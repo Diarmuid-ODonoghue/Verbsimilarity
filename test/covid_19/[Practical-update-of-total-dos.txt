@@ -1,0 +1,3 @@
+Overall treatment time is an important factor of local recurrence and indirectly of distant evolution, namely in case of protracted treatments. The current pandemic impacts on the duration of radiotherapy if patients under treatments and synchronously suffering from COVID-19. The models used to compensate the total dose in case of temporary treatment interruption are well known but it is of importance in that pandemic context to update and homogenize clinical practice in order to improve local control without increasing normal tissue complications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32307313

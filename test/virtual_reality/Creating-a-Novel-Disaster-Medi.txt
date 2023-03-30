@@ -1,0 +1,3 @@
+Disasters are high-acuity, low-frequency events which require medical providers to respond in often chaotic settings. Due to this infrequency, skills can atrophy, so providers must train and drill to maintain them. Historically, drilling for disaster response has been costly, and thus infrequent. Virtual Reality Environments (VREs) have been demonstrated to be acceptable to trainees, and useful for training Disaster Medicine skills. The improved cost of virtual reality training can allow for increased frequency of simulation and training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32167446

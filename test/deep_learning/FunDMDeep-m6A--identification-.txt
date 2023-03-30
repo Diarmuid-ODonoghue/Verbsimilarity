@@ -1,0 +1,3 @@
+As the most abundant mammalian mRNA methylation, N6-methyladenosine (m6A) exists in >25% of human mRNAs and is involved in regulating many different aspects of mRNA metabolism, stem cell differentiation and diseases like cancer. However, our current knowledge about dynamic changes of m6A levels and how the change of m6A levels for a specific gene can play a role in certain biological processes like stem cell differentiation and diseases like cancer is largely elusive.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31510685

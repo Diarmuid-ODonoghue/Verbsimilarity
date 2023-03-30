@@ -1,0 +1,3 @@
+Obesity has been linked with subtle differences in brain structure. These differences tend to be especially relevant in prefrontal cortex regions, areas which play an important role in executive control. However, results in this field are often contradictory: although studies tend to report lower gray matter volume in relation to obesity, some have also observed null or positive associations. To overcome this issue, we conducted a meta-analysis on voxel-based morphometry (VBM) differences associated with obesity-related variables and validated the findings with an independent dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30022057

@@ -1,0 +1,3 @@
+Traumatic brain injury (TBI) is associated with cognitive and motor deficits, and poses a significant personal, societal, and economic burden. One mechanism by which TBI is thought to affect cognition and behavior is through changes in functional connectivity. Graph theory is a powerful framework for quantifying topological features of neuroimaging-derived functional networks. The objective of this paper is to review studies examining functional connectivity in TBI with an emphasis on graph theoretical analysis that is proving to be valuable in uncovering network abnormalities in this condition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27919750

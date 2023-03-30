@@ -1,0 +1,3 @@
+We tested the value of measuring modularity, a graph theory metric indexing the relative extent of integration and segregation of distributed functional brain networks, for predicting individual differences in response to cognitive training in patients with brain injury.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25788557

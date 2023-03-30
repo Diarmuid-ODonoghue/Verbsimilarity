@@ -1,0 +1,3 @@
+Virtual reality motion sickness (VRMS) is one of the main factors hindering the development of VR technology. At present, the VRMS recognition methods using electroencephalogram (EEG) signals have poor applicability to multiple subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31865095

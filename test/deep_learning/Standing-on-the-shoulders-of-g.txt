@@ -1,0 +1,3 @@
+We propose a simple strategy to improve automatic medical image segmentation. The key idea is that without deep understanding of a segmentation method, we can still improve its performance by directly calibrating its results with respect to manual segmentation. We formulate the calibration process as a bias correction problem, which is addressed by machine learning using training data. We apply this methodology on three segmentation problems/methods and show significant improvements for all of them.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20879389

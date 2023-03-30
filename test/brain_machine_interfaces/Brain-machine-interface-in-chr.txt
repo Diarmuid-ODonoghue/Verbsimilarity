@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) have been recently proposed as a new tool to induce functional recovery in stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30722727

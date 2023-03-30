@@ -1,0 +1,3 @@
+Virtual reality exposure therapy (VRET) has been shown to be as effective as traditional forms of in vivo exposure therapy for the treatment of specific phobias. However, as with in vivo exposure, VRET still involves relatively high costs and limited accessibility which makes it prohibitive for a large part of the population. Innovative methods using smartphone applications (apps) may improve accessibility and scalability of VRET. The aim of this study is to evaluate 0Phobia, a gamified self-guided VRET for acrophobia that is delivered through a smartphone app in combination with rudimentary cardboard virtual reality (VR) goggles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30092844

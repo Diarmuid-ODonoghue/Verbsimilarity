@@ -1,0 +1,3 @@
+The advent of near physiological organoid technology has produced a step change in our understanding of stem cells and has provided the research community with a powerful new cell based tool to model human physiology and disease. We review the pros and cons of intestinal organoid culture systems. The molecular and genetic tools to manipulate them and how they are being used to answer fundamental questions in metabolic research, including the function of enteroendocrine cells in health and disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28968540

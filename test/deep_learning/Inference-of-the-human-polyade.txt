@@ -1,0 +1,3 @@
+Processing of transcripts at the 3'-end involves cleavage at a polyadenylation site followed by the addition of a poly(A)-tail. By selecting which site is cleaved, the process of alternative polyadenylation enables genes to produce transcript isoforms with different 3'-ends. To facilitate the identification and treatment of disease-causing mutations that affect polyadenylation and to understand the sequence determinants underlying this regulatory process, a computational model that can accurately predict polyadenylation patterns from genomic features is desirable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29648582

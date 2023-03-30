@@ -1,0 +1,3 @@
+Point-of-injury (POI) care requires immediate specialized assistance but delays and expertise lapses can lead to complications. In such scenarios, telementoring can benefit health practitioners by transmitting guidance from remote specialists. However, current telementoring systems are not appropriate for POI care. This article clinically evaluates our System for Telementoring with Augmented Reality (STAR), a novel telementoring system based on an augmented reality head-mounted display. The system is portable, self-contained, and displays virtual surgical guidance onto the operating field. These capabilities can facilitate telementoring in POI scenarios while mitigating limitations of conventional telementoring systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32074347

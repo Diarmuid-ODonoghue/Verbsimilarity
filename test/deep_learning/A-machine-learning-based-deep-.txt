@@ -1,0 +1,3 @@
+A Machine-Learning based Deep Potential (DP) model for Al clusters is developed through training with an extended database including ab initio data of both bulk and several clusters in only 6 CPU/h. This DP model has good performance in accurately predicting the low-lying candidates of Al clusters in a broad size range. Based on our developed DP model, the low-lying structures of 101 different sized Al clusters are extensively searched, among which the lowest-energy candidates of 69 sized clusters are updated. Our calculations demonstrate that machine-learning is indeed powerful in generating potentials to describe the interaction of atoms in complex materials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32199435

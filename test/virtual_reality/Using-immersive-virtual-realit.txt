@@ -1,0 +1,3 @@
+Thousands of people die or are injured in work accidents every year. Although the lack of safety equipment is one of the causes, especially in developing countries, behavioral issues caused by psychosocial factors are also to blame. This article introduces the use of immersive VR simulators to preventively reduce accidents in the workplace by detecting behavioral patterns that may lead to an increased predisposition to risk exposure. The system simulates day-to-day situations, analyzes user reactions, and classifies the behaviors according to four psychosocial groups. The results of a user study support the effectiveness of this approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26915116

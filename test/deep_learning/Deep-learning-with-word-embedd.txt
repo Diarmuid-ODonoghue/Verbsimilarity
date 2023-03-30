@@ -1,0 +1,3 @@
+Text mining has become an important tool for biomedical research. The most fundamental text-mining task is the recognition of biomedical named entities (NER), such as genes, chemicals and diseases. Current NER methods rely on pre-defined features which try to capture the specific surface properties of entity types, properties of the typical local context, background knowledge, and linguistic information. State-of-the-art tools are entity-specific, as dictionaries and empirically optimal feature sets differ between entity types, which makes their development costly. Furthermore, features are often optimized for a specific gold standard corpus, which makes extrapolation of quality measures difficult.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28881963

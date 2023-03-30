@@ -1,0 +1,3 @@
+To evaluate a deep convolutional neural network (dCNN) for detection, highlighting, and classification of ultrasound (US) breast lesions mimicking human decision-making according to the Breast Imaging Reporting and Data System (BI-RADS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30927100

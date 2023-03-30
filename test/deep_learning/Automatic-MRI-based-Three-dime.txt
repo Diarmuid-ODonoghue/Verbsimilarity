@@ -1,0 +1,3 @@
+The time-consuming and user-dependent postprocessing of biochemical cartilage MRI has limited the use of delayed gadolinium-enhanced MRI of cartilage (dGEMRIC). An automated analysis of biochemical three-dimensional (3-D) images could deliver a more time-efficient and objective evaluation of cartilage composition, and provide comprehensive information about cartilage thickness, surface area, and volume compared with manual two-dimensional (2-D) analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30998632

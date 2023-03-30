@@ -1,0 +1,3 @@
+Recent interest in the use of conducting polymers (CPs) for neural stimulation electrodes has been growing; however, concerns remain regarding the stability of coatings under stimulation conditions. These studies examine the factors of the CP and implant environment that affect coating stability. The CP poly(ethylene dioxythiophene) (PEDOT) is examined in comparison to platinum (Pt), to demonstrate the potential performance of these coatings in neuroprosthetic applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23283391

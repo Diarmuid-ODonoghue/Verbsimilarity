@@ -1,0 +1,3 @@
+The aim of this paper is to provide a general discussion, algorithm, and actual working programs of the deformation method for fast simulation of biological tissue formed by fibers and fluid. In order to demonstrate the benefit of the clinical applications software, we successfully used our computational program to deform a 3D breast image acquired from patients, using a 3D scanner, in a real hospital environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27087834

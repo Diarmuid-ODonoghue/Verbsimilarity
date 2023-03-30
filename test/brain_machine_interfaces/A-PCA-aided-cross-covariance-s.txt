@@ -1,0 +1,3 @@
+Feature extraction of EEG signals plays a significant role in Brain-computer interface (BCI) as it can significantly affect the performance and the computational time of the system. The main aim of the current work is to introduce an innovative algorithm for acquiring reliable discriminating features from EEG signals to improve classification performances and to reduce the time complexity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28688489

@@ -1,0 +1,3 @@
+Effective and safe performance of cardiovascular interventions requires excellent catheter/guidewire manipulation skills. These skills are currently mainly gained through an apprenticeship on real patients, which may not be safe or cost-effective. Computer simulation offers an alternative for core skills training. However, replicating the physical behaviour of real instruments navigated through blood vessels is a challenging task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29079992

@@ -1,0 +1,3 @@
+We outline an experimental setup designed to dynamically understand neural responses to visual cliffs while walking. The goal of our work is understanding and mitigating fear of falling, particularly among the elderly. In our setup, an EEG cap monitors a subject's neural activity while the subject is immersed in a virtual world and walking on an instrumented treadmill. The subject's response to visual stimuli is measured by both the EEG cap and by speed and pressure data from the treadmill. Based on this data, we can dynamically alter the landscape in the virtual world. We hope that our setup may be useful in helping subjects develop mechanisms to compensate for significant fear of falling while walking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30440346

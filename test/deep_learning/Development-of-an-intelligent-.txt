@@ -1,0 +1,3 @@
+Intelligent decision support systems (IDSS) have been applied to tasks of disease management. Deep neural networks (DNNs) are artificial intelligent techniques to achieve high modeling power. The application of DNNs to large-scale data for estimating stroke risk needs to be assessed and validated. This study aims to apply a DNN for deriving a stroke predictive model using a big electronic health record database.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30865675

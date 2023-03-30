@@ -1,0 +1,3 @@
+Triaging of outpatient referrals to ophthalmology services is required for the maintenance of patient care and appropriate resource allocation. Machine learning (ML), in particular natural language processing, may be able to assist with the triaging process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31648398

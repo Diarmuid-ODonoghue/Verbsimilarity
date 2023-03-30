@@ -1,0 +1,3 @@
+To explore resting-state (RS) functional connectivity (FC) of the main sensory/motor networks of patients with neuromyelitis optica spectrum disorders (NMOSDs), clinically isolated optic neuritis (ON), and myelitis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29771186

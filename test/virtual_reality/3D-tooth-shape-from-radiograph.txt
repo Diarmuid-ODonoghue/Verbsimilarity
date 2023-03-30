@@ -1,0 +1,3 @@
+Current methods to produce 3-dimensional tooth root models involve conversion from radiographic means (computed tomography) or creation using computer-assisted design (CAD) software. The former lacks detail while the second is manually fabricated and can bear little resemblance to the original. Thin-plate splines have been used in morphometrics to define changes of shape between subjects of the same species. Herein, we use thin-plate splines to deform a 3D geometric prior model of a tooth to match 2D patient radiographs, producing a "best-fit" patient specific 3D geometric polygonal mesh of the tooth.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455865

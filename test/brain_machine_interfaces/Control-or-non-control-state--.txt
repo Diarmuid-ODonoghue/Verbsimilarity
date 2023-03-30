@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) based on event-related potentials (ERP) were proven to be a reliable synchronous communication method. For everyday life situations, however, this synchronous mode is impractical because the system will deliver a selection even if the user is not paying attention to the stimulation. So far, research into attention-aware visual ERP-BCIs (i.e., asynchronous ERP-BCIs) has led to variable success. In this study, we investigate new approaches for detection of user engagement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25587889

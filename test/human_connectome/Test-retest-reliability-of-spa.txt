@@ -1,0 +1,3 @@
+Restricted Boltzmann machines (RBMs), including greedy layer-wise trained RBMs as part of a deep belief network (DBN), have the ability to identify spatial patterns (SPs; functional networks) in resting-state fMRI (rfMRI) data. However, there has been little research on (1) the reproducibility and test-retest reliability of SPs derived from RBMs and on (2) hierarchical SPs derived from DBNs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31626847

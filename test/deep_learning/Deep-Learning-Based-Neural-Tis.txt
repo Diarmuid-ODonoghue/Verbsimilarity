@@ -1,0 +1,3 @@
+The dependence of deep-learning (DL)-based segmentation accuracy of brain MRI on the training size is not known.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31625650

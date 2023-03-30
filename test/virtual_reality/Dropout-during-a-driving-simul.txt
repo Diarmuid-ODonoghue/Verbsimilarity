@@ -1,0 +1,3 @@
+Simulator sickness is the occurrence of motion-sickness like symptoms that can occur during use of simulators and virtual reality technologies. This study investigated individual factors that contributed to simulator sickness and dropout while using a desktop driving simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26683559

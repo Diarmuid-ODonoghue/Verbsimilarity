@@ -1,0 +1,3 @@
+We demonstrate a method for measuring the transverse chromatic aberration (TCA) in a virtual reality head-mounted display. The method relies on acquiring images of a digital bar pattern and measuring the displacement of different color bars. This procedure was used to characterize the TCAs in the Oculus Go, Oculus Rift, Samsung Gear, and HTC Vive. The results show noticeable TCAs for the Oculus devices for angles larger than 5° from the center of the field of view. TCA is less noticeable in the Vive in part due to off-axis monochromatic aberrations. Finally, user measurements were conducted, which were in excellent agreement with the laboratory results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31510369

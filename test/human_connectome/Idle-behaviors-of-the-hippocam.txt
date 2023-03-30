@@ -1,0 +1,3 @@
+Compelling evidence indicates that disruption in functional connectivity (FC) in brain networks underlies many psychiatric and developmental disorders. Current theory posits that biological (i.e., cortisol) and environmental (i.e., stress) experiences in early life are strong determinants in the development of functional brain systems and formative in the genesis of such disorders. The objective of this study was to examine the extent to which individual differences in cortisol concentrations during FC magnetic resonance imaging (MRI) would map onto variability in hippocampal to default mode network (DMN) connectivity in typically developing youth.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23702453

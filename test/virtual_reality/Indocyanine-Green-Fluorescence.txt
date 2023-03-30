@@ -1,0 +1,3 @@
+Near-infrared indocyanine green video angiography (ICG-NIR-VA) has been introduced for free-flap surgery and may provide intraoperative flap designing as well as postoperative monitoring. Nevertheless, the technique has not been established in clinical routine because of controversy over benefits. Improved technical features of the novel Visionsense ICG-NIR-VA surgery system are promising to revisit the field of application. It features a unique real-time fusion image of simultaneous NIR and white light visualization, with highlighted perfusion, including a color-coded perfusion flow scale for optimized anatomical understanding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26474605

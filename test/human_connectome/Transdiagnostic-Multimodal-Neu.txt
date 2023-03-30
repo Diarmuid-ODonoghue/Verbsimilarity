@@ -1,0 +1,3 @@
+Disorders with psychotic features, including schizophrenia and some bipolar disorders, are associated with impairments in regulation of goal-directed behavior, termed cognitive control. Cognitive control-related neural alterations have been studied in psychosis. However, studies are typically unimodal, and relationships across modalities of brain function and structure remain unclear. Thus, we performed transdiagnostic multimodal analyses to examine cognitive control-related neural variation in psychosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31327685

@@ -1,0 +1,3 @@
+We describe a robotic and virtual reality system for the rehabilitation of the forearm. It consists of a robotic arm and VR scenarios with a dynamic model of the human upper limb. The system allows to assign specific tasks to perform within the virtual environments. The system simulates the actions of the patient limb and allows exhaustive exercising and motor control, giving visuomotor and haptic feedback and trajectory positioning guidance. The system aids to evaluate the mobility condition of the patient, to personalize the difficult level of the therapy and provides kinematic measures of the patient evolution. The patients recruitment phase has already started for clinical pilot studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22954881

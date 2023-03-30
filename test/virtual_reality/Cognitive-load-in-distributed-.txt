@@ -1,0 +1,3 @@
+Cognitive load theory states that working memory is limited. This has implications for learning and suggests that reducing cognitive load (CL) could promote learning and skills acquisition. This study aims to explore the effect of repeated practice and simulator-integrated tutoring on CL in virtual reality (VR) mastoidectomy simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26153783

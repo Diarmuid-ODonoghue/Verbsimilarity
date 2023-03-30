@@ -1,0 +1,3 @@
+The vestibular system provides essential information about balance and spatial orientation via the brain to other sensory and motor systems. Bilateral vestibular loss significantly reduces quality of life, but vestibular implants (VIs) have demonstrated potential to restore lost function. However, optimal electrical stimulation strategies have not yet been identified in patients. In this study, we compared the two most common strategies, pulse amplitude modulation (PAM) and pulse rate modulation (PRM), in patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27396631

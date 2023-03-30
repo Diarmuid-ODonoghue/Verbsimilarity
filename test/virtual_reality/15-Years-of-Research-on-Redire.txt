@@ -1,0 +1,3 @@
+Virtual reality users wearing head-mounted displays can experience the illusion of walking in any direction for infinite distance while, in reality, they are walking a curvilinear path in physical space. This is accomplished by introducing unnoticeable rotations to the virtual environment-a technique called redirected walking. This paper gives an overview of the research that has been performed since redirected walking was first practically demonstrated 15 years ago.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29672255

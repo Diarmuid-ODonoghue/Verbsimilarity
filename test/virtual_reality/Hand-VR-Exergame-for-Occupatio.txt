@@ -1,0 +1,3 @@
+The widespread use and ubiquity of mobile computing technologies such as smartphones, tablets, laptops and portable gaming consoles has led to an increase in musculoskeletal disorders due to overuse, bad posture, repetitive movements, fixed postures and physical de-conditioning caused by low muscular demands while using (and over-using) these devices. In this paper we present the development of a hand motion-based virtual reality-based exergame for occupational health purposes that allows the user to perform simple exercises using a cost-effective non-invasive motion capture device to help overcome and prevent some of the muskoloskeletal problems associated with the over-use of keyboards and mobile devices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27046592

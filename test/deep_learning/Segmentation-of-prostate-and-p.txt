@@ -1,0 +1,3 @@
+Develop a deep-learning-based segmentation algorithm for prostate and its peripheral zone (PZ) that is reliable across multiple MRI vendors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32221622

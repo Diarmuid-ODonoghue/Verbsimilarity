@@ -1,0 +1,3 @@
+Low-cost box models (BMs) are a valuable tool alternative to virtual-reality simulators. We aim to provide surgical trainees with a description of most common BMs and to present their validity to achieve basic and advanced laparoscopic skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23579503

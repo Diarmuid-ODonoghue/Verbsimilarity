@@ -1,0 +1,3 @@
+To develop an efficient acquisition for high-resolution diffusion imaging and allow in vivo whole-brain acquisitions at 600- to 700-μm isotropic resolution.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28261904

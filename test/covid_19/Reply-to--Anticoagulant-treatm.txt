@@ -1,0 +1,3 @@
+We have just read with interest the article recently published in your Journal and titled "Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy" by Tang N. et al (1). In this article, it is suggested that those patients with COVID-19 that accomplish the Sepsis-Induced Coagulopathy (SIC) criteria, and receive anticoagulant treatment would present a reduction of mortality rates. It is well known that both shock and disseminated intravascular coagulation (DIC) are the two major causes of organ dysfunction in sepsis (2). Furthermore, DIC is a strong predictor of mortality in patients with sepsis, independently of the severity of sepsis (2).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32302445

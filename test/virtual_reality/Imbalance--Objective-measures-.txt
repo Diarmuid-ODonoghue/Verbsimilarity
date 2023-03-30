@@ -1,0 +1,3 @@
+Dizziness and imbalance are very common complaints in clinical practice. One of the challenges is to evaluate the 'real' risk of falls. Two tools are available: the patient's self-report and the measure of the patient's balance. We evaluated the relationship between these methods using the Dizziness Handicap Inventory (DHI) and measures of balance while visual inputs are perturbed with Virtual Reality (VR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29080510

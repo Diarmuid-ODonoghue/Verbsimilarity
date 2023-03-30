@@ -1,0 +1,3 @@
+Anatomic characteristics of kidneys derived from ultrasound images are potential biomarkers of children with congenital abnormalities of the kidney and urinary tract (CAKUT), but current methods are limited by the lack of automated processes that accurately classify diseased and normal kidneys.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30473474

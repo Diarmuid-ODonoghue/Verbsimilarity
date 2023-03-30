@@ -1,0 +1,3 @@
+To demonstrate the decodable nature of pediatric brain signals for the purpose of neuroprosthetic control. We hypothesized that children would achieve levels of brain-derived computer control comparable to performance previously reported for adults.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21690116

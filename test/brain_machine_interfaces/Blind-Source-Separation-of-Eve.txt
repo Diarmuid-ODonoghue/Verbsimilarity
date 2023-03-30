@@ -1,0 +1,3 @@
+Blind source separation (BSS) can be used to decompose complex electroencephalography (EEG) or magnetoencephalography data into simpler components based on statistical assumptions without using a physical model. Applications include brain-computer interfaces, artifact removal, and identifying parallel neural processes. We wish to address the issue of applying BSS to event-related responses, which is challenging because of nonstationary data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28113203

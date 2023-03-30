@@ -1,0 +1,3 @@
+The reported study employed a virtual reality (VR) system, using a head mounted display (HMD), to investigate road crossing behavior in children and young adults. Younger children (aged 5-9 years) made the greatest number of unsafe road crossings and the oldest participants (aged >19 years) the fewest. Overall performance was better (fewer unsafe road crossings) in uniform speed than uniform distance trials, consistent with previous research suggesting that pedestrians base road crossing decisions on inter-vehicle distance rather than vehicle speed. Results are discussed in terms of road crossing behavior and the use of VR simulations in the study of pedestrian behavior.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12850080

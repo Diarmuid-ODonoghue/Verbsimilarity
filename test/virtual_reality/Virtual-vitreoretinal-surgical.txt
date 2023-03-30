@@ -1,0 +1,3 @@
+To demonstrate the feasibility and potential applicability of a virtual reality simulator for vitreoretinal surgery as a training and/or assessment tool.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15097883

@@ -1,0 +1,3 @@
+Protein-protein interactions (PPIs) play important roles in many biological processes. Conventional biological experiments for identifying PPI sites are costly and time-consuming. Thus, many computational approaches have been proposed to predict PPI sites. Existing computational methods usually use local contextual features to predict PPI sites. Actually, global features of protein sequences are critical for PPI site prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31593229

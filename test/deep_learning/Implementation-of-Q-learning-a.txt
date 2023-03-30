@@ -1,0 +1,3 @@
+In this paper, the implementations of two reinforcement learnings namely, Q learning and deep Q network (DQN) on the Gazebo model of a self balancing robot have been discussed. The goal of the experiments is to make the robot model learn the best actions for staying balanced in an environment. The more time it can remain within a specified limit, the more reward it accumulates and hence more balanced it is. We did various tests with many hyperparameters and demonstrated the performance curves.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30613463

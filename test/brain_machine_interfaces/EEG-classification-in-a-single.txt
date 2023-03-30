@@ -1,0 +1,3 @@
+The objective of this study is to find components that might be related to phoneme representation in the brain and to discriminate EEG responses for each speech sound on a trial basis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24809722

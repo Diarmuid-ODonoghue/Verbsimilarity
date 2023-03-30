@@ -1,0 +1,3 @@
+Cardiac troponins are the preferred biomarkers of acute myocardial infarction. Despite superior sensitivity, serial testing of Troponins to identify patients suffering acute coronary syndromes is still required in many cases to overcome limited specificity. Moreover, unstable angina pectoris relies on reported symptoms in the troponin-negative group. In this study, we investigated genome-wide miRNA levels in a prospective cohort of patients with clinically suspected ACS and determined their diagnostic value by applying an in silico neural network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32305360

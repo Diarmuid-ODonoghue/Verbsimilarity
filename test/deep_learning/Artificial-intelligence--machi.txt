@@ -1,0 +1,3 @@
+Techniques from the field of artificial intelligence, and more specifically machine (deep) learning methods, have been core components of most recent developments in the field of medical imaging. They are already being exploited or are being considered to tackle most tasks, including image reconstruction, processing (denoising, segmentation), analysis and predictive modelling. In this review we introduce and define these key concepts and discuss how the techniques from this field can be applied to nuclear medicine imaging applications with a particular focus on radio(geno)mics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31280350

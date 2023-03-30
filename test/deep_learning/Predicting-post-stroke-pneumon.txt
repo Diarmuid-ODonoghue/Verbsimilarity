@@ -1,0 +1,3 @@
+Pneumonia is a common complication after stroke, causing an increased length of hospital stay and death. Therefore, the timely and accurate prediction of post-stroke pneumonia would be highly valuable in clinical practice. Previous pneumonia risk score models were often built on simple statistical methods such as logistic regression. This study aims to investigate post-stroke pneumonia prediction models using more advanced machine learning algorithms, specifically deep learning approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31629312

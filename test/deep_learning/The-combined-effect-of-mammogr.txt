@@ -1,0 +1,3 @@
+Texture patterns have been shown to improve breast cancer risk segregation in addition to area-based mammographic density. The additional value of texture pattern scores on top of volumetric mammographic density measures in a large screening cohort has never been studied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29720220

@@ -1,0 +1,3 @@
+Here we provide an introduction and overview of current progress in the field of molecular simulation and visualization, touching on the following topics: (1) virtual and augmented reality for immersive molecular simulations; (2) advanced visualization and visual analytic techniques; (3) new developments in high performance computing; and (4) applications and model building.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25285906

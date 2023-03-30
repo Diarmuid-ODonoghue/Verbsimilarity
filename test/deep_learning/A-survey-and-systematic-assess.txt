@@ -1,0 +1,3 @@
+Drug response prediction arises from both basic and clinical research of personalized therapy, as well as drug discovery for cancers. With gene expression profiles and other omics data being available for over 1000 cancer cell lines and tissues, different machine learning approaches have been applied to drug response prediction. These methods appear in a body of literature and have been evaluated on different datasets with only one or two accuracy metrics. We systematically assess 17 representative methods for drug response prediction, which have been developed in the past 5 years, on four large public datasets in nine metrics. This study provides insights and lessons for future research into drug response prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31927568

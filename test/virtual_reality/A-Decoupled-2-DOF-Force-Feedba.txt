@@ -1,0 +1,3 @@
+Natural orifice translumenal endoscopic surgery (NOTES) is a minimally invasive procedure which utilizes the body's natural orifices to gain access to the peritoneal cavity. The VTEST is a virtual reality NOTES cholecystectomy simulator being built at the CeMSIM at RPI. We have developed a 2 DOF decoupled haptic device, which can provide translational and rotational haptic feedback to the user handling the flexible endoscope. Preliminary results indicate the device is capable of providing realistic feedback to the user while operating the device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732486

@@ -1,0 +1,3 @@
+A new 1D core-shell strategy is demonstrated for a hydrogen-generation photo-electrochemical cell (PEC). This Si/iodine-doped poly(3,4-ethylenedioxythiophene) (PEDOT) 1D nanocable array shows an encouraging solar-to-chemical energy-conversion efficiency. Coating with iodine-doped PEDOT can effectively enhance the photocatalytic efficiency and stability of SiNW arrays. The PEC model proposed shows a potentially promising structure for H(2) production using solar energy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22961939

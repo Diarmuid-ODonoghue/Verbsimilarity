@@ -1,0 +1,3 @@
+While machine learning approaches may enhance prediction ability, little is known about their utility in emergency department (ED) triage.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30646206

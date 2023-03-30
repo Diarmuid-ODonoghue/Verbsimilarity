@@ -1,0 +1,3 @@
+Economic interventions in the food environment are expected to effectively promote healthier food choices. However, before introducing them on a large scale, it is important to gain insight into the effectiveness of economic interventions and peoples' genuine reactions to price changes. Nonetheless, because of complex implementation issues, studies on price interventions are virtually non-existent. This is especially true for experiments undertaken in a retail setting. We have developed a research tool to study the effects of retail price interventions in a virtual-reality setting: the Virtual Supermarket. This paper aims to inform researchers about the features and utilization of this new software application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21787391

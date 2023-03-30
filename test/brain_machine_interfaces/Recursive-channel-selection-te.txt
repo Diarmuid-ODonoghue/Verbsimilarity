@@ -1,0 +1,3 @@
+Automated channel selection allows the dimension of EEG data to be reduced without expert knowledge. We introduce Recursive Channel Insertion, an extension to Recursive Channel Elimination, which dramatically reduces calculation time with no loss of accuracy. Furthermore we propose Repeated Recursive Channel Insertion, which shows an improvement in accuracy over the previous methods when tested on a standard dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366249

@@ -1,0 +1,3 @@
+Atherosclerotic plaque deposition within the coronary vessel wall leads to arterial stenosis and severe catastrophic events over time. Identification of these atherosclerotic plaque components is essential to pre-estimate the risk of cardiovascular disease (CVD) and stratify them as a high or low risk. The characterization and quantification of coronary plaque components are not only vital but also a challenging task which can be possible using high-resolution imaging techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29781047

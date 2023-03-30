@@ -1,0 +1,3 @@
+Brain connectomics is a relatively new field of research that maps the brain's large-scale structural and functional networks at rest. The connectome of the human brain develops progressively from early infancy to late adolescence, and this review describes the theory behind the concept and its applicability to studying the development and dynamics of brain networks through graph theoretical metrics. We also describe how the brain connectome concept could further our understanding of autism spectrum disorders (ASD) CONCLUSION: Further research into the functional child brain connectome concept could enhance our understanding of atypical brain connectivity patterns presumed to be linked to ASD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27228241

@@ -1,0 +1,3 @@
+ The emerging market of cardiac handheld ultrasound (US) is on the rise. Despite the advantages in ease of access and the lower cost, a gap in image quality can still be observed between the echocardiography (echo) data captured by point-of-care ultrasound (POCUS) compared to conventional cart-based US, which limits the further adaptation of POCUS. In this work, we aim to present a machine learning solution based on recent advances in adversarial training to investigate the feasibility of translating POCUS echo images to the quality level of high-end cart-based US systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32314226

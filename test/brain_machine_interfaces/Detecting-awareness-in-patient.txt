@@ -1,0 +1,3 @@
+The bedside detection of potential awareness in patients with disorders of consciousness (DOC) currently relies only on behavioral observations and tests; however, the misdiagnosis rates in this patient group are historically relatively high. In this study, we proposed a visual hybrid brain-computer interface (BCI) combining P300 and steady-state evoked potential (SSVEP) responses to detect awareness in severely brain injured patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25082743

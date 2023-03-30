@@ -1,0 +1,3 @@
+In recent years, due to reduced training opportunities, the major shift in surgical training is towards the use of simulation and animal laboratories. Despite the merits of Virtual Reality Simulators, they are far from representing the real challenges encountered in theatres. We introduce the "Cattle Uterus Model" in the hope that it will be adopted in training courses as a low cost and easy-to-set-up tool. It adds new dimensions to the advanced hysteroscopic surgery training experience by providing tactile sensation and simulating intraoperative difficulties. It complements conventional surgical training, aiming to maximise clinical exposure and minimise patients' harm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26265918

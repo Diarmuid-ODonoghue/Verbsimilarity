@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) technology is attracting increasing interest as a tool for enhancing recovery of motor function after stroke, yet the optimal way to apply this technology is unknown. Here, we studied the immediate and therapeutic effects of BCI-based training to control pre-movement sensorimotor rhythm (SMR) amplitude on robot-assisted finger extension in people with stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30063219

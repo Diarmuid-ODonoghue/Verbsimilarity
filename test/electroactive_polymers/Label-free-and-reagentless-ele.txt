@@ -1,0 +1,3 @@
+In this paper, a label-free and reagentless microRNA sensor based on an interpenetrated network of carbon nanotubes and electroactive polymer is described. The nanostructured polymer film presents very well-defined electroactivity in neutral aqueous medium in the cathodic potential domain from the quinone group embedded in the polymer backbone. Addition of microRNA miR-141 target (prostate cancer biomarker) gives a "signal-on" response, i.e. a current increase due to enhancement of the polymer electroactivity. On the contrary, non-complementary miRNAs such as miR-103 and miR-29b-1 do not lead to any significant current change. A very low detection limit of ca. 8 fM is achieved with this sensor.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23743328

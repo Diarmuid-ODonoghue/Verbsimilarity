@@ -1,0 +1,3 @@
+To develop a deep features-based model to classify benign and malignant breast lesions on full- filed digital mammography.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30692072

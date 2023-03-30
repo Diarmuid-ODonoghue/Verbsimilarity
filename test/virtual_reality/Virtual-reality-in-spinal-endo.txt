@@ -1,0 +1,3 @@
+Minimally invasive spine surgery (MISS) and endoscopic spine surgery have continually evolving indications in the cervical, thoracic, and lumbar spine. Endoscopic spine surgery entails treatment of disc disease, stenosis, spondylolisthesis, radiculopathy, and deformity. MISS involves complex motor skills in regions of variable anatomy. Simulator use has been proposed to aid in training and skill retention, preoperative planning, and intraoperative use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32195429

@@ -1,0 +1,3 @@
+In this manuscript, we consider factors that may affect the design of a hybrid brain-computer interface (BCI). We combine neural correlates of natural movements and interaction error-related potentials (ErrP) to perform a 3D reaching task, focusing on the impact that such factors have on the evoked ErrP signatures and in their classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29714718

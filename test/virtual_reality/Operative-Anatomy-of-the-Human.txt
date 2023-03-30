@@ -1,0 +1,3 @@
+The human cranial vault possesses an incredible, complex anatomical intricacy. Bridging the divide between 2-dimensional (2D) learning resources and the 3-dimensional (3D) world in which the anatomy becomes clinically relevant poses an intellectual challenge. Advances in computer graphics and modelling technologies have allowed increasingly accurate and representative resources to supplement cadaveric dissection specimens.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30239872

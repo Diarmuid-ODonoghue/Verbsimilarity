@@ -1,0 +1,3 @@
+Wearable textile electrodes for the detection of biopotentials are a promising tool for the monitoring and early diagnosis of chronic diseases. We present a comparative study of the electrical characteristics of four textile electrodes manufactured from common fabrics treated with a conductive polymer, a commercial fabric, and disposable Ag/AgCl electrodes. These characteristics will allow identifying the performance of the materials when used as ECG electrodes. The electrodes were subjected to different electrical tests, and complemented with conductivity calculations and microscopic images to determine their feasibility in the detection of ECG signals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29609593

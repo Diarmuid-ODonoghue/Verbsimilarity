@@ -1,0 +1,3 @@
+Hypoglycemic events are common and potentially dangerous conditions among patients being treated for diabetes. Automatic detection of such events could improve patient care and is valuable in population studies. Electronic health records (EHRs) are valuable resources for the detection of such events.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31702562

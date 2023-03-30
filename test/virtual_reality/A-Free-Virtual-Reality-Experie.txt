@@ -1,0 +1,3 @@
+A magnetic resonance image (MRI) is a diagnostic test that requires patients to lie still for prolonged periods within a claustrophobic and noisy environment. This can be difficult for children to tolerate, and often general anesthetic (GA) is required at considerable cost and detriment to patient safety. Virtual reality (VR) is a newly emerging technology that can be implemented at low cost within a health care setting. It has been shown to reduce fear associated with a number of high-anxiety situations and medical procedures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31518319

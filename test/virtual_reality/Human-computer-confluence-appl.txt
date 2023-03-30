@@ -1,0 +1,3 @@
+Human computer confluence (HCC) is an ambitious research program studying how the emerging symbiotic relation between humans and computing devices can enable radically new forms of sensing, perception, interaction, and understanding. It is an interdisciplinary field, bringing together researches from horizons as various as pervasive computing, bio-signals processing, neuroscience, electronics, robotics, virtual &amp; augmented reality, and provides an amazing potential for applications in medicine and rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22954825

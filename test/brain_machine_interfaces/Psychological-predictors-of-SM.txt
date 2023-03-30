@@ -1,0 +1,3 @@
+After about 30 years of research on Brain-Computer Interfaces (BCIs) there is little knowledge about the phenomenon, that some people - healthy as well as individuals with disease - are not able to learn BCI-control. To elucidate this "BCI-inefficiency" phenomenon, the current study investigated whether psychological parameters, such as attention span, personality or motivation, could predict performance in a single session with a BCI controlled by modulation of sensorimotor rhythms (SMR) with motor imagery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21964375

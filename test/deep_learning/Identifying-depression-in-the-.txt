@@ -1,0 +1,3 @@
+As depression is the leading cause of disability worldwide, large-scale surveys have been conducted to establish the occurrence and risk factors of depression. However, accurately estimating epidemiological factors leading up to depression has remained challenging. Deep-learning algorithms can be applied to assess the factors leading up to prevalence and clinical manifestations of depression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31357159

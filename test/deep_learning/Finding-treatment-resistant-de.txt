@@ -1,0 +1,3 @@
+Depression that does not respond to antidepressants is treatment-resistant depression (TRD). TRD definitions include assessments of treatment response, dose and duration, and implementing these definitions in claims databases can be challenging. We built a data-driven TRD definition and evaluated its performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29244906

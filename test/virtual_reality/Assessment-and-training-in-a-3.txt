@@ -1,0 +1,3 @@
+This exploratory study assessed the possible effectiveness of hemiparetic upper extremity training in subjects with chronic stroke with computer instrumentation (haptic force feedback) and 3-dimensional visualization applied to computer games, as well as to evaluate concurrent computer-assisted assessment of the kinematics of movements and test whether any improvement detected in the computer environment was reflected in activities of daily living (ADLs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/17312093

@@ -1,0 +1,3 @@
+Brain Computer Interface (BCI) studies are performed in an increasing number of applications. Questions are raised about electrodes, data processing and effectors. Experiments are needed to solve these issues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28685918

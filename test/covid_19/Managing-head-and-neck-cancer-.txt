@@ -1,0 +1,3 @@
+Head and neck cancer patients with tracheostomies and laryngectomies, as well as their healthcare providers, face unique challenges in the context of the current COVID-19 pandemic. This document consolidates best available evidence to date and presents recommendations to minimize the risks of aerosolization and SARS-CoV-2 exposures in both the inpatient and outpatient settings. The cornerstones of these recommendations include the use of closed-circuit ventilation whenever possible, cuffed tracheostomy tubes, judicious use of heat moisture exchange units, appropriate personal protective equipment for providers and patients, meticulous hand hygiene, and minimal manipulation of tracheostomy tubes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32298035

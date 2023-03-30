@@ -1,0 +1,3 @@
+Present day cortical brain-machine interfaces (BMIs) have made impressive advances using decoded brain signals to control extracorporeal devices. Although BMIs are used in a closed-loop fashion, sensory feedback typically is visual only. However medical case studies have shown that the loss of somesthesis in a limb greatly reduces the agility of the limb even when visual feedback is available.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25242377

@@ -1,0 +1,3 @@
+This work investigates the use of a semi-supervised, autoregressive switching multiple model (AR-SMM) framework for the segmentation of EEG data applied to brain computer interface (BCI) systems. This gives the possibility of identifying and learning novel modes within the data, giving insight on the changing dynamics of the EEG data and possibly also offering a solution for shorter training periods in BCIs. Furthermore it is shown that the semi-supervised model allocation process is robust to different starting positions and gives consistent results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26738110

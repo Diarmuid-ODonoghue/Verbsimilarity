@@ -1,0 +1,3 @@
+This article reviews current researches in the field of neuroengineering. Special focus is given to neural prosthesis, neuroprosthetic control and brain-computer interfaces (BCIs) for anthropomorphic and sensory prosthetic control.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22274896

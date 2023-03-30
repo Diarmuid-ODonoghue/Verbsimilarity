@@ -1,0 +1,3 @@
+Accurate biomechanical characteristics of tissues are essential for developing realistic virtual reality surgical simulators utilizing haptic devices. Surgical simulation technology has progressed rapidly but without a large database of soft tissue mechanical properties with which to incorporate. The device described here is a computer-controlled, motorized endoscopic grasper capable of applying surgically relevant levels of force to tissue in vivo and measuring the tissue's force-deformation properties.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458062

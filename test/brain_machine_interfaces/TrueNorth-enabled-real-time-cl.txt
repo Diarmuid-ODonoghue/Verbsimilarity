@@ -1,0 +1,3 @@
+Brain-computer interfaces are commonly proposed to assist individuals with locked-in syndrome to interact with the world around them. In this paper, we present a pipeline to move from recorded brain signals to real-time classification on a low-power platform, such as IBM's TrueNorth Neurosynaptic System. Our results on a EEG-based hand squeeze task show that using a convolutional neural network and a time preserving signal representation strategy provides a good balance between high accuracy and feasibility in a real-time application. This pathway can be adapted to the management of a variety of conditions, including spinal cord injury, epilepsy and Parkinson's disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29060200

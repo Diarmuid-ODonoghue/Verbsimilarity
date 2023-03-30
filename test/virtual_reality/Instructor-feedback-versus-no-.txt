@@ -1,0 +1,3 @@
+Several studies have found a positive effect on the learning curve as well as the improvement of basic psychomotor skills in the operating room after virtual reality training. Despite this, the majority of surgical and gynecological departments encounter hurdles when implementing this form of training. This is mainly due to lack of knowledge concerning the time and human resources needed to train novice surgeons to an adequate level. The purpose of this trial is to investigate the impact of instructor feedback regarding time, repetitions and self-perception when training complex operational tasks on a virtual reality simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22373062

@@ -1,0 +1,3 @@
+Demonstrate the feasibility of a fully automatic computer-aided diagnosis (CAD) tool, based on deep learning, that localizes and classifies proximal femur fractures on X-ray images according to the AO classification. The proposed framework aims to improve patient treatment planning and provide support for the training of trauma surgeon residents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32335786

@@ -1,0 +1,3 @@
+The aim of this study was to compare two different microelectrode materials--the conductive polymer composite poly-3,4-ethylenedioxythiophene (PEDOT)-carbon nanotube(CNT) and titanium nitride (TiN)--at activating spikes in retinal ganglion cells in whole mount rat retina through stimulation of the local retinal network. Stimulation efficacy of the microelectrodes was analyzed by comparing voltage, current and transferred charge at stimulation threshold.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25588201

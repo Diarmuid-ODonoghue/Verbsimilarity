@@ -1,0 +1,3 @@
+Our goal was to develop a tool for the assessment of executive functions by customizing a virtual reality (VR) version of the Multiple Errands Test (MET) [Shallice & Burgess, 1991; Fortin et al., 2003]. The MET is an assessment of executive functions in daily life which consists of tasks that abide by certain rules. It is performed in an actual shopping mall-like setting where there are items to be bought and information to be obtained. The specific goal of this study was to conduct a pilot study using the virtual version of MET (VMET) with both control subjects and patients with cognitive impairment derived from stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20543281

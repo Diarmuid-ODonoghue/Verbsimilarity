@@ -1,0 +1,3 @@
+We investigated how overt visual attention and oculomotor control influence successful use of a visual feedback brain-computer interface (BCI) for accessing augmentative and alternative communication (AAC) devices in a heterogeneous population of individuals with profound neuromotor impairments. BCIs are often tested within a single patient population limiting generalization of results. This study focuses on examining individual sensory abilities with an eye toward possible interface adaptations to improve device performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29385839

@@ -1,0 +1,3 @@
+This paper proposes a deep learning based ensemble regression estimator with asymptotic techniques, and offers a method that can decrease uncertainty for oscillometric blood pressure (BP) measurements using the bootstrap and Monte-Carlo approach. While the former is used to estimate SBP and DBP, the latter attempts to determine confidence intervals (CIs) for SBP and DBP based on oscillometric BP measurements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28946991

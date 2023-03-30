@@ -1,0 +1,3 @@
+A pilot functional MRI study on a control subject investigated the possibility of inducing increased neural activations in primary, as well as secondary motor areas through virtual reality-based exercises of the hand. These areas are known to be important in effective motor output in stroke patients with impaired corticospinal systems. We found increased activations in these brain areas during hand exercises in VR when compared to vision of non-anthropomorphic shapes. Further studies are needed to investigate the potential of virtual reality-based rehabilitation for tapping into the properties of the mirror neuron system to stimulate plasticity in sensorimotor areas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17946197

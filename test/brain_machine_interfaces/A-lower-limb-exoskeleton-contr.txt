@@ -1,0 +1,3 @@
+We have developed an asynchronous brain-machine interface (BMI)-based lower limb exoskeleton control system based on steady-state visual evoked potentials (SSVEPs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26291321

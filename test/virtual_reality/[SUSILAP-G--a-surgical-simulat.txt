@@ -1,0 +1,3 @@
+After a brief introduction about virtual reality and model-building this paper describes the special technical and theoretical requirements of dynamic surgical simulation in contrast to traditional static systems. This is done by means of the simulator SUSILAP-G. With SUSILAP-G an example of an application in telemedicine is given.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10096181

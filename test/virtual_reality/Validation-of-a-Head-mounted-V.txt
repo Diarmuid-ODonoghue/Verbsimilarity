@@ -1,0 +1,3 @@
+PRéCIS:: The C3 fields analyzer (CFA) is a moderately reliable perimeter preferred by patients to standard perimetry. While it does not approximate the gold standard, it was sensitive and specific for clinically defined glaucoma (area under the receiving operator characteristic curve=0.77 to 0.86).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31790067

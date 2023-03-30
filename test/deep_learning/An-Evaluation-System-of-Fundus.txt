@@ -1,0 +1,3 @@
+In April 2018, the US Food and Drug Administration (FDA) approved the world's first artificial intelligence (AI) medical device for detecting diabetic retinopathy (DR), the IDx-DR. However, there is a lack of evaluation systems for DR intelligent diagnostic technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31290125

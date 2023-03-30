@@ -1,0 +1,3 @@
+Recent imaging studies indicate that aphasia is associated with large-scale reorganization of brain networks. Today, neuroimaging studies show that various brain connectivity properties, as measured by resting state fMRI, can partially explain different behavioral symptoms in and across various patient groups. Despite these observations, the neural networks underlying the progress and recovery of aphasia following intensive treatment remains relatively obscure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29991147

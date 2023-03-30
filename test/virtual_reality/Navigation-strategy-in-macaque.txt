@@ -1,0 +1,3 @@
+Spatial memory and navigation have been widely studied using animal models, most of them were performed with rodents and only few of them with non-human primates. Also, most of these studies were achieved in simple and small-scale mazes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31276693

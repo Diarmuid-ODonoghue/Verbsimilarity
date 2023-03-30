@@ -1,0 +1,3 @@
+We present two cases (A.C. and W.J.) with navigation problems resulting from parieto-occipital right hemisphere damage. For both the cases, performance on the neuropsychological tests did not indicate specific impairments in spatial processing, despite severe subjective complaints of spatial disorientation. Various aspects of navigation were tested in a new virtual reality task, the Virtual Tübingen task. A double dissociation between spatial and temporal deficits was found; A.C. was impaired in route ordering, a temporal test, whereas W.J. was impaired in scene recognition and route continuation, which are spatial in nature. These findings offer important insights in the functional and neural architecture of navigation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20508545

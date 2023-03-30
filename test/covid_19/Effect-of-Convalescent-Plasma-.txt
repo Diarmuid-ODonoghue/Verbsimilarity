@@ -1,0 +1,3 @@
+Currently, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) disease 2019 (COVID-19) has been reported in almost all countries globally, and no effective therapy has been documented for COVID-19 and the role of convalescent plasma therapy is unknown. In current study, 6 COVID-19 subjects with respiratory failure received convalescent plasma at a median of 21.5 days after first detection of viral shedding, all tested negative for SARS-CoV-2 RNA by 3 days after infusion, and 5 died eventually. In conclusion, convalescent plasma treatment can discontinue SARS-CoV-2 shedding but cannot reduce mortality in critically end-stage COVID-19 patients, and treatment should be initiated earlier.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348485

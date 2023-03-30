@@ -1,0 +1,3 @@
+Assistive technology control interface theory describes interface activation and interface deactivation as distinct properties of any control interface. Separating control of activation and deactivation allows precise timing of the duration of the activation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25380071

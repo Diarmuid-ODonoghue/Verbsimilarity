@@ -1,0 +1,3 @@
+The improved synthesis of thieno[3,4-c]pyrrole-4,6-dione (TPD) monomers, including Gewald thiophene ring formation, a Sandmeyer-type reaction, and neat condensation with an amine, is presented. This protocol enables faster, cheaper, and more efficient preparation of TPD units in comparison to traditional methods. Furthermore, a series of TPD homo- and pseudohomopolymers bearing various alkyl chains was synthesized via a direct heteroarylation polymerization (DHAP) procedure. UV-visible absorption and powder X-ray diffraction measurements revealed the relationship between the ratio of branched to linear alkyl chains and the optoelectronic properties of the polymers as well as their packing in the solid state.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22946845

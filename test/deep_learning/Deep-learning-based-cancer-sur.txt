@@ -1,0 +1,3 @@
+Recent advances in kernel-based Deep Learning models have introduced a new era in medical research. Originally designed for pattern recognition and image processing, Deep Learning models are now applied to survival prognosis of cancer patients. Specifically, Deep Learning versions of the Cox proportional hazards models are trained with transcriptomic data to predict survival outcomes in cancer patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32241264

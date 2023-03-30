@@ -1,0 +1,3 @@
+Common spatial pattern (CSP) has been most popularly applied to motor-imagery (MI) feature extraction for classification in brain-computer interface (BCI) application. Successful application of CSP depends on the filter band selection to a large degree. However, the most proper band is typically subject-specific and can hardly be determined manually.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26277421

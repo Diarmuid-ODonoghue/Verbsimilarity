@@ -1,0 +1,3 @@
+This study determined the clinical utility of an fMRI classification algorithm predicting medication-class of response in patients with challenging mood diagnoses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30084192

@@ -1,0 +1,3 @@
+Given the recent advent in machine learning and artificial intelligence on medical data analysis, we hypothesized that the deep learning algorithm can classify resting needle electromyography (n-EMG) discharges.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30870796

@@ -1,0 +1,3 @@
+To evaluate deep learning (DL)-based optimization algorithm for low-dose coronary CT angiography (CCTA) image noise reduction and image quality (IQ) improvement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31864809

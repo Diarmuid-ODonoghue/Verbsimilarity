@@ -1,0 +1,3 @@
+Neuroimaging in motor neuron disease (MND) has traditionally been seen as an academic tool with limited direct relevance to individualized patient care. This has changed radically in recent years as computational imaging has emerged as a viable clinical tool with true biomarker potential. This transition is not only fuelled by technological advances but also by important conceptual developments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29750730

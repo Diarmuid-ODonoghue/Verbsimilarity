@@ -1,0 +1,3 @@
+Neural recording is important for a wide variety of clinical applications. Until recently, recording from the surface of the brain, even when using micro-electrocorticography (μECoG) arrays, was not thought to enable recording from individual neurons. Recent results suggest that when the surface electrode contact size is sufficiently small, it may be possible to record single neurons from the brain's surface. In this study, we use computational techniques to investigate the ability of surface electrodes to record the activity of single neurons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29923502

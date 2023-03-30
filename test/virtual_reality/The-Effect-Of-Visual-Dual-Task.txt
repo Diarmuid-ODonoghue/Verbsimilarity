@@ -1,0 +1,3 @@
+Visual dual-task skills are essential for stable ambulation in everyday life such as walking while reading text. Gait analysis in a virtual environment can provide insight into altered walking performance while visual dual-tasking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32361657

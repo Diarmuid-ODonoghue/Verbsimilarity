@@ -1,0 +1,3 @@
+To compare the efficacy of simulation-based training between the Mimic dV- Trainer and traditional dry lab da Vinci robot training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25543068

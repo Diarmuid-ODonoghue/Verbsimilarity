@@ -1,0 +1,3 @@
+Machine learning (ML) binary classification in diagnostic histopathology is an area of intense investigation. Several assumptions, including training image quality/format and the number of training images required, appear to be similar in many studies irrespective of the paucity of supporting evidence. We empirically compared training image file type, training set size, and two common convolutional neural networks (CNNs) using transfer learning (ResNet50 and SqueezeNet).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30801768

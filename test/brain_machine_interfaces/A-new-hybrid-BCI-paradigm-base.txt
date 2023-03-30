@@ -1,0 +1,3 @@
+P300 and steady-state visual evoked potential (SSVEP) approaches have been widely used for brain-computer interface (BCI) systems. However, neither of these approaches can work for all subjects. Some groups have reported that a hybrid BCI that combines two or more approaches might provide BCI functionality to more users. Hybrid P300/SSVEP BCIs have only recently been developed and validated, and very few avenues to improve performance have been explored.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24997343

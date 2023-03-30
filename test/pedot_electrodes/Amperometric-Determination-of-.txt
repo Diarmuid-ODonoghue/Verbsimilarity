@@ -1,0 +1,3 @@
+A new composite film-modified electrode was prepared by the electropolymerisation of poly(3,4-ethylenedioxythiophene) (PEDOT) and superconductive carbon black (SCB) on a gold electrode. The PEDOT-SCB/Au electrode exhibited excellent ability towards the electrocatalytic oxidation of ascorbic acid, in terms of a 480 mV shift of the oxidation potential in the negative direction, and a dramatically enhanced oxidation current. Under the optimum conditions, the amperometric detection of ascorbic acid provided a wide linear detection range from 1.0 × 10(-7) to 8.0 × 10(-4) M, and a detection limit of 5.0 × 10(-8) M (S/N = 2) as well as good reproducibility and stability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25958873

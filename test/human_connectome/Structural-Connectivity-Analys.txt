@@ -1,0 +1,3 @@
+Segmental callosal agenesis is characterized by the absence of the intermediate callosal portion. We aimed to evaluate the structural connectivity of segmental callosal agenesis by using constrained spherical deconvolution tractography and connectome analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28104634

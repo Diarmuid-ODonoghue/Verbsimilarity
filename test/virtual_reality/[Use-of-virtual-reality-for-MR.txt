@@ -1,0 +1,3 @@
+During the last years because of the progress in magnetic resonance imaging (MRI) magnetic resonance angiography (MRA) has become a serious alternative to conventional X-ray angiography. The potential of MRA in combination with methods for three-dimensional reconstruction will be presented and different methods for image post-processing are discussed based on a number of cases. The examinations were performed on a clinical 1.5 T magnetic resonance tomograph (Siemens Vision, Erlangen) using conventional MR angiography sequences. The different options of post-processing were carried out online on the console and offline using dedicated workstations (Siemens Virtuoso and CHILI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/10789123

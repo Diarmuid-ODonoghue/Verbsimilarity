@@ -1,0 +1,3 @@
+We profiled the serological responses to Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) nucleocapsid (N) protein and spike (S) glycoprotein. The majority of the patients developed robust antibody responses between 17 and 23 days after illness onset. Delayed, but stronger antibody responses were observed in critical patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32337590

@@ -1,0 +1,3 @@
+The rapidly developing paradigm of closed-loop neuroscience has extensively employed brain rhythms as the signal forming real-time neurofeedback, triggering brain stimulation, or governing stimulus selection. However, the efficacy of brain rhythm contingent paradigms suffers from significant delays related to the process of extraction of oscillatory parameters from broad-band neural signals with conventional methods. To this end, real-time algorithms are needed that would shorten the delay while maintaining an acceptable speed-accuracy trade-off.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32289760

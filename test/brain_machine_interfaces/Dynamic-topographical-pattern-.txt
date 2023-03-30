@@ -1,0 +1,3 @@
+Near-infrared spectroscopy (NIRS) has recently gained attention as a modality for brain-computer interfaces (BCIs), which may serve as an alternative access pathway for individuals with severe motor impairments. For NIRS-BCIs to be used as a real communication pathway, reliable online operation must be achieved. Yet, only a limited number of studies have been conducted online to date. These few studies were carried out under a synchronous paradigm and did not accommodate an unconstrained resting state, precluding their practical clinical implication. Furthermore, the potentially discriminative power of spatiotemporal characteristics of activation has yet to be considered in an online NIRS system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24311057

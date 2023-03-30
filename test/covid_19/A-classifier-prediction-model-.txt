@@ -1,0 +1,3 @@
+Coronavirus COVID-19 further transmitted to several countries globally. The status of the infected cases can be determined basing on the treatment process along with several other factors. This research aims to build a classifier prediction model to predict the status of recovered and death coronavirus CovID-19 patients in South Korea.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32271458

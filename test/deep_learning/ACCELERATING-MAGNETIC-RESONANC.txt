@@ -1,0 +1,3 @@
+This paper proposes a deep learning approach for accelerating magnetic resonance imaging (MRI) using a large number of existing high quality MR images as the training datasets. An off-line convolutional neural network is designed and trained to identify the mapping relationship between the MR images obtained from zero-filled and fully-sampled k-space data. The network is not only capable of restoring fine structures and details but is also compatible with online constrained reconstruction methods. Experimental results on real MR data have shown encouraging performance of the proposed method for efficient and effective imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31709031

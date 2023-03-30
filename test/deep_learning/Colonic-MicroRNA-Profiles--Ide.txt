@@ -1,0 +1,3 @@
+Acute severe ulcerative colitis (ASUC) is a life-threatening condition managed with intravenous steroids followed by infliximab, cyclosporine, or colectomy (for patients with steroid resistance). There are no biomarkers to identify patients most likely to respond to therapy; ineffective medical treatment can delay colectomy and increase morbidity and mortality. We aimed to identify biomarkers of response to medical therapy for patients with ASUC.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30223112

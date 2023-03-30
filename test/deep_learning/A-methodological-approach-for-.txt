@@ -1,0 +1,3 @@
+Distinguishing between meningeal-based and intra-axial lesions by means of magnetic resonance (MR) imaging findings may occasionally be challenging. Meningiomas and gliomas account for most of the total primary brain neoplasms in dogs, and differentiating between these two forms is mandatory in choosing the correct therapy. The aims of the present study are: 1) to determine the accuracy of a deep convolutional neural network (CNN, GoogleNet) in discriminating between meningiomas and gliomas in pre- and post-contrast T1 images and T2 images; 2) to develop an image classifier, based on the combination of CNN and MRI sequence displaying the highest accuracy, to predict whether a lesion is a meningioma or a glioma.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30348148

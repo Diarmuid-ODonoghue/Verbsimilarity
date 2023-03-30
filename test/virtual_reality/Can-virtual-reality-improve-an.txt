@@ -1,0 +1,3 @@
+The use of computer-generated 3-dimensional (3-D) anatomical models to teach anatomy has proliferated. However, there is little evidence that these models are educationally effective. The purpose of this study was to test the educational effectiveness of a computer-generated 3-D model of the middle and inner ear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17054617

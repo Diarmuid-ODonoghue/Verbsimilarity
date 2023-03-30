@@ -1,0 +1,3 @@
+Clinical histological grading of hepatocellular carcinoma (HCC) differentiation is of great significance in clinical diagnoses, treatments, and prognoses. However, it is challenging for radiologists to evaluate HCC gradings from medical images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30776671

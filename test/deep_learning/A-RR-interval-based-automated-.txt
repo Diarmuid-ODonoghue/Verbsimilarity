@@ -1,0 +1,3 @@
+Apnea is one of the most common conditions that causes sleep-disorder breathing. With growing number of patients worldwide, more and more patients suffer from complications of apnea. But most of them stay untreated due to the complex and time-consuming polysomnography (PSG) diagnosis method. Effective and precise diagnosis support system using electrocardiograph (ECG) is required. In this paper, we propose an approach using residual network to detect apnea based on RR intervals (intervals between R-peaks of ECG signal).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31200916

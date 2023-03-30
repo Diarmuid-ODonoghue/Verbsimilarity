@@ -1,0 +1,3 @@
+Pneumothorax can precipitate a life-threatening emergency due to lung collapse and respiratory or circulatory distress. Pneumothorax is typically detected on chest X-ray; however, treatment is reliant on timely review of radiographs. Since current imaging volumes may result in long worklists of radiographs awaiting review, an automated method of prioritizing X-rays with pneumothorax may reduce time to treatment. Our objective was to create a large human-annotated dataset of chest X-rays containing pneumothorax and to train deep convolutional networks to screen for potentially emergent moderate or large pneumothorax at the time of image acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30457991

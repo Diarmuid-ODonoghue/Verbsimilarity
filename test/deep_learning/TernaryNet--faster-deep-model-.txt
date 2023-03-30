@@ -1,0 +1,3 @@
+Deep convolutional neural networks (DCNN) are currently ubiquitous in medical imaging. While their versatility and high-quality results for common image analysis tasks including segmentation, localisation and prediction is astonishing, the large representational power comes at the cost of highly demanding computational effort. This limits their practical applications for image-guided interventions and diagnostic (point-of-care) support using mobile devices without graphics processing units (GPU).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29850978

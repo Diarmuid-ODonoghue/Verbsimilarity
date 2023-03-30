@@ -1,0 +1,3 @@
+Several neurorehabilitation strategies have been introduced over the last decade based on the so-called simulation hypothesis. This hypothesis states that a neural network located in primary and secondary motor areas is activated not only during overt motor execution, but also during observation or imagery of the same motor action. Based on this hypothesis, we investigated the combination of a virtual reality (VR) based neurorehabilitation system together with a wireless functional near infrared spectroscopy (fNIRS) instrument. This combination is particularly appealing from a rehabilitation perspective as it may allow minimally constrained monitoring during neurorehabilitative training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21122154

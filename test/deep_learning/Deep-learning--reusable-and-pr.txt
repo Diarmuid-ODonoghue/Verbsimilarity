@@ -1,0 +1,3 @@
+In most patients presenting with respiratory symptoms, the findings of chest radiography play a key role in the diagnosis, management, and follow-up of the disease. Consolidation is a common term in radiology, which indicates focally increased lung density. When the alveolar structures become filled with pus, fluid, blood cells or protein subsequent to a pulmonary pathological process, it may result in different types of lung opacity in chest radiograph. This study aims at detecting consolidations in chest x-ray radiographs, with a certain precision, using artificial intelligence and especially Deep Convolutional Neural Networks to assist radiologist for better diagnosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31715332

@@ -1,0 +1,3 @@
+This article summarizes the recent accomplishments and current challenges facing game-based virtual reality (VR) telerehabilitation. Specifically this article addresses accomplishments relative to realistic practice scenarios, part to whole practice, objective measurement of performance and progress, motivation, low cost, interaction devices and game design. Furthermore, a description of the current challenges facing game based telerehabilitation including the packaging, internet capabilities and access, data management, technical support, privacy protection, seizures, distance trials, scientific scrutiny and support from insurance companies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19282807

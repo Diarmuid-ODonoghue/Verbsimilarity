@@ -1,0 +1,3 @@
+To develop a deep learning (DL) model for automated detection of glaucoma and to compare diagnostic capability against hand-craft features (HCFs) based on spectral domain optical coherence tomography (SD-OCT) peripapillary retinal nerve fiber layer (pRNFL) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31811363

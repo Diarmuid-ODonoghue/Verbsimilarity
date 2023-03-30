@@ -1,0 +1,3 @@
+Radiologists have used algorithms for Computer-Aided Diagnosis (CAD) for decades. These algorithms use machine learning with engineered features, and there have been mixed findings on whether they improve radiologists' interpretations. Deep learning offers superior performance but requires more training data and has not been evaluated in joint algorithm-radiologist decision systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30304439

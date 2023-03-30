@@ -1,0 +1,3 @@
+This study automatically quantified calcifications in coronary arteries (CAC) and thoracic aorta (TAC) on breast planning computed tomography (CT) scans and assessed its reproducibility compared to manual scoring.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29703498

@@ -1,0 +1,3 @@
+Emerging evidences show that microRNA (miRNA) plays an important role in many human complex diseases. However, considering the inherent time-consuming and expensive of traditional in vitro experiments, more and more attention has been paid to the development of efficient and feasible computational methods to predict the potential associations between miRNA and disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31395072

@@ -1,0 +1,3 @@
+RNA-binding proteins (RBPs) take over 5-10% of the eukaryotic proteome and play key roles in many biological processes, e.g. gene regulation. Experimental detection of RBP binding sites is still time-intensive and high-costly. Instead, computational prediction of the RBP binding sites using patterns learned from existing annotation knowledge is a fast approach. From the biological point of view, the local structure context derived from local sequences will be recognized by specific RBPs. However, in computational modeling using deep learning, to our best knowledge, only global representations of entire RNA sequences are employed. So far, the local sequence information is ignored in the deep model construction process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29722865

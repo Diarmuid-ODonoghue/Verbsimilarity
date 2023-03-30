@@ -1,0 +1,3 @@
+A patient's infectivity is determined by the presence of the virus in different body fluids, secretions, and excreta. The persistence and clearance of viral RNA from different specimens of patients with 2019 novel coronavirus disease (COVID-19) remain unclear. This study analyzed the clearance time and factors influencing 2019 novel coronavirus (2019-nCoV) RNA in different samples from patients with COVID-19, providing further evidence to improve the management of patients during convalescence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32118639

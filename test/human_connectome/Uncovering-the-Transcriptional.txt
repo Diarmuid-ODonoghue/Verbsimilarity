@@ -1,0 +1,3 @@
+Connections in nervous systems are disproportionately concentrated on a small subset of neural elements that act as network hubs. Hubs have been found across different species and scales ranging from C. elegans to mouse, rat, cat, macaque, and human, suggesting a role for genetic influences. The recent availability of brain-wide gene expression atlases provides new opportunities for mapping the transcriptional correlates of large-scale network-level phenotypes. Here we review studies that use these atlases to investigate gene expression patterns associated with hub connectivity in neural networks and present evidence that some of these patterns are conserved across species and scales.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31379515

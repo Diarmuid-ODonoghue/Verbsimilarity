@@ -1,0 +1,3 @@
+The effectiveness of colonoscopy for diagnosing and preventing colon cancer is largely dependent on the ability of endoscopists to fully inspect the colonic mucosa, which they achieve primarily through skilled manipulation of the colonoscope during withdrawal. Performance assessment during live procedures is problematic. However, a virtual withdrawal simulation can help identify and parameterise actions linked to successful inspection, and offer standardised assessments for trainees.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28701200

@@ -1,0 +1,3 @@
+To assess the value of an interactive visualization method for detecting the offending vessels in neurovascular compression syndrome in patients with facial spasm and trigeminal neuralgia. Computer graphics models are created by fusion of fast imaging employing steady-state acquisition and magnetic resonance angiography.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19574833

@@ -1,0 +1,3 @@
+Mass casualty incidents are unfortunately becoming more common. The coordination of mass casualty incident response is highly complex. Currently available options for training, however, are limited by either lack of realism or prohibitive expense and by a lack of assessment tools. Virtual worlds represent a potentially cost-effective, immersive, and easily accessible platform for training and assessment. The aim of this study was to assess feasibility of a novel virtual-worlds-based system for assessment and training in major incident response.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25058260

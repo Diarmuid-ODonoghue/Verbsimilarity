@@ -1,0 +1,3 @@
+Functional electrical stimulation (FES) is a promising technology for restoring movement to paralyzed limbs. Intracortical brain-computer interfaces (iBCIs) have enabled intuitive control over virtual and robotic movements, and more recently over upper extremity FES neuroprostheses. However, electrical stimulation of muscles creates artifacts in intracortical microelectrode recordings that could degrade iBCI performance. Here, we investigate methods for reducing the cortically recorded artifacts that result from peripheral electrical stimulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29199642

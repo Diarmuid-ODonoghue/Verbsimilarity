@@ -1,0 +1,3 @@
+Local functional connectivity (FC) indicates local or short-distance functional interactions and may serve as a neuroimaging marker to investigate the human brain connectome. Local FC alterations suggest a disrupted balance in the local functionality of the whole brain network and are increasingly implicated in schizophrenia (SZ), bipolar disorder (BD), and major depressive disorder (MDD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29751242

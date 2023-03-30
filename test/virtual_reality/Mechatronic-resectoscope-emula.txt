@@ -1,0 +1,3 @@
+In this work is presented the development of a mechatronic interface for a surgery simulation system for training Transurethral Resection of the Prostate (TURP). The interface emulates a real resectosope and allows to perform the most important movements of the surgical tool during a TURP. The interface is able to work in conjunction with a virtual reality software with a deformable tissue model of the prostate, in order to simulate tissue resection and deformation. The current prototype has five degrees of freedom, which are enough to have a realistic simulation of the surgery movements. The results show that the interface is suitable for a real time surgery simulation training system of the prostate without force feedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18002315

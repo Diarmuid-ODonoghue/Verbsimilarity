@@ -1,0 +1,3 @@
+Virtual reality-based simulators offer a cost-effective and efficient alternative to traditional medical training and planning. Developing a simulator that enables the training of medical skills and also supports recognition of errors made by the trainee is a challenge. The first step in developing such a system consists of error identification in the real procedure, in order to ensure that the training environment covers the most significant errors that can occur. This paper focuses on identifying the main system requirements for an interactive simulator for training bilateral sagittal split osteotomy (BSSO).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23335469

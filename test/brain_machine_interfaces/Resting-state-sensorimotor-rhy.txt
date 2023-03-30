@@ -1,0 +1,3 @@
+Instrumental conditioning of EEG activity (EEG-IC) is a promising method for improvement and rehabilitation of cognitive functions. However, it has been found that even healthy adults are not always able to learn how to regulate their brain activity during EEG-IC. In the present study, the role of a neurophysiological predictor of EEG-IC learning performance, the resting-state power of sensorimotor rhythm (rs-SMR, 12-15Hz), was investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25743268

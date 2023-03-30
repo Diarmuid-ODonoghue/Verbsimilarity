@@ -1,0 +1,3 @@
+Recent studies indicate that the blue-yellow colour discrimination is impaired in ADHD individuals. However, the relationship between colour and performance has not been investigated. This paper describes the development and the testing of a virtual environment that is capable to quantify the influence of red-green versus blue-yellow colour stimuli on the performance of people in a fun and interactive way, being appropriate for the target audience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21854630

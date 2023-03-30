@@ -1,0 +1,3 @@
+Fetoscopic laser photocoagulation is a minimally invasive surgery for the treatment of twin-to-twin transfusion syndrome (TTTS). By using a lens/fibre-optic scope, inserted into the amniotic cavity, the abnormal placental vascular anastomoses are identified and ablated to regulate blood flow to both fetuses. Limited field-of-view, occlusions due to fetus presence and low visibility make it difficult to identify all vascular anastomoses. Automatic computer-assisted techniques may provide better understanding of the anatomical structure during surgery for risk-free laser photocoagulation and may facilitate in improving mosaics from fetoscopic videos.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32350787

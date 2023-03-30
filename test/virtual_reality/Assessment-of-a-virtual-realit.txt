@@ -1,0 +1,3 @@
+Trainees in Otolaryngology-Head and Neck Surgery must gain proficiency in a variety of challenging temporal bone surgical techniques. Traditional teaching has relied on the use of cadavers; however, this method is resource-intensive and does not allow for repeated practice. Virtual reality surgical training is a growing field that is increasingly being adopted in Otolaryngology. CardinalSim is a virtual reality temporal bone surgical simulator that offers a high-quality, inexpensive adjunct to traditional teaching methods. The objective of this study was to establish the face and content validity of CardinalSim through a national study.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32264952

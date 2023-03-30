@@ -1,0 +1,3 @@
+The Agatston score is a well-established metric of cardiovascular disease related to clinical outcomes. It is computed from CT scans by a) measuring the volume and intensity of the atherosclerotic plaques and b) aggregating such information in an index.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30122801

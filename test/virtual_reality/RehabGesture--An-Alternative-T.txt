@@ -1,0 +1,3 @@
+Systems for range of motion (ROM) measurement such as OptoTrak, Motion Capture, Motion Analysis, Vicon, and Visual 3D are so expensive that they become impracticable in public health systems and even in private rehabilitation clinics. Telerehabilitation is a branch within telemedicine intended to offer ways to increase motor and/or cognitive stimuli, aimed at faster and more effective recovery of given disabilities, and to measure kinematic data such as the improvement in ROM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27172389

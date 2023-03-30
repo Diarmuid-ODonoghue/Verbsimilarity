@@ -1,0 +1,3 @@
+In this commentary, we highlight a crucial challenge posed by the proposal of Lake et al. to introduce key elements of human cognition into deep neural networks and future artificial-intelligence systems: the need to design effective sophisticated architectures. We propose that looking at the brain is an important means of facing this great challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29342684

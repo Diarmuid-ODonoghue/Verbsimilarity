@@ -1,0 +1,3 @@
+Spatial disorientation is a hallmark of amnestic mild cognitive impairment (aMCI) and Alzheimer's disease. Our aim was to use virtual reality to determine the allocentric and egocentric memory deficits of subjects with single-domain aMCI (aMCIsd) and multiple-domain aMCI (aMCImd). For this purpose, we introduced an advanced virtual reality navigation task (VRNT) to distinguish these deficits in mild Alzheimer's disease (miAD), aMCIsd, and aMCImd.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29409155

@@ -1,0 +1,3 @@
+The complexes formed by binding of proteins to RNAs play key roles in many biological processes, such as splicing, gene expression regulation, translation and viral replication. Understanding protein-RNA binding may thus provide important insights to the functionality and dynamics of many cellular processes. This has sparked substantial interest in exploring protein-RNA binding experimentally, and predicting it computationally. The key computational challenge is to efficiently and accurately infer protein-RNA binding models that will enable prediction of novel protein-RNA interactions to additional transcripts of interest.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30423078

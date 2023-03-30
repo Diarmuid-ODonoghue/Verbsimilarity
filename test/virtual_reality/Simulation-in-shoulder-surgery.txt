@@ -1,0 +1,3 @@
+Simulation is a rapidly developing field in medical education. There is a growing need for trainee surgeons to acquire surgical skills in a cost-effective learning environment to improve patient safety and compensate for a reduction in training time and operative experience. Although simulation is not a replacement for traditional models of surgical training, and robust assessment metrics need to be validated before widespread use for accreditation, it is a useful adjunct that may ultimately lead to improving surgical outcomes for our patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27660662

@@ -1,0 +1,3 @@
+To evaluate the effects of deep learning reconstruction (DLR) in qualitative and quantitative image quality of non-contrast magnetic resonance coronary angiography (MRCA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32070116

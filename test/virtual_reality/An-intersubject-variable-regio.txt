@@ -1,0 +1,3 @@
+The main purpose is to provide an intuitive VR-based training environment for regional anesthesia (RA). The research question is how to process subject-specific datasets, organize them in a meaningful way and how to perform the simulation for peripheral regions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20033332

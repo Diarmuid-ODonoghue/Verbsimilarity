@@ -1,0 +1,3 @@
+Detecting adverse drug events (ADEs) and medications related information in clinical notes is important for both hospital medical care and medical research. We describe our clinical natural language processing (NLP) system to automatically extract medical concepts and relations related to ADEs and medications from clinical narratives. This work was part of the 2018 National NLP Clinical Challenges Shared Task and Workshop on Adverse Drug Events and Medication Extraction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31591641

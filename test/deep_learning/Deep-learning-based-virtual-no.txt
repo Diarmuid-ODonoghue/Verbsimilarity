@@ -1,0 +1,3 @@
+The aim of this study was to develop a deep learning (DL) method for generating virtual noncontrast (VNC) computed tomography (CT) images from contrast-enhanced (CE) CT images (VNCDL ) and to evaluate its performance in dose calculations for head and neck radiotherapy in comparison with VNC images derived from a dual-energy CT (DECT) scanner (VNCDECT ).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31733105

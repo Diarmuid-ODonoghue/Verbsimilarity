@@ -1,0 +1,3 @@
+Since CAD (Computer Aided Diagnosis) system can make it easier and more efficient to interpret CT (Computer Tomography) images, it has gained much attention and developed rapidly in recent years. This article reviews recent CAD techniques for pulmonary nodule detection and diagnosis in CT Images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31815727

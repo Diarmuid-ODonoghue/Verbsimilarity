@@ -1,0 +1,3 @@
+Major depressive disorder (MDD) is one of the most well-known psychiatric disorders, which can be destructive for its damage to people's normal cognitive, emotional and social functions. Personality refers to the unique and stable character of thinking and behavior style of an individual, which has long been thought as a key influence factor for MDD. Although some knowledge about the common neural basic between MDD and personality traits has been acquired, there are few studies exploring dynamic neural mechanism behind them, which changes brain connectivity pattern rapidly to adapt to the environment over time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30699845

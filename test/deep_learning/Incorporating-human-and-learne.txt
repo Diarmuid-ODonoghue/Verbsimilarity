@@ -1,0 +1,3 @@
+We propose a novel domain-specific loss, which is a differentiable loss function based on the dose-volume histogram (DVH), and combine it with an adversarial loss for the training of deep neural networks. In this study, we trained a neural network for generating Pareto optimal dose distributions, and evaluate the effects of the domain-specific loss on the model performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31821577

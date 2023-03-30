@@ -1,0 +1,3 @@
+Various smartphone-based virtual reality (VR) applications allow the users to view 360° videos of real or simulated places. A 360° VR is captured with a special camera that simultaneously records all 360° of a scene unlike the standard video recording. An experimental study was conducted where 4th-year medical students participated in a workshop.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31802964

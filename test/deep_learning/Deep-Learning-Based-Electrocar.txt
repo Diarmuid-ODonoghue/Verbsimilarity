@@ -1,0 +1,3 @@
+Biosignal data captured by patient monitoring systems could provide key evidence for detecting or predicting critical clinical events; however, noise in these data hinders their use. Because deep learning algorithms can extract features without human annotation, this study hypothesized that they could be used to screen unacceptable electrocardiograms (ECGs) that include noise. To test that, a deep learning-based model for unacceptable ECG screening was developed, and its screening results were compared with the interpretations of a medical expert.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31406612

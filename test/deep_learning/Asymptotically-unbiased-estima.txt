@@ -1,0 +1,3 @@
+We propose a general framework for the estimation of observables with generative neural samplers focusing on modern deep generative neural networks that provide an exact sampling probability. In this framework, we present asymptotically unbiased estimators for generic observables, including those that explicitly depend on the partition function such as free energy or entropy, and derive corresponding variance estimators. We demonstrate their practical applicability by numerical experiments for the two-dimensional Ising model which highlight the superiority over existing methods. Our approach greatly enhances the applicability of generative neural samplers to real-world physical systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32168605

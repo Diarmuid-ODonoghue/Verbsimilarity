@@ -1,0 +1,3 @@
+High-frequency electricity is used in the majority of surgical interventions. However, modern computer-based training and simulation systems rely on physically unrealistic models that fail to capture the interplay of the electrical, mechanical and thermal properties of biological tissue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24357156

@@ -1,0 +1,3 @@
+The exploitation of soft conducting polymer-based actuators suffers from two main shortcomings: their short life cycle and the reproducibility of the fabrication techniques. The short life cycle usually results from the delamination of the components due to stresses at the interface during the actuation. In this work, to achieve strong adhesion to poly(3,4- ethylenedioxythiophene) poly(styrenesulfonate) (
+
+https://www.ncbi.nlm.nih.gov/pubmed/26289948

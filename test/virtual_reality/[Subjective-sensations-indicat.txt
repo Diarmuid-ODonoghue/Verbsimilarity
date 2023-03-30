@@ -1,0 +1,3 @@
+The study assessed the incidence and intensity of subjective symptoms indicating simulator sickness among the persons with no inclination to motion sickness, immersed in virtual reality (VR) by watching an hour long movie in the stereoscopic (three-dimensional - 3D) and non-stereoscopic (two-dimensional - 2D) versions and after an hour long training using virtual reality, called sVR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25230565

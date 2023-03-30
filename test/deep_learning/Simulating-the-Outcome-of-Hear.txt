@@ -1,0 +1,3 @@
+We created a system to simulate the heart allocation process in a transplant queue, using a discrete event model and a neural network algorithm, which we named the Lund Deep Learning Transplant Algorithm (LuDeLTA). LuDeLTA is utilized to predict the survival of the patients both in the queue and after transplant. We tried four different allocation policies: wait time, clinical rules and allocating the patients using either LuDeLTA or The International Heart Transplant Survival Algorithm (IHTSA) model. Both IHTSA and LuDeLTA were used to evaluate the results. The predicted mean survival for allocating according to wait time was about 4,300 days, clinical rules 4,300 days and using neural networks 4,700 days.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30441736

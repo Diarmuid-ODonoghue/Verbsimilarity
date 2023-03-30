@@ -1,0 +1,3 @@
+Patients with Type 1 diabetes mellitus (T1DM) are at an increased risk for major depression, but its underlying mechanisms are still poorly understood. In nondiabetic participants, mood disturbances are related to altered subgenual cingulate cortex (SGC) resting-state functional connectivity. We tested for SGC connectivity alterations in T1DM, whether these alterations were related to depressive symptoms, and if depressive symptoms were associated with cognition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27136504

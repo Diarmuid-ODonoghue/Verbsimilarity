@@ -1,0 +1,3 @@
+The fruit fly Drosophila suzukii, or spotted wing drosophila (SWD), is a serious pest worldwide, attacking many soft-skinned fruits. An efficient monitoring system that identifies and counts SWD in crops and their surroundings is therefore essential for integrated pest management (IPM) strategies. Existing methods, such as catching flies in liquid bait traps and counting them manually, are costly, time-consuming and labour-intensive. To overcome these limitations, we studied insect trap monitoring using image-based object detection with deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32246738

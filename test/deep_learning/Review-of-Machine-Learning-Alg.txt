@@ -1,0 +1,3 @@
+Enhanced technology in computer and internet has driven scale and quality of data to be improved in various areas including healthcare sectors. Machine Learning (ML) has played a pivotal role in efficiently analyzing those big data, but a general misunderstanding of ML algorithms still exists in applying them (e.g., ML techniques can settle a problem of small sample size, or deep learning is the ML algorithm). This paper reviewed the research of diagnosing mental illness using ML algorithm and suggests how ML techniques can be employed and worked in practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30947496

@@ -1,0 +1,3 @@
+This article explores the pros and cons of virtual reality simulators, their abilities to train and assess surgical skills, and their potential future applications. Computer-based virtual reality simulators and more conventional box trainers are compared and contrasted. The virtual reality simulator provides objective assessment of surgical skills and immediate feedback further to enhance training. With this ability to provide standardized, unbiased assessment of surgical skills, the virtual reality trainer has the potential to be a tool for selecting, instructing, certifying, and recertifying gynecologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16647604

@@ -1,0 +1,3 @@
+Graph theory is a promising mathematical tool to study the connectome. However, little research has been undertaken to correlate graph metrics to functional properties of the brain. In this study, we report a unique association between the strength of cortical regions and their function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31710969

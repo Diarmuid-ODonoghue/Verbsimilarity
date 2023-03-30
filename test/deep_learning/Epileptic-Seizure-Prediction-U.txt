@@ -1,0 +1,3 @@
+Seizure prediction can increase independence and allow preventative treatment for patients with epilepsy. We present a proof-of-concept for a seizure prediction system that is accurate, fully automated, patient-specific, and tunable to an individual's needs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29262989

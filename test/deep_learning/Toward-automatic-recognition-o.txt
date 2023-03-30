@@ -1,0 +1,3 @@
+Automatic methods for recognizing topically relevant documents supported by high quality research can assist clinicians in practicing evidence-based medicine. We approach the challenge of identifying articles with high quality clinical evidence as a binary classification problem. Combining predictions from supervised machine learning methods and using deep semantic features, we achieve 73.5% precision and 67% recall.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18998881

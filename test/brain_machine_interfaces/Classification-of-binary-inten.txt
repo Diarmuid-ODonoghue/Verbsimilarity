@@ -1,0 +1,3 @@
+Some patients suffering from severe neuromuscular diseases have difficulty controlling not only their bodies but also their eyes. Since these patients have difficulty gazing at specific visual stimuli or keeping their eyes open for a long time, they are unable to use the typical steady-state visual evoked potential (SSVEP)-based brain-computer interface (BCI) systems. In this study, we introduce a new paradigm for SSVEP-based BCI, which can be potentially suitable for disabled individuals with impaired oculomotor function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23528484

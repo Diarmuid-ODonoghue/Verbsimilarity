@@ -1,0 +1,3 @@
+The continuing miniaturization of digital circuits and the development of low power radio systems coupled with continuing studies into the neurophysiology and dynamics of insect flight are enabling a new class of implantable interfaces capable of controlling insects in free flight for extended periods. We provide context for these developments, review the state-of-the-art and discuss future directions in this field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21629761

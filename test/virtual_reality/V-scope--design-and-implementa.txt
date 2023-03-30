@@ -1,0 +1,3 @@
+In this paper we present a new implementation of the virtual reality workstation concept. Based on an application originally developed for immersive virtual environments such as CAVEs, V-Scope allows clinicians and researchers to investigate their three dimensional (3D) imaging data with truly 3D views and interactions. This greatly improves the understanding of the data, and allows the efficient measurement of volumes and distances in a way that was previously not possible.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377132

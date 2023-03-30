@@ -1,0 +1,3 @@
+Despite their importance in reward, motivation, and learning there is only sparse anatomical knowledge about the human medial forebrain bundle (MFB) and the connectivity of the ventral tegmental area (VTA). A thorough anatomical and microstructural description of the reward related PFC/OFC regions and their connection to the VTA - the superolateral branch of the MFB (slMFB) - is however mandatory to enable an interpretation of distinct therapeutic effects from different interventional treatment modalities in neuropsychiatric disorders (DBS, TMS etc.). This work aims at a normative description of the human MFB (and more detailed the slMFB) anatomy with respect to distant prefrontal connections and microstructural features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29845013

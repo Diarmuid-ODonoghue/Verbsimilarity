@@ -1,0 +1,3 @@
+Shared decision making (SDM) involves the formation of a collaborative partnership between the patient and clinician combining both of their expertise in order to benefit decision making. In order for clinicians to be able to carry out this skilled task, they require practice. Virtual reality, in the form of a virtual patient, could offer a potential method of facilitating this.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30401667

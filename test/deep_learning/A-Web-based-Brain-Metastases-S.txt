@@ -1,0 +1,3 @@
+Stereotactic radiosurgery (SRS) serves as a standard of care of brain metastases (BMs), however, the BMs delineation in the SRS workflow can be time-consuming. The manual contouring can be a pronounced bottleneck in multiple BMs, but there is a lack of tools for automatic delineation and quantitative evaluation. In this study, based on our previous developed deep learning-based segmentation algorithms, we developed a web-based automated BMs segmentation and labeling platform to assist the SRS clinical workflow.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32333797

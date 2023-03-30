@@ -1,0 +1,3 @@
+Medical and clinical question answering (QA) is highly concerned by researchers recently. Though there are remarkable advances in this field, the development in Chinese medical domain is relatively backward. It can be attributed to the difficulty of Chinese text processing and the lack of large-scale datasets. To bridge the gap, this paper introduces a Chinese medical QA dataset and proposes effective methods for the task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30961607

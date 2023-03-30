@@ -1,0 +1,3 @@
+The severe acute respiratory syndrome coronavirus 2 (SARS-Cov-2) has been declared a pandemic by the WHO that claimed the lives of thousands of people within a few months. Cancer patients represent a vulnerable population due to the acquired immunodeficiency associated with anti-cancer therapy. Immune checkpoint inhibitors have largely impacted the prognosis of a multitude of malignancies with significant improvement in survival outcomes and a different, tolerable toxicity profile. In this paper, we assess the safety of ICI administration in cancer patients during the coronavirus pandemic in order to guide the usage of these highly efficacious agents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32290754

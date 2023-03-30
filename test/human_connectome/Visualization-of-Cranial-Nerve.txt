@@ -1,0 +1,3 @@
+Recent studies have demonstrated diffusion tensor imaging tractography of cranial nerves (CNs). Spatial and angular resolution, however, is limited with this modality. A substantial improvement in image resolution can be achieved with high-angle diffusion magnetic resonance imaging and atlas-based fiber tracking to provide detailed trajectories of CNs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27070917

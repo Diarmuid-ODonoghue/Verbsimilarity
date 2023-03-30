@@ -1,0 +1,3 @@
+Sleep is a complex and dynamic biological process characterized by different sleep patterns. Comprehensive sleep monitoring and analysis using multivariate polysomnography (PSG) records has achieved significant efforts to prevent sleep-related disorders. To alleviate the time consumption caused by manual visual inspection of PSG, automatic multivariate sleep stage classification has become an important research topic in medical and bioinformatics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31787093

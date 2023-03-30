@@ -1,0 +1,3 @@
+Spectral Domain Optical Coherence Tomography (SD-OCT) is a volumetric imaging technique that allows measuring patterns between layers such as small amounts of fluid. Since 2012, automatic medical image analysis performance has steadily increased through the use of deep learning models that automatically learn relevant features for specific tasks, instead of designing visual features manually. Nevertheless, providing insights and interpretation of the predictions made by the model is still a challenge. This paper describes a deep learning model able to detect medically interpretable information in relevant images from a volume to classify diabetes-related retinal diseases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31416547

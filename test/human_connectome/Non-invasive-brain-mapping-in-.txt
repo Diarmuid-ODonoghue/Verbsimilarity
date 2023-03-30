@@ -1,0 +1,3 @@
+Non-invasive in vivo neurophysiological recordings with EEG/MEG are key to the diagnosis, classification, and further understanding of epilepsy. Historically the emphasis of these recordings has been the localisation of the putative sources of epileptic discharges. More recent developments see new techniques studying oscillatory dynamics, connectivity and network properties.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26642968

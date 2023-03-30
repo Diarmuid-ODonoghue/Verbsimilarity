@@ -1,0 +1,3 @@
+We have constructed a haptic immersive workbench to be placed in the patients' home for daily adjusted rehabilitation. We also propose a system for Internet based connection and communication between patients and between patients and a clinical rehabilitation center and clinical assessment/evaluation centers. The benefits of a system for rehabilitation after stroke, based on VR, Haptics and Telemedicine should be: increased quality of life, lesser isolation, feeling more secure, fewer tiring transportations, more frequent exercising, better compliance to training, lower cost for transportation. The long term recovery for a larger group of patients with motor impairments is presently under evaluation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17108503

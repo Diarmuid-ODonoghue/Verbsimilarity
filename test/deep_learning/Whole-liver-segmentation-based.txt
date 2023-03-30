@@ -1,0 +1,3 @@
+In selective internal radiation therapy (SIRT), an accurate total liver segmentation is required for activity prescription and absorbed dose calculation. Our goal was to investigate the feasibility of using automatic liver segmentation based on a convolutional neural network (CNN) for CT imaging in SIRT, and the ability of CNN to reduce inter-observer variability of the segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32314026

@@ -1,0 +1,3 @@
+Enabling surgeon-educators to themselves create virtual reality (VR) training units promises greater variety, specialization, and relevance of the units. This paper describes a software bridge that semi-automates the scene-generation cycle, a key bottleneck in authoring, modeling, and developing VR units. Augmenting an open source modeling environment with physical behavior attachment and collision specifications yields single-click testing of the full force-feedback enabled anatomical scene.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27046561

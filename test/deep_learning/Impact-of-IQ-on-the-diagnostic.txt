@@ -1,0 +1,3 @@
+Schizophrenia is a severe psychiatric disorder associated with IQ deficits. Rare copy number variations (CNVs) have been established to play an important role in the etiology of schizophrenia. Several of the large rare CNVs associated with schizophrenia have been shown to negatively affect IQ in population-based controls where no major neuropsychiatric disorder is reported. The aim of this study was to examine the diagnostic yield of microarray testing and the functional impact of genome-wide rare CNVs in a community ascertained cohort of adults with schizophrenia and low (< 85) or average (≥ 85) IQ.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29187259

@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) systems are known to be vulnerable to variabilities in background states of a user. Usually, no detailed information on these states is available even during the training stage. Thus there is a need in a method which is capable of taking background states into account in an unsupervised way.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28718781

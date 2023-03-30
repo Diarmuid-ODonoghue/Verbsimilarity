@@ -1,0 +1,3 @@
+Virtual endoscopy has already proven its benefit for pre-operative planning of endoscopic pituitary surgery. The translation of such a system into the operating room is a logical consequence, but only a few general intra-operative image guided systems providing virtual endoscopic images have been proposed so far. A discussion of related visualization and interaction problems occurring during sinus and pituitary surgery is still missing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20033497

@@ -1,0 +1,3 @@
+Deep learning is emerging in radiology due to the increased computational capabilities available to reading rooms. These computational developments have the ability to mimic the radiologist and may allow for more accurate tissue characterization of normal and pathological lesion tissue to assist radiologists in defining different diseases. We introduce a novel tissue signature model based on tissue characteristics in breast tissue from multiparametric magnetic resonance imaging (mpMRI). The breast tissue signatures are used as inputs in a stacked sparse autoencoder (SSAE) multiparametric deep learning (MPDL) network for segmentation of breast mpMRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31598978

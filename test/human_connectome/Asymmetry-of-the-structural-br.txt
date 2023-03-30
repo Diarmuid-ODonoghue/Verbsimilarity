@@ -1,0 +1,3 @@
+It is now possible to map neural connections in vivo across the whole brain (i.e., the brain connectome). This is a promising development in neuroscience since many health and disease processes are believed to arise from the architecture of neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24409158

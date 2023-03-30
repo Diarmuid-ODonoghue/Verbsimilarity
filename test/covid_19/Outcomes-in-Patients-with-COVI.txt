@@ -1,0 +1,3 @@
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the virus responsible for the aggressive coronavirus disease (COVID-19) pandemic. Recently, investigators have stipulated that COVID-19 patients receiving angiotensin-converting-enzyme inhibitors (ACEI) may be subject to poorer outcomes. This editorial presents the available evidence to guide treatment practices during this pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32291526

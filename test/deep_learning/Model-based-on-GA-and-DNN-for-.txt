@@ -1,0 +1,3 @@
+The Smad7 protein is negative regulator of the TGF-β signaling pathway, which is upregulated in patients with breast cancer. miRNAs regulate proteins expressions by arresting or degrading the mRNAs. The purpose of this work is to identify a miRNAs profile that regulates the expression of the mRNA coding for Smad7 in breast cancer using the data from patients with breast cancer obtained from the Cancer Genome Atlas Project.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30594253

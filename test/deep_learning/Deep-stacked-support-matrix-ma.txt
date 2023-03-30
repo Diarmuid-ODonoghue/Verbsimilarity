@@ -1,0 +1,3 @@
+Electroencephalograph (EEG) classification is an important technology that can establish a mapping relationship between EEG features and cognitive tasks. Emerging matrix classifiers have been successfully applied to motor imagery (MI) EEG classification, but they belong to shallow classifiers, making powerful stacked generalization principle not exploited for automatically learning deep EEG features. To learn the high-level representation and abstraction, we proposed a novel deep stacked support matrix machine (DSSMM) to improve the performance of existing shallow matrix classifiers in EEG classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32283388

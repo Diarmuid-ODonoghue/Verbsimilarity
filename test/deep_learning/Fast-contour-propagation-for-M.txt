@@ -1,0 +1,3 @@
+To quickly and automatically propagate organ contours from pretreatment to fraction images in magnetic resonance (MR)-guided prostate external-beam radiotherapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31876300

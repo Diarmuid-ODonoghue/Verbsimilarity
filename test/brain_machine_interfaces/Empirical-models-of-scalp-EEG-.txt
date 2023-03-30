@@ -1,0 +1,3 @@
+This study presents inter-subject models of scalp-recorded electroencephalographic (sEEG) event-related potentials (ERPs) using intracranially recorded ERPs from electrocorticography and stereotactic depth electrodes in the hippocampus, generally termed as intracranial EEG (iEEG).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24836095

@@ -1,0 +1,3 @@
+There is a clinical need to assess the resection margins of tongue cancer specimens, intraoperatively. In the current ex vivo study, we evaluated the feasibility of hyperspectral diffuse reflectance imaging (HSI) for distinguishing tumor from the healthy tongue tissue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31522461

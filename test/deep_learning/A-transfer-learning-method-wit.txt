@@ -1,0 +1,3 @@
+Computer aided diagnosis systems based on deep learning and medical imaging is increasingly becoming research hotspots. At the moment, the classical convolutional neural network generates classification results by hierarchically abstracting the original image. These abstract features are less sensitive to the position and orientation of the object, and this lack of spatial information limits the further improvement of image classification accuracy. Therefore, how to develop a suitable neural network framework and training strategy in practical clinical applications to avoid this problem is a topic that researchers need to continue to explore.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31262537

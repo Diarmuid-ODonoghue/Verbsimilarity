@@ -1,0 +1,3 @@
+The huge amount of clinical, administrative, and demographic data recorded and maintained by hospitals can be consistently aggregated into health data warehouses with a uniform data model. In 2017, Rouen University Hospital (RUH) initiated the design of a semantic health data warehouse enabling both semantic description and retrieval of health information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31859675

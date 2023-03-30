@@ -1,0 +1,3 @@
+A majority of studies examining repetitive task practice facilitated by robots for the treatment of upper extremity paresis utilize standardized protocols applied to large groups. Others utilize interventions tailored to patients but do not describe the clinical decision-making process utilized to develop and modify interventions. This case study describes a robot-based intervention customized to match the goals and clinical presentation of person with upper extremity hemiparesis secondary to stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22592063

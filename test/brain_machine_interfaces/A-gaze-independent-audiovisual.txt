@@ -1,0 +1,3 @@
+Currently, it is challenging to detect the awareness of patients who suffer disorders of consciousness (DOC). Brain-computer interfaces (BCIs), which do not depend on the behavioral response of patients, may serve for detecting the awareness in patients with DOC. However, we must develop effective BCIs for these patients because their ability to use BCIs does not as good as healthy users.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30296948

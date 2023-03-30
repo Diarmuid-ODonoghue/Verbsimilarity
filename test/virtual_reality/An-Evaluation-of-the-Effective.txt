@@ -1,0 +1,3 @@
+Electronic health (eHealth) is the use of information and communication technology in the context of health care and health research. Recently, there has been a rise in the number of eHealth modalities and the frequency with which they are used to deliver technology-assisted self-management interventions for people living with chronic pain. However, there has been little or no research directly comparing these eHealth modalities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31317869

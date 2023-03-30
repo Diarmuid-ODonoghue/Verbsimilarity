@@ -1,0 +1,3 @@
+To implement a framework for dose prediction using a deep convolutional neural network (CNN) based on the concept of isodose feature-preserving voxelization (IFPV) in simplifying the representation of the dose distribution.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31112305

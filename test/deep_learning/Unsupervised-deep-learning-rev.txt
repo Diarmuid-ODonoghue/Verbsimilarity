@@ -1,0 +1,3 @@
+One approach to improving the personalized treatment of cancer is to understand the cellular signaling transduction pathways that cause cancer at the level of the individual patient. In this study, we used unsupervised deep learning to learn the hierarchical structure within cancer gene expression data. Deep learning is a group of machine learning algorithms that use multiple layers of hidden units to capture hierarchically related, alternative representations of the input data. We hypothesize that this hierarchical structure learned by deep learning will be related to the cellular signaling system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28984190

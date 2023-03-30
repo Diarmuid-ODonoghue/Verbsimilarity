@@ -1,0 +1,3 @@
+Recently, canonical correlation analysis (CCA) has been widely used in steady-state visual evoked potential (SSVEP)-based brain-computer interfaces (BCIs) due to its high efficiency, robustness, and simple implementation. However, a method with which to make use of harmonic SSVEP components to enhance the CCA-based frequency detection has not been well established.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26035476

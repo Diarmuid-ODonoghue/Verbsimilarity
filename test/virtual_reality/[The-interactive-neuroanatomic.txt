@@ -1,0 +1,3 @@
+There is an increased need for new digital education tools in neurosurgical training. Illustrated textbooks offer anatomic and technical reference but do not substitute hands-on experience provided by surgery or cadaver dissection. Due to limited availability of cadaver dissections the need for development of simulation tools has been augmented. We explored simulation technology for producing virtual reality-like reconstructions of simulated surgical approaches on cadaver. Practical application of the simulation tool has been presented through frontotemporal transsylvian exposure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25720239

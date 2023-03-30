@@ -1,0 +1,3 @@
+Modern retinal imaging creates gigantic amounts of data (big data) of anatomic information. At the same time patient numbers and interventions are increasing exponentially.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29980857

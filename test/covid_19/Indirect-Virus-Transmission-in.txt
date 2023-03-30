@@ -1,0 +1,3 @@
+To determine possible modes of virus transmission, we investigated a cluster of COVID-19 cases associated with a shopping mall in Wenzhou, China. Data indicated that indirect transmission of the causative virus occurred, perhaps resulting from virus contamination of common objects, virus aerosolization in a confined space, or spread from asymptomatic infected persons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32163030

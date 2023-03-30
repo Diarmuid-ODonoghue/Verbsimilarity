@@ -1,0 +1,3 @@
+Virtual reality is a computer based technology linked with the future of dentistry and dental practice. The virtual articulator is one such application in prosthetic and restorative dentistry based on virtual reality that will significantly reduce the limitations of the mechanical articulator, and by simulation of real patient data, allow analyses with regard to static and dynamic occlusion as well as to jaw relation. It is the purpose of this article to present the concepts and strategies for a future replacement of the mechanical articulator by a virtual one. Also, a brief note on virtual reality haptic system has been highlighted along with newly developed touch enabled virtual articulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25177664

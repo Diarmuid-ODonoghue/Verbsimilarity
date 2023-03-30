@@ -1,0 +1,3 @@
+In recent days, deep learning technologies have achieved tremendous success in computer vision-related tasks with the help of large-scale annotated dataset. Obtaining such dataset for medical image analysis is very challenging. Working with the limited dataset and small amount of annotated samples makes it difficult to develop a robust automated disease diagnosis model. We propose a novel approach to generate synthetic medical images using generative adversarial networks (GANs). Our proposed model can create brain PET images for three different stages of Alzheimer's disease-normal control (NC), mild cognitive impairment (MCI), and Alzheimer's disease (AD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32232602

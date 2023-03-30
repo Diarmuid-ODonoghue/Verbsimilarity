@@ -1,0 +1,3 @@
+Visual field defects caused by injury to Meyer's loop (ML) are common in patients undergoing anterior temporal lobectomy during epilepsy surgery. Evaluation of the anatomical shapes of the curving, fanning and sharp angles of ML to guide surgeries is important but still challenging for diffusion tensor imaging. We present an advanced diffusion data-based ML atlas and labeling protocol to reproduce anatomical features in individuals within a short time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31779601

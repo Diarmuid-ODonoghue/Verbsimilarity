@@ -1,0 +1,3 @@
+The objective of this work is to present gumpy, a new free and open source Python toolbox designed for hybrid brain-computer interface (BCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30215610

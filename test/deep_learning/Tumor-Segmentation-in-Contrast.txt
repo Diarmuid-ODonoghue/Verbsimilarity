@@ -1,0 +1,3 @@
+To evaluate the application of a deep learning architecture, based on the convolutional neural network (CNN) technique, to perform automatic tumor segmentation of magnetic resonance imaging (MRI) for nasopharyngeal carcinoma (NPC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30417017

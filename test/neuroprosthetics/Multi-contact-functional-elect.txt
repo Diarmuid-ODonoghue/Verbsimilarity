@@ -1,0 +1,3 @@
+Functional Electrical Stimulation (FES) is increasingly applied in neurorehabilitation. Particularly, the use of electrode arrays may allow for selective muscle recruitment. However, detecting the best electrode configuration constitutes still a challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26955873

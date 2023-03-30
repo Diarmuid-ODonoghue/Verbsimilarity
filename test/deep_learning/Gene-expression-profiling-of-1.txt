@@ -1,0 +1,3 @@
+Pancreatic ductal adenocarcinoma (PDAC) is the fourth leading cause of cancer related death in the world with a five-year survival rate of less than 5%. Not all PDAC are the same, because there exist intra-tumoral heterogeneity between PDAC, which poses a great challenge to personalized treatments for PDAC.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29843660

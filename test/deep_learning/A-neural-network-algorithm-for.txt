@@ -1,0 +1,3 @@
+GI angiectasia (GIA) is the most common small-bowel (SB) vascular lesion, with an inherent risk of bleeding. SB capsule endoscopy (SB-CE) is the currently accepted diagnostic procedure. The aim of this study was to develop a computer-assisted diagnosis tool for the detection of GIA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30017868

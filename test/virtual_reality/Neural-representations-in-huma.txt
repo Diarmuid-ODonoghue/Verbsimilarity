@@ -1,0 +1,3 @@
+Ekstrom et al. report the responses of single neurons recorded from the brains of human subjects performing a spatial navigation task in virtual reality. They found cells encoding the subject's current location, view and destination. These data, and related findings in animals, directly reveal some of the representations underlying spatial cognition. They highlight the potential for cognitive psychology and systems neuroscience to combine to provide a neuronal-level understanding of human behaviour.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14643363

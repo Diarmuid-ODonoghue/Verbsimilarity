@@ -1,0 +1,3 @@
+Brain-computer-interfaces (BCIs) have been proposed not only as assistive technologies but also as rehabilitation tools for lost functions. However, due to the stochastic nature, poor spatial resolution and signal to noise ratio from electroencephalography (EEG), multidimensional decoding has been the main obstacle to implement non-invasive BCIs in real-live rehabilitation scenarios. This study explores the classification of several functional reaching movements from the same limb using EEG oscillations in order to create a more versatile BCI for rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28467325

@@ -1,0 +1,3 @@
+Accurate and efficient detection of steady-state visual evoked potentials (SSVEP) in electroencephalogram (EEG) is essential for the related brain-computer interface (BCI) applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28357991

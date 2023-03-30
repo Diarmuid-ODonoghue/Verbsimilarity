@@ -1,0 +1,3 @@
+As deep neural networks achieve more success in the wide field of computer vision, greater emphasis is being placed on the generalizations of these models for production deployment. With sufficiently large training datasets, models can typically avoid overfitting their data; however, for medical imaging it is often difficult to obtain enough data from a single site. Sharing data between institutions is also frequently nonviable or prohibited due to security measures and research compliance constraints, enforced to guard protected health information (PHI) and patient anonymity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31660621

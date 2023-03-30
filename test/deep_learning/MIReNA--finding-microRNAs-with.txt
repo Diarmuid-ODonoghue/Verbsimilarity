@@ -1,0 +1,3 @@
+MicroRNAs (miRNAs) are a class of endogenes derived from a precursor (pre-miRNA) and involved in post-transcriptional regulation. Experimental identification of novel miRNAs is difficult because they are often transcribed under specific conditions and cell types. Several computational methods were developed to detect new miRNAs starting from known ones or from deep sequencing data, and to validate their pre-miRNAs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20591903

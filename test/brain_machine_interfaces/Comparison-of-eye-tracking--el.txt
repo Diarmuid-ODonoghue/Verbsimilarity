@@ -1,0 +1,3 @@
+In this study, we evaluated electrooculography (EOG), an eye tracker and an auditory brain-computer interface (BCI) as access methods to augmentative and alternative communication (AAC). The participant of the study has been in the locked-in state (LIS) for 6 years due to amyotrophic lateral sclerosis. He was able to communicate with slow residual eye movements, but had no means of partner independent communication. We discuss the usability of all tested access methods and the prospects of using BCIs as an assistive technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26338101

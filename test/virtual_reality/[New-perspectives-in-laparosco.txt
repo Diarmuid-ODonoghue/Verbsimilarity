@@ -1,0 +1,3 @@
+Application of a LapSim-training model in the Students' Skills Lab as well as the objective evaluation of stress in a virtual operating room scenario offer new perspectives in laparoscopic simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18563690

@@ -1,0 +1,3 @@
+Providing image guidance in a 3-dimensional (3D) format, visually more in keeping with the operative field, could potentially reduce workload and lead to faster and more accurate navigation. We wished to assess a 3D virtual-view surgical navigation prototype in comparison to a traditional 2D system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27075606

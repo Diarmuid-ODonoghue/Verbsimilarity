@@ -1,0 +1,3 @@
+Cognitive Bias Modification of Interpretations (CBM-I) is a computerized intervention designed to change negatively biased interpretations of ambiguous information, which underlie and reinforce anxiety. The repetitive and monotonous features of CBM-I can negatively impact training adherence and learning processes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30789353

@@ -1,0 +1,3 @@
+To evaluate the diagnostic performance of a deep learning system for automated detection of atrial fibrillation (AF) in photoplethysmographic (PPG) pulse waveforms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29853485

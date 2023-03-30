@@ -1,0 +1,3 @@
+Brain-computer interfacing (BCI) based on visual stimuli detects the target on a screen on which a user is focusing. The detection of the gazing target can be achieved by tracking gaze positions with a video camera, which is called eye-tracking or eye-tracking interfaces (ETIs). The two types of interface have been developed in different communities. Thus, little work on a comprehensive comparison between these two types of interface has been reported. This paper quantitatively compares the performance of these two interfaces on the same experimental platform. Specifically, our study is focused on two major paradigms of BCI and ETI: steady-state visual evoked potential-based BCIs and dwelling-based ETIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28198356

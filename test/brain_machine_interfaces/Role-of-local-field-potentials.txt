@@ -1,0 +1,3 @@
+How the brain orchestrates the musculoskeletal system to produce complex three-dimensional movements is still poorly understood. Despite first promising results in brain-machine interfaces that translate cortical activity to control output, there is an ongoing debate about which brain signals provide richest information related to movement planning and execution. Novel results by Bansal and colleagues (2011) now suggest that neuronal spiking and local field potentials jointly encode kinematics during skilled reach and grasp movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21613587

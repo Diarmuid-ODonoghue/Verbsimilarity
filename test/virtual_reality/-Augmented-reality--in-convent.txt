@@ -1,0 +1,3 @@
+In this study, a new method is introduced, which allows the overlay of three-dimensional structures, that have been delineated on transverse slices, onto the fluoroscopy from conventional simulators in real time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18259701

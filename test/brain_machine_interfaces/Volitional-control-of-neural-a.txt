@@ -1,0 +1,3 @@
+The results from recent brain-machine interface (BMI) studies suggest that it may be more efficient to use simple arbitrary relationships between individual neuron activity and BMI movements than the complex relationship observed between neuron activity and natural movements. This idea is based on the assumption that individual neurons can be conditioned independently regardless of their natural movement association.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23416098

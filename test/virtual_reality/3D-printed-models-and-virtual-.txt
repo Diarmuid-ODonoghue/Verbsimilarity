@@ -1,0 +1,3 @@
+Nowadays, kidney cancer surgery has been focusing on a patient-tailored management, expanding the indication to nephron-sparing surgery (NSS). Starting from computer tomography images, 3D models can be created, allowing a never experienced before understanding of surgical anatomy. Once obtained the models can be printed or virtually visualized with the aid to assist the surgeon in preoperative planning and simulation or intraoperative navigation. The aim of this systematic review is to assess the preoperative and intraoperative impact of 3D printed and virtual imaging for robotic NSS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31725000

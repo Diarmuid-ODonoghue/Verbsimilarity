@@ -1,0 +1,3 @@
+To develop a personalizable algorithm to discriminate between sedation levels in ICU patients based on heart rate variability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28441231

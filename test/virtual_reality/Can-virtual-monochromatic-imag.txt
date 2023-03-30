@@ -1,0 +1,3 @@
+To investigate the image quality and radiation dose of dual-energy computed tomography (DECT) with automatic spectral imaging protocol selection (ASIS) compared with those of low-kVp CT in abdominal multiphase CT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30506223

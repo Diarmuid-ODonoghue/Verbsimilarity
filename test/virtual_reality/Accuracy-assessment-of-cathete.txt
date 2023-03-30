@@ -1,0 +1,3 @@
+With increasing complexity in electrophysiology (EP) procedures, the use of electroanatomic mapping systems (EAMS) as a supplement to fluoroscopy has become common practice. This is the first study that evaluates spatial and point localization accuracy for 2 current EAMS, CARTO3(®) (Biosense Webster, Diamond Bar, CA, USA) and EnSite Velocity(®) (St. Jude Medical Inc., St. Paul, MN, USA), and for a novel overlay guidance (OG) software (Siemens AG, Forchheim, Germany) in a phantom experiment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24102965

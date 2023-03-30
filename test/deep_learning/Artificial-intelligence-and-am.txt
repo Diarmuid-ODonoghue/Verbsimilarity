@@ -1,0 +1,3 @@
+To evaluate the application of artificial intelligence (AI), i.e. deep learning and other machine-learning techniques, to amniotic fluid (AF) metabolomics and proteomics, alone and in combination with sonographic, clinical and demographic factors, in the prediction of perinatal outcome in asymptomatic pregnant women with short cervical length (CL).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30381856

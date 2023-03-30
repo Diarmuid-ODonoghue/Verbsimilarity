@@ -1,0 +1,3 @@
+Despite the vast research aimed at improving the performance of steady-state visually evoked potential (SSVEP)-based brain-computer interfaces (BCIs), several limitations exist that restrict the use of such applications for long-term users in the real-world. One of the main challenges has been to reduce training time while maintaining good BCI performance. In view of this challenge, this survey identifies and compares the different training requirements of feature extraction methods for SSVEP-based BCIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29869996

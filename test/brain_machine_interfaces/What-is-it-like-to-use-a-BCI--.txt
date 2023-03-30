@@ -1,0 +1,3 @@
+The neurotechnology behind brain-computer interfaces (BCIs) raises various ethical questions. The ethical literature has pinpointed several issues concerning safety, autonomy, responsibility and accountability, psychosocial identity, consent, privacy and data security. This study aims to assess BCI users' experiences, self-observations and attitudes in their own right and looks for social and ethical implications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31906947

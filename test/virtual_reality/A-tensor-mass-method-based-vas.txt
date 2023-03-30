@@ -1,0 +1,3 @@
+Physics-based vascular modelling is an essential issue to be addressed in the development of the endovascular interventional surgery training system, which helps to shorten the training period of novice surgeons to obtain dexterous skills of surgical operation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30155973

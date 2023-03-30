@@ -1,0 +1,3 @@
+Minimizing post-operational neurological deficits as a result of brain surgery has been one of the most pertinent endeavours of neurosurgical research. Studies have utilised fMRIs, EEGs and MEGs in order to delineate and establish eloquent areas, however, these methods have not been utilized by the wider neurosurgical community due to a lack of clinical endpoints. We sought to ascertain if there is a correlation between graph theory metrics and the neurosurgical notion of eloquent brain regions. We also wanted to establish which graph theory based nodal centrality measure performs the best in predicting eloquent areas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31894519

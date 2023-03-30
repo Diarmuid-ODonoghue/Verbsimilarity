@@ -1,0 +1,3 @@
+The aim of this study was to investigate the exercise intensity of active virtual reality games (AVRGs) by oxygen consumption (VO2), heart rate (HR), and rating of perceived exertion (RPE). A second aim was to compare the AVRG intensities to current American College of Sports Medicine exercise guidelines using metabolic equivalents (METs) and %VO2 reserve (%VO2R).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30325233

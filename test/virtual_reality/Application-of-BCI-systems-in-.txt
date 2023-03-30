@@ -1,0 +1,3 @@
+To review various types of electroencephalographic activities of the brain and present an overview of brain-computer interface (BCI) systems' history and their applications in rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25560222

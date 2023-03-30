@@ -1,0 +1,3 @@
+In general, quadriplegic patients use their voices to call the caregiver. However, severe quadriplegic patients are in a state of tracheostomy, and cannot generate a voice. These patients require other communication tools to call caregivers. Recently, monitoring of eye status using artificial intelligence (AI) has been widely used in various fields. We made eye status monitoring system using deep learning, and developed a communication system for quadriplegic patients can call the caregiver.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31720261

@@ -1,0 +1,3 @@
+This study aimed to assess the feasibility of deep learning-based magnetic resonance imaging (MRI) in the prediction of smoking status.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30701165

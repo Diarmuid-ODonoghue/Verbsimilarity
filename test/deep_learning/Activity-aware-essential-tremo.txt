@@ -1,0 +1,3 @@
+Essential tremor (ET), one of the most common neurological disorders is typically evaluated with validated rating scales which only provide a subjective assessment during a clinical visit, underestimating the fluctuations tremor during different daily activities. Motion sensors have shown favorable performances in both quantifying tremor and voluntary human activity recognition (HAR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30122598

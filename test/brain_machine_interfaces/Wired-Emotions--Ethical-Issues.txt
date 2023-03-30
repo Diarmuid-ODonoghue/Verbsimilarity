@@ -1,0 +1,3 @@
+Ethical issues concerning brain-computer interfaces (BCIs) have already received a considerable amount of attention. However, one particular form of BCI has not received the attention that it deserves: Affective BCIs that allow for the detection and stimulation of affective states. This paper brings the ethical issues of affective BCIs in sharper focus. The paper briefly reviews recent applications of affective BCIs and considers ethical issues that arise from these applications. Ethical issues that affective BCIs share with other neurotechnologies are presented and ethical concerns that are specific to affective BCIs are identified and discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30868377

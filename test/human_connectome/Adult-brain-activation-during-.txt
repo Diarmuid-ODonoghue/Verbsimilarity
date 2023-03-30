@@ -1,0 +1,3 @@
+Human brain connectome is a new and rapidly developing field in neuroscience. The pattern of structural and functional connectivity in the brain is not fixed but is continuously changing in response to experiences. Exploring these phenomena opens a powerful arsenal of analyses and computational approaches that could provide important new insights into clinical and cognitive neuroscience. The aim of the present study was to investigate the activations of adult brain cortical areas during a memory task performance by using functional MRI with a specific focus on gender differences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29570910

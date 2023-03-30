@@ -1,0 +1,3 @@
+Brain-machine interface (BMI) technologies have succeeded in controlling robotic exoskeletons, enabling some paralyzed people to control their own arms and hands. We have developed an exoskeleton asynchronously controlled by EEG signals. In this study, to enable real-time control of the exoskeleton for paresis, we developed a hybrid system with EEG and EMG signals, and the EMG signals were used to estimate its joint angles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28068293

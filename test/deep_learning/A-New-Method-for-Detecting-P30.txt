@@ -1,0 +1,3 @@
+P300 signal detection is an essential problem in many fields of Brain-Computer Interface (BCI) systems. Although deep neural networks have almost ubiquitously used in P300 detection, in such networks, increasing the number of dimensions leads to growth ratio of saddle points to local minimums. This phenomenon results in slow convergence in deep neural network. Hyperparameter tuning is one of the approaches in deep learning, which leads to fast convergence because of its ability to find better local minimums. In this paper, a new adaptive hyperparameter tuning method is proposed to improve training of Convolutional Neural Networks (CNNs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30603612

@@ -1,0 +1,3 @@
+Glutamate weighted Chemical Exchange Saturation Transfer (GluCEST) MRI is a noninvasive technique for mapping parenchymal glutamate in the brain. Because of the sensitivity to field (B0 ) inhomogeneity, the total acquisition time is prolonged due to the repeated image acquisitions at several saturation offset frequencies, which can cause practical issues such as increased sensitivity to patient motions. Because GluCEST signal is derived from the small z-spectrum difference, it often has a low signal-to-noise-ratio (SNR). We proposed a novel deep learning (DL)-based algorithm armed with wide activation neural network blocks to address both issues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32301185

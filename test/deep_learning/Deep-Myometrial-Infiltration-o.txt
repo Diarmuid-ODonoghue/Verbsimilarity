@@ -1,0 +1,3 @@
+To evaluate an MRI radiomics-powered machine learning (ML) model's performance for the identification of deep myometrial invasion (DMI) in endometrial cancer (EC) patients and explore its clinical applicability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32229081

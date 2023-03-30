@@ -1,0 +1,3 @@
+Histological images have characteristics, such as texture, shape, colour and spatial structure, that permit the differentiation of each fundamental tissue and organ. Texture is one of the most discriminative features. The automatic classification of tissues and organs based on histology images is an open problem, due to the lack of automatic solutions when treating tissues without pathologies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28734525

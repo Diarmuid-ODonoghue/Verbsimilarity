@@ -1,0 +1,3 @@
+Functional locomotion requires the ability to adapt to environmental challenges such as the presence of stationary or moving obstacles. Difficulties in obstacle circumvention often lead to restricted community ambulation in individuals with stroke. The objective of this study was to contrast obstacle circumvention strategies between post-stroke (n = 12) and healthy individuals (n = 12) performing locomotor and perceptuomotor (joystick navigation) tasks with different obstacle approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28615042

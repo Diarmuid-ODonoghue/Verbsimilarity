@@ -1,0 +1,3 @@
+Deep learning reconstruction (DLR) is a new reconstruction method; it introduces deep convolutional neural networks into the reconstruction flow. This study was conducted in order to examine the clinical applicability of abdominal ultra-high-resolution CT (U-HRCT) exams reconstructed with a new DLR in comparison to hybrid and model-based iterative reconstruction (hybrid-IR, MBIR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30976831

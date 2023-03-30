@@ -1,0 +1,3 @@
+The Electroencephalogram (EEG) is a non-invasive technique used in the medical field to record and analyze brain activity. In particular, Brain Machine Interfaces (BMI) create this bridge between brain signals and the external world through prosthesis, visual interfaces and other physical devices. This paper investigates the relation between particular hand movement directions while using a BMI and the EEG recordings during such movement. The Common Spatial Pattern method (CSP) over the high-γ frequency band is utilized in order to discriminate opposite hand movement directions. The experiment is performed with three subjects and the average classification accuracy is obtained for two different cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25571487

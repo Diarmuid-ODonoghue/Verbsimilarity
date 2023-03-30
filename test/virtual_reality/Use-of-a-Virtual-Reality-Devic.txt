@@ -1,0 +1,3 @@
+Immediate initiation of cardiopulmonary resuscitation significantly increases the chances of survival after a cardiac arrest. Virtual reality devices allow the integration of features of real patients into training to facilitate interaction and feedback, thus improving performance. However, its use as a training tool remains underexplored. The aims of this study were to undertake initial testing of a virtual reality basic life support prototype and to explore users' views and experiences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31490865

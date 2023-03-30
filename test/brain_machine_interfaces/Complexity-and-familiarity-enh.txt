@@ -1,0 +1,3 @@
+We sought to determine whether the sensorimotor rhythms (SMR) elicited during motor imagery (MI) of complex and familiar actions could be more reliably detected with electroencephalography (EEG), and subsequently classified on a single-trial basis, than those elicited during relatively simpler imagined actions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24388403

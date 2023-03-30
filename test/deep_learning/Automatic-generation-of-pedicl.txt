@@ -1,0 +1,3 @@
+Pedicle location and recognition play important roles in spinal morphology analysis and orthodontic screw implantation, which can help doctors avoid injuring the pedicle during screw implantation. However, because of the complex spatial structures of vertebrae and the close connection between the pedicle and other parts of the vertebrae, it is challenging to locate and recognize the pedicle of the vertebral arch in 2D or 3D vertebral images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31790963

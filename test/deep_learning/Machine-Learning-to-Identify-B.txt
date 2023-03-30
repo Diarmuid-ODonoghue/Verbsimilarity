@@ -1,0 +1,3 @@
+We applied machine learning techniques to a community-based behavioral dataset to build prediction models to gain insights about minority dental health and population aging as the foundation for future interventions for urban Hispanics. Our application of machine learning techniques identified emotional and systemic factors such as chronic stress and health literacy as the strongest predictors of self-reported dental health among hundreds of possible variables. Application of machine learning algorithms was useful to build prediction models to gain insights about dental health and minority population aging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29968651

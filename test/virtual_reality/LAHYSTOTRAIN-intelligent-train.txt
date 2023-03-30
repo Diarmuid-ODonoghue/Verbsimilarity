@@ -1,0 +1,3 @@
+Rapid developments in the medical field, as an expanding knowledge base and emerging new technologies require continuing medical education to achieve life long learning and to keep the surgeons up to date. Consequently, specific training is necessary to guarantee qualification of the surgeons. The goal of LAHYSTOTRAIN is to overcome the current drawbacks of traditional training methods for laparoscopic/hysteroscopic procedures. A computer-assisted simulator for training and quality control in laparoscopy and hysteroscopy is developed using Virtual Reality (VR), Multimedia (MM) technology, and Intelligent Tutoring Systems (ITS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/10977572

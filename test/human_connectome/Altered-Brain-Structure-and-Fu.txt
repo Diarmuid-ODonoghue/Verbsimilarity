@@ -1,0 +1,3 @@
+Imaging studies in adults with irritable bowel syndrome (IBS) have shown both morphological and resting state (RS) functional connectivity (FC) alterations related to cortical modulation of sensory processing. Because analogous differences have not been adequately investigated in children, this study compared gray matter volume (GMV) and RS-FC between girls with IBS and healthy controls (HC) and tested the correlation between brain metrics and laboratory-based pain thresholds (Pth).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30615602

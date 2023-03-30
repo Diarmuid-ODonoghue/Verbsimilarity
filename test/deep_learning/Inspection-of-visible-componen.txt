@@ -1,0 +1,3 @@
+Urinary particles are particularly important parameters in clinical urinalysis, especially for the diagnosis of nephropathy. Therefore, it is highly important to precisely detect urinary particles in the clinical setting. However, artificial microscopy is subjective and time consuming, and various previous detection algorithms lack the adequate accuracy. In this study, a method is proposed for the analysis of urinary particles based on deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32133650

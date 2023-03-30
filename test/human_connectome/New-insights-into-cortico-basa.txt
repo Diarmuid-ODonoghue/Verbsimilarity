@@ -1,0 +1,3 @@
+The current model of the basal ganglia system based on the 'direct', 'indirect' and 'hyperdirect' pathways provides striking predictions about basal ganglia function that have been used to develop deep brain stimulation approaches for Parkinson's disease and dystonia. The aim of this review is to challenge this scheme in light of new tract tracing information that has recently become available from the human brain using MRI-based tractography, thus providing a novel perspective on the basal ganglia system. We also explore the implications of additional direct pathways running from cortex to basal ganglia and between basal ganglia and cerebellum in the pathophysiology of movement disorders.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31628799

@@ -1,0 +1,3 @@
+Due to its high temporal resolution, electroencephalography (EEG) has become a broadly-used technology for real-time brain monitoring applications such as neurofeedback (NFB) and brain-computer interfaces (BCI). However, since EEG signals are prone to artifacts, denoising is a crucial step that enables adequate subsequent data processing and interpretation. The aim of this study is to compare manual denoising to unsupervised online denoising, which is essential to real-time applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29169769

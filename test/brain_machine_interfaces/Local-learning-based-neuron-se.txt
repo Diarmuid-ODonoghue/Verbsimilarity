@@ -1,0 +1,3 @@
+The high-dimensional neural recordings bring computational challenges to movement decoding in motor brain machine interfaces (mBMI), especially for portable applications. However, not all recorded neural activities relate to the execution of a certain movement task. This paper proposes to use a local-learning-based method to perform neuron selection for the gesture prediction in a reaching and grasping task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23428877

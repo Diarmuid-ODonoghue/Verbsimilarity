@@ -1,0 +1,3 @@
+The utility of surgical simulation with three-dimensional multimodality fusion imaging (3D-MFI) has been demonstrated. However, its potential in deep-seated brain lesions remains unknown. The aim of this study was to investigate the impact of 3D-MFI in deep-seated meningioma operations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29943649

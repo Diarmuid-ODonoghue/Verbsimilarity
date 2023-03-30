@@ -1,0 +1,3 @@
+Understanding the neural substrate of information encoding and processing requires a precise control of the animal's behavior. Most of what has been learned from the rodent navigational system results from relatively simple tasks in which the movements of the animal is controlled by corridors or walkways, passive movements, treadmills or virtual reality environments. While a lot has been and continues to be learned from these types of experiments, recent evidence has shown that such artificial constraints may have significant consequences on the functioning of the neural circuits of spatial navigation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29113794

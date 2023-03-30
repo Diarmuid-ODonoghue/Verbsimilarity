@@ -1,0 +1,3 @@
+To introduce a combined machine learning (ML)- and physics-based image reconstruction framework that enables navigator-free, highly accelerated multishot echo planar imaging (msEPI) and demonstrate its application in high-resolution structural and diffusion imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31106902

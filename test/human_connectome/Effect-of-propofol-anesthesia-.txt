@@ -1,0 +1,3 @@
+Functional magnetic resonance imaging (fMRI) studies in healthy volunteers have shown alterations in brain connectivity following anesthesia as compared to the awake state. It is not known if the anesthesia-induced changes in brain connectivity are different in a pathological state. This study aims to evaluate changes in the resting state functional connectivity in the brain, after propofol anesthesia, in patients with chronic back pain (CBP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28290391

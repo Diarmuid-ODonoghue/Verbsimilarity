@@ -1,0 +1,3 @@
+Many biological processes are governed by protein-ligand interactions. One such example is the recognition of self and non-self cells by the immune system. This immune response process is regulated by the major histocompatibility complex (MHC) protein which is encoded by the human leukocyte antigen (HLA) complex. Understanding the binding potential between MHC and peptides can lead to the design of more potent, peptide-based vaccines and immunotherapies for infectious autoimmune diseases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28444127

@@ -1,0 +1,3 @@
+Segmentation of the liver from abdominal computed tomography (CT) images is an essential step in some computer-assisted clinical interventions, such as surgery planning for living donor liver transplant, radiotherapy and volume measurement. In this work, we develop a deep learning algorithm with graph cut refinement to automatically segment the liver in CT scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27604760

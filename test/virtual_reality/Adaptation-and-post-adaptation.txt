@@ -1,0 +1,3 @@
+Developing rehabilitation strategies to improve functional walking and postural control in patients is a priority for rehabilitation clinicians and researchers alike. One possible strategy is the use of sensory modalities to elicit adaptive locomotor gait patterns. This study aimed to explore to what extent haptic inputs, in the form of forward-leading tensile forces delivered to the hand, compared to no force, may lead to adaptation and post-adaptation effects on gait parameters, during and after the haptic exposure, respectively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29534731

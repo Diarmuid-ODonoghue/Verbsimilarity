@@ -1,0 +1,3 @@
+Drug development pipeline inefficiency has called for more novel solutions and cutting-edge technologies. Artificial intelligence (AI)-based methods including different machine- and deep-learning algorithms have been employed for virtual drug screening. With the continuous refinement of algorithms, improvement of computing hardware, and increased availability of molecular datasets for drug development, it is certainly a prime time for AI-powered virtual drug screening.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30215059

@@ -1,0 +1,3 @@
+Low-quality medical images may influence the accuracy of the machine learning process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30223423

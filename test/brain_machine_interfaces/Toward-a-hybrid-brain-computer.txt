@@ -1,0 +1,3 @@
+Steady-state visually evoked potentials (SSVEPs) can be elicited by repetitive stimuli and extracted in the frequency domain with satisfied performance. However, the temporal information of such stimulus is often ignored. In this study, we utilized repetitive visual stimuli with missing events to present a novel hybrid BCI paradigm based on SSVEP and omitted stimulus potential (OSP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27460070

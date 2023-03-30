@@ -1,0 +1,3 @@
+In this paper, a preliminary study of presence in a training simulation for medical emergency based on virtual reality is presented. We explore the influence of interaction mechanisms, as well as the complexity of behaviours in the subjective sense of presence. As expected, it has been found that as the type of interaction is more natural, and the patient behaviour modelling is more complex, the achieved sense of presence is greater. However our results also show that the degree of presence depends more upon the complexity of patient modelling than on how natural the interaction is. Hence, we postulate that a proper patient modelling could elicit a high degree of presence, even with traditional interaction mechanisms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15544313

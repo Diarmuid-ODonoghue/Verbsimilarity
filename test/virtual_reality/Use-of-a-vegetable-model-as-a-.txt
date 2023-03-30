@@ -1,0 +1,3 @@
+Training residents to perform a PCNL puncture is hampered by the non-availability of a good inanimate model that can be used for demonstration and practice. The ethics of surgical training during actual surgeries is being questioned and the role of simulation is increasingly important. Virtual reality trainers, however, are prohibitively expensive and the use of animal models is fraught with regulatory and ethical concerns. We have devised a model that can be used to teach the concept of depth perception during a PCNL puncture.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25878423

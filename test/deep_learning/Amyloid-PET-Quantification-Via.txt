@@ -1,0 +1,3 @@
+Although quantification of amyloid positron emission tomography (PET) is important for evaluating patients with cognitive impairment, its routine clinical use is hampered by complicated preprocessing steps and required MRI. Here, we suggested a one-step quantification based on deep learning using native-space amyloid PET images of different radiotracers acquired from multiple centers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31723364

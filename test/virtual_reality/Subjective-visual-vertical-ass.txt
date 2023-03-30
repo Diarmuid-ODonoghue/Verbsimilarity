@@ -1,0 +1,3 @@
+The subjective visual vertical (SVV) is a measure of a subject's perceived verticality, and a sensitive test of vestibular dysfunction. Despite this, and consequent upon technical and logistical limitations, SVV has not entered mainstream clinical practice. The aim of the study was to develop a mobile virtual reality based system for SVV test, evaluate the suitability of different controllers and assess the system's usability in practical settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29510903

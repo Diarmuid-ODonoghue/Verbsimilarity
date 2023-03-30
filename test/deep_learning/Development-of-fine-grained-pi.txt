@@ -1,0 +1,3 @@
+Oral pills, including tablets and capsules, are one of the most popular pharmaceutical dosage forms available. Compared to other dosage forms, such as liquid and injections, oral pills are very stable and are easy to be administered. However, it is not uncommon for pills to be misidentified, be it within the healthcare institutes or after the pills were dispensed to the patients. Our objective is to develop groundwork for automatic pill identification and verification using Deep Convolutional Network (DCN) that surpasses the existing methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28923366

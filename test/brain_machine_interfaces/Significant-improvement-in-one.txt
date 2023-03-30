@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) based on electroencephalography (EEG) have been shown to accurately detect mental activities, but the acquisition of high levels of control require extensive user training. Furthermore, EEG has low signal-to-noise ratio and low spatial resolution. The objective of the present study was to compare the accuracy between two types of BCIs during the first recording session. EEG and tripolar concentric ring electrode (TCRE) EEG (tEEG) brain signals were recorded and used to control one-dimensional cursor movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24836436

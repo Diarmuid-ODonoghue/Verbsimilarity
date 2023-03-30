@@ -1,0 +1,3 @@
+Our understanding of the neural systems that subserve navigation and spatial processing can be greatly improved through access to experimental approaches that allow for precise spatial and temporal control of the sensory information that inform these systems. Furthermore, paradigms that incorporate concurrent behavioral metrics of navigation performance in the presence of experimental manipulations provide an additional dimension in which to understand neurobiological findings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32169584

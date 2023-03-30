@@ -1,0 +1,3 @@
+To develop a deep learning-based artificial intelligence (AI) scheme for predicting the likelihood of the ground-glass nodule (GGN) detected on CT images being invasive adenocarcinoma (IA) and also compare the accuracy of this AI scheme with that of two radiologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31811427

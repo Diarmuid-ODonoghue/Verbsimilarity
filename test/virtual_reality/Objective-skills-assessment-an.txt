@@ -1,0 +1,3 @@
+To evaluate construct validity of the Voxelman TempoSurg Virtual Reality (VR) temporal bone simulator by determining whether generated objective metrics can distinguish experienced otologic surgeons from intermediate and novice surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22858711

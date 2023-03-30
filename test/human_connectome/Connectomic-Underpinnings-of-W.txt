@@ -1,0 +1,3 @@
+Working memory (WM) deficit is a key feature of schizophrenia that relates to a generalized neural inefficiency of extensive brain areas. To date, it remains unknown how these distributed regions are systemically organized at the connectome level and how the disruption of such organization brings about the WM impairment seen in schizophrenia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32016430

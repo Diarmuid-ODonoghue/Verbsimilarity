@@ -1,0 +1,3 @@
+Diagnosis and evaluation of early gastric cancer (EGC) using endoscopic images is significantly important; however, it has some limitations. In several studies, the application of convolutional neural network (CNN) greatly enhanced the effectiveness of endoscopy. To maximize clinical usefulness, it is important to determine the optimal method of applying CNN for each organ and disease. Lesion�-based CNN is a type of deep learning model designed to learn the entire lesion from endoscopic images. This review describes the application of lesion-based CNN technology in diagnosis of EGC.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32252505

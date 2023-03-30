@@ -1,0 +1,3 @@
+Telerehabilitation enables patients to access remote rehabilitation services for patient-physiotherapist videoconferencing in their own homes. Home-based virtual reality (VR) balance training has been shown to reduce postural instability in patients with Parkinson's disease (PD). The primary aim was to compare improvements in postural stability after remotely supervised in-home VR balance training and in-clinic sensory integration balance training (SIBT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29333454

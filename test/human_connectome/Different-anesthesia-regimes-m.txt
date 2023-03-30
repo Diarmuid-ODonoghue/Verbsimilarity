@@ -1,0 +1,3 @@
+The use of resting-state functional MRI (rsfMRI) in preclinical research is expanding progressively, with the majority of resting-state imaging performed in anesthetized animals. Since anesthesia may change the physiology and, in particular, the neuronal activity of an animal considerably, it may also affect rsfMRI findings. Therefore, this study compared rsfMRI data from awake mice with rsfMRI results obtained from mice anesthetized with α-chloralose (120 mg/kg), urethane (2.5 g/kg), or isoflurane (1%).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24285608

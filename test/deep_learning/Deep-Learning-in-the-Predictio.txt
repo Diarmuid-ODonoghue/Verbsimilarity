@@ -1,0 +1,3 @@
+Intravenous thrombolysis decision-making and obtaining of consent would be assisted by an individualized risk-benefit ratio. Deep learning (DL) models may be able to assist with this patient selection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31053480

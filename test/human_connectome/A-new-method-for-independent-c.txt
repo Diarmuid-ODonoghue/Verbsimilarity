@@ -1,0 +1,3 @@
+Currently the problem of incorporating priori information into an independent component analysis (ICA) model is often solved under the framework of constrained ICA, which utilizes the priori information as a reference signal to form a constraint condition and then introduce it into classical ICA. However, it is difficult to pre-determine a suitable threshold parameter to constrain the closeness between the output signal and the reference signal in the constraint condition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28363450

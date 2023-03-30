@@ -1,0 +1,3 @@
+Although many prognostic single-gene (SG) lists have been identified in cancer research, application of these features is hampered due to poor robustness and performance on independent datasets. Pathway-based approaches have thus emerged which embed biological knowledge to yield reproducible features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31101593

@@ -1,0 +1,3 @@
+It is hypothesized that the phenomenology of major depressive disorder (MDD) is subserved by disturbances in the structure and function of brain circuits; however, findings of structural abnormalities using MRI have been inconsistent. Generalized q-sampling imaging (GQI) methodology provides an opportunity to assess the functional integrity of white matter tracts in implicated circuits.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27423425

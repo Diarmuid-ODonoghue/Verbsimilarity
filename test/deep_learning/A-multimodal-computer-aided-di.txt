@@ -1,0 +1,3 @@
+Early assessment of renal allograft function post-transplantation is crucial to minimize and control allograft rejection. Biopsy - the gold standard - is used only as a last resort due to its invasiveness, high cost, adverse events (e.g., bleeding, infection, etc.), and the time for reporting. To overcome these limitations, a renal computer-assisted diagnostic (Renal-CAD) system was developed to assess kidney transplant function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32130734

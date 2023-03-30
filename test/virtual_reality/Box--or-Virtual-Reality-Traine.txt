@@ -1,0 +1,3 @@
+Simulation training improves laparoscopic performance. Laparoscopic basic skills can be learned in simulators as box- or virtual-reality (VR) trainers. However, there is no clear recommendation for either box or VR trainers as the most appropriate tool for the transfer of acquired laparoscopic basic skills into a surgical procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28089473

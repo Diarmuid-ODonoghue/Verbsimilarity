@@ -1,0 +1,3 @@
+This paper describes a highly interactive virtual reality orthopedic surgery simulator. The simulator allows surgeons to use various surgical instruments to operate on virtual rigid anatomic structures, such bones, prostheses and bone grafts, to simulate every procedure on the rigid structures for complex orthopedic surgeries, including arthroplasty, corrective or open osteotomy, open reduction of fractures and amputation. A comparative study of the simulator with paper simulation was performed and showed that interns and residents found the simulator to be a useful learning tool, and that visiting doctors could use it effectively for planning verification and rehearsal of operations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11535200

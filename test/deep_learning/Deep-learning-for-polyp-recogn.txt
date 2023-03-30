@@ -1,0 +1,3 @@
+Wireless capsule endoscopy (WCE) enables physicians to examine the digestive tract without any surgical operations, at the cost of a large volume of images to be analyzed. In the computer-aided diagnosis of WCE images, the main challenge arises from the difficulty of robust characterization of images. This study aims to provide discriminative description of WCE images and assist physicians to recognize polyp images automatically.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28160514

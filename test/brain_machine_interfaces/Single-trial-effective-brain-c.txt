@@ -1,0 +1,3 @@
+The majority of the current approaches of connectivity based brain-computer interface (BCI) systems focus on distinguishing between different motor imagery (MI) tasks. Brain regions associated with MI are anatomically close to each other, hence these BCI systems suffer from low performances. Our objective is to introduce single-trial connectivity feature based BCI system for cognition imagery (CI) based tasks wherein the associated brain regions are located relatively far away as compared to those for MI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28597846

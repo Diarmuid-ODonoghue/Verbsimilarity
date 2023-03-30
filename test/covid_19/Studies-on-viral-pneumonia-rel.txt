@@ -1,0 +1,3 @@
+Coronaviruses are a class of RNA viruses that can cause respiratory and intestinal infections in animals and humans. SARS-CoV, MERS-CoV and a novel coronavirus (SARS-CoV-2 [2019-nCoV]) belong to the family Coronaviridae and the genus Betacoronavirus. At present, the understanding of SARS-CoV-2 is getting deeper and deeper. In order to better prevent and treat SARS-CoV-2, this article compares the infectivity, pathogenicity, and related clinical characteristics of the three human pathogenic coronaviruses, SARS-CoV-2, SARS-CoV and MERS-CoV to help us further understand the pathogenic characteristics of novel coronaviruses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32363707

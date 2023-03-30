@@ -1,0 +1,3 @@
+Issuing of correct prescriptions is a foundation of patient safety. Medication errors represent one of the most important problems in health care, with 'look-alike and sound-alike' (LASA) being the lead error. Existing solutions to prevent LASA still have their limitations. Deep learning techniques have revolutionized identification classifiers in many fields. In search of better image-based solutions for blister package identification problem, this study using a baseline deep learning drug identification (DLDI) aims to understand how identification confusion of look-alike images by human occurs through the cognitive counterpart of deep learning solutions and thereof to suggest further solutions to approach them.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32293426

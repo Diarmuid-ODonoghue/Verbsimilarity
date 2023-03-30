@@ -1,0 +1,3 @@
+Although functional brain imaging has been used for the early and objective assessment of cognitive dysfunction, there is a lack of generalized image-based biomarker which can evaluate individual's cognitive dysfunction in various disorders. To this end, we developed a deep learning-based cognitive signature of FDG brain PET adaptable for Parkinson's disease (PD) as well as Alzheimer's disease (AD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31768599

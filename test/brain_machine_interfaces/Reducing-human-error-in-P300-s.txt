@@ -1,0 +1,3 @@
+Since the brain-computer interface (BCI) speller paradigm was first introduced by Farwell and Donchin in 1988, there have been many visual modifications to the paradigm. Most of these changes involve the original matrix format such as changes in the number of rows and columns, font size and color, flash time vs. dark time, and flash order. However, recent studies show that there is human error in generating P300 based on this paradigm that none of these changes can help to reduce it. In this study, we analyze this type of error among three paradigms, two based on the matrix structure and one region-based paradigm. It is shown that the human error is reduced significantly in the region-based paradigm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366523

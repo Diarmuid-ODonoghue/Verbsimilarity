@@ -1,0 +1,3 @@
+Functional Electrical Stimulation (FES) cycling can benefit health and may lead to neuroplastic changes following incomplete spinal cord injury (SCI). Our theory is that greater neurological recovery occurs when electrical stimulation of peripheral nerves is combined with voluntary effort. In this pilot study, we investigated the effects of a one-month training programme using a novel device, the iCycle, in which voluntary effort is encouraged by virtual reality biofeedback during FES cycling.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31771600

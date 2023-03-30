@@ -1,0 +1,3 @@
+High-throughput phenotyping based on non-destructive imaging has great potential in plant biology and breeding programs. However, efficient feature extraction and quantification from image data remains a bottleneck that needs to be addressed. Advances in sensor technology have led to the increasing use of imaging to monitor and measure a range of plants including the model Arabidopsis thaliana. These extensive datasets contain diverse trait information, but feature extraction is often still implemented using approaches requiring substantial manual input.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32129846

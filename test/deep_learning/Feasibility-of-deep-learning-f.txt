@@ -1,0 +1,3 @@
+To identify artificial intelligence (AI) classifiers in images of blastocysts to predict the probability of achieving a live birth in patients classified by age. Results are compared to those obtained by conventional embryo (CE) evaluation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30996683

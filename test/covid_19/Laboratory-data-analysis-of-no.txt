@@ -1,0 +1,3 @@
+Novel coronavirus (COVID-19) is highly infectious and requires early detection, isolation, and treatment. We tried to find some useful information by analyzing the covid-19 screening data, so as to provide help for clinical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315614

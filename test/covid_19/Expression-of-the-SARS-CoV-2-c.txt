@@ -1,0 +1,3 @@
+Since its discovery in December 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has infected more than 2 180 000 people worldwide and has caused more than 150 000 deaths as of April 16, 2020. SARS-CoV-2, which is the virus causing coronavirus disease 2019 (COVID-19), uses the angiotensin-converting enzyme 2 (ACE2) as a cell receptor to invade human cells. Thus, ACE2 is the key to understanding the mechanism of SARS-CoV-2 infection. This study is to investigate the ACE2 expression in various human tissues in order to provide insights into the mechanism of SARS-CoV-2 infection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32345362

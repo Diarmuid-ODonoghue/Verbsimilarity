@@ -1,0 +1,3 @@
+Artificial intelligence is a technique that holds promise for helping radiologists improve the care of our patients. At the same time, implementation decisions we make now can have a long-lasting effect on patient outcomes. In the following article, we discuss four areas with unique considerations for implementation of AI: bias, trust, risk, and design. In each section, we highlight applications of AI to abdominal imaging and prostate cancer specifically.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32211946

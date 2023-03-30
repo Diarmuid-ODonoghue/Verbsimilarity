@@ -1,0 +1,3 @@
+Electroencephalogram (EEG) signals are non-stationary. This could be due to internal fluctuation of brain states such as fatigue, frustration, etc. This necessitates the development of adaptive brain-computer interfaces (BCI) whose performance does not deteriorate significantly with the adversary change in the cognitive state. In this paper, we put forward an unsupervised adaptive scheme to adapt the feature extractor of motor imagery (MI) BCIs by tracking the fatigue level of the user.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31683268

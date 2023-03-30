@@ -1,0 +1,3 @@
+Genome-wide association studies (GWASs) indicate that single-nucleotide polymorphisms in the CACNA1C and ANK3 genes increase the risk for bipolar disorder (BD). The genes influence neuronal firing by modulating calcium and sodium channel functions, respectively. Both genes modulate γ-aminobutyric acid-transmitting interneuron function and can thus affect brain regional activation and interregional connectivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24108394

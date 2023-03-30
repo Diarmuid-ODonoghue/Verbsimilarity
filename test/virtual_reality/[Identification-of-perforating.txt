@@ -1,0 +1,3 @@
+The augmented reality on smart glasses allows the surgeon to visualize three-dimensional virtual objects during surgery, superimposed in real time to the anatomy of the patient. This makes it possible to preserve the vision of the surgical field and to dispose of added computerized information without the need to use a physical surgical guide or a deported screen.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28283212

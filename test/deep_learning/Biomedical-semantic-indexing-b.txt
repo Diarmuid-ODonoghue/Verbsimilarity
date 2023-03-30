@@ -1,0 +1,3 @@
+Biomedical semantic indexing is important for information retrieval and many other research fields in bioinformatics. It annotates biomedical citations with Medical Subject Headings. In face of unbalanced category distribution in the training data, sampling methods are difficult to apply for semantic indexing task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30577745

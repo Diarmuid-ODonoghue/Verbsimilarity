@@ -1,0 +1,3 @@
+Real-life function is markedly impaired in schizophrenia and is an important outcome for interventions, but direct assessment is time consuming and resource intensive. Virtual reality (VR) enables assessment using simulation, akin to real life (RL), but allowing greater experimental control, reliability, and a more timely assessment. This study explores whether VR simulation predicts RL performance in supermarket shopping and how both relate to underlying cognitive abilities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26961185

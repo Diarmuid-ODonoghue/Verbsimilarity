@@ -1,0 +1,3 @@
+A polymerized ionic liquid electrolyte and platinum-free counter electrode are employed for solid-state DSSCs. We are able to prepare a thin polymer electrolyte layer on nanocrystalline TiO(2) in order to reduce the cell resistance. In addition, an electron conductive polymer (PEDOT/PSS) or a single-wall carbon nanotube gel is used with the cell as an inexpensive counter electrode instead of platinum. The overall photon-to-current conversion efficiency was 3.7% in this study.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20145859

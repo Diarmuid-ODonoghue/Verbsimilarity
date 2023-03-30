@@ -1,0 +1,3 @@
+Bacterial small non-coding RNAs (sRNAs) have emerged as important elements in diverse physiological processes, including growth, development, cell proliferation, differentiation, metabolic reactions and carbon metabolism, and attract great attention. Accurate prediction of sRNAs is important and challenging, and helps to explore functions and mechanism of sRNAs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30577759

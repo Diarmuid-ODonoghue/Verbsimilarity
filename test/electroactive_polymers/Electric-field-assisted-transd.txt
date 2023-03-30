@@ -1,0 +1,3 @@
+The apparent diffusion coefficients, D(app), and the release mechanisms of salicylic acid from polyacrylamide hydrogels through pigskin were investigated. D(app) increases with increasing electric field strength and reaches the maximum value at electric field strength of 0.1 V; beyond that it decreases with increasing electric field strength and becomes saturated at 5 V. The increase in D(app) at low electric field strength can be attributed to the combination of iontophoresis, electroporation of matrix pore, and induced pathway in pigskin. D(app) obeys the scaling behavior D(app)/D(o) = (drug size/pore size)m with m equal to 0.67 and 0.49 at the electric field strengths of 0 and 0.1 V, respectively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19624247

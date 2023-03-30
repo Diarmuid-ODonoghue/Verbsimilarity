@@ -1,0 +1,3 @@
+Even though we lack a precise definition of "item," it is clear that people do parse their visual environment into objects (the real-world equivalent of items). We will review evidence that items are essential in visual search, and argue that computer vision - especially deep learning - may offer a solution for the lack of a solid definition of "item."
+
+https://www.ncbi.nlm.nih.gov/pubmed/29342621

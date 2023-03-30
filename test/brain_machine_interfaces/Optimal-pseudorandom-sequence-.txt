@@ -1,0 +1,3 @@
+In a c-VEP BCI setting, test subjects can have highly varying performances when different pseudorandom sequences are applied as stimulus, and ideally, multiple codes should be supported. On the other hand, repeating the experiment with many different pseudorandom sequences is a laborious process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28902895

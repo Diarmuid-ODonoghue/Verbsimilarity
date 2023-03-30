@@ -1,0 +1,3 @@
+Motion-onset visual evoked potentials (mVEP) can provide a softer stimulus with reduced fatigue, and it has potential applications for brain computer interface(BCI)systems. However, the mVEP waveform is seriously masked in the strong background EEG activities, and an effective approach is needed to extract the corresponding mVEP features to perform task recognition for BCI control.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27845150

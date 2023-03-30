@@ -1,0 +1,3 @@
+The development of Type 1 diabetes mellitus (T1DM) within the first 7 years of life has been linked to poorer cognitive performance. Adults with T1DM have altered functional brain connectivity, but no studies have examined whether earlier age of T1DM onset is associated with functional connectivity later in life. Accordingly, we tested the relationship between age of onset and resting state functional connectivity in a cohort of middle-aged adults with childhood-onset T1DM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26163816

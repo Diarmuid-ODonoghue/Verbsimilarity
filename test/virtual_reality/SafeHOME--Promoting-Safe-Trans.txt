@@ -1,0 +1,3 @@
+This paper introduces the SafeHome Simulator system, a set of immersive Virtual Reality Training tools and display systems to train patients in safe discharge procedures in captured environments of their actual houses. The aim is to lower patient readmission by significantly improving discharge planning and training. The SafeHOME Simulator is a project currently under review.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27046553

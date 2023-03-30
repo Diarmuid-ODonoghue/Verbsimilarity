@@ -1,0 +1,3 @@
+The number of glomeruli and glomerulosclerosis evaluated on kidney biopsy slides constitute standard components of a renal pathology report. Prevailing methods for glomerular assessment remain manual, labor intensive, and nonstandardized. We developed a deep learning framework to accurately identify and segment glomeruli from digitized images of human kidney biopsies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31317118

@@ -1,0 +1,3 @@
+Strabismus is an eye movement disorder in which shows the abnormal ocular deviation. Cover tests have mainly been used in the clinical diagnosis of strabismus for treatment. However, the whole process depends on the doctor's level of experience, which could be subjected to several factors. In this study, an automated technique for measurement of ocular deviation using a virtual reality (VR) device is developed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31669940

@@ -1,0 +1,3 @@
+We explored whether the use of deep learning to model combinations of symptom-physical signs and objective tests, such as lung function tests and the bronchial challenge test, would improve model performance in predicting the initial diagnosis of adult asthma when compared to the conventional machine learning diagnostic method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31153755

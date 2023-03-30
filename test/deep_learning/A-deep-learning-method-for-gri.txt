@@ -1,0 +1,3 @@
+In this contribution it is examined whether the use of deep neural networks can lead to an accurate characterization of single point sources from microphone array data. Based on conventional beamforming maps, the proposed method aims at estimating the source coordinates and the strength. The residual network architecture, a well-established model in the field of image recognition, is successfully applied to this task. The investigation reveals a method that fast and accurately renders the position and strength of an unknown source. Moreover, the accuracy of the position estimation is higher than the grid resolution of the beamforming map.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31590523

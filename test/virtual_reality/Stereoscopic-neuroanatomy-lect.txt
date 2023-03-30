@@ -1,0 +1,3 @@
+Three-dimensional (3D) computer graphics are increasingly used to supplement the teaching of anatomy. While most systems consist of a program which produces 3D renderings on a workstation with a standard screen, the Dextrobeam virtual reality VR environment allows the presentation of spatial neuroanatomical models to larger groups of students through a stereoscopic projection system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26245861

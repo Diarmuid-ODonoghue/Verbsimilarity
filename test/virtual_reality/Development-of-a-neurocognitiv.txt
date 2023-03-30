@@ -1,0 +1,3 @@
+This paper presents a system developed for cognitive impairment evaluation and training. We integrate three different test modules in the system for decreasing the complexity of the system manipulation and increasing the completeness of various cognitive function evaluations. Besides the standard modules, including CPT and WCST, a new module to evaluate and train the cognitive ability in the three dimensional space is also developed by using the virtual reality technique. Therefore the system can improve the incompleteness of 2D shape design in the standard test and assist the physiotherapist to evaluate the patient's ability to recognize the object not only in two dimensions but also in three dimensions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17282760

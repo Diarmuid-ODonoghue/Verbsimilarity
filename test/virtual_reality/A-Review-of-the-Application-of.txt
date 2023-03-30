@@ -1,0 +1,3 @@
+At present, with the development of an aging society and an increase in the number of elderly people, in order to ensure the ability and enthusiasm of the elderly to live independently, it is necessary to ensure that they can understand the world in a normal way. More and more elderly people have cognitive impairment, and virtual reality (VR) technology is more effective in cognitive diagnosis and treatment than traditional methods. This review article describes some studies on cognitive diagnosis and training for the elderly, and puts forward some suggestions for current studies, in the hopes that VR technology can be better applied to cognitive diagnosis and training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31680934

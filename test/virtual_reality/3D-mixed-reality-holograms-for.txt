@@ -1,0 +1,3 @@
+3D reconstructions are gaining a wide diffusion in nephron-sparing surgery (NSS) planning. They have usually been studied on common 2D flat supports, with limitations regarding real depth comprehension and interaction. Nowadays, it is possible to visualize kidney 3D reconstructions as holograms in a "mixed reality" (MR) setting. The aim of this study is to test the Face and Content Validity of this technology, and to assess the role of 3D holograms in aiding preoperative planning for highly complex renal tumors amenable by NSS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31486325

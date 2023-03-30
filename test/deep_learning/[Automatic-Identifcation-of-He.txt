@@ -1,0 +1,3 @@
+To classify Right Bundle Branch Block (RBBB),Left Bundle Branch Block (LBBB) and normal ECG signals automatically.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30977601

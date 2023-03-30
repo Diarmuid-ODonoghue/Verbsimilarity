@@ -1,0 +1,3 @@
+Cadaver training for prehospital surgical procedures is a valid training model. The limitation to date has been that perfused cadavers have only been used in wet laboratories in hospitals or university centers. We endeavor to describe a transportable central-perfused cadaver model suitable for training in the battlefield environment. Goals of design were to create a simple, easily reproducible, and realistic model to simulate procedures in field and austere conditions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30064710

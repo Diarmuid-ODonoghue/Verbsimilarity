@@ -1,0 +1,3 @@
+To evaluate a haptic-based simulator, MicroVisTouch™, as an assessment tool for capsulorhexis performance in cataract surgery. The study is a prospective, unmasked, nonrandomized dual academic institution study conducted at the Wilmer Eye Institute at Johns Hopkins Medical Center (Baltimore, MD, USA) and King Khaled Eye Specialist Hospital (Riyadh, Saudi Arabia).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25653496

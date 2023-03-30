@@ -1,0 +1,3 @@
+In this paper, the classification and location of neuroblastoma in NMR images are realized by using Deep Neural Network(CNN) algorithm as the core technology. The module is integrated to realize the development of computer-aided diagnostic software. It is used to make up for the gap in the field of intelligent identification and accurate positioning of neuroblastoma in the current nuclear magnetic resonance detection technology, effectively reduce the work intensity of doctors reading films, and further promote the clinical application and technical development of nuclear magnetic resonance detection technology in the diagnosis of neuroblastoma.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31460715

@@ -1,0 +1,3 @@
+Virtual reality technology is now being used to provide exposure and desensitization for a number of phobic conditions. In this paper, we first review these current applications and discuss the work needed to refine and expand these applications to phobias. We then comment briefly on some preliminary applications of VR technology to mental-health problems outside the domain of phobias. Finally, we consider ways in which VR might be used to further enhance psychotherapy and assist in the treatment of a wide variety of disorders. Various possible interventions are discussed, along with the technological developments needed to make them possible.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11540645

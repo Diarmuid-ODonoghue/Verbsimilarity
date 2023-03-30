@@ -1,0 +1,3 @@
+For intracortical brain-machine interfaces (BMIs), action potential voltage waveforms are often sorted to separate out individual neurons. If these neurons contain independent tuning information, this process could increase BMI performance. However, the sorting of action potentials ('spikes') requires high sampling rates and is computationally expensive. To explicitly define the difference between spike sorting and alternative methods, we quantified BMI decoder performance when using threshold-crossing events versus sorted action potentials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25504690

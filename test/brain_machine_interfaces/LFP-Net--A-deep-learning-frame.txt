@@ -1,0 +1,3 @@
+Recognition of human behavioral activities using local field potential (LFP) signals recorded from the Subthalamic Nuclei (STN) has applications in developing the next generation of deep brain stimulation (DBS) systems. DBS therapy is often used for patients with Parkinson's disease (PD) when medication cannot effectively tackle patients' motor symptoms. A DBS system capable of adaptively adjusting its parameters based on patients' activities may optimize therapy while reducing the stimulation side effects and improving the battery life.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32027889

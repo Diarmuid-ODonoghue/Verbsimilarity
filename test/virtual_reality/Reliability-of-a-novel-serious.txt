@@ -1,0 +1,3 @@
+As the population of older adults is growing, the interest in a simple way to detect characterize amnestic mild cognitive impairment (aMCI), a prodromal stage of Alzheimer's disease (AD), is becoming increasingly important. Serious game (SG) -based cognitive and motor performance profiles while performing everyday activities and dual-task walking (DTW) "motor signatures" are two very promising markers that can be detected in predementia states. We aim to compare the consistency, or conformity, of measurements made by a custom SG with DTW (NAV), a SG without DTW (DOT), neuropsychological measures and genotyping as markers for early detection of aMCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25954193

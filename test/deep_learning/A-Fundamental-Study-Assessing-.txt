@@ -1,0 +1,3 @@
+Increased use of deep convolutional neural networks (DCNNs) in medical imaging diagnosis requires determinate evaluation of diagnostic performance. We performed the fundamental investigation of diagnostic performance of DCNNs using the detection task of brain metastasis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31353336

@@ -1,0 +1,3 @@
+Protein ubiquitination occurs when the ubiquitin protein binds to a target protein residue of lysine (K), and it is an important regulator of many cellular functions, such as signal transduction, cell division, and immune reactions, in eukaryotes. Experimental and clinical studies have shown that ubiquitination plays a key role in several human diseases, and recent advances in proteomic technology have spurred interest in identifying ubiquitination sites. However, most current computing tools for predicting target sites are based on small-scale data and shallow machine learning algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30777029

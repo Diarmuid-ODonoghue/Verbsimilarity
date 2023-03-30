@@ -1,0 +1,3 @@
+Simulation in orthopaedic training is becoming increasingly popular and has been widely used in formal curricula. However, these resources are expensive and not easily accessible to every trainee. Other means of disseminating surgical education through virtual reality (VR) multimedia can act as useful adjunct to traditional methods of teaching. One validated VR platform is Touch Surgery, a cognitive task simulation and rehearsal app.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26596416

@@ -1,0 +1,3 @@
+This paper describes a real-time surgery planning system using virtual reality techniques. This system allows us to simulate incision of skin and organs which respond as elastic objects with surgical tools in virtual space. Inner structures such as blood vessels and lesions can be seen and manipulated in the simulation. In addition to these functions we attempted to add a feedback function that responds to the operator's hands. We developed a force feedback device to manipulate the elastic organ model based on pressure from the operator's fingers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10180545

@@ -1,0 +1,3 @@
+To identify the feasibility of using a deep convolutional neural network (DCNN) for the detection and localization of hip fractures on plain frontal pelvic radiographs (PXRs). Hip fracture is a leading worldwide health problem for the elderly. A missed diagnosis of hip fracture on radiography leads to a dismal prognosis. The application of a DCNN to PXRs can potentially improve the accuracy and efficiency of hip fracture diagnosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30937588

@@ -1,0 +1,3 @@
+A previous study demonstrated the feasibility of using 3D radial ultrashort echo time (UTE) oxygen-enhanced MRI (UTE OE-MRI) for functional imaging of healthy human lungs. The repeatability of quantitative measures from UTE OE-MRI needs to be established prior to its application in clinical research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29086454

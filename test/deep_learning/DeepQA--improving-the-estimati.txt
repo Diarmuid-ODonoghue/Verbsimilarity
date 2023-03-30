@@ -1,0 +1,3 @@
+Protein quality assessment (QA) useful for ranking and selecting protein models has long been viewed as one of the major challenges for protein tertiary structure prediction. Especially, estimating the quality of a single protein model, which is important for selecting a few good models out of a large model pool consisting of mostly low-quality models, is still a largely unsolved problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27919220

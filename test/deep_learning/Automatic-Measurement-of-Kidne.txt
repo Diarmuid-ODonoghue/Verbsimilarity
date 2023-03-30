@@ -1,0 +1,3 @@
+The formation and growth of cysts in kidneys, and often liver, in autosomal dominant polycystic kidney disease (ADPKD) cause progressive increases in total kidney volume (TKV) and liver volume (TLV). Laborious and time-consuming manual tracing of kidneys and liver is the current gold standard. We developed a fully automated segmentation method for TKV and TLV measurement that uses a deep learning network optimized to perform semantic segmentation of kidneys and liver.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31270136

@@ -1,0 +1,3 @@
+To evaluate the differences between walking on an advanced robotic locomotion interface called the Treadport and walking overground with healthy subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30653920

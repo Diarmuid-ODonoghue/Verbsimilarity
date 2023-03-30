@@ -1,0 +1,3 @@
+Drowsiness is one of the underlying causes of driving accidents, which contribute, to many road fatalities annually. Although numerous methods have been developed to detect the level of drowsiness, techniques based on image processing are quicker and more accurate in comparison with the other methods. The aim of this study was to use image-processing techniques to detect the levels of drowsiness in a driving simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30320012

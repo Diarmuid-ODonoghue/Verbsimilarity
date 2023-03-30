@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) using chronically implanted intracortical microelectrode arrays (MEAs) have the potential to restore lost function to people with disabilities if they work reliably for years. Current sensors fail to provide reliably useful signals over extended periods of time for reasons that are not clear. This study reports a comprehensive retrospective analysis from a large set of implants of a single type of intracortical MEA in a single species, with a common set of measures in order to evaluate failure modes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24216311

@@ -1,0 +1,3 @@
+The majority of procedural training especially in interventional cardiology, still occurs on patients with direct mentoring by experienced physicians during an actual clinical procedure. In recent years there is an increase use of simulators especially for carotid artery stenting. However, most simulators use "generic" predefined cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19787804

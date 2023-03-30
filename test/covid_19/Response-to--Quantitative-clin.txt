@@ -1,0 +1,3 @@
+We appreciate the response to our timely analysis and would like to address Dr. Standing's comments. As of today, there are more than 110 clinical trials registered on clinicaltrials.gov evaluating HCQ efficacy for COVID-19. The common problem for all these studies is what is the optimal dosing regimen and what is the safety associated with said regimen in COVID-19 patients. Our goal was to synthesize all emerging data in real time using state of the art model-based tools and provide the community with a quantitative assessment of various HCQ regimens. As in any model-based analysis, assumptions are inevitable, and all the major ones are listed in our paper. Here we address the comments from Dr. Standing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348544

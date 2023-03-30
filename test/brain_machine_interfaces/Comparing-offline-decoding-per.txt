@@ -1,0 +1,3 @@
+Recently, several studies have documented the presence of a bimodal distribution of spike waveform widths in primary motor cortex. Although narrow and wide spiking neurons, corresponding to the two modes of the distribution, exhibit different response properties, it remains unknown if these differences give rise to differential decoding performance between these two classes of cells.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26824791

@@ -1,0 +1,3 @@
+Neural recording electrodes suffer from poor signal to noise ratio, charge density, biostability and biocompatibility. This paper investigates the ability of conducting polymer coated electrodes to record acute neural response in a systematic manner, allowing in depth comparison of electrochemical and electrophysiological response.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23234724

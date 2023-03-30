@@ -1,0 +1,3 @@
+Breast cancer has the highest cancer prevalence rate among the women worldwide. Early detection of breast cancer is crucial for successful treatment and reducing cancer mortality rate. However, tumor detection of breast ultrasound (US) image is still a challenging work in computer-aided diagnosis (CAD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31306148

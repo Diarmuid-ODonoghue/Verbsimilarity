@@ -1,0 +1,3 @@
+The combination of functional magnetic resonance imaging (fMRI) of the brain with multivariate pattern analysis (MVPA) has been proposed as a possible diagnostic tool. Goal of this investigation was to identify potential functional connectivity (FC) differences in the salience network (SN) and default mode network (DMN) between fibromyalgia syndrome (FMS), rheumatoid arthritis (RA), and controls (HC) and to evaluate the diagnostic applicability of derived pattern classification approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24507423

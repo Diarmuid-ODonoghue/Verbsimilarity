@@ -1,0 +1,3 @@
+Copolymers composed of PLA and PTAm were prepared by a macromonomer approach. The PLA bearing vinyl group at chain end was copolymerized with 2,2,6,6-tetrametylpiperidine-4-ylacrylamide. The resulted copolymers were oxidized by a peroxide to give PTAm-g-PLA. The structures of the copolymers were confirmed by NMR and FTIR spectroscopy. The comparison of (1)H NMR results and SQUID measurements demonstrated that the oxidation of the PTAm fragment proceeded almost to completion. An MTT assay, cell adhesion and spreading evaluation showed that the copolymers exhibited improved cytocompatibility as compared to the PTAm homopolymer due to the introduction of the biocompatible PLA moiety.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20572271

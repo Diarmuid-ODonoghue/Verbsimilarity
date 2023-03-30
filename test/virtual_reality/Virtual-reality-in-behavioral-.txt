@@ -1,0 +1,3 @@
+Virtual reality (VR) has finally come of age for serious applications in the behavioral neurosciences. After capturing the public imagination a decade ago, enthusiasm for VR flagged due to hardware limitations, an absent commercial market and manufacturers who dropped the mass-market products that normally drive technological development. Recently, however, improvements in computer speed, quality of head-mounted displays and wide-area tracking systems have made VR attractive for both research and real-world applications in neuroscience, cognitive science and psychology. New and exciting applications for VR have emerged in research, training, rehabilitation, teleoperation, virtual archeology and tele-immersion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12403993

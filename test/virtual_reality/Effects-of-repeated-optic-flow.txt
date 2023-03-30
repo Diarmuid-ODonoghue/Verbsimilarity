@@ -1,0 +1,3 @@
+Because the basic strategies to stop walking are stored as motor programs, visual stimulation may have little influence on body deviation during gait termination and its time course. Walking velocity, however, demonstrated dynamic flexible changes, which may subserve the stable process of gait termination under variable circumstantial changes such as optic flow.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23176088

@@ -1,0 +1,3 @@
+Virtual reality (VR) simulators have been demonstrated to improve basic psychomotor skills in endoscopic surgery. The exercise configuration settings used for validation in studies published so far are default settings or are based on the personal choice of the tutors. The purpose of this study was to establish consensus on exercise configurations and on a validated training program for a virtual reality simulator, based on the experience of international experts to set criterion levels to construct a proficiency-based training program.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20574856

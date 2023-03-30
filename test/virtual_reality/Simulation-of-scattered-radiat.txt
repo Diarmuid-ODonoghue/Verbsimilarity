@@ -1,0 +1,3 @@
+Scattered radiation, which occurs when using a C-arm for intraoperative radiography, can be better understood through interactive visualization. We developed a virtual reality (VR) approach for the simulation of scattered radiation (SSR) as part of a C-arm training system. In VR, it is important to avoid cyber sickness, which is often caused by increased latency between head motion and image presentation inside the head-mounted display. As the latency requirement interferes with the computational complexity of the SSR, the goal has been to maintain a low latency during the simultaneous computation of the SSR on moderate-cost consumer hardware.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32130647

@@ -1,0 +1,3 @@
+Virtual-reality (VR) simulation in orthopedic training is still in its infancy, and much of the work has been focused on arthroscopy. We evaluated the construct validity of a new VR trauma simulator for performing dynamic hip screw (DHS) fixation of a trochanteric femoral fracture.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25885171

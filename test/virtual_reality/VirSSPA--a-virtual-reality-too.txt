@@ -1,0 +1,3 @@
+A virtual reality tool, called VirSSPA, was developed to optimize the planning of surgical processes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20033611

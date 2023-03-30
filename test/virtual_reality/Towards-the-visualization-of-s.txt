@@ -1,0 +1,3 @@
+This paper presents a prototype that addresses the visualization of the microscopic activity structure in the mammalian brain. Our approach displays the spiking behaviour of neurons in multiple layers based on large-scale simulations of the cortical microcircuit. We will apply this visualization to the activity of brain-scale simulations by coupling the microscopic structure with the macroscopic level. Thereby, we hope to convey an intuitive understanding of the concise interaction and the activity flow of pairs of distant brain areas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21335880

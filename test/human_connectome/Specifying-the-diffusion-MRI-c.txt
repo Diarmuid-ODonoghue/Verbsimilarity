@@ -1,0 +1,3 @@
+Lexical tone identification has a unique role in the perceptual processes of Chinese readers. Reduced lexical tone awareness, along with poor word-decoding abilities, is frequently observed in Chinese-speaking children with developmental dyslexia. However, whether this deficit is linked to reduced auditory processing and interrupted structural connectivity in the brain requires further investigation. This study therefore explores the white matter pathways associated with Chinese character recognition and auditory processing of pitch variations, with the objective of to identify the most representative neural correlates for Chinese developmental dyslexia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30181073

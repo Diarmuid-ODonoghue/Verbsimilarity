@@ -1,0 +1,3 @@
+Today's brain-computer interfaces (BCIs) record the electrical signal from the cortex and use that signal to control an external device, such as a computer cursor, wheelchair, or neuroprosthetic. Two control strategies used by BCIs, process control and goal selection, differ in the amount of assistance the BCI system provides the user. This paper looks at non-invasive studies that directly compare goal selection to process control. In these studies, the assistance provided by a BCI using goal selection 1) increased the user's performance with the BCI and 2) resulted in an EEG signal that was more conducive to good performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22255274

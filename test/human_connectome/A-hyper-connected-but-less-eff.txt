@@ -1,0 +1,3 @@
+The functional interconnections of the addicted brain may differ from the non-addicted population in important ways, but prioranalytic approaches were usually limited to the study of connections between a few number of selected brain regions. Recent approaches enable examination of the vast functional interactions within the entire brain, the functional connectome (FCM). The purpose of this study was to characterize FCM alterations in addiction using resting state functional Magnetic Resonance Imaging (rsfMRI) and to assess their relations to addiction-related symptoms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25957794

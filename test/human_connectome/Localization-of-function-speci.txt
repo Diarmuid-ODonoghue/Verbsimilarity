@@ -1,0 +1,3 @@
+To explore whether diffusion-weighted imaging (DWI) can localize specific segments of primary motor areas in children with Sturge-Weber syndrome (SWS), this study investigated the corticospinal tract (CST) between precentral gyrus (PCG) and posterior limb of internal capsule (PIC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23463702

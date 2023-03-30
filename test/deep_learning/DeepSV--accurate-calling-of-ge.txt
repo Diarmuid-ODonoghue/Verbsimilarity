@@ -1,0 +1,3 @@
+Calling genetic variations from sequence reads is an important problem in genomics. There are many existing methods for calling various types of variations. Recently, Google developed a method for calling single nucleotide polymorphisms (SNPs) based on deep learning. Their method visualizes sequence reads in the forms of images. These images are then used to train a deep neural network model, which is used to call SNPs. This raises a research question: can deep learning be used to call more complex genetic variations such as structural variations (SVs) from sequence data?
+
+https://www.ncbi.nlm.nih.gov/pubmed/31830921

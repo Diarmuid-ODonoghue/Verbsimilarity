@@ -1,0 +1,3 @@
+Simultaneous electroencephalography (EEG) and functional magnetic resonance imaging (fMRI) combines advantages of both methods, namely high temporal resolution of EEG and high spatial resolution of fMRI. However, EEG quality is limited due to severe artifacts caused by fMRI scanners.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28155841

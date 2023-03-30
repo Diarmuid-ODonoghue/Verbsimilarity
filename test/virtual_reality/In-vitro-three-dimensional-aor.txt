@@ -1,0 +1,3 @@
+It is desirable to reduce aortic stent graft installation time and the amount of contrast media used for this process. Guidance with augmented reality can achieve this by facilitating alignment of the stent graft with the renal and mesenteric arteries.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22298412

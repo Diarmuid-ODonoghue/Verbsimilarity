@@ -1,0 +1,3 @@
+Implantable neural electrode devices are important tools for neuroscience research and have an increasing range of clinical applications. However, the intricacies of the biological response after implantation, and their ultimate impact on recording performance, remain challenging to elucidate. Establishing a relationship between the neurobiology and chronic recording performance is confounded by technical challenges related to traditional electrophysiological, material, and histological limitations. This can greatly impact the interpretations of results pertaining to device performance and tissue health surrounding the implant.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29182149

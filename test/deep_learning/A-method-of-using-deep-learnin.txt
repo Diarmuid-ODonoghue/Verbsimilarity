@@ -1,0 +1,3 @@
+To develop and test a three-dimensional (3D) deep learning model for predicting 3D voxel-wise dose distributions for intensity-modulated radiotherapy (IMRT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32281254

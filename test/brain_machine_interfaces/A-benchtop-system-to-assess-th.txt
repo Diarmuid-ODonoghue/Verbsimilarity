@@ -1,0 +1,3 @@
+State-of-the-art invasive brain-machine interfaces (BMIs) have shown significant promise, but rely on external electronics and wired connections between the brain and these external components. This configuration presents health risks and limits practical use. These limitations can be addressed by designing a fully implantable BMI similar to existing FDA-approved implantable devices. Here, a prototype BMI system whose size and power consumption are comparable to those of fully implantable medical devices was designed and implemented, and its performance was tested at the benchtop and bedside.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31585451

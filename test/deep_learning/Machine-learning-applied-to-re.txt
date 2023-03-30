@@ -1,0 +1,3 @@
+This is a systematic review on the main algorithms using machine learning (ML) in retinal image processing for glaucoma diagnosis and detection. ML has proven to be a significant tool for the development of computer aided technology. Furthermore, secondary research has been widely conducted over the years for ophthalmologists. Such aspects indicate the importance of ML in the context of retinal image processing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32293466

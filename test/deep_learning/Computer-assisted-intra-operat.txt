@@ -1,0 +1,3 @@
+Fracture reduction and fixation of syndesmotic injuries is a common procedure in trauma surgery. An intra-operative evaluation of the surgical outcome is challenging due to high inter-individual anatomical variation. A comparison to the contralateral uninjured ankle would be highly beneficial but would also incur additional radiation and time consumption. In this work, we pioneer automatic contralateral side comparison while avoiding an additional 3D scan.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31392672

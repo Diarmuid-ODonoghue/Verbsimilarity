@@ -1,0 +1,3 @@
+A new study using transcranial magnetic stimulation and a virtual reality navigation task has shown that we need the brain's occipital place area to accurately remember where objects are located in relation to boundaries, but not in relation to landmarks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27115688

@@ -1,0 +1,3 @@
+Posttraumatic stress disorder (PTSD) develops in approximately 20% of people exposed to a traumatic event, and studies have shown that cognitive-behavioral therapy (CBT) is effective as a treatment for chronic PTSD. It has also been shown to prevent PTSD when delivered early after a traumatic event. However, studies have shown that uptake of early treatment is generally low, and therefore, the need to provide interventions through other mediums has been identified. The use of technology may overcome barriers to treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25843345

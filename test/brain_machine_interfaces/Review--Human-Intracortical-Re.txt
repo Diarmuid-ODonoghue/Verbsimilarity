@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) use neural information recorded from the brain for the voluntary control of external devices. The development of BCI systems has largely focused on improving functional independence for individuals with severe motor impairments, including providing tools for communication and mobility. In this review, we describe recent advances in intracortical BCI technology and provide potential directions for further research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28278476

@@ -1,0 +1,3 @@
+Radiomics are a set of methods used to leverage medical imaging and extract quantitative features that can characterize a patient's phenotype. All modalities can be used with several different software packages. Specific informatics methods can then be used to create meaningful predictive models. In this review, we will explain the major steps of a radiomics analysis pipeline and then present the studies published in the context of radiation therapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32265157

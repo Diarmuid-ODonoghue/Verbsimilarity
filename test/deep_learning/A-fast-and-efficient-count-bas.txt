@@ -1,0 +1,3 @@
+Single-cell RNA sequencing (scRNAseq) data always involves various unwanted variables, which would be able to mask the true signal to identify cell-types. More efficient way of dealing with this issue is to extract low dimension information from high dimensional gene expression data to represent cell-type structure. In the past two years, several powerful matrix factorization tools were developed for scRNAseq data, such as NMF, ZIFA, pCMF and ZINB-WaVE. But the existing approaches either are unable to directly model the raw count of scRNAseq data or are really time-consuming when handling a large number of cells (e.g. n>500).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30953530

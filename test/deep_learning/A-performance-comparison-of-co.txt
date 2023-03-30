@@ -1,0 +1,3 @@
+Convolutional neural network (CNN)-based image denoising techniques have shown promising results in low-dose CT denoising. However, CNN often introduces blurring in denoised images when trained with a widely used pixel-level loss function. Perceptual loss and adversarial loss have been proposed recently to further improve the image denoising performance. In this paper, we investigate the effect of different loss functions on image denoising performance using task-based image quality assessment methods for various signals and dose levels.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31306488

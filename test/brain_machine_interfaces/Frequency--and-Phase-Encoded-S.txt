@@ -1,0 +1,3 @@
+In brain-computer interfaces (BCIs) based on steady-state visual evoked potentials (SSVEPs) the number of selectable targets is rather limited when each target has its own stimulation frequency. One way to remedy this is by combining frequency- with phase encoding. We introduce a new multivariate spatiotemporal filter, based on Linearly Constrained Minimum Variance (LCMV) beamforming, for discriminating between frequency-phase encoded targets more accurately, even when using short signal lengths than with (extended) Canonical Correlation Analysis (CCA), which is traditionally posited for this stimulation paradigm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27486801

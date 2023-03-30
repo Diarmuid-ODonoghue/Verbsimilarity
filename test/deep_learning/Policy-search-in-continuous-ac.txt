@@ -1,0 +1,3 @@
+Continuous action policy search is currently the focus of intensive research, driven both by the recent success of deep reinforcement learning algorithms and the emergence of competitors based on evolutionary algorithms. In this paper, we present a broad survey of policy search methods, providing a unified perspective on very different approaches, including also Bayesian Optimization and directed exploration methods. The main message of this overview is in the relationship between the families of methods, but we also outline some factors underlying sample efficiency properties of the various approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30780043

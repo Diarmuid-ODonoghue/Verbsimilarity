@@ -1,0 +1,3 @@
+To drive safely among human drivers, cyclists and pedestrians, autonomous vehicles will need to mimic, or ideally improve upon, humanlike driving. Yet, driving presents us with difficult problems of joint action: 'negotiating' with other users over shared road space. We argue that autonomous driving provides a test case for computational theories of social interaction, with fundamental implications for the development of autonomous vehicles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29249603

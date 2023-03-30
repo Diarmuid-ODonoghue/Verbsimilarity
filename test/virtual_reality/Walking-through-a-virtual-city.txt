@@ -1,0 +1,3 @@
+This paper gives a short overview of the feasibility of walking through a virtual city by using motor imagery. Therefore an electroencephalogram-based brain-computer interface (BCI) is combined with virtual reality technology. A BCI transforms bioelectrical brain signals, modulated by mental activity (e.g. imagination of foot or right hand movements), into a control signal. This signal is used to walk forward / backward or to remain stationary inside a virtual city. Results of the first experimental sessions are presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17271307

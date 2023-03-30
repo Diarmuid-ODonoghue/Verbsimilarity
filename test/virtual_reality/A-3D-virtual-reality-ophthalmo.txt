@@ -1,0 +1,3 @@
+Performing eye examinations is an important clinical skill that medical students often find difficult to become proficient in. This paper describes the development and evaluation of an innovative 3D virtual reality (VR) training application to support learning these skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28401705

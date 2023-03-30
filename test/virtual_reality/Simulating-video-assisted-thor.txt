@@ -1,0 +1,3 @@
+Current video-assisted thoracoscopic surgery training models rely on animals or mannequins to teach procedural skills. These approaches lack inherent teaching/testing capability and are limited by cost, anatomic variations, and single use. In response, we hypothesized that video-assisted thoracoscopic surgery right upper lobe resection could be simulated in a virtual reality environment with commercial software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21168026

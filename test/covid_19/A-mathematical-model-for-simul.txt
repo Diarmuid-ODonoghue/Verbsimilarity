@@ -1,0 +1,3 @@
+As reported by the World Health Organization, a novel coronavirus (2019-nCoV) was identified as the causative virus of Wuhan pneumonia of unknown etiology by Chinese authorities on 7 January, 2020. The virus was named as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) by International Committee on Taxonomy of Viruses on 11 February, 2020. This study aimed to develop a mathematical model for calculating the transmissibility of the virus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32111262

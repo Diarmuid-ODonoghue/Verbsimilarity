@@ -1,0 +1,3 @@
+Neurofeedback is a technique that aims to teach a subject to regulate a brain parameter measured by a technical interface to modulate his/her related brain and cognitive activities. However, the use of neurofeedback as a therapeutic tool for psychiatric disorders remains controversial. The aim of this review is to summarize and to comment the level of evidence of electroencephalogram (EEG) neurofeedback and real-time functional magnetic resonance imaging (fMRI) neurofeedback for therapeutic application in psychiatry.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28041692

@@ -1,0 +1,3 @@
+Previous studies of imaging predictors on acute treatment response in late-life depression (LLD) demonstrated that poor response to selective serotonin reuptake inhibitors (SSRIs) is associated with pre-treatment low functional connectivity (FC) within executive control network and high FC within default-mode network including the ventromedial prefrontal cortex (vmPFC). However, there is less research in regional resting-state functional activity that explains FC changes related to SSRI response.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30761621

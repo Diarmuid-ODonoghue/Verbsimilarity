@@ -1,0 +1,3 @@
+To provide a systematic overview of the literature assessing the value of haptic and force feedback in current simulators teaching laparoscopic surgical skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30082239

@@ -1,0 +1,3 @@
+In recent years, the literature associated with healthcare big data has grown rapidly, but few studies have used bibliometrics and a visualization approach to conduct deep mining and reveal a panorama of the healthcare big data field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28034409

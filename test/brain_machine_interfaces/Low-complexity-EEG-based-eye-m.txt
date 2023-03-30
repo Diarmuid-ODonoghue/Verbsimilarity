@@ -1,0 +1,3 @@
+This paper presents an eye movement classification algorithm for EEG-based brain-computer interface. The proposed system first used a low-complexity extended moving difference filter to acquire clean pulse waveform of eye-movement events. Then, a pulse width demodulation algorithm was designed to identify eye-movement events of left/right/up/down directions. The eye blinking events can be easily eliminated by excluding the pulses with small pulse-width, and thus the detection rate can be improved. Besides, the pulse width demodulation requires only addition operations to achieve a near 90% averaged detection. The computation complexity is much lower than those of other works in the literature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26737962

@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) use electroencephalography (EEG) to interpret user intention and control an output device accordingly. We describe a novel BCI method to use a signal from five EEG channels (comprising one primary channel with four additional channels used to calculate its Laplacian derivation) to provide two-dimensional (2-D) control of a cursor on a computer screen, with simple threshold-based binary classification of band power readings taken over pre-defined time windows during subject hand movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19419576

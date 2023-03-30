@@ -1,0 +1,3 @@
+Deep learning (DL) has demonstrated human expert levels of performance for medical image classification in a wide array of medical fields, including ophthalmology. In this article, we present the results of our DL system designed to determine optic disc laterality, right eye vs left eye, in the presence of both normal and abnormal optic discs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31453913

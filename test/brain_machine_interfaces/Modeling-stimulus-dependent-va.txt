@@ -1,0 +1,3 @@
+Neural responses to repeated presentations of an identical stimulus often show substantial trial-to-trial variability. How the mean firing rate varies in response to different stimuli or during different movements (tuning curves) has been extensively modeled in a wide variety of neural systems. However, the variability of neural responses can also have clear tuning independent of the tuning in the mean firing rate. This suggests that the variability could contain information regarding the stimulus/movement beyond what is encoded in the mean firing rate. Here we demonstrate how taking variability into account can improve neural decoding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31404915

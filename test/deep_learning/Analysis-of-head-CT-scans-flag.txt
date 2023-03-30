@@ -1,0 +1,3 @@
+To analyze the implementation of deep learning software for the detection and worklist prioritization of acute intracranial hemorrhage on non-contrast head CT (NCCT) in various clinical settings at an academic medical center.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31828361

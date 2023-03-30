@@ -1,0 +1,3 @@
+Due to the advent of deep learning, the increasing number of studies in the biomedical domain has attracted much interest in feature extraction and classification tasks. In this research, we seek the best combination of feature set and hyperparameter setting of deep learning algorithms for relation classification. To this end, we incorporate an entity and relation extraction tool, PKDE4J to extract biomedical features (i.e., biomedical entities, relations) for the relation classification. We compared the chosen Convolutional Neural Networks (CNN) based classification model with the most widely used learning algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31138159

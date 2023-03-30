@@ -1,0 +1,3 @@
+Brain-machine interfaces are not only promising for neurological applications, but also powerful for investigating neuronal ensemble dynamics during learning. We trained mice to operantly control an auditory cursor using spike-related calcium signals recorded with two-photon imaging in motor and somatosensory cortex. Mice rapidly learned to modulate activity in layer 2/3 neurons, evident both across and within sessions. Learning was accompanied by modifications of firing correlations in spatially localized networks at fine scales.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24728268

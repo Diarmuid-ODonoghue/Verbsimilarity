@@ -1,0 +1,3 @@
+An immersive virtual reality (VR) simulation clinic with dynamic patient interaction and communication was developed to facilitate the training of medical radiation science students. The software "CETSOL VR Clinic" was integrated into the Medical Imaging programme at Monash University in 2016 in order to benchmark student experiences against existing simulation techniques (Shaderware™).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30006966

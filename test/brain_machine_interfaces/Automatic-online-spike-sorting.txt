@@ -1,0 +1,3 @@
+Understanding how neurons contribute to perception, motor functions and cognition requires the reliable detection of spiking activity of individual neurons during a number of different experimental conditions. An important problem in computational neuroscience is thus to develop algorithms to automatically detect and sort the spiking activity of individual neurons from extracellular recordings. While many algorithms for spike sorting exist, the problem of accurate and fast online sorting still remains a challenging issue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22871125

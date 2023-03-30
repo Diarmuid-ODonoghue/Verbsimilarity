@@ -1,0 +1,3 @@
+Deep band modulation (DBM) improves speech perception in individuals with learning disability and older adults, who had temporal impairment in them. However, it is unclear on perception of DBM phrases at quiet and noise conditions in individuals with auditory neuropathy spectrum disorder (ANSD) and sensorineural hearing loss (SNHL), as these individuals suffer from temporal impairment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28816204

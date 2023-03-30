@@ -1,0 +1,3 @@
+In recent years, biomedical devices have proven to be able to target also different neurological disorders. Given the rapid ageing of the population and the increase of invalidating diseases affecting the central nervous system, there is a growing demand for biomedical devices of immediate clinical use. However, to reach useful therapeutic results, these tools need a multidisciplinary approach and a continuous dialogue between neuroscience and engineering, a field that is named neuroengineering. This is because it is fundamental to understand how to read and perturb the neural code in order to produce a significant clinical outcome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32166141

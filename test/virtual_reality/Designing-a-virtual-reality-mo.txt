@@ -1,0 +1,3 @@
+Aesthetic surgery deals in large part with the manipulation of soft-tissue structures that are not amenable to visualization by standard technologies. As a result, accurate three-dimensional depictions of relevant surgical anatomy have yet to be developed. This study presents a method for the creation of detailed virtual reality models of anatomy relevant to aesthetic surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16141834

@@ -1,0 +1,3 @@
+Placebo effects are mediated by expectancy, which is highly influenced by psychosocial factors of a treatment context. These factors are difficult to standardize. Furthermore, dedicated placebo research often necessitates single-blind deceptive designs where biases are easily introduced. We propose a study protocol employing a virtual experimenter - a computer program designed to deliver treatment and instructions - for the purpose of standardization and reduction of biases when investigating placebo effects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27430476

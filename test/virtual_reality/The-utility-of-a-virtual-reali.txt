@@ -1,0 +1,3 @@
+To investigate the effect of optic flow on gait behavior during treadmill walking using an immersive virtual reality (VR) setup and compare it with conventional treadmill walking (TW) and overground walking (OW).
+
+https://www.ncbi.nlm.nih.gov/pubmed/17702221

@@ -1,0 +1,3 @@
+Deep learning has always been at the forefront of scientific research. It has also been applied to medical research. Hereditary spinocerebellar ataxia (SCA) is characterized by gait abnormalities and is usually evaluated semi-quantitatively by scales. However, more detailed gait characteristics of SCA and related objective methods have not yet been established. Therefore, the purpose of this study was to evaluate the gait characteristics of SCA patients, as well as to analyze the correlation between gait parameters, clinical scales, and imaging on deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32143799

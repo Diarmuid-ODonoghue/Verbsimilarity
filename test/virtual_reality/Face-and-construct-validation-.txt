@@ -1,0 +1,3 @@
+Surgical performance is affected by distractors and interruptions to surgical workflow that exist in the operating room. However, traditional surgical simulators are used to train surgeons in a skills laboratory that does not recreate these conditions. To overcome this limitation, we have developed a novel, immersive virtual reality (Gen2-VR) system to train surgeons in these environments. This study was to establish face and construct validity of our system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26092010

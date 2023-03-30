@@ -1,0 +1,3 @@
+The use of Brain-Computer Interface (BCI) technology in neurorehabilitation provides new strategies to overcome stroke-related motor limitations. Recent studies demonstrated the brain's capacity for functional and structural plasticity through BCI. However, it is not fully clear how we can take full advantage of the neurobiological mechanisms underlying recovery and how to maximize restoration through BCI. In this study we investigate the role of multimodal virtual reality (VR) simulations and motor priming (MP) in an upper limb motor-imagery BCI task in order to maximize the engagement of sensory-motor networks in a broad range of patients who can benefit from virtual rehabilitation training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27503007

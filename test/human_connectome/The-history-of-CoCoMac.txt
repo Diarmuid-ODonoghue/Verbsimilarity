@@ -1,0 +1,3 @@
+CoCoMac, the "Collation of Connectivity Data for the Macaque" is a relational database system which presently constitutes the largest electronic repository of published neuroanatomical connectivity data. Developed since 1996, CoCoMac comprises approximately 40,000 experimental findings on anatomical connections in the macaque brain, as derived from neuroanatomical tract tracing studies. In this historical review, I describe the origin and the history of CoCoMac from a personal perspective, illustrate the principles of its structure and outline the impact it has had on systems neuroscience, in particular as a prelude to the "Human Connectome" research programme.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23523808

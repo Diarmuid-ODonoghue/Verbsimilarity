@@ -1,0 +1,3 @@
+Motif discovery in large biopolymer sequence datasets can be computationally demanding, presenting significant challenges for discovery in omics research. MEME, arguably one of the most popular motif discovery software, takes quadratic time with respect to dataset size, leading to excessively long runtimes for large datasets. Therefore, there is a demand for fast programs that can generate results of the same quality as MEME.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29790915

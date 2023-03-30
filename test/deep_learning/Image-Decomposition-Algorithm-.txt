@@ -1,0 +1,3 @@
+Dual-energy computed tomography (DECT) has been widely used due to improved substances identification from additional spectral information. The quality of material-specific image produced by DECT attaches great importance to the elaborated design of the basis material decomposition method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30254689

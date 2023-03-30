@@ -1,0 +1,3 @@
+Tuberculosis is a leading cause of death from infectious disease worldwide, and is an epidemic in many developing nations. Countries where the disease is common also tend to have poor access to medical care, including diagnostic tests. Recent advancements in artificial intelligence may help to bridge this gap. In this article, we review the applications of artificial intelligence in the diagnosis of tuberculosis using chest radiography, covering simple computer-aided diagnosis systems to more advanced deep learning algorithms. In so doing, we will demonstrate an area where artificial intelligence could make a substantial contribution to global health through improved diagnosis in the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31759796

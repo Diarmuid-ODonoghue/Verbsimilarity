@@ -1,0 +1,3 @@
+The constrained ICA (cICA) is a recent approach which can extract the desired source signal by using prior information. cICA employs gradient-based algorithms to optimize non convex objective functions and therefore global optimum solution is not guaranteed. In this study, we propose the Global optimal constrained ICA (GocICA) algorithm for solving the conventional cICA problems. Due to the importance of movement related cortical potentials (MRCPs) for neurorehabilitation and developing a suitable mechanism for detection of movement intention, single-trial MRCP extraction is presented as an application of GocICA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30415714

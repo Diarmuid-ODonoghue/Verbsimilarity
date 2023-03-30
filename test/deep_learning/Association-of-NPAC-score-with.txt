@@ -1,0 +1,3 @@
+Risk stratification in acute myocardial infarction (AMI) is important for guiding clinical management. Current risk scores are mostly derived from clinical trials with stringent patient selection. We aimed to establish and evaluate a composite scoring system to improve short-term mortality classification after index episodes of AMI, independent of electrocardiography (ECG) pattern, in a large real-world cohort.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32304975

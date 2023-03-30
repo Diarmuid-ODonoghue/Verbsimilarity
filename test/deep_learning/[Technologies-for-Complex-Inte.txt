@@ -1,0 +1,3 @@
+The paper presents the system for intelligent analysis of clinical information. Authors describe methods implemented in the system for clinical information retrieval, intelligent diagnostics of chronic diseases, patient's features importance and for detection of hidden dependencies between features. Results of the experimental evaluation of these methods are also presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27522718

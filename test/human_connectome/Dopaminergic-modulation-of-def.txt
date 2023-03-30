@@ -1,0 +1,3 @@
+Recent evidence suggests that attention deficit hyperactivity disorder (ADHD) is associated with a range of brain functional connectivity abnormalities, with one of the most prominent being reduced inhibition of the default mode network (DMN) while performing a cognitive task. In this study, we examine the effects of a methylphenidate dose on brain functional connectivity in boys diagnosed with ADHD while they performed a cognitive task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28032005

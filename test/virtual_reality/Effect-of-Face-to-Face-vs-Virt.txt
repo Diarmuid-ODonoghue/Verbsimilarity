@@ -1,0 +1,3 @@
+Bystander cardiopulmonary resuscitation (CPR) is crucial for survival after cardiac arrest but not performed in most cases. New, low-cost, and easily accessible training methods, such as virtual reality (VR), may reach broader target populations, but data on achieved CPR skills are lacking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31734702

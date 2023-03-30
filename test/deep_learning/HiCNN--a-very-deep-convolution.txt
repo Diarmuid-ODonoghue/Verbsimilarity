@@ -1,0 +1,3 @@
+High-resolution Hi-C data are indispensable for the studies of three-dimensional (3D) genome organization at kilobase level. However, generating high-resolution Hi-C data (e.g. 5 kb) by conducting Hi-C experiments needs millions of mammalian cells, which may eventually generate billions of paired-end reads with a high sequencing cost. Therefore, it will be important and helpful if we can enhance the resolutions of Hi-C data by computational methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31056636

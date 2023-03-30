@@ -1,0 +1,3 @@
+Two real-time three-dimensional images of first-trimester pregnancies visualized using virtual reality (VR) are presented. Inherently three-dimensional structures, like the umbilical cord and limbs, can be efficiently and accurately measured using VR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21255699

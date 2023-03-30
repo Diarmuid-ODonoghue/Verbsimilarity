@@ -1,0 +1,3 @@
+Within brain-machine interface systems, cortically implanted microelectrode arrays and associated hardware have a low-power budget for data sampling, processing, and transmission. Recent studies have shown the feasibility of data transmission rate reduction using compressed sensing on detected neural spikes. They provide power savings while maintaining clustering and classification abilities. We propose and analyze here a low-power hardware implementation for spike detection and compression. The resulting integrated circuit, designed in CMOS 65 nm technology, consumes 2.83 µW and provides 97% of data rate reduction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110148

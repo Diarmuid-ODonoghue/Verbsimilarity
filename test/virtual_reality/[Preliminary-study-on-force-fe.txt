@@ -1,0 +1,3 @@
+This paper discusses the application of virtual reality technology in the 3-D visible human body and acupuncture research. Based on the 3-D visible human fused with the localization information and hierarchy of acupoints, the paper analyzes the force against the needle and haptic rendering during the needle manipulation according to the physical properties of different tissues. A haptic model is constructed to demonstrate the force behaviors during acupuncture, and the force will be produced and passed to the manipulator by a force feedback device. It enriches the contents of 3-D visible human project, provides a dynamic simulation instrument for acupuncture teaching, and supplies a platform for acupuncture research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17432116

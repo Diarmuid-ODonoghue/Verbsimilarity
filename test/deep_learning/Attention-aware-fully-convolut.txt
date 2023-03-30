@@ -1,0 +1,3 @@
+One of the promising options for motion management in radiation therapy (RT) is the use of LINAC-compatible robotic-arm-mounted ultrasound imaging system due to its high soft tissue contrast, real-time capability, absence of ionizing radiation, and low cost. The purpose of this work is to develop a novel deep learning-based real-time motion tracking strategy for ultrasound image-guided RT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30912590

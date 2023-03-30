@@ -1,0 +1,3 @@
+Augmented reality (AR) commonly uses markers for detection and tracking. Such multimedia applications associate each marker with a virtual 3D model stored in the memory of the camera-equipped device running the application. Application users are limited in their interactions, which require knowing how to design and program 3D objects. This generally prevents them from developing their own entertainment AR applications. The Magic Cards application solves this problem by offering an easy way to create and manage an unlimited number of virtual objects that are encoded on special markers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24807878

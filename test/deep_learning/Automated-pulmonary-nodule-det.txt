@@ -1,0 +1,3 @@
+Pulmonary nodule detection has great significance for early treating lung cancer and increasing patient survival. This work presents a novel automated computer-aided detection scheme for pulmonary nodules based on deep convolutional neural networks (DCNNs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31028657

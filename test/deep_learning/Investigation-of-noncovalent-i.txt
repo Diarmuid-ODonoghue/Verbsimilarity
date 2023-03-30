@@ -1,0 +1,3 @@
+The conformation of a protein largely depends on the interactions between peptides. Specific and intrinsic sequence peptide patterns, such as DNA double helix backbones, may be present in proteins. A computational statistical deep learning method has supported this assumption, but it has not been experimentally proven. Mass spectrometry, as a fast and accurate experimental method, could be used to evaluate the interaction of biomolecules. The results would be of great value for further study of the mechanism of protein folding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32040870

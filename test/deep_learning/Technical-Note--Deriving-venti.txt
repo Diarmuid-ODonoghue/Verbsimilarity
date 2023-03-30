@@ -1,0 +1,3 @@
+Ventilation images can be derived from four-dimensional computed tomography (4DCT) by analyzing the change in HU values and deformable vector fields between different respiration phases of computed tomography (CT). As deformable image registration (DIR) is involved, accuracy of 4DCT-derived ventilation image is sensitive to the choice of DIR algorithms. To overcome the uncertainty associated with DIR, we develop a method based on deep convolutional neural network (CNN) to derive ventilation images directly from the 4DCT without explicit image registration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30714159

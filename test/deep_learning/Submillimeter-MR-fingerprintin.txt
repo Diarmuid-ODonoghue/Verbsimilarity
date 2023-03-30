@@ -1,0 +1,3 @@
+To develop a rapid 2D MR fingerprinting technique with a submillimeter in-plane resolution using a deep learning-based tissue quantification approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31854461

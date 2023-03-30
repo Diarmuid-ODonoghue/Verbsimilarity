@@ -1,0 +1,3 @@
+Recent advances in military-funded neurotechnology and novel opportunities for misusing neurodevices show that the problem of dual use is inherent to neuroscience. This paper discusses how the neuroscience community should respond to these dilemmas and delineates a neuroscience-specific biosecurity framework. This neurosecurity framework involves calibrated regulation, (neuro)ethical guidelines, and awareness-raising activities within the scientific community.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29346750

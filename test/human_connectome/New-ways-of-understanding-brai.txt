@@ -1,0 +1,3 @@
+Inside the brain, neural regions dynamically interact at multiple spatial and temporal scales through a highly structured and adaptive neurocircuitry. Comprehensive maps of brain connectivity have led to the emerging field of connectomics. Graph theory methods are interesting tools to improve our understanding of the brain as a complex interconnected system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30250385

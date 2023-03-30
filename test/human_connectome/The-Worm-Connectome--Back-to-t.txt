@@ -1,0 +1,3 @@
+Large-scale efforts are underway to map the neuronal connectomes of various animal species. In 1986 White et al. reported the first complete reconstruction of the nervous system connectome of an animal. Largely through manual reconstruction of serial electron micrographs, the authors characterized the morphology of each of the 302 neurons of the adult nematode C. elegans, and mapped the chemical and electrical synapses that connect them. This wiring diagram has profoundly influenced behavioral neurobiology and network science, and it continues to offer a guide for the impact of connectomics on neurobiology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30366562

@@ -1,0 +1,3 @@
+The estimation of the vertical in humans is important in everyday life although the mechanisms involved are not completely understood yet. This paper presents two sets of experiments with normal subjects, using the same virtual reality setup, aiming to help in this understanding. First, a steady state experiment is presented, which is used to determine the gravitational vertical precision while the second, a dynamical transient response experiment, is used to find dynamic models of each subject response. Results show that the dynamic models are able to reproduce the results of the steady state experiment while having the benefits that a dynamic model brings to evaluate subjects performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21095716

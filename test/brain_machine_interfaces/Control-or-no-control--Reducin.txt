@@ -1,0 +1,3 @@
+In order to improve Brain Computer Interface usability for real life context, they should be able to adapt their speed to the user's current psychophysical state and to understand from the ongoing EEG when he/she intends to suspend the control. In this work we evaluated an asynchronous classifier which provides these feature with 20 healthy subjects, who were engaged in an environmental control task or in a spelling task. We also demonstrated how the proposed classifier can improve communication efficiency with respect to classical synchronous classifiers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366264

@@ -1,0 +1,3 @@
+Gait and cognitive disturbances are common in Parkinson's disease (PD). These deficits exacerbate fall risk and difficulties with mobility, especially during complex or dual-task walking. Traditional gait training generally fails to fully address these complex gait activities. Virtual reality (VR) incorporates principles of motor learning while delivering engaging and challenging training in complex environments. We hypothesized that VR may be applied to address the multifaceted deficits associated with fall risk in PD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21106702

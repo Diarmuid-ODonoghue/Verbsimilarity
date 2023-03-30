@@ -1,0 +1,3 @@
+For diagnosis of arrhythmic heart problems, electrocardiogram (ECG) signals should be recorded and monitored. The long-term signal records obtained are analyzed by expert cardiologists. Devices such as the Holter monitor have limited hardware capabilities. For improved diagnostic capacity, it would be helpful to detect arrhythmic signals automatically. In this study, a novel approach is presented as a candidate solution for these issues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31200900

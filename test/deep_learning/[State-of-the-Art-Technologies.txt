@@ -1,0 +1,3 @@
+Nuclear medicine imaging is an important tool for cancer diagnosis, brain research, molecular imaging research and so on. Therefore, various imaging techniques and methods are being developed and investigated in nuclear medicine physics. In this report, we introduce state-of-the-art techniques, such as Compton camera imaging, time-of-flight positron emission tomography, semiconductor detectors for medical applications, image reconstruction and deep learning, which were reported in the 2017 IEEE Nuclear Science Symposium & Medical Imaging Conference.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30122717

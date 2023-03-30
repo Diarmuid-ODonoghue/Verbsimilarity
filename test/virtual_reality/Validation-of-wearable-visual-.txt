@@ -1,0 +1,3 @@
+Gait retraining interventions using real-time biofeedback have been proposed to alter the loading across the knee joint in patients with knee osteoarthritis. Despite the demonstrated benefits of these conservative treatments, their clinical adoption is currently obstructed by the high complexity, spatial demands, and cost of optical motion capture systems. In this study we propose and evaluate a wearable visual feedback system for gait retraining of the foot progression angle (FPA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30111337

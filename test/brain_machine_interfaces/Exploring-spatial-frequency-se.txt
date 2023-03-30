@@ -1,0 +1,3 @@
+Conventional methods of motor imagery brain computer interfaces (MI-BCIs) suffer from the limited number of samples and simplified features, so as to produce poor performances with spatial-frequency features and shallow classifiers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30268089

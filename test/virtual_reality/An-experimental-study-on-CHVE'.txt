@@ -1,0 +1,3 @@
+Virtual reality-based training simulators, with collaborative capabilities, are known to improve the way users interact with one another while learning or improving skills on a given medical procedure. Performance evaluation of Collaborative Haptic Virtual Environments (CHVE) allows us to understand how such systems can work in the Internet, as well as the requirements for multisensorial and real-time data. This work discloses new performance evaluation results for the collaborative module of the CyberMed VR framework.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22357012

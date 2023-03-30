@@ -1,0 +1,3 @@
+Heart disease (HD) is the leading cause of global death; there are several mortality prediction models of HD for identifying critically-ill patients and for guiding decision making. The existing models, however, cannot be used during initial treatment or screening. This study aimed to derive and validate an echocardiography-based mortality prediction model for HD using deep learning (DL).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30515886

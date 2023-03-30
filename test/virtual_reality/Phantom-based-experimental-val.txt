@@ -1,0 +1,3 @@
+Recently, image-based computational fluid dynamics (CFD) simulation has been applied to investigate the hemodynamics inside human cerebral aneurysms. The knowledge of the computed three-dimensional flow fields is used for clinical risk assessment and treatment decision making. However, the reliability of the application specific CFD results has not been thoroughly validated yet.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20964225

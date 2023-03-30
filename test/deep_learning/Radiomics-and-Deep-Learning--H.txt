@@ -1,0 +1,3 @@
+Radiomics and deep learning have recently gained attention in the imaging assessment of various liver diseases. Recent research has demonstrated the potential utility of radiomics and deep learning in staging liver fibroses, detecting portal hypertension, characterizing focal hepatic lesions, prognosticating malignant hepatic tumors, and segmenting the liver and liver tumors. In this review, we outline the basic technical aspects of radiomics and deep learning and summarize recent investigations of the application of these techniques in liver disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32193887

@@ -1,0 +1,3 @@
+Task-induced amplitude modulation of neural oscillations is routinely used in brain-computer interfaces (BCIs) for decoding subjects' intents, and underlies some of the most robust and common methods in the field, such as common spatial patterns and Riemannian geometry. While there has been some interest in phase-related features for classification, both techniques usually presuppose that the frequencies of neural oscillations remain stable across various tasks. We investigate here whether features based on task-induced modulation of the frequency of neural oscillations enable decoding of subjects' intents with an accuracy comparable to task-induced amplitude modulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28925374

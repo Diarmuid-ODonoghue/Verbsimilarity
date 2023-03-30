@@ -1,0 +1,3 @@
+Evaluating corneal morphologic characteristics with corneal tomographic scans before refractive surgery is necessary to exclude patients with at-risk corneas and keratoconus. In previous studies, researchers performed screening with machine learning methods based on specific corneal parameters. To date, a deep learning algorithm has not been used in combination with corneal tomographic scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32215587

@@ -1,0 +1,3 @@
+Osteoporosis is hard to detect before it manifests symptoms and complications. In this study, we evaluated machine learning models for identifying individuals with abnormal bone mineral density (BMD) through an analysis of spine X-ray features extracted by deep learning to alert high-risk osteoporosis populations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31760458

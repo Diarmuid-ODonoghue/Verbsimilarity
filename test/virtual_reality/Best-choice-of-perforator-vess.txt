@@ -1,0 +1,3 @@
+Computed tomographic angiography (CTA) is being considered as the current "gold standard" for the preoperative planning of DIEP flaps. The aim of the study was to demonstrate the concordance between the preoperative choice of the best perforator vessel by the radiologist using CTA and the surgeon using the VirSSPA software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26050970

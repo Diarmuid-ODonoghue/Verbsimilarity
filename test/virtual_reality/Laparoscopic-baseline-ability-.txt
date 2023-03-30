@@ -1,0 +1,3 @@
+Assessment of any surgical skill is time-consuming and difficult. Currently, there are no accepted metrics for most surgical skills, especially laparoscopic skills. Virtual reality has been utilized for laparoscopic training of surgical residents. Our hypothesis is that this technology can be utilized for laparoscopic ability metrics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15772470

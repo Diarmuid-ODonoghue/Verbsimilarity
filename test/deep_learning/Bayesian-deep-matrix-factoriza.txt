@@ -1,0 +1,3 @@
+This paper aims at proposing a robust and fast low rank matrix factorization model for multiple images denoising. To this end, a novel model, Bayesian deep matrix factorization network (BDMF), is presented, where a deep neural network (DNN) is designed to model the low rank components and the model is optimized via stochastic gradient variational Bayes. By the virtue of deep learning and Bayesian modeling, BDMF makes significant improvement on synthetic experiments and real-world tasks (including shadow removal and hyperspectral image denoising), compared with existing state-of-the-art models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31952008

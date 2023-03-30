@@ -1,0 +1,3 @@
+Application of deep learning algorithms to whole-slide pathology images can potentially improve diagnostic accuracy and efficiency.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29234806

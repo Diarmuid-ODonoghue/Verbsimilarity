@@ -1,0 +1,3 @@
+O6-methylguanine-DNA methyltransferase (MGMT) promoter methylation is reported to be a prognostic and predictive factor of alkylating chemotherapy for glioblastoma patients. Methylation specific PCR (MSP) has been most commonly used when the methylation status of MGMT is assessed. However, technical obstacles have hampered the implementation of MSP-based diagnostic tests. We quantitatively analyzed the methylation status of the entire MGMT promoter region and applied this information for prognostic prediction using sequencing technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25175833

@@ -1,0 +1,3 @@
+Mindfulness meditation training interventions have been shown to improve markers of health, but the underlying neurobiological mechanisms are not known. Building on initial cross-sectional research showing that mindfulness meditation may increase default mode network (DMN) resting-state functional connectivity (rsFC) with regions important in top-down executive control (dorsolateral prefrontal cortex [dlPFC]), here we test whether mindfulness meditation training increases DMN-dlPFC rsFC and whether these rsFC alterations prospectively explain improvements in interleukin (IL)-6 in a randomized controlled trial.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27021514

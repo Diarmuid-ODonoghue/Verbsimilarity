@@ -1,0 +1,3 @@
+Real-time assessment of ventricular volumes requires high acceleration factors. Residual convolutional neural networks (CNN) have shown potential for removing artifacts caused by data undersampling. In this study, we investigated the ability of CNNs to reconstruct highly accelerated radial real-time data in patients with congenital heart disease (CHD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30194880

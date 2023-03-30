@@ -1,0 +1,3 @@
+Haptic virtual reality (VR) has revolutionized the skill acquisition in dentistry. The strength of the haptic VR system is that it can automatically record the outcome and associated kinematic data on how each step of the task is performed, which are not available in the conventional skill training environments. The aim of this study was to assess skill acquisition in endodontics and to identify process and outcome variables for the quantification of proficiency.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20003935

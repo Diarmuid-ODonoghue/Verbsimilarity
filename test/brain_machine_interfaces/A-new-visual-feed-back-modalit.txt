@@ -1,0 +1,3 @@
+A common problem in EEG recording sessions is that results can be heavily contaminated by artifacts. One of the main reasons is that eyes movements generate a noise signal that superimpose to the data. In some BCI protocols the user has generally to control the movement of a cursor on a PC screen by self-regulating his/her mu-rhythm. In general this requires the user to move the eyes to follow the same cursor, thus intrinsically generating a huge amount of noise. To overcome this problem a new feedback modality has been developed, which is able to dramatically reduce the artifacts as it does not require subjects to move their eyes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19162911

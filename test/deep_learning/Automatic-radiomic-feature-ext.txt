@@ -1,0 +1,3 @@
+Angiographic parametric imaging (API) is an imaging method that uses digital subtraction angiography (DSA) to characterize contrast media dynamics throughout the vasculature. This requires manual placement of a region of interest over a lesion (eg, an aneurysm sac) by an operator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31444288

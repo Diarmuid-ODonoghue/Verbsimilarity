@@ -1,0 +1,3 @@
+Complex tasks such as surgical procedures can induce excessive cognitive load (CL), which can have a negative effect on learning, especially for novices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29730952

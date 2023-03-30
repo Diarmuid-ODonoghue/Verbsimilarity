@@ -1,0 +1,3 @@
+The objective is to develop and validate an artificial neural network (ANN) that learns and predicts length of stay (LOS), inpatient charges, and discharge disposition before primary total knee arthroplasty (TKA). The secondary objective applied the ANN to propose a risk-based, patient-specific payment model (PSPM) commensurate with case complexity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31285089

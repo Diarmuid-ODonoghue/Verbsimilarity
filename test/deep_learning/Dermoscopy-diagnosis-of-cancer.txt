@@ -1,0 +1,3 @@
+Early diagnosis of skin cancer lesions by dermoscopy, the gold standard in dermatological imaging, calls for a diagnostic upscale. The aim of the study was to improve the accuracy of dermoscopic skin cancer diagnosis through use of novel deep learning (DL) algorithms. An additional sonification-derived diagnostic layer was added to the visual classification to increase sensitivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30674442

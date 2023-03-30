@@ -1,0 +1,3 @@
+Typical brain development is characterized by specific patterns of maturation of functional networks. Cortico-cortical connectivity generally increases, whereas subcortico-cortical connections often decrease. Little is known about connectivity changes amongst different subcortical regions in typical development.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29961267

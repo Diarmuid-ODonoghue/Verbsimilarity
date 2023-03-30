@@ -1,0 +1,3 @@
+There is significant growth in the use of the robotic surgery platform in the general surgery community. Current pre-requisites for robot surgery training include performing basic tasks on a simulator and achieving a minimum overall score for each task. However, there is limited information about these tasks related to performance and time required to become proficient. We focused on critical tasks that have the highest potential for preventing inadvertent injuries, and constructed models to predict how many attempts would be needed to master the tasks depending on the user's initial attempt.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24122244

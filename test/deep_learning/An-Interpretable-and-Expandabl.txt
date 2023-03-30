@@ -1,0 +1,3 @@
+Although artificial intelligence performs promisingly in medicine, few automatic disease diagnosis platforms can clearly explain why a specific medical decision is made.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30429111

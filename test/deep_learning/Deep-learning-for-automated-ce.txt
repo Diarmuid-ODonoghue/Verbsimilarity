@@ -1,0 +1,3 @@
+Cerebrovascular aneurysms are being observed with rapidly increasing incidence. Therefore, tools are needed for accurate and efficient detection of aneurysms. We used deep learning techniques with CT angiography acquired from multiple medical centers and different machines to develop and evaluate an automatic detection model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32056126

@@ -1,0 +1,3 @@
+Previous studies have separately reported impaired functional, structural, and effective connectivity in patients with disorders of consciousness (DOC). The perturbational complexity index (PCI) is a transcranial magnetic stimulation (TMS) derived marker of effective connectivity. The global fractional anisotropy (FA) is a marker of structural integrity. Little is known about how these parameters are related to each other.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29162503

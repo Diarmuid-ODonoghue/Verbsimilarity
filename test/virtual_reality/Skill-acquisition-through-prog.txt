@@ -1,0 +1,3 @@
+This paper presents an imitation learning system capable of learning tasks in a complex dynamic real-time environment. In this paper, we argue that social learning should be thought of as a special case of general skill learning, and that the biases it presents to the skill learning problem radically simplify learning for species with sufficient innate predisposition to harness this power. We decompose skill learning into four subproblems, then show how a modification of Roy's CELL system can address all these problems simultaneously. Our system is demonstrated working in the domain of a real-time virtual-reality game, Unreal Tournament.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17416156

@@ -1,0 +1,3 @@
+To date, invasive brain-computer interface (BCI) research has largely focused on replacing lost limb functions using signals from the hand/arm areas of motor cortex. However, the oculomotor system may be better suited to BCI applications involving rapid serial selection from spatial targets, such as choosing from a set of possible words displayed on a computer screen in an augmentative and alternative communication (AAC) application. Here we aimed to demonstrate the feasibility of a BCI utilizing the oculomotor system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28098561

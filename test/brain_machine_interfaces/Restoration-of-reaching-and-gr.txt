@@ -1,0 +1,3 @@
+People with chronic tetraplegia, due to high-cervical spinal cord injury, can regain limb movements through coordinated electrical stimulation of peripheral muscles and nerves, known as functional electrical stimulation (FES). Users typically command FES systems through other preserved, but unrelated and limited in number, volitional movements (eg, facial muscle activity, head movements, shoulder shrugs). We report the findings of an individual with traumatic high-cervical spinal cord injury who coordinated reaching and grasping movements using his own paralysed arm and hand, reanimated through implanted FES, and commanded using his own cortical signals through an intracortical brain-computer interface (iBCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28363483

@@ -1,0 +1,3 @@
+Analysis of human gait as well as diagnosis of human locomotion organ should always be conducted with velocity of gait equal to Preferred Walking Speed (PWS). The literature review shows that the PWS value is not the same in real and virtual environment. The aim of this study was to determine PWS values in both environments and to specify values of parameters used in equations enabling PWS calculations on the basis of lower limb length.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32307457

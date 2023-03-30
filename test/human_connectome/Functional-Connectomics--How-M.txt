@@ -1,0 +1,3 @@
+How Drosophila larvae select one behavior or a sequence of behaviors, and then persist in the final one, has been addressed by a powerful combination of electron-microscopy reconstruction of neuronal connections, genetic manipulations, electrophysiology, and neuronal modeling. Surprisingly, reciprocal inhibitory synaptic connections are major players in choosing, sequencing and maintaining behaviors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28073023

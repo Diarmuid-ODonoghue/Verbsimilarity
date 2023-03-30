@@ -1,0 +1,3 @@
+Tetraplegic patients using brain-machine interfaces can make visually guided reaches with robotic arms. However, restoring proprioceptive feedback to these patients will be critical, as evidenced by the movement deficit in patients with proprioceptive loss. Proprioception is critical in large part because it provides faster feedback than vision. Intracortical microstimulation (ICMS) is a promising approach, but the ICMS-evoked reaction time (RT) is typically slower than that to natural proprioceptive and often even visual cues, implying that ICMS feedback may not be fast enough to guide movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31778982

@@ -1,0 +1,3 @@
+Passeriformes ("perching birds" or passerines) make up more than half of all extant bird species. The genome of the zebra finch, a passerine model organism for vocal learning, was noted previously to contain thousands of short interspersed elements (SINEs), a group of retroposons that is abundant in mammalian genomes but considered largely inactive in avian genomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29255493

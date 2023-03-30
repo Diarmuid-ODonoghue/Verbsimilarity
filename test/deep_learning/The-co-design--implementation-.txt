@@ -1,0 +1,3 @@
+We believe junior doctors are in a unique position in relation to reporting of incidents and safety culture. They are still in training and are also 'fresh eyes' on the system providing valuable insights into what they perceive as safe and unsafe behaviour. The aim of this study was to co-design and implement an embedded learning intervention - a serious board game - to educate junior doctors about patient safety and the importance of reporting safety concerns, while at the same time shaping a culture of responsiveness from senior medical staff.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31238936

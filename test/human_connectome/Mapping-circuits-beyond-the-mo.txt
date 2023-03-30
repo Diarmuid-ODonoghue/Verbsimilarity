@@ -1,0 +1,3 @@
+The brain has been shaped by evolution, and its connectome reflects that history. Comparative neuroscience research, framed by evolutionary relationships, is key to interpreting connectome organization and can address fundamental circuit questions that are not accessible through single-species connectomics efforts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25233308

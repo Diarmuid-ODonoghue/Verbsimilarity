@@ -1,0 +1,3 @@
+Effective computational methods for peptide-protein binding prediction can greatly help clinical peptide vaccine search and design. However, previous computational methods fail to capture key nonlinear high-order dependencies between different amino acid positions. As a result, they often produce low-quality rankings of strong binding peptides. To solve this problem, we propose nonlinear high-order machine learning methods including high-order neural networks (HONNs) with possible deep extensions and high-order kernel support vector machines to predict major histocompatibility complex-peptide binding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26206306

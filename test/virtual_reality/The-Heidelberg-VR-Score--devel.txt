@@ -1,0 +1,3 @@
+Virtual reality (VR-)trainers are well integrated in laparoscopic surgical training. However, objective feedback is often provided in the form of single parameters, e.g., time or number of movements, making comparisons and evaluation of trainees' overall performance difficult. Therefore, a new standard for reporting outcome data is highly needed. The aim of this study was to create a weighted, expert-based composite score, to offer simple and direct evaluation of laparoscopic performance on common VR-trainers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30327918

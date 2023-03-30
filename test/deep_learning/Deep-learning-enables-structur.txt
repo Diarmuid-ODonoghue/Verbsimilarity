@@ -1,0 +1,3 @@
+Structured illumination microscopy (SIM) surpasses the optical diffraction limit and offers a two-fold enhancement in resolution over diffraction limited microscopy. However, it requires both intense illumination and multiple acquisitions to produce a single high-resolution image. Using deep learning to augment SIM, we obtain a five-fold reduction in the number of raw images required for super-resolution SIM, and generate images under extreme low light conditions (at least 100× fewer photons). We validate the performance of deep neural networks on different cellular structures and achieve multi-color, live-cell super-resolution imaging with greatly reduced photobleaching.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32321916

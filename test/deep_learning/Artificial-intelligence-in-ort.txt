@@ -1,0 +1,3 @@
+The aim of this investigation was to create an automated cephalometric X‑ray analysis using a specialized artificial intelligence (AI) algorithm. We compared the accuracy of this analysis to the current gold standard (analyses performed by human experts) to evaluate precision and clinical application of such an approach in orthodontic routine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31853586

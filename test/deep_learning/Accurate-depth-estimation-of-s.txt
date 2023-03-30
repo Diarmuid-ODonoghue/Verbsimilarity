@@ -1,0 +1,3 @@
+Haptic skin palpation with three-dimensional skin surface reconstruction from in vivo skin images in order to acquire both tactile and visual information has been receiving much attention. However, the depth estimation of skin surface, using a light field camera that creates multiple images with a micro-lens array, is a difficult problem due to low-resolution images resulting in erroneous disparity matching.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30624813

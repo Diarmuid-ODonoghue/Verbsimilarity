@@ -1,0 +1,3 @@
+Diagnosis of skin conditions is dependent on the assessment of skin surface properties that are represented by more tactile properties such as stiffness, roughness, and friction than visual information. Due to this reason, adding tactile feedback to existing vision based diagnosis systems can help dermatologists diagnose skin diseases or disorders more accurately. The goal of our research was therefore to develop a tactile rendering system for skin examinations by dynamic touch.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25087469

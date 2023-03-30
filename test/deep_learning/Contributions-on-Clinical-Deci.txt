@@ -1,0 +1,3 @@
+To summarize recent research and select the best papers published in 2018 in the field of computerized clinical decision support for the Decision Support section of the International Medical Informatics Association (IMIA) yearbook.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31419825

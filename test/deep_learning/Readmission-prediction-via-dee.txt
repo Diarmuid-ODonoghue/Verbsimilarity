@@ -1,0 +1,3 @@
+Hospital readmission costs a lot of money every year. Many hospital readmissions are avoidable, and excessive hospital readmissions could also be harmful to the patients. Accurate prediction of hospital readmission can effectively help reduce the readmission risk. However, the complex relationship between readmission and potential risk factors makes readmission prediction a difficult task. The main goal of this paper is to explore deep learning models to distill such complex relationships and make accurate predictions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29630604

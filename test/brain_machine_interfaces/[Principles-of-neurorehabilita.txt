@@ -1,0 +1,3 @@
+The paper examines neurophysiological basis for development and performance of brain-computer interface (BCI) that permits cerebral activity alone to control computers or other external technical devices. BCI based on the discrimination of EEG patterns related to an imagery of extremity movements is considered. The problem of BCI application to restoring of motor functions in patients with motor disabilities is discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23789390

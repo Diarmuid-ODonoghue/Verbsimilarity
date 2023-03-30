@@ -1,0 +1,3 @@
+There is increasing evidence that redox dysregulation, which can lead to oxidative stress and eventually to impairment of oligodendrocytes and parvalbumin interneurons, may underlie brain connectivity alterations in schizophrenia. Accordingly, we previously reported that levels of brain antioxidant glutathione in the medial prefrontal cortex were positively correlated with increased functional connectivity along the cingulum bundle in healthy controls but not in early psychosis patients. In a recent randomized controlled trial, we observed that 6-month supplementation with a glutathione precursor, N-acetyl-cysteine, increased brain glutathione levels and improved symptomatic expression and processing speed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31283822

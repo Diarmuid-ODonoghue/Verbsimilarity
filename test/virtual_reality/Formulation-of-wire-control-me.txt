@@ -1,0 +1,3 @@
+We here report on the process of developing a surgical robot that can conduct operation "going inside the body without spreading the operational region". The endoscopic robot that we are developing now has a flexible cylindrical body with functions of a set of human arms at the tip and also with vision and haptic sense functions. We evaluated necessary technology factor to complete this robot into categories such as, transmission of energy, adaptation to insides of the body.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23400196

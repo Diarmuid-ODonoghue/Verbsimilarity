@@ -1,0 +1,3 @@
+Stroke-induced impairments result from both primary and secondary causes, i.e. damage to the brain and the acquired non-use of the impaired limbs. Indeed, stroke patients often under-utilize their paretic limb despite sufficient residual motor function. We hypothesize that acquired non-use can be overcome by reinforcement-based training strategies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26055406

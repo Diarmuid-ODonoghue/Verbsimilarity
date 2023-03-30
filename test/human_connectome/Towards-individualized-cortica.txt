@@ -1,0 +1,3 @@
+Cortical thickness measures the width of gray matter of the human cortex. It can be calculated from T1-weighted magnetic resonance images (MRI). In group studies, this measure has been shown to correlate with the diagnosis/prognosis of a number of neurologic and psychiatric conditions, but has not been widely adapted for clinical routine. One of the reasons for this might be that there is no reference system which allows to rate individual cortical thickness data with respect to a control population.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32245485

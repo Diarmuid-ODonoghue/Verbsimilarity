@@ -1,0 +1,3 @@
+Human alpha satellite and satellite 2/3 contribute to several percent of the human genome. However, identifying these sequences with traditional algorithms is computationally intensive. Here we develop dna-brnn, a recurrent neural network to learn the sequences of the two classes of centromeric repeats. It achieves high similarity to RepeatMasker and is times faster. Dna-brnn explores a novel application of deep learning and may accelerate the study of the evolution of the two repeat classes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30989183

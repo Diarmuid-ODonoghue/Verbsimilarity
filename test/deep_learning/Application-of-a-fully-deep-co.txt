@@ -1,0 +1,3 @@
+To evaluate a fully deep learning mask region-based convolutional neural network (R-CNN) method for automated tooth segmentation using individual annotation of panoramic radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31992524

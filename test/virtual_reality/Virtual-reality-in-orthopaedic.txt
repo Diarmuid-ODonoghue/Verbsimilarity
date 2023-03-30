@@ -1,0 +1,3 @@
+Virtual reality (VR) simulation has been a requirement for airline and military pilots for decades and is only now being integrated into surgical training programs. Thus far, orthopaedic training programs have been slow to adopt VR training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20559765

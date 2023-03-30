@@ -1,0 +1,3 @@
+Hybrid imaging enables the precise visualization of cellular metabolism by combining anatomical and metabolic information. Advances in artificial intelligence (AI) offer new methods for processing and evaluating this data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32052114

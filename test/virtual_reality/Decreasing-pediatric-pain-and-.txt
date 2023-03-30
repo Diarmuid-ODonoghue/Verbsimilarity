@@ -1,0 +1,3 @@
+Recurrent botulinum toxin (BoNT) injections are used in the pediatric population for management of spasticity, but the procedure is often associated with significant pain and anxiety for patients. Non-pharmacologic treatment alternatives for procedural discomfort are limited. Immersive virtual reality (VR) has shown efficacy in treatment of procedural discomfort in pediatric patients. A retrospective chart review was performed to assess feasibility and use of treating BoNT procedure-related discomfort in pediatric patients with VR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30223406

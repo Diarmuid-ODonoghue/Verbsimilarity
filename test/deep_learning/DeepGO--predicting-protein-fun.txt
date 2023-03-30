@@ -1,0 +1,3 @@
+A large number of protein sequences are becoming available through the application of novel high-throughput sequencing technologies. Experimental functional characterization of these proteins is time-consuming and expensive, and is often only done rigorously for few selected model organisms. Computational function prediction approaches have been suggested to fill this gap. The functions of proteins are classified using the Gene Ontology (GO), which contains over 40 000 classes. Additionally, proteins have multiple functions, making function prediction a large-scale, multi-class, multi-label problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29028931

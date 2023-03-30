@@ -1,0 +1,3 @@
+Progress in 3D electron microscopy (EM) imaging has greatly facilitated neuroscience research in high-throughput data acquisition. Correspondingly, high-throughput automated image analysis methods are necessary to work on par with the speed of data being produced. One such example is the need for automated EM image segmentation for neurite reconstruction. However, the efficiency and reliability of current methods are still lagging far behind human performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28379412

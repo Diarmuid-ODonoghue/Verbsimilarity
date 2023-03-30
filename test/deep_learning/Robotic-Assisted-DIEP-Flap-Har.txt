@@ -1,0 +1,3 @@
+ The deep inferior epigastric perforator (DIEP) flap is the most common perforator flap for microsurgical breast reconstruction. Contrary to the conventional open approach, robotic-assisted DIEP flap harvest intends to preserve ARS integrity, thereby reducing the morbidity. We assessed the feasibility and compared performance outcomes of a robotic, cadaveric training model for DIEP flap harvest using two approaches: transabdominal preperitoneal (TAPP) and totally extraperitoneal (TEP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32106313

@@ -1,0 +1,3 @@
+With rapid development of telehealth system and cloud platform, traditional 12-ECG signals with high resolution generate heavy burdens in data storage and transmission. This problem is increasingly addressed with various ECG compression methods. The important objective of compression method is to achieve a high-ratio and quality guaranteed compression. Consequently, to achieve this objective, this work presents a deep-learning-based spindle convolutional auto-encoder. The spindle structure achieves the high-ratio compression by reducing the dimension and guarantees the quality by increasing the dimension and end-to-end framework.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31104703

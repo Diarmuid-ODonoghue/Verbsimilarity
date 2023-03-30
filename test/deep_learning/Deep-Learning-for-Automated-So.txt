@@ -1,0 +1,3 @@
+Though the domain of big data and artificial intelligence in health care continues to evolve, there is a lack of systemic methods to improve data quality and streamline the preparation process. To address this, we aimed to develop an automated sorting system (RetiSort) that accurately labels the type and laterality of retinal photographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32362553

@@ -1,0 +1,3 @@
+Tele-rehabiliation technologies that track human motion could enable physical therapy in the home. To be effective, these systems need to collect critical metrics without PT supervision both in real time and in a store and forward capacity. The first step of this process is to determine if PTs (PTs) are able to accurately assess the quality and quantity of an exercise repetition captured by a tele-rehabilitation platform. The purpose of this pilot project was to determine the level of agreement of quality and quantity of an exercise delivered and assessed by the Virtual Exercise Rehabilitation Assistant (VERA), and seven PTs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26824053

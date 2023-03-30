@@ -1,0 +1,3 @@
+Protein dihedral angles provide a detailed description of protein local conformation. Predicted dihedral angles can be used to narrow down the conformational space of the whole polypeptide chain significantly, thus aiding protein tertiary structure prediction. However, direct angle prediction from sequence alone is challenging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29745828

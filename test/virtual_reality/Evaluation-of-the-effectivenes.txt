@@ -1,0 +1,3 @@
+Recently, two types of movement sensors have been introduced into Virtual Reality (VR) therapy: motion trackers and force-plate platforms. Combining these two methods could produce better rehabilitation outcomes. Such devices, encompassing motion trackers and force platforms, are referred to as "hybrid" VR units.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30714985

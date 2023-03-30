@@ -1,0 +1,3 @@
+The present study developed 3D video tutorials with commentaries, using virtual reality headsets (VRH). VRHs allow 3D visualization of complex anatomy from the surgeon's point of view. Students can view the surgery repeatedly without missing the essential steps, simultaneously receiving advice from a group of experts in the field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31121176

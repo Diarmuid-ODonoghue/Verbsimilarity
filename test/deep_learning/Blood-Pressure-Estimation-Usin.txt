@@ -1,0 +1,3 @@
+This paper presents a novel method to estimate systolic blood pressure (SBP) and diastolic blood pressure (DBP) from time domain features extracted on auscultatory waveforms (AWs) using a long short term memory (LSTM) recurrent neural network (RNN). The proposed LSTM-RNN can effectively discover the latent structure in AW sequences and automatically learn such structures. The SBP and DBP points are then detected as the cuff pressures at which AW sequence changes its structure. Our LSTM-RNN is a powerful technique for sequence learning and can be used in blood pressure estimation as an alternative way for replacing traditional approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31946251

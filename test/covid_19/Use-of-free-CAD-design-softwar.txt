@@ -1,0 +1,3 @@
+To describe a method of digitally customizing 3D-printed face mask designs using 3D face scans and free software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32337516

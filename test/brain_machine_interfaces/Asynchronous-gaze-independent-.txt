@@ -1,0 +1,3 @@
+In this study a gaze independent event related potential (ERP)-based brain computer interface (BCI) for communication purpose was combined with an asynchronous classifier endowed with dynamical stopping feature. The aim was to evaluate if and how the performance of such asynchronous system could be negatively affected in terms of communication efficiency and robustness to false positives during the intentional no-control state.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24080078

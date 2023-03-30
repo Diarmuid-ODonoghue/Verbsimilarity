@@ -1,0 +1,3 @@
+Proteins usually fulfill their biological functions by interacting with other proteins. Although some methods have been developed to predict the binding sites of a monomer protein, these are not sufficient for prediction of the interaction between two monomer proteins. The correct prediction of interface residue pairs from two monomer proteins is still an open question and has great significance for practical experimental applications in the life sciences. We hope to build a method for the prediction of interface residue pairs that is suitable for those applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28541224

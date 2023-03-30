@@ -1,0 +1,3 @@
+Training of the lower extremity (LE) using a robot coupled with virtual environments has shown to transfer to improved overground locomotion. The purpose of this study was to determine whether the transfer of training of LE movements to locomotion was greater using a virtual environment coupled with a robot or with the robot alone.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18988916

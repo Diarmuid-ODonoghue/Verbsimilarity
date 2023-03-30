@@ -1,0 +1,3 @@
+Computerized detection of voice disorders has attracted considerable academic and clinical interest in the hope of providing an effective screening method for voice diseases before endoscopic confirmation. This study proposes a deep-learning-based approach to detect pathological voice and examines its performance and utility compared with other automatic classification algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29567049

@@ -1,0 +1,3 @@
+Since the outbreak of coronavirus disease (COVID-19) in Wuhan in December 2019, by March 10, 2020, a total of 80,932 confirmed cases have been reported in China. Two consecutively negative RT-PCR test results in respiratory tract specimens is required for the evaluation of discharge from hospital, and oropharyngeal swabs were the most common sample. However, false negative results occurred in the late stage of hospitalization, and avoiding false negative result is critical essential.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315809

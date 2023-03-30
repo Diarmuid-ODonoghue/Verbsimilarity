@@ -1,0 +1,3 @@
+Empirical studies have consistently shown the effectiveness of a multicomponent CBT treatment of social anxiety disorder (SAD). Previous outcome studies on virtual reality and SAD have focused on people suffering from fear of public speaking and not full blown SAD. In this study, 45 adults receiving a DSM-IV-TR diagnostic of social anxiety were randomly assigned to traditional CBT treatment (with in vivo exposure), CBT-VR combined treatment, or a waiting list. Results show significant reduction of anxiety on all questionnaires as well as statistically significant interactions between both treatment groups and the waiting list.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20543270

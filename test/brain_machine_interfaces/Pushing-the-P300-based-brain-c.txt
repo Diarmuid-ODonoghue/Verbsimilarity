@@ -1,0 +1,3 @@
+A new presentation paradigm for the P300-based brain-computer interface (BCI) referred to as the 'asynchronous paradigm' (ASP) is introduced and studied. It is based on the principle of performance guided constraints (Townsend et al 2012 Neurosci. Lett. 531 63-8) extended from the spatial domain into the temporal domain. The traditional constraint of flashing targets in predefined constant epochs of time is eliminated and targets flash asynchronously with timing based instead on constraints intended to improve performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26913648

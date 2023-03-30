@@ -1,0 +1,3 @@
+Surgical simulators are powerful tools that assist in providing advanced training for complex craniofacial surgical procedures and objective skills assessment such as the ones needed to perform Bilateral Sagittal Split Osteotomy (BSSO). One of the crucial steps in simulating BSSO is accurately cutting the mandible in a specific area of the jaw, where surgeons rely on high fidelity visual and haptic cues. In this paper, we present methods to simulate drilling and cutting of the bone using the burr and the motorized oscillating saw respectively. Our method allows low computational cost bone drilling or cutting while providing high fidelity haptic feedback that is suitable for real-time virtual surgery simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29977103

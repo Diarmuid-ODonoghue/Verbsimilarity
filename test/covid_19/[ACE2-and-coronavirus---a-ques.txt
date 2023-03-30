@@ -1,0 +1,3 @@
+The new SARS-CoV-2 virus enters cells via angiotensin-converting enzyme 2 (ACE2). ACE2 counteracts ACE and angiotensin II in the renin-angiotensin-aldosterone system (RAAS) and has critical functions in the lung and cardiovascular system. SARS-CoV was found to down-regulate ACE2, leaving angiotensin II unbalanced in affected organs.  A similar effect of SARS-CoV-2 could partly explain risk factors and symptoms, and could potentially be treatable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32314329

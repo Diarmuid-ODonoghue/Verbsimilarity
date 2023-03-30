@@ -1,0 +1,3 @@
+Maintaining wild places increasingly involves intensive human interventions. Several recent projects use semi-automated mediating technologies to enact conservation and restoration actions, including re-seeding and invasive species eradication. Could a deep-learning system sustain the autonomy of nonhuman ecological processes at designated sites without direct human interventions? We explore here the prospects for automated curation of wild places, as well as the technical and ethical questions that such co-creation poses for ecologists, conservationists, and designers. Our goal is to foster innovative approaches to creating and maintaining the autonomy of evolving ecological systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28108135

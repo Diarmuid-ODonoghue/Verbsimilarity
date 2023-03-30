@@ -1,0 +1,3 @@
+Research on virtual reality exposure therapy (VRET) has demonstrated good treatment efficacy with regards to several anxiety disorders. Yet, there is lack of knowledge about the value of integrating interaction between clients and virtual humans in VRET. Such interaction might prove effective in treating psychological complaints that involve social interactions, such as social anxiety.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26410119

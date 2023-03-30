@@ -1,0 +1,3 @@
+This study aims to extract motor ingredients through data mining from wearable sensors in a virtual reality goal-directed shoulder rehabilitation (GDSR) system and to examine their effects toward clinical assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27642600

@@ -1,0 +1,3 @@
+This paper describes the design and implementation of a case study based investigation using immersive virtual reality as a treatment for phantom limb pain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17729094

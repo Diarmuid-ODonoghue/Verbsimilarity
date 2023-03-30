@@ -1,0 +1,3 @@
+The design of electrodes based on conductive polymers in brain-machine interface technology offers the opportunity to exploit variably manufactured materials to reduce gliosis, indeed the most common brain response to chronically implanted neural electrodes. In fact, the use of conductive polymers, finely tailored in their physical-chemical properties, might result in electrodes with improved adaptability to the brain tissue and increased charge-transfer efficiency. Here we interfaced poly(3,4-ethylenedioxythiophene):poly(styrene sulfonate) (
+
+https://www.ncbi.nlm.nih.gov/pubmed/26834546

@@ -1,0 +1,3 @@
+This paper presents a fast and robust phase unwrapping method with only one code grating, named the morphology phase unwrapping (MPU) method. Using mathematical morphology operations, more than 36 fringe orders can be obtained accurately from only one code grating rather than at least three code gratings. Comparison experiments demonstrate that MPU has the highest robustness with a high quality factor (Q > 99.9%) under different conditions. Fast-changing facial expressions are reconstructed, indicating potential applications in the fields of augmented reality and virtual reality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30068095

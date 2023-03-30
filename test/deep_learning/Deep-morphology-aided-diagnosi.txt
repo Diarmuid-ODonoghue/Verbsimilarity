@@ -1,0 +1,3 @@
+Early detection of carotid atherosclerosis on the vessel wall (VW) magnetic resonance imaging (MRI) (VW-MRI) images can prevent the progression of cardiovascular disease. However, the manual inspection process of the VW-MRI images is cumbersome and has low reproducibility. Therefore in this paper, by using the convolutional neural networks (CNNs), we develop a deep morphology aided diagnosis (DeepMAD) network for automated segmentation of the VW of carotid artery and for automated diagnosis of the carotid atherosclerosis with the black-blood (BB) VW-MRI (i.e., the T1-weighted MRI) in a slice-by-slice manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31356693

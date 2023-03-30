@@ -1,0 +1,3 @@
+Augmented reality (AR) navigation using a position sensor in endoscopic surgeries relies on the quality of patient-image registration and hand-eye calibration. Conventional methods collect the necessary data to compute two output transformation matrices separately. However, the AR display setting during surgery generally differs from that during preoperative processes. Although conventional methods can identify optimal solutions under initial conditions, AR display errors are unavoidable during surgery owing to the inherent computational complexity of AR processes, such as error accumulation over successive matrix multiplications, and tracking errors of position sensor.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31976878

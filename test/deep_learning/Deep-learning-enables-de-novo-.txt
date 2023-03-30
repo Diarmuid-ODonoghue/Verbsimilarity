@@ -1,0 +1,3 @@
+We present DeepNovo-DIA, a de novo peptide-sequencing method for data-independent acquisition (DIA) mass spectrometry data. We use neural networks to capture precursor and fragment ions across m/z, retention-time, and intensity dimensions. They are then further integrated with peptide sequence patterns to address the problem of highly multiplexed spectra. DIA coupled with de novo sequencing allowed us to identify novel peptides in human antibodies and antigens.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30573815

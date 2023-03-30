@@ -1,0 +1,3 @@
+To assess quantitatively the impact of task selection in the performance of brain-computer interfaces (BCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25080297

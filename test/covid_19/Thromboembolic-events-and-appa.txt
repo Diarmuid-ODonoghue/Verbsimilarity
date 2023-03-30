@@ -1,0 +1,3 @@
+In March 2020, the global healthcare system is overwhelmed by patients infected with SARS-CoV-2, which is the cause of the coronavirus pandemic (Covid-2019). A large number of these patients end up in the intensive care units (ICU) with critical illness requiring mechanical ventilation. One of the most important clinical features of the infection is a profound coagulopathy. In a recent cohort study 71% of patients who eventually died matched the ISTH criteria for disseminated intravascular coagulation (DIC), while this percentage was only 0.6% in patients who survived.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32311843

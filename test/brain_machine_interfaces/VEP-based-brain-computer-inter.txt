@@ -1,0 +1,3 @@
+The goal of a brain-computer interface (BCI) is to enable communication by pure brain activity without neural and muscle control. However, the practical use of BCIs is limited by low information transfer rate. Recently, code modulation visual evoked potential (c-VEP) based BCIs have exhibited great potential in establishing high-rate communication between the brain and the external world.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27163316

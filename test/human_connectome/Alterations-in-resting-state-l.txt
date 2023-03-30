@@ -1,0 +1,3 @@
+Obsessive-compulsive disorder (OCD) is increasingly conceptualized as a brain connectivity disorder. Recently, abnormalities in remote resting-state functional connectivity (FC) have been well demonstrated in the frontoparietal areas that linked impairments in large-scale intrinsic brain networks with aberrant fronto-striatal interactions. Beyond the remote FC abnormalities in OCD, many studies using regional homogeneity (ReHo) analysis have reported local FC alterations. However, their results were not entirely consistent.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30368070

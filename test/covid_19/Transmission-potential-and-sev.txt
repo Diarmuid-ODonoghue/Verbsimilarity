@@ -1,0 +1,3 @@
+Since the first case of 2019 novel coronavirus (COVID-19) identified on Jan 20, 2020, in South Korea, the number of cases rapidly increased, resulting in 6284 cases including 42 deaths as of Mar 6, 2020. To examine the growth rate of the outbreak, we present the first study to report the reproduction number of COVID-19 in South Korea.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32198088

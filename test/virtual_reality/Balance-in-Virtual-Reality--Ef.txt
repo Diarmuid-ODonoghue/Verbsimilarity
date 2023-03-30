@@ -1,0 +1,3 @@
+Quantitative balance measurement is used in clinical practice to prevent falls. The conditions of the test were limited to eyes open, eyes closed, and sway-referenced vision. We developed a new visual perturbation to challenge balance using virtual reality (VR), measuring postural stability by a Wii Balance Board (WBB).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28163693

@@ -1,0 +1,3 @@
+The construction of amperometric immunosensors to cholera antitoxin immunoglobulins were shown to have improved sensitivity when the cholera toxin B subunit biorecognition entity was linked to an electrogenerated biotinylated polypyrrole film copolymerized with pyrrole-lactobionamide monomer. The copolymer exhibits greater film permeability than biotinylated polypyrrolic or polyphenolic films for the permeation of electroactive species. Hence, when the presence of the HRP marker of the immunoassay was determined using hydroquinone, the production of electroactive quinone was shown to permeate faster to the electrode, thus providing a faster response time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15538808

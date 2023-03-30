@@ -1,0 +1,3 @@
+Brain computer interfaces (BCIs) are one of the last communication options for patients in the locked-in state (LIS). For complete LIS patients, interfaces must be gaze-independent due to their eye impairment. However, unimodal gaze-independent approaches typically present levels of performance substantially lower than gaze-dependent approaches. The combination of multimodal stimuli has been pointed as a viable way to increase users' performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26687642

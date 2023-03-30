@@ -1,0 +1,3 @@
+Data-driven approaches can capture behavioral and biological variation currently unaccounted for by contemporary diagnostic categories, thereby enhancing the ability of neurobiological studies to characterize brain-behavior relationships.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27667698

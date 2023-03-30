@@ -1,0 +1,3 @@
+We present a novel multimodal deep learning structure that automatically extracts features from textual-acoustic data for sentence-level speech classification. Textual and acoustic features were first extracted using two independent convolutional neural network structures, then combined into a joint representation, and finally fed into a decision softmax layer. We tested the proposed model in an actual medical setting, using speech recording and its transcribed log. Our model achieved 83.10% average accuracy in detecting 6 different intentions. We also found that our model using automatically extracted features for intention classification outperformed existing models that use manufactured features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30506055

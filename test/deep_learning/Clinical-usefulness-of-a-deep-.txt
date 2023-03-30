@@ -1,0 +1,3 @@
+To examine whether our convolutional neural network (CNN) system based on deep learning can reduce the reading time of endoscopists without oversight of abnormalities in the capsule-endoscopy reading process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31441972

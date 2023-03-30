@@ -1,0 +1,3 @@
+The Fundamentals of Laparoscopic Surgery (FLS) box trainer is the gold standard for development of laparoscopic technical skills however the scoring metrics require a trained proctor and do not allow for immediate feedback. The Lap Mentor™ virtual-reality (LMVR) FLS tasks, with automated scoring metrics and haptic feedback, may be a suitable alternative. We determined the construct and concurrent validity of LMVR-FLS. Participants with a range of laparoscopic experience performed 3 FLS tasks on both simulators. The LMVR-FLS demonstrated moderate concurrent validity and evidence for construct validity. Further research is required to determine if skill acquisition on these modules is transferable to the operating room.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22357016

@@ -1,0 +1,3 @@
+Augmented reality has potential to enhance surgical navigation and visualization. We determined whether head-mounted display augmented reality (HMD-AR) with superimposed computed tomography (CT) data could allow the wearer to percutaneously guide pedicle screw placement in an opaque lumbar model with no real-time fluoroscopic guidance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29934792

@@ -1,0 +1,3 @@
+This pilot study compares the differences in learning outcomes when students are presented with either an active (student-centered) or passive (teacher-centered) virtual reality-based anatomy lesson. The "active" lesson used UCSD's Anatomic VisualizeR and enabled students to interact with 3D models and control presentation of learning materials. The "passive" lesson used a digital recording of an anatomical expert's tour of the same VR lesson played back as a QuickTime movie. Subsequent examination of the recall and retention of the studied anatomic objects were comparable in both groups. Issues underlying these results are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15544293

@@ -1,0 +1,3 @@
+To introduce a new and simple digital workflow to record dynamic occlusion, and apply it to occlusal analysis and prosthetic treatment in a virtual environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30446410

@@ -1,0 +1,3 @@
+The use of three-dimensional imaging in laparoscopy is a growing issue and has led to 3D systems in laparoscopic simulation. Studies on box trainers have shown differing results concerning the benefit of 3D imaging. There are currently no studies analysing 3D imaging in virtual reality laparoscopy (VRL).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23918724

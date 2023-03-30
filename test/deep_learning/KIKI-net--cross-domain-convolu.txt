@@ -1,0 +1,3 @@
+To demonstrate accurate MR image reconstruction from undersampled k-space data using cross-domain convolutional neural networks (CNNs) METHODS: Cross-domain CNNs consist of 3 components: (1) a deep CNN operating on the k-space (KCNN), (2) a deep CNN operating on an image domain (ICNN), and (3) an interleaved data consistency operations. These components are alternately applied, and each CNN is trained to minimize the loss between the reconstructed and corresponding fully sampled k-spaces. The final reconstructed image is obtained by forward-propagating the undersampled k-space data through the entire network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29624729

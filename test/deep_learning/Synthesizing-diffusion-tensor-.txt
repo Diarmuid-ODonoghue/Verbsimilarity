@@ -1,0 +1,3 @@
+Medical image synthesis can simulate a target modality of interest based on existing modalities and has the potential to save scanning time while contributing to efficient data collection. This study proposed a three-dimensional (3D) deep learning architecture based on a fully convolutional network (FCN) to synthesize diffusion-tensor imaging (DTI) from resting-state functional magnetic resonance imaging (fMRI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31743880

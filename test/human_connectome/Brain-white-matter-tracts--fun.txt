@@ -1,0 +1,3 @@
+Diffusion tensor imaging is increasingly available on clinical magnetic resonance scanners and can be acquired in a relatively short time. There has been an explosion of applications in the research field but the use to the practicing radiologist may seem obscure. This paper aims to highlight how diffusion tensor imaging can be used to prompt a dedicated neuroanatomical search for white matter lesions in clinical presentations relating to motor, sensory, language, and visuospatial deficits. The enhanced depiction of white matter tracts in the temporal stem is also highlighted, which is a region of importance in epilepsy surgery planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25217297

@@ -1,0 +1,3 @@
+A plethora of cutting-edge neuroimaging analyses have been developed and published, yet they have not hitherto been realized as improvements in neurosurgical outcomes. In this paper we propose a novel interface between neuroimaging and neurosurgery for aiding translational research. Our objective is to create a method for applying advanced neuroimaging and network analysis findings to neurosurgery and illustrate its application through the presentation of 2 detailed case vignettes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31958585

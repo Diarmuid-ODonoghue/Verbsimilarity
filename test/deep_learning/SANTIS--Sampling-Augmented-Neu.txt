@@ -1,0 +1,3 @@
+To develop and evaluate a novel deep learning-based reconstruction framework called SANTIS (Sampling-Augmented Neural neTwork with Incoherent Structure) for efficient MR image reconstruction with improved robustness against sampling pattern discrepancy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31166049

@@ -1,0 +1,3 @@
+Tessellation in fundus is not only a visible feature for aged-related and myopic maculopathy but also confuse retinal vessel segmentation. The detection of tessellated images is an inevitable processing in retinal image analysis. In this work, we propose a model using convolutional neural network for detecting tessellated images. The input to the model is pre-processed fundus image, and the output indicate whether this photograph has tessellation or not. A database with 12,000 colour retinal images is collected to evaluate the classification performance. The best tessellation classifier achieves accuracy of 97.73% and AUC value of 0.9659 using pretrained GoogLeNet and transfer learning technique.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29059963

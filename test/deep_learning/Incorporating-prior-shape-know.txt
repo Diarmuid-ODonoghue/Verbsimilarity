@@ -1,0 +1,3 @@
+Convolutional neural networks (CNNs) have obtained enormous success in liver segmentation. However, there are several challenges, including low-contrast images, and large variations in the shape, and appearance of the liver. Incorporating prior knowledge in deep CNN models improves their performance and generalization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31686380

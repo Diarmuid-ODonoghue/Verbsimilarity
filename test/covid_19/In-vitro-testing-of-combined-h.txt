@@ -1,0 +1,3 @@
+Human coronaviruses SARS-CoV-2 appeared at the end of 2019 and led to a pandemic with high morbidity and mortality. As there are currently no effective drugs targeting this virus, drug repurposing represents a short-term strategy to treat millions of infected patients at low costs. Hydroxychloroquine showed an antiviral effect in vitro. In vivo it showed efficacy, especially when combined with azithromycin in a preliminary clinical trial. Here we demonstrate that the combination of hydroxychloroquine and azithromycin has a synergistic effect in vitro on SARS-CoV-2 at concentrations compatible with that obtained in human lung.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32344177

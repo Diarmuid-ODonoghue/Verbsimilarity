@@ -1,0 +1,3 @@
+A commonly recurring problem in structural protein studies, is the determination of all heavy atom positions from the knowledge of the central α-carbon coordinates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25551190

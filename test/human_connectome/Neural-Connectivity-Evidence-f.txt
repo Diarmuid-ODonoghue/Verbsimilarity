@@ -1,0 +1,3 @@
+Autism spectrum disorder (ASD) encompasses a complex manifestation of symptoms that include deficits in social interaction and repetitive or stereotyped interests and behaviors. In keeping with the increasing recognition of the dimensional characteristics of ASD symptoms and the categorical nature of a diagnosis, we sought to delineate the neural mechanisms of ASD symptoms based on the functional connectivity of four known neural networks (i.e., default mode network, dorsal attention network, salience network, and executive control network).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26707088

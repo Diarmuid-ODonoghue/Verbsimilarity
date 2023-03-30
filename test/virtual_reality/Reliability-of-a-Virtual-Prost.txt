@@ -1,0 +1,3 @@
+The study aims to assess the accuracy of digital planning in dentistry, evaluating the characteristics of different intraoral 3D scanners and comparing it with traditional imaging 2D recording methods. Specifically, using computer aided design (CAD) software and measuring inside CAD software, authors want to verify the reliability of different models obtained with different techniques and machines.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31888225

@@ -1,0 +1,3 @@
+To develop a knowledge-based automated planning pipeline that generates treatment plans without feature engineering, using deep neural network architectures for predicting three-dimensional (3D) dose.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31675444

@@ -1,0 +1,3 @@
+Deep learning techniques have been successfully applied to tackle several image classification problems in bioimaging. However, the models created from deep learning frameworks cannot be easily accessed from bioimaging tools such as ImageJ or Icy; this means that life scientists are not able to take advantage of the results obtained with those models from their usual tools. In this paper, we aim to facilitate the interoperability of bioimaging tools with deep learning frameworks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31003179

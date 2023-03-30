@@ -1,0 +1,3 @@
+To demonstrate a proof-of-concept for fast cone-beam CT (CBCT) intensity correction in projection space by the use of deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30199101

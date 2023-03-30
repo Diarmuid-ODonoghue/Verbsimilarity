@@ -1,0 +1,3 @@
+In this paper we present the findings of a systematic literature review covering the articles published in the last two decades in which the authors described the application of a machine learning technique and method to an orthopedic problem or purpose. By searching both in the Scopus and Medline databases, we retrieved, screened and analyzed the content of 70 journal articles, and coded these resources following an iterative method within a Grounded Theory approach. We report the survey findings by outlining the articles' content in terms of the main machine learning techniques mentioned therein, the orthopedic application domains, the source data and the quality of their predictive performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29998104

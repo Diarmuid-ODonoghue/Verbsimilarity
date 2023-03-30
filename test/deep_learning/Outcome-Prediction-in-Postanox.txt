@@ -1,0 +1,3 @@
+Visual assessment of the electroencephalogram by experienced clinical neurophysiologists allows reliable outcome prediction of approximately half of all comatose patients after cardiac arrest. Deep neural networks hold promise to achieve similar or even better performance, being more objective and consistent.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31162190

@@ -1,0 +1,3 @@
+The initial amplification stage is a critical element of a neural signal acquisition system, and the design of low-noise, low-power amplifiers has received a great deal of attention in recent publications. In this paper we discuss practical considerations for the design of amplifiers intended for neural interfaces. Noise is a major issue due to the low amplitude of neural signals. Practical system deployments also require adequate rejection of common-mode interference, such as that due to line power noise or muscle artifacts, and supply noise. This paper attempts to provide some guideance for system and circuit designers and point out opportunities for potential future exploration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28269697

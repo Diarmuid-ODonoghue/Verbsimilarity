@@ -1,0 +1,3 @@
+Accurately segmenting organs-at-risk (OARs) is a key step in the effective planning of radiation therapy for nasopharyngeal carcinoma (NPC) treatment. In OAR segmentation of the head and neck CT, the low contrast and surrounding adhesion tissues of the parotids, thyroids, and optic nerves result in the difficulty in segmentation and lower accuracy of automatic segmentation for these organs than the other organs. In this paper, we propose a cascaded network structure to delineate these three OARs for NPC radiotherapy by combining deep learning and Boosting algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31529501

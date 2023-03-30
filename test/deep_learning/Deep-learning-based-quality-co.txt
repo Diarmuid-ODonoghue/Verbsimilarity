@@ -1,0 +1,3 @@
+Using bright-field images of cultured human-induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs), we trained a convolutional neural network (CNN), a machine learning technique, to decide whether the qualities of cell cultures are suitable for experiments. VGG16, an open-source CNN framework, resulted in a mean F1 score of 0.89 and judged the cell qualities at a speed of approximately 2000 images per second when run on a commercially available laptop computer equipped with Core i7. Thus, CNNs provide a useful platform for the high-throughput quality control of hiPSC-CMs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31113731

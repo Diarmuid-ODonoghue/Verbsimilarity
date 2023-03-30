@@ -1,0 +1,3 @@
+To assess the construct validity of the da Vinci Skills Simulator (Intuitive Surgical, Sunnyvale, CA). Ideally, a well-designed simulator should demonstrate construct validity, which is defined in this study as the correlation between robotic surgical experience and performance on the simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22704177

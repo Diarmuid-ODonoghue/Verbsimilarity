@@ -1,0 +1,3 @@
+In ambulatory care settings, physicians largely rely on clinical guidelines and guideline-based clinical decision support (CDS) systems to make decisions on hypertension treatment. However, current clinical evidence, which is the knowledge base of clinical guidelines, is insufficient to support definitive optimal treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32339929

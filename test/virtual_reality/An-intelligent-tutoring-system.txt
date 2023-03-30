@@ -1,0 +1,3 @@
+Trauma-Teach is an interactive software for tutoring surgical trainees on medical trauma management procedures. Users of the system interact with a virtual patient suffering from trauma injuries. The task of the user is to stabilise the virtual patient, discover the underlying injuries and decide on an appropriate management plan. Artificial intelligence techniques are used to simulate the patient's pulmonary and cardiovascular systems in real time, determine the responses and results of treatments and diagnostics accordingly, model the patient deterioration if wrong actions are taken, and give a measure of reality to the system by selecting actual trauma cases from the hospital's database.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16205828

@@ -1,0 +1,3 @@
+A new methodology involving the combination of a soft template (surfactant) and an ionic liquid (co-surfactant) is used to electrodeposit poly(3,4-ethylenedioxythiophene) (PEDOT) nanofibers. Electrochemical deposition of palladium nanoparticles and glucose oxidase (GOx) immobilization are done sequentially into nanofibrous PEDOT to fabricate the modified electrode (ME) (denoted as PEDOT-Pd/GOx-ME). The PEDOT-Pd/GOx-ME displays excellent performances for glucose at +0.4 V (vs. Ag/AgCl) with a high sensitivity (1.6 mA M(-)(1) cm(-2)) in a wider linear concentration range, 0.5 to 30 mM (correlation coefficient of 0.9985). Further, the electrode is insusceptible to the electroactive interfering species.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19157993

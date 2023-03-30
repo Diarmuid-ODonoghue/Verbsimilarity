@@ -1,0 +1,3 @@
+Virtual reality (VR) is increasingly used to study and treat psychiatric disorders. Its fidelity depends in part on the extent to which the VR environment provides a convincing simulation, for example whether a putatively stressful VR situation actually produces a stress response.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31294651

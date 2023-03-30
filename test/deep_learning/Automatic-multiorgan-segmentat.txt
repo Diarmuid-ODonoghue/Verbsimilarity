@@ -1,0 +1,3 @@
+Accurate and timely organs-at-risk (OARs) segmentation is key to efficient and high-quality radiation therapy planning. The purpose of this work is to develop a deep learning-based method to automatically segment multiple thoracic OARs on chest computed tomography (CT) for radiotherapy treatment planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30810231

@@ -1,0 +1,3 @@
+Deep brain stimulation (DBS) is an effective treatment for movement disorders. Stereotactic electrode placement can be guided by intraoperative imaging, which also allows for immediate intraoperative quality control. This article is about implementation and refining a workflow applying intraoperative computed tomography (iCT) for DBS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30593970

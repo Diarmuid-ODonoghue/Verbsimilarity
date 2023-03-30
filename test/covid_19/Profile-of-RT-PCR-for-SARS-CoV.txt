@@ -1,0 +1,3 @@
+A novel coronavirus (COVID-19) pandemic threatens the world. Here, we first studied the dynamics profile of SARS-CoV-2 from 56 recovered COVID-19 patients. We found virus shedding was up to 6 weeks after onset of symptoms. Prolonged observation period is necessary for older patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32306036

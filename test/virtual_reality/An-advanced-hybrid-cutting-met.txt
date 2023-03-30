@@ -1,0 +1,3 @@
+In this work, a novel hybrid cutting method combining non-progressive cutting with progressive cutting is proposed, where progressive cutting is applied on the outer hull while non-progressive cutting is applied in the inner core. Therefore it keeps the visual reality while significantly increases the efficiency and stability for consequent soft-tissue simulation. In addition, we combined the nearest node snapping with the subdivision patterns in topology reconstruction to avoid degeneracy which is disastrous to soft-tissue simulation stability. Furthermore, an improved state-machine with shortcut transition is used to improve efficiency. The approach has been integrated into a virtual laparoscopic surgery training system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19058949

@@ -1,0 +1,3 @@
+Currently available simulators are supposed to allow young neurosurgeons to hone their technical skills in a safe environment, without causing any unnecessary harm to their patients caused by their inexperience. For this training method to be largely accepted in neurosurgery, it is necessary to prove simulation efficacy by means of large-scale clinical validation studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30276545

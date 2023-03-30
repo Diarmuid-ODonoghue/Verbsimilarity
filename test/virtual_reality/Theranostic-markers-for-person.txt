@@ -1,0 +1,3 @@
+Embedded in the Collaborative Research Center "Fear, Anxiety, Anxiety Disorders" (CRC-TRR58), this bicentric clinical study aims at identifying biobehavioral markers of treatment (non-)response by applying machine learning methodology with an external cross-validation protocol. We hypothesize that a priori prediction of treatment (non-)response is possible in a second, independent sample based on multimodal markers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31814209

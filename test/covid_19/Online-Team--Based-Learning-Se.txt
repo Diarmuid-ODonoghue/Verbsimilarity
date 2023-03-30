@@ -1,0 +1,3 @@
+The medical education system is currently facing robust challenges as a consequence of the COVID-19 pandemic. One of them is the maintenance of interactive learning techniques such as Team-Based Learning (TBL). TBL is an interactive teaching method that is learner-centered and instructor-directed. It sequentially involves self-work followed by teamwork. After providing the reading material, students are commonly asked to solve 10-20 multiple choice questions, known as the individual readiness assurance test (iRAT). Students are then assigned to answer the same questions while working together in teams, the team readiness assurance test (tRAT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32337742

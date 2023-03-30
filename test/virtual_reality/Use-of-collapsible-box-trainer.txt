@@ -1,0 +1,3 @@
+We sought to determine whether training with a simple collapsible mobile box trainer leads to improved performance of fundamental laparoscopic skills (FLSs) during a 6-month interval versus validated laparoscopic box trainers and virtual-reality trainers, only accessible at a simulation training center.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24018083

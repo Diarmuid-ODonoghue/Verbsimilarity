@@ -1,0 +1,3 @@
+Cognitive dysfunction is one of the most prominent characteristics of psychiatric disorders. Currently, the neural correlates of cognitive dysfunction across psychiatric disorders are poorly understood. The aim of this study was to investigate functional connectivity and structural perturbations across psychiatric diagnoses in three neurocognitive networks of interest: the default mode network (DMN), the frontoparietal network (FPN), and the salience network (SN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30612699

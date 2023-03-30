@@ -1,0 +1,3 @@
+Chinese acupuncture is a traditional medical treatment in Chinese history. Recent evidence shows that this treatment is effective. However, acupuncture students can only practice on either real patients or mannequin. In this project, we propose a virtual reality training system for acupuncture. The system not just provides 3D stereo display, but also realistic haptic feedback in real-time. Since acupuncture usually involves thrust-and-lift needle motion, we also propose a bi-directional haptic model to tailor this application. Our results show that the novel haptic model confirms with practitioners' tactile experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455889

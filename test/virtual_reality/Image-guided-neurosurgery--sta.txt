@@ -1,0 +1,3 @@
+The surgical possibilities of image guided neurosurgery are presented and critically reviewed. Image guided neurosurgery may enable neurosurgeons to work more precisely than before, and thus reduce mortality and morbidity. However, before the technology achieves widespread acceptance, technical standards must be developed, the intraoperative localisation technology improved, and clinical indications and the cost/benefit ratio clarified. Nevertheless, image guided neurosurgery appears to herald an exciting future in which virtual reality and robotic surgery will emerge as modern techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10510839

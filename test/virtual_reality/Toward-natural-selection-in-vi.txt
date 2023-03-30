@@ -1,0 +1,3 @@
+Here we describe a vision of VR games that combine the best features of gaming and VR: large, persistent worlds experienced in photorealistic settings with full immersion. For example, Figure 1 illustrates a hypothetical immersive VR game that could be developed using current technologies, including real-time, cinematic-quality graphics; a panoramic head-mounted display (HMD); and wide-area tracking. We also examine the gap between available VR and gaming technologies, and offer solutions for bridging it.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20669535

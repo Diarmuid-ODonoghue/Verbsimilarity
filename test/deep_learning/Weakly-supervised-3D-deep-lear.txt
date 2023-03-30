@@ -1,0 +1,3 @@
+The usefulness of 3D deep learning-based classification of breast cancer and malignancy localization from MRI has been reported. This work can potentially be very useful in the clinical domain and aid radiologists in breast cancer diagnosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30924997

@@ -1,0 +1,3 @@
+The use of 3D information has shown impact in numerous applications in drug design. However, it is often under-utilized and traditionally limited to specialists. We want to change that, and present an approach making 3D information and molecular modeling accessible and easy-to-use 'for the people'.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27577860

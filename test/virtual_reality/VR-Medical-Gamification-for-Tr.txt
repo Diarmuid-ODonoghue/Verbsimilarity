@@ -1,0 +1,3 @@
+The new virtual reality based medical applications is providing a better understanding of healthcare related subjects for both medical students and physicians. The work presented in this paper underlines gamification as a concept and uses VR as a new modality to study the human skeleton. The team proposes a mobile Android platform application based on Unity 5.4 editor and Google VR SDK. The results confirmed that the approach provides a more intuitive user experience during the learning process, concluding that the gamification of classical medical software provides an increased interactivity level for medical students during the study of the human skeleton.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28508784

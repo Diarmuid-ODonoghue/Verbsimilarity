@@ -1,0 +1,3 @@
+Augmented reality (AR) allows the surgeon to represent holographic patient-specific anatomical information and surgical instruments in the physical world. To correctly superimpose virtual and physical objects, a hand-eye (HE) calibration method for mapping the virtual and physical spaces was proposed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30447128

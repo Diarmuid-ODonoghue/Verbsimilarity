@@ -1,0 +1,3 @@
+A robotic virtual-reality (VR) simulator has been developed to improve robot-assisted training for laparoscopic surgery and to enhance surgical performance in laparoscopic skills. The simulated VR training environment provides an effective approach to evaluate and improve surgical performance. This study presents our findings of the VR training environment for robotic laparoscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18401648

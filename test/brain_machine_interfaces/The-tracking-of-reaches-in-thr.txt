@@ -1,0 +1,3 @@
+Prosthetic devices to replace upper limb function have made great progress over the last decade. However, current control modalities for these prosthetics still have severe limitations in the degrees of freedom they offer patients. Brain machine interfaces offer the possibility to improve the functionality of prosthetics. Current research on brain machine interfaces is limited by our understanding of the neural representations for various movements. Few electrophysiology studies have examined the encoding of unconstrained multi-joint movements in neural signals. Here we present a system for the high-speed tracking of multiple joints in three dimensions while recording, optimizing and decoding neural signals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22255568

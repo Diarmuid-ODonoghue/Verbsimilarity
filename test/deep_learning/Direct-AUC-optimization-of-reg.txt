@@ -1,0 +1,3 @@
+The discovery of transcription factor binding site (TFBS) motifs is essential for untangling the complex mechanism of genetic variation under different developmental and environmental conditions. Among the huge amount of computational approaches for de novo identification of TFBS motifs, discriminative motif learning (DML) methods have been proven to be promising for harnessing the discovery power of accumulated huge amount of high-throughput binding data. However, they have to sacrifice accuracy for speed and could fail to fully utilize the information of the input sequences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28881989

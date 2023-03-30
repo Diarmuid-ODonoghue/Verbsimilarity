@@ -1,0 +1,3 @@
+To propose a screening protocol that identifies requisite sensory, motor, cognitive and communication skills for people with locked-in syndrome (PLIS) to use the RSVP Keyboard™ brain-computer interface (BCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24059536

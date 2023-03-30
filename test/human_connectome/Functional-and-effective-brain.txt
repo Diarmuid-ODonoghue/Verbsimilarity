@@ -1,0 +1,3 @@
+This exploratory study provided a proof of concept of a new procedure using multivariate electroencephalographic (EEG) topographic markers of cortical connectivity to discriminate normal elderly (Nold) and Alzheimer's disease (AD) individuals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27836429

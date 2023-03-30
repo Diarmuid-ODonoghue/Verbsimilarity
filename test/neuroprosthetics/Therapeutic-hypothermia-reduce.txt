@@ -1,0 +1,3 @@
+Neuroprosthetics hold tremendous promise to restore function through brain-computer interfaced devices. However, clinical applications of implantable microelectrodes remain limited given the challenges of maintaining neuronal signals for extended periods of time and with multiple biological mechanisms negatively affecting electrode performance. Acute and chronic inflammation, oxidative stress, and blood brain barrier disruption contribute to inconsistent electrode performance. We hypothesized that therapeutic hypothermia (TH) applied at the microelectrode insertion site will positively modulate both inflammatory and apoptotic pathways, promoting neuroprotection and improved performance in the long-term.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32240985

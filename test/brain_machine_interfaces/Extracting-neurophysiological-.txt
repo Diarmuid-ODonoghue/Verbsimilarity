@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) allow persons with impaired mobility to communicate and interact with the environment, supporting goal-directed thinking and cognitive function. Ideally, a BCI should be able to recognize a user's internal state and adapt to it in real-time, to improve interaction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26518530

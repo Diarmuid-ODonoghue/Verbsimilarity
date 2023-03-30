@@ -1,0 +1,3 @@
+White matter hyperintensities (WMH) represent ischemic white matter damage in late-life depression (LLD) and are associated with cognitive control dysfunction. Understanding the impact of WMH on the structural connectivity of gray matter and the cognitive control correlates of WMH-related structural dysconnectivity can provide insight into the pathophysiology of LLD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31077981

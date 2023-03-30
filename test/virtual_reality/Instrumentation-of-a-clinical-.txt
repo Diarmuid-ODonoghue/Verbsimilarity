@@ -1,0 +1,3 @@
+This paper describes the instrumentation of a clinical colonoscope needed for a novel colonoscopy simulation framework. The simulator consists of a compact and portable haptic interface and a virtual reality environment to provide real-time visualization. The proposed instrumentation enables tracking different functions of the colonoscope while keeping the ergonomics unchanged.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19162596

@@ -1,0 +1,3 @@
+Surgical simulation is increasingly used to facilitate the adoption of technical skills during surgical training. This study sought to determine if gaze control parameters could differentiate between the visual control of experienced and novice operators performing an eye-hand coordination task on a virtual reality laparoscopic surgical simulator (LAP Mentor™). Typically adopted hand movement metrics reflect only one half of the eye-hand coordination relationship; therefore, little is known about how hand movements are guided and controlled by vision.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20333405

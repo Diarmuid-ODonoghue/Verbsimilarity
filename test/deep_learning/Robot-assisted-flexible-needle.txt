@@ -1,0 +1,3 @@
+Flexible needle insertion is an important minimally invasive surgery approach for biopsy and radio-frequency ablation. This approach can minimize intraoperative trauma and improve postoperative recovery. We propose a new path planning framework using multi-goal deep reinforcement learning to overcome the difficulties in uncertain needle-tissue interactions and enhance the robustness of robot-assisted insertion process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31768886

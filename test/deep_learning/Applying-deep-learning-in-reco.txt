@@ -1,0 +1,3 @@
+Identifying the nerve block region is important for the less experienced operators who are not skilled in ultrasound technology. Therefore, we constructed and shared a dataset of ultrasonic images to explore a method to identify the femoral nerve block region.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31700889

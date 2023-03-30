@@ -1,0 +1,3 @@
+For two decades, EEG-based Brain-Computer Interface (BCI) systems have been widely studied in research labs. Now, researchers want to consider out-of-the-lab applications and make this technology available to everybody. However, medical-grade EEG recording devices are still much too expensive for end-users, especially disabled people. Therefore, several low-cost alternatives have appeared on the market. The Emotiv Epoc headset is one of them. Although some previous work showed this device could suit the customer's needs in terms of performance, no quantitative classification-based assessments compared to a medical system are available.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23800158

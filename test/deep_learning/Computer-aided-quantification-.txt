@@ -1,0 +1,3 @@
+Tumor-stroma ratio (TSR) serves as an independent prognostic factor in colorectal cancer and other solid malignancies. The recent introduction of digital pathology in routine tissue diagnostics holds opportunities for automated TSR analysis. We investigated the potential of computer-aided quantification of intratumoral stroma in rectal cancer whole-slide images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30825182

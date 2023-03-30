@@ -1,0 +1,3 @@
+We aimed to propose a highly automatic and objective model named deep learning Radiomics of thyroid (DLRT) for the differential diagnosis of benign and malignant thyroid nodules from ultrasound (US) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32339983

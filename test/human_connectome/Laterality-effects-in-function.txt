@@ -1,0 +1,3 @@
+The angular gyrus (AG) is consistently reported in neuroimaging studies of episodic memory retrieval and is a fundamental node within the default mode network (DMN). Its specific contribution to episodic memory is debated, with some suggesting it is important for the subjective experience of episodic recollection, rather than retrieval of objective episodic details. Across studies of episodic retrieval, the left AG is recruited more reliably than the right. We explored functional connectivity of the right and left AG with the DMN during rest and retrieval to assess whether connectivity could provide insight into the nature of this laterality effect.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26559474

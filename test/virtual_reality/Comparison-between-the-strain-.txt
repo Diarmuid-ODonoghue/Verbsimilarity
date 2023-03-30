@@ -1,0 +1,3 @@
+Augmented Reality uses Head Mounted Displays (HMD) to overlay the real word with additional virtual information. Virtual Retinal Displays (VRD), a new display technology, no longer requires Liquid Crystal Displays (LCD). VRD technology addresses the retina directly with a single laser stream of pixels. There are no studies on the user's informational strain in this new VRD technology. Various papers have shown that Heart Rate Variability (HRV) is a valid indicator for the user's informational strain. An empirical test revealed no difference in the user's HRV between VRD technology and LCD technology. Consequently, there seems to be a comparable user informational strain regarding the display types.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14675515

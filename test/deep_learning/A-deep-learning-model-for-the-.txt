@@ -1,0 +1,3 @@
+To build a deep learning model to diagnose glaucoma using fundus photography.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30481205

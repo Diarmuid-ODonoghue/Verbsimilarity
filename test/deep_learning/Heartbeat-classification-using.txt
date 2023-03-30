@@ -1,0 +1,3 @@
+The electrocardiogram (ECG) has been widely used in the diagnosis of heart disease such as arrhythmia due to its simplicity and non-invasive nature. Arrhythmia can be classified into many types, including life-threatening and non-life-threatening. Accurate detection of arrhythmic types can effectively prevent heart disease and reduce mortality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31812617

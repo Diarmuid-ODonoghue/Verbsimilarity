@@ -1,0 +1,3 @@
+The latest generation of head-mounted displays (HMDs) provides built-in head tracking, which enables estimating position in a room-size setting. This feature allows users to explore, navigate, and move within real-size virtual environments, such as kitchens, supermarket aisles, or streets. Previously, these actions were commonly facilitated by external peripherals and interaction metaphors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29293369

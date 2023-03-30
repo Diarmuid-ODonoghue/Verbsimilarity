@@ -1,0 +1,3 @@
+Limb prosthetics, exoskeletons, and neurorehabilitation devices can be intuitively controlled using myoelectric pattern recognition (MPR) to decode the subject's intended movement. In conventional MPR, descriptive electromyography (EMG) features representing the intended movement are fed into a classification algorithm. The separability of the different movements in the feature space significantly affects the classification complexity. Classification complexity estimating algorithms (CCEAs) were studied in this work in order to improve feature selection, predict MPR performance, and inform on faulty data acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28693533

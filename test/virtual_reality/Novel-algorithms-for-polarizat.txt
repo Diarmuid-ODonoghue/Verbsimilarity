@@ -1,0 +1,3 @@
+Novel algorithms of polarization imaging data produce views not visible in the images resulting from the instrumentations. These computed images are rapidly produced, and reveal clinically relevant features. A virtual reality implementation that allows a selection of such views during diagnostic procedures or treatment might improve patient management.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455864

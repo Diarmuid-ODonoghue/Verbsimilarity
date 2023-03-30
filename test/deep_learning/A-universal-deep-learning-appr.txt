@@ -1,0 +1,3 @@
+The Accident and Emergency Department (A&ED) is the frontline for providing emergency care in hospitals. Unfortunately, relative A&ED resources have failed to keep up with continuously increasing demand in recent years, which leads to overcrowding in A&ED. Knowing the fluctuation of patient arrival volume in advance is a significant premise to relieve this pressure. Based on this motivation, the objective of this study is to explore an integrated framework with high accuracy for predicting A&ED patient flow under different triage levels, by combining a novel feature selection process with deep neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29249343

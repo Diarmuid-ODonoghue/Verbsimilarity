@@ -1,0 +1,3 @@
+The tissue atlas of the human protein atlas (HPA) houses immunohistochemistry (IHC) images visualizing the protein distribution from the tissue level down to the cell level, which provide an important resource to study human spatial proteome. Especially, the protein subcellular localization patterns revealed by these images are helpful for understanding protein functions, and the differential localization analysis across normal and cancer tissues lead to new cancer biomarkers. However, computational tools for processing images in this database are highly underdeveloped. The recognition of the localization patterns suffers from the variation in image quality and the difficulty in detecting microscopic targets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31804670

@@ -1,0 +1,3 @@
+Soft, cell integrated electrode coatings are proposed to address the problem of scar tissue encapsulation of stimulating neuroprosthetics. The aim of these studies was to prove the concept and feasibility of integrating a cell loaded hydrogel with existing electrode coating technologies. Layered conductive hydrogel constructs are embedded with neural cells and shown to both support cell growth and maintain electro activity. The safe charge injection limit of these electrodes was 8 times higher than conventional platinum (Pt) electrodes and the stiffness was four orders of magnitude lower than Pt. Future studies will determine the biological cues required to support stem cell differentiation from the electrode surface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24111345

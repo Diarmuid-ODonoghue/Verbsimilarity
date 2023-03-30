@@ -1,0 +1,3 @@
+In laparoscopic surgery, no external feedback on the magnitude of the force exerted is available. Hence, surgeons and residents tend to exert excessive force, which leads to tissue trauma. Ability of surgeons and residents to perceive their own force output without external feedback is a critical factor in laparoscopic force-skills training. Additionally, existing methods of laparoscopic training do not effectively train residents and novices on force-skills. Hence, there is growing need for the development of force-based training curriculum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25318363

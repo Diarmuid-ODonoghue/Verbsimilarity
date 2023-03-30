@@ -1,0 +1,3 @@
+Burns are life-threatening with high morbidity and mortality. Reliable diagnosis supported by accurate burn area and depth assessment is critical to the success of the treatment decision and, in some cases, can save the patient's life. Current techniques such as straight-ruler method, aseptic film trimming method, and digital camera photography method are not repeatable and comparable, which lead to a great difference in the judgment of burn wounds and impede the establishment of the same evaluation criteria. Hence, in order to semi-automate the burn diagnosis process, reduce the impact of human error, and improve the accuracy of burn diagnosis, we include the deep learning technology into the diagnosis of burns.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30859107

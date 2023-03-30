@@ -1,0 +1,3 @@
+This study aimed to determine the intra-rater and inter-rater reliability and validity of a hybrid device, combining virtual reality goggles, a magnetometer and an inclinometer application for smartphones, to measure craniocervical range.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31295869

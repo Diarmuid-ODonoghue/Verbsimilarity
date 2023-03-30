@@ -1,0 +1,3 @@
+In this study we investigated the integration of a Raman spectroscopy-based biosensor with an image-guided surgery system. Such a system would provide a surgeon with both a diagnosis of the tissue being analysed (e.g. cancer) and localization information displayed within an imaging modality of choice. This type of mutual and registered information could lead to faster diagnoses and enable more accurate tissue resections.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17441030

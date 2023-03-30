@@ -1,0 +1,3 @@
+A deep learning computer artificial intelligence system is helpful for early identification of ground glass opacities (GGOs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30670024

@@ -1,0 +1,3 @@
+Depressive disorder is one of the major public health problems among the elderly. An effective depression risk prediction model can provide insights on the disease progression and potentially inform timely targeted interventions. Therefore, research on predicting the onset of depressive disorder for elderly adults considering the sequential progression patterns is critically needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31569007

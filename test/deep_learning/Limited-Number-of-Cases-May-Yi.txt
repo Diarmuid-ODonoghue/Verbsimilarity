@@ -1,0 +1,3 @@
+Little is known about the effect of a minimum number of slides required in generating image datasets used to build generalizable machine-learning (ML) models. In addition, the assumption within deep learning is that the increased number of training images will always enhance accuracy and that the initial validation accuracy of the models correlates well with their generalizability. In this pilot study, we have been able to test the above assumptions to gain a better understanding of such platforms, especially when data resources are limited.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32175170

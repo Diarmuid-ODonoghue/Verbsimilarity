@@ -1,0 +1,3 @@
+This paper presents a setup for the real-time extraction of Electroencephalography (EEG) and Electrocardiogram (ECG) features indicating the level of focus, relaxation, or meditation of a given subject. An algorithm for detecting meditation in real-time using the extracted ECG features is designed and shown to lead to accurate results using an online ECG measurement dataset. Similar methods can be used for EEG data, such that the proposed measurement setup can be used, for example, for investigating the effect of virtual reality based EEG training, with and without neurofeedback, on the capability of subjects to focus, relax, or meditate.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31945854

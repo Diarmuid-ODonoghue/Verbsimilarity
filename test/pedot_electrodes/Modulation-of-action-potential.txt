@@ -1,0 +1,3 @@
+We describe the use of PEDOT:PSS conducting polymer microwires to modulate action potentials in single cells.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28871198

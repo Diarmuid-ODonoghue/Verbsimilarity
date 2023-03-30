@@ -1,0 +1,3 @@
+The new wave of successful generative models in machine learning has increased the interest in deep learning driven de novo drug design. However, method comparison is difficult because of various flaws of the currently employed evaluation metrics. We propose an evaluation metric for generative models called Fréchet ChemNet distance (FCD). The advantage of the FCD over previous metrics is that it can detect whether generated molecules are diverse and have similar chemical and biological properties as real molecules.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30118593

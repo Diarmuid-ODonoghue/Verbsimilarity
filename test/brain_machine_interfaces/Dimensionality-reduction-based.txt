@@ -1,0 +1,3 @@
+In this paper, we propose a nonlinear dimensionality reduction algorithm for the manifold of symmetric positive definite (SPD) matrices that considers the geometry of SPD matrices and provides a low-dimensional representation of the manifold with high class discrimination in a supervised or unsupervised manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28220764

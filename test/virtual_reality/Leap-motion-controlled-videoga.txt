@@ -1,0 +1,3 @@
+The leap motion controller (LMC) is a new optoelectronic system for capturing motion of both hands and controlling a virtual environment. Differently from previous devices, it optoelectronically tracks the fine movements of fingers neither using glows nor markers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26258456

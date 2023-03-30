@@ -1,0 +1,3 @@
+Computer-based endoscopic simulators have been developed in recent years, and their usefulness has been reported. However, there is no blinded prospective randomized controlled study on esophagogastroduodenoscopy (EGD) training using virtual reality simulators. The present study aimed to assess the effectiveness of a computer-based simulator for basic training in EGD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18554236

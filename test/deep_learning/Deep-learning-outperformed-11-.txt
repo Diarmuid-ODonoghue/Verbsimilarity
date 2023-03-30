@@ -1,0 +1,3 @@
+The diagnosis of most cancers is made by a board-certified pathologist based on a tissue biopsy under the microscope. Recent research reveals a high discordance between individual pathologists. For melanoma, the literature reports on 25-26% of discordance for classifying a benign nevus versus malignant melanoma. A recent study indicated the potential of deep learning to lower these discordances. However, the performance of deep learning in classifying histopathologic melanoma images was never compared directly to human experts. The aim of this study is to perform such a first direct comparison.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31325876

@@ -1,0 +1,3 @@
+Representation of movement in the motor cortex (M1) has been widely studied in brain-machine interfaces (BMIs). The electromyogram (EMG) has greater bandwidth than the conventional kinematic variables (such as position, velocity), and is functionally related to the discharge of cortical neurons. As the stochastic information of EMG is derived from the explicit spike time structure, point process (PP) methods will be a good solution for decoding EMG directly from neural spike trains. Previous studies usually assume linear or exponential tuning curves between neural firing and EMG, which may not be true.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26468607

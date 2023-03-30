@@ -1,0 +1,3 @@
+The aim of the present work was to develop and test a flexible electrotactile stimulation system to provide real-time feedback to the prosthesis user. The system requirements were to accommodate the capabilities of advanced multi-DOF myoelectric hand prostheses and transmit the feedback variables (proprioception and force) using intuitive coding, with high resolution and after minimal training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27296902

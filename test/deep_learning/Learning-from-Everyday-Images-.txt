@@ -1,0 +1,3 @@
+Kermany et al. report an application of a neural network trained on millions of everyday images to a database of thousands of retinal tomography images that they gathered and expert labeled, resulting in a rapid and accurate diagnosis of retinal diseases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29474917

@@ -1,0 +1,3 @@
+From artificial intelligence, predictive analytics and biometric sensors, to advanced robotics, virtual reality and mobile applications, rapid advances in technology are transforming the design, delivery and experience of mental healthcare. This paper explores the promise and pitfalls of three technologies (apps, avatars and robots) posed to transform mental health education, practice and research. By highlighting potential practical and ethical implications, this paper argues mental health professionals must actively engage in the co-design and development of new technologies, and reflexively reflect on whether the future will be a techno-utopia or dystopia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30605359

@@ -1,0 +1,3 @@
+A pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been spreading throughout the world. Though molecular diagnostic tests are the gold standard for COVID-19, serological testing is emerging as a potential surveillance tool, in addition to its complementary role in COVID-19 diagnostics. Indubitably quantitative serological testing provides greater advantages than qualitative tests but today there is still little known about serological diagnostics and what the most appropriate role quantitative tests might play.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32330291

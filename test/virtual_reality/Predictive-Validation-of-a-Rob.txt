@@ -1,0 +1,3 @@
+To predict actual performance in real surgery when vesicourethral anastomosis (VUA) is performed in patients after Tube 3 module training of robot-naive surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30144481

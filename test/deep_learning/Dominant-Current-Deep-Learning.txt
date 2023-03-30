@@ -1,0 +1,3 @@
+Deep learning has recently been applied to electrical impedance tomography (EIT) imaging. Nevertheless, there are still many challenges that this approach has to face, e.g., targets with sharp corners or edges cannot be well recovered when using circular inclusion training data. This paper proposes an iterative-based inversion method and a convolutional neural network (CNN) based inversion method to recover some challenging inclusions such as triangular, rectangular, or lung shapes, where the CNN-based method uses only random circle or ellipse training data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30629486

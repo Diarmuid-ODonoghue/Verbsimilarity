@@ -1,0 +1,3 @@
+To understand the impact of deep learning diabetic retinopathy (DR) algorithms on physician readers in computer-assisted settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30553900

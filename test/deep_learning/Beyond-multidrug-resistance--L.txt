@@ -1,0 +1,3 @@
+The diagnosis of multidrug resistant and extensively drug resistant tuberculosis is a global health priority. Whole genome sequencing of clinical Mycobacterium tuberculosis isolates promises to circumvent the long wait times and limited scope of conventional phenotypic antimicrobial susceptibility, but gaps remain for predicting phenotype accurately from genotypic data especially for certain drugs. Our primary aim was to perform an exploration of statistical learning algorithms and genetic predictor sets using a rich dataset to build a high performing and fast predicting model to detect anti-tuberculosis drug resistance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31047860

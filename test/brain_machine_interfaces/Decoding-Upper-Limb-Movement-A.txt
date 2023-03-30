@@ -1,0 +1,3 @@
+Stroke survivors usually require motor rehabilitation therapy as, due to the lesion, they completely or partially loss mobility in the limbs. Brain-computer interface technology offers the possibility of decoding the attempt to move paretic limbs in real time to improve existing motor rehabilitation. However, a major difficulty for the practical application of the BCI to stroke survivors is that the brain rhythms that encode the motor states might be diminished due to the lesion. This study investigates the continuous decoding of natural attempt to move the paralyzed upper limb in stroke survivors from electroencephalographic signals of the unaffected contralesional motor cortex.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27046866

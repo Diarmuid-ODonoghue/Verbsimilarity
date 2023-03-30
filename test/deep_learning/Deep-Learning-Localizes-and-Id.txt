@@ -1,0 +1,3 @@
+The benefit of colonoscopy for colorectal cancer prevention depends on the adenoma detection rate (ADR). The ADR should reflect the adenoma prevalence rate, which is estimated to be higher than 50% in the screening-age population. However, the ADR by colonoscopists varies from 7% to 53%. It is estimated that every 1% increase in ADR lowers the risk of interval colorectal cancers by 3%-6%. New strategies are needed to increase the ADR during colonoscopy. We tested the ability of computer-assisted image analysis using convolutional neural networks (CNNs; a deep learning model for image analysis) to improve polyp detection, a surrogate of ADR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29928897

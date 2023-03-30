@@ -1,0 +1,3 @@
+Upper gastrointestinal cancers (including oesophageal cancer and gastric cancer) are the most common cancers worldwide. Artificial intelligence platforms using deep learning algorithms have made remarkable progress in medical imaging but their application in upper gastrointestinal cancers has been limited. We aimed to develop and validate the Gastrointestinal Artificial Intelligence Diagnostic System (GRAIDS) for the diagnosis of upper gastrointestinal cancers through analysis of imaging data from clinical endoscopies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31591062

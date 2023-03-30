@@ -1,0 +1,3 @@
+This paper features a Spatial Augmented Reality system for rehabilitation of hand and arm movement. The table-top home-based system tracks a subject's hand and creates a virtual audio-visual interface for performing rehabilitation-related tasks that involve wrist, elbow, and shoulder movements. It measures range, speed, and smoothness of movements locally and can send the real-time photos and data to the clinic for further assessment. To evaluate the system, it was tested on two normal subjects and proved functional.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23400171

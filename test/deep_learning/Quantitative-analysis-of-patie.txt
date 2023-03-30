@@ -1,0 +1,3 @@
+Celiac disease is one of the most common diseases in the world. Capsule endoscopy is an alternative way to visualize the entire small intestine without invasiveness to the patient. It is useful to characterize celiac disease, but hours are need to manually analyze the retrospective data of a single patient. Computer-aided quantitative analysis by a deep learning method helps in alleviating the workload during analysis of the retrospective videos.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28412572

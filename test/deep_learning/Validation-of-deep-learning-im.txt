@@ -1,0 +1,3 @@
+Advances in image reconstruction are necessary to decrease radiation exposure from coronary CT angiography (CCTA) further, but iterative reconstruction has been shown to degrade image quality at high levels. Deep-learning image reconstruction (DLIR) offers unique opportunities to overcome these limitations. The present study compared the impact of DLIR and adaptive statistical iterative reconstruction-Veo (ASiR-V) on quantitative and qualitative image parameters and the diagnostic accuracy of CCTA using invasive coronary angiography (ICA) as the standard of reference.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31974008

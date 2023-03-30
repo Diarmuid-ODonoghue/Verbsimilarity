@@ -1,0 +1,3 @@
+To illustrate the [18F]FDG-PET/CT findings in patients affected by cancer with clinical diagnosis of Covid-19 METHODS: We retrospectively reviewed the cases of patients who showed pulmonary involvement unrelated to cancer metastases on March 13 and 16 2020. We reviewed the scans, collected medical history, and exposure information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32342191

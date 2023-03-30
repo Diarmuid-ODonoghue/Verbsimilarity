@@ -1,0 +1,3 @@
+As the importance of beneficial bacteria is better recognized, understanding the dynamics of symbioses becomes increasingly crucial. In many gut symbioses, it is essential to understand whether changes in host diet play a role in the persistence of the bacterial gut community. In this study, termites were fed six dietary sources and the microbial community was monitored over a 49-day period using 16S rRNA gene sequencing. A deep backpropagation artificial neural network (ANN) was used to learn how the six different lignocellulose food sources affected the temporal composition of the hindgut microbiota of the termite as well as taxon-taxon and taxon-substrate interactions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29747692

@@ -1,0 +1,3 @@
+Bi-directional brain-computer interfaces for the restoration of movement and sensation must simultaneously record neural signals and deliver cortical stimulation. This poses a challenge since stimulation artifacts can be orders of magnitude stronger than neural signals. In this article, we propose a novel subspace-based method for the removal of cortical electrical stimulation artifacts. We demonstrate the practical application of our approach on experimentally recorded electroencephalogram data, where artifacts were suppressed by as much as $30-40\mathrm {d}\mathrm {B}$. Our method is computationally simple, yet it achieves superior results to the state-of-the art methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30440897

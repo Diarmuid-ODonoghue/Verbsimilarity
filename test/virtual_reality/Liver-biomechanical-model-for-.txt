@@ -1,0 +1,3 @@
+Palpation is a diagnostic technique used for evaluating physical properties of abdominal tissues and organs. The emulation of this procedure using virtual simulators is challenging due to trades between realism and interactivity. In this paper a virtual palpation system of the liver is proposed using a polyhedral mesh with a first order viscoelastic model defined in terms of its biomechanical properties extracted from experimental data. The hepatic tissue model is approximated to large deformations leading to a realistic haptic response of the procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732549

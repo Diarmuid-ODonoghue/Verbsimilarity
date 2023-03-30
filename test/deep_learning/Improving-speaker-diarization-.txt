@@ -1,0 +1,3 @@
+While deep learning has driven recent improvements in audio speaker diarization, it often faces performance issues in challenging interaction scenarios and varied acoustic settings such as between a child and adult (caregiver/examiner). In this work, the role of contextual factors that affect diarization performance in such interactions is analyzed. Factors that affect each type of diarization error are identified. Furthermore, a DNN is trained on diarization outputs in conjunction with the factors to improve diarization performance. The results demonstrate the usefulness of incorporating context in improving diarization performance of child-adult interactions in clinical settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32113327

@@ -1,0 +1,3 @@
+In light of the shortcomings of current restorative brain-computer interfaces (BCI), this study investigated the possibility of using EMG to detect hand/wrist extension movement intention to trigger robot-assisted training in individuals without residual movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29993449

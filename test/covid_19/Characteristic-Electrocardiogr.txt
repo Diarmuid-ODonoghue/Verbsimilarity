@@ -1,0 +1,3 @@
+Cardiac involvement has been reported in patients with COVID-19, which may be reflected by electrocardiographic (ECG) changes. Two COVID-19 cases in our report exhibited different ECG manifestations as the disease caused deterioration. The first case presented temporary SIQIIITIII morphology followed by reversible nearly complete atrioventricular block, and the second demonstrated ST-segment elevation accompanied by multifocal ventricular tachycardia. The underlying mechanisms of these ECG abnormalities in the severe stage of COVID-19 may be attributed to hypoxia and inflammatory damage incurred by the virus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32299751

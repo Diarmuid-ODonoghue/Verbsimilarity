@@ -1,0 +1,3 @@
+Many people use the Internet as one of the primary sources of health information. This is due to the high volume and easy access of freely available information regarding diseases, diagnoses and treatments. However, users may find it difficult to retrieve information which is easily understandable and does not require a deep medical background. In this paper, we present a new kind of Web browser add-on, in order to proactively support users when searching for relevant health information. Our add-on not only visualizes the understandability of displayed medical text but also provides further recommendations of Web pages which hold similar content but are potentially easier to comprehend.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26152963

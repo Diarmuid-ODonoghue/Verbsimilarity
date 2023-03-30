@@ -1,0 +1,3 @@
+The continuing development in computer-based medical simulators provides an ideal platform for simulator-assisted training programs for medical trainees. Computer-based endoscopic simulators provide a virtual reality environment for training endoscopic procedures. This study illustrates the use of a comprehensive training model combining the use of endoscopic simulators with simulated (actor) patients (SP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/17183949

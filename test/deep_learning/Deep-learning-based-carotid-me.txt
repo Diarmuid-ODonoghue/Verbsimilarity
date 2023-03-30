@@ -1,0 +1,3 @@
+Quantification of carotid plaques has been shown to be important for assessing as well as monitoring the progression and regression of carotid atherosclerosis. Various metrics have been proposed and methods of measurements ranging from manual tracing to automated segmentations have also been investigated. Of those metrics, quantification of carotid plaques by measuring vessel-wall-volume (VWV) using the segmented media-adventitia (MAB) and lumen-intima (LIB) boundaries has been shown to be sensitive to temporal changes in carotid plaque burden. Thus, semi-automatic MAB and LIB segmentation methods are required to help generate VWV measurements with high accuracy and less user interaction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31071228

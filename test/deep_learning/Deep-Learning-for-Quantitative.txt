@@ -1,0 +1,3 @@
+OBJECTIVE. The recent advancement of deep learning techniques has profoundly impacted research on quantitative cardiac MRI analysis. The purpose of this article is to introduce the concept of deep learning, review its current applications on quantitative cardiac MRI, and discuss its limitations and challenges. CONCLUSION. Deep learning has shown state-of-the-art performance on quantitative analysis of multiple cardiac MRI sequences and holds great promise for future use in clinical practice and scientific research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31670597

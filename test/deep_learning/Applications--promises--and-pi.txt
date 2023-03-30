@@ -1,0 +1,3 @@
+Deep learning is becoming an increasingly important tool for image reconstruction in fluorescence microscopy. We review state-of-the-art applications such as image restoration and super-resolution imaging, and discuss how the latest deep learning research could be applied to other image reconstruction tasks. Despite its successes, deep learning also poses substantial challenges and has limits. We discuss key questions, including how to obtain training data, whether discovery of unknown structures is possible, and the danger of inferring unsubstantiated image details.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31285623

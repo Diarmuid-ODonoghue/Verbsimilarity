@@ -1,0 +1,3 @@
+Deep learning has recently shown its outstanding performance in biomedical image semantic segmentation. Most biomedical semantic segmentation frameworks comprise the encoder-decoder architecture directly fusing features of the encoder and the decoder by the way of skip connections. However, the simple fusion operation may neglect the semantic gaps which lie between these features in the decoder and the encoder, hindering the effectiveness of the network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32270415

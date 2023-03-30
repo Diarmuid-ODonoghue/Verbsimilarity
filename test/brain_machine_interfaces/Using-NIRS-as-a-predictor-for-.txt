@@ -1,0 +1,3 @@
+Multimodal recordings of EEG and NIRS of 14 subjects are analyzed in the context of sensory-motor based Brain Computer Interface (BCI). Our findings indicate that performance fluctuations of EEG-based BCI control can be predicted by preceding Near-Infrared Spectroscopy (NIRS) activity. These NIRS-based predictions are then employed to generate new, more robust EEG-based BCI classifiers, which enhance classification significantly, while at the same time minimize performance fluctuations and thus increase the general stability of BCI performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23367029

@@ -1,0 +1,3 @@
+Unplanned readmission of a hospitalized patient is an indicator of patients' exposure to risk and an avoidable waste of medical resources. In addition to hospital readmission, intensive care unit (ICU) readmission brings further financial risk, along with morbidity and mortality risks. Identification of high-risk patients who are likely to be readmitted can provide significant benefits for both patients and medical providers. The emergence of machine learning solutions to detect hidden patterns in complex, multi-dimensional datasets provides unparalleled opportunities for developing an efficient discharge decision-making support system for physicians and ICU specialists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31283759

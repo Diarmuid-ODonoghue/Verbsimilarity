@@ -1,0 +1,3 @@
+Genome sequencing and microarray technology produce ever-increasing amounts of complex data that need analysis. Visualization is an effective analytical technique that exploits the ability of the human brain to process large amounts of data. Here, we review traditional visualization methods based on clustering and tree representation, and also describe an alternative approach that involves projecting objects onto a Euclidean space in a way that reflects their structural or functional distances. Data are visualized without preclustering and can be dynamically explored by the user using 'virtual-reality'. We illustrate this approach with two case studies from protein topology and gene expression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11102659

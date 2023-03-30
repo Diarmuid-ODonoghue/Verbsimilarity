@@ -1,0 +1,3 @@
+Biological networks characterize the interactions of biomolecules at a systems-level. One important property of biological networks is the modular structure, in which nodes are densely connected with each other, but between which there are only sparse connections. In this report, we attempted to find the relationship between the network topology and formation of modular structure by comparing gene co-expression networks with random networks. The organization of gene functional modules was also investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19845953

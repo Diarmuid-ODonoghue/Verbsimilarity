@@ -1,0 +1,3 @@
+Adversarial networks were developed to complete powerful image-processing tasks on the basis of example images provided to train the networks. These networks are relatively new in the field of deep learning and have proved to have unique strengths that can potentially benefit radiology. Specifically, adversarial networks have the potential to decrease radiation exposure to patients through minimizing repeat imaging due to artifact, decreasing acquisition time, and generating higher quality images from low-dose or no-dose studies. The authors provide an overview of a specific type of adversarial network called a "generalized adversarial network" and review its uses in current medical imaging research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31492405

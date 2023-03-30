@@ -1,0 +1,3 @@
+This paper describes the design, training, and evaluation of a deep neural network for removing noise from medical fluoroscopy videos. The method described in this work, unlike the current standard techniques for video denoising, is able to deliver a result quickly enough to be used in real-time scenarios. Furthermore, this method is able to produce results of a similar quality to the existing industry-standard denoising techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29877510

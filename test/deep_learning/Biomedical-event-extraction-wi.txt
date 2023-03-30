@@ -1,0 +1,3 @@
+Biomedical event extraction is a fundamental and in-demand technology that has attracted substantial interest from many researchers. Previous works have heavily relied on manual designed features and external NLP packages in which the feature engineering is large and complex. Additionally, most of the existing works use the pipeline process that breaks down a task into simple sub-tasks but ignores the interaction between them. To overcome these limitations, we propose a novel event combination strategy based on hybrid deep neural networks to settle the task in a joint end-to-end manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32028883

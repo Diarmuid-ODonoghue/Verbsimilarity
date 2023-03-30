@@ -1,0 +1,3 @@
+Steady-state visual evoked potential (SSVEP) has been widely applied to develop brain computer interface (BCI) systems. The essence of SSVEP recognition is to recognize the frequency component of target stimulus focused by a subject significantly present in EEG spectrum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26014663

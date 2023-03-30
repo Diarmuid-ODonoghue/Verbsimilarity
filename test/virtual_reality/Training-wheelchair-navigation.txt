@@ -1,0 +1,3 @@
+A user-centred design was used to develop and test the feasibility of an immersive 3D virtual reality wheelchair training tool for people with spinal cord injury (SCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27376716

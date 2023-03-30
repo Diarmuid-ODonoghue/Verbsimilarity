@@ -1,0 +1,3 @@
+Computational methods for phosphorylation site prediction play important roles in protein function studies and experimental design. Most existing methods are based on feature extraction, which may result in incomplete or biased features. Deep learning as the cutting-edge machine learning method has the ability to automatically discover complex representations of phosphorylation patterns from the raw sequences, and hence it provides a powerful tool for improvement of phosphorylation site prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29036382

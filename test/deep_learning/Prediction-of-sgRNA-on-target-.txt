@@ -1,0 +1,3 @@
+One of the main challenges for the CRISPR-Cas9 system is selecting optimal single-guide RNAs (sgRNAs). Recently, deep learning has enhanced sgRNA prediction in eukaryotes. However, the prokaryotic chromatin structure is different from eukaryotes, so models trained on eukaryotes may not apply to prokaryotes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31651233

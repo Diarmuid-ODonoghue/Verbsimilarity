@@ -1,0 +1,3 @@
+This report presents the methods and results of the Thoracic Auto-Segmentation Challenge organized at the 2017 Annual Meeting of American Association of Physicists in Medicine. The purpose of the challenge was to provide a benchmark dataset and platform for evaluating performance of autosegmentation methods of organs at risk (OARs) in thoracic CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30144101

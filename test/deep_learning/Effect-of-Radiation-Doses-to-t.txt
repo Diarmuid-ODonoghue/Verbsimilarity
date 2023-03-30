@@ -1,0 +1,3 @@
+The cardiac radiation dose is an important predictor of cardiac toxicity and overall survival (OS) for patients with locally advanced non-small-cell lung cancer (NSCLC). However, radiation-induced cardiac toxicity among patients with early-stage NSCLC who have undergone stereotactic ablative radiotherapy (SABR) has been less well-characterized. Our objective was to assess the associations between cardiac radiation dosimetry and OS in patients with early-stage NSCLC undergoing SABR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31932217

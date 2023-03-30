@@ -1,0 +1,3 @@
+Seizure prediction has made important advances over the last decade, with the recent demonstration that prospective seizure prediction is possible, though there remain significant obstacles to broader application. In this review, we will describe insights gained from long-term trials, with the aim of identifying research goals for the next decade.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28118302

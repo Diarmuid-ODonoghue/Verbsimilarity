@@ -1,0 +1,3 @@
+We present a narrative review of recent work on the utilisation of Natural Language Processing (NLP) for the analysis of social media (including online health communities) specifically for public health applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31419834

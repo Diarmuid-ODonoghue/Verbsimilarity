@@ -1,0 +1,3 @@
+To determine, via a randomized comparison study, whether robotic simulator-acquired skills transfer to performance of a urethrovesical anastomosis (UVA) on a 3-dimensional-printed bladder model using the da Vinci Robot.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29054720

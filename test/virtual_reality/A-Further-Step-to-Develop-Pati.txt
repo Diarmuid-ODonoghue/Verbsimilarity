@@ -1,0 +1,3 @@
+Virtual reality (VR)-based rehabilitation is gaining attention as a way to promote early mobilization in patients with acute stroke. However, given the motor weakness and cognitive impairment associated with acute stroke, implementation strategies for overcoming patient-perceived difficulty need to be developed to enhance their motivation for training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27149961

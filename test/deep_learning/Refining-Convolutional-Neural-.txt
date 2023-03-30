@@ -1,0 +1,3 @@
+The purpose of this study was to evaluate improvement of convolutional neural network detection of high-grade small-bowel obstruction on conventional radiographs with increased training set size.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30476452

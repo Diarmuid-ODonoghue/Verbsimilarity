@@ -1,0 +1,3 @@
+Multiple virtual reality (VR) systems are used to improve motor function in children and youth with neurological impairments. Galvin and Levac developed a classification framework to facilitate clinical decision-making about VR system use. This paper applies the classification framework to identify its strengths and limitations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21548859

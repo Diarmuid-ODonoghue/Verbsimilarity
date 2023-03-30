@@ -1,0 +1,3 @@
+The regenerative peripheral nerve interface is an internal interface for signal transduction with external electronics of prosthetic limbs; it consists of an electrode and a unit of free muscle that is neurotized by a transected residual peripheral nerve. Adding a conductive polymer coating on electrodes improves electrode conductivity. This study examines regenerative peripheral nerve interface tissue viability and signal fidelity in the presence of an implanted electrode coated or uncoated with a conductive polymer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24867721

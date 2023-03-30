@@ -1,0 +1,3 @@
+Deep learning convolutional neural networks (CNN) may assist physicians in the diagnosis of melanoma. The capacity of a CNN to differentiate melanomas from combined naevi, the latter representing well-known melanoma simulators, has not been investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31856342

@@ -1,0 +1,3 @@
+Preoperative identification of knee arthroplasty is important for planning revision surgery. However, up to 10% of implants are not identified prior to surgery. The purposes of this study were to develop and test the performance of a deep learning system (DLS) for the automated radiographic 1) identification of the presence or absence of a total knee arthroplasty (TKA); 2) classification of TKA vs. unicompartmental knee arthroplasty (UKA); and 3) differentiation between two different primary TKA models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31883760

@@ -1,0 +1,3 @@
+Multifractal analysis quantifies the time-scale-invariant properties in data by describing the structure of variability over time. By applying this analysis to hippocampal interspike interval sequences recorded during performance of a working memory task, a measure of long-range temporal correlations and multifractal dynamics can reveal single neuron correlates of information processing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25086297

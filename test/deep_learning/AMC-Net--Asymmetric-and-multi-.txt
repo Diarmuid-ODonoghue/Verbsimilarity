@@ -1,0 +1,3 @@
+The multi-label Human Protein Atlas (HPA) classification can yield a better understanding of human diseases and help doctors to enhance the automatic analysis of biomedical images. The existing automatic protein recognition methods have been limited to single pattern. Therefore, an automatic multi-label human protein atlas recognition system with satisfactory performance should be conducted. This work aims to build an automatic recognition system for multi-label human protein atlas classification based on deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31416555

@@ -1,0 +1,3 @@
+The DNase I hypersensitive sites (DHSs) are associated with the cis-regulatory DNA elements. An efficient method of identifying DHSs can enhance the understanding on the accessibility of chromatin. Despite a multitude of resources available on line including experimental datasets and computational tools, the complex language of DHSs remains incompletely understood.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30598079

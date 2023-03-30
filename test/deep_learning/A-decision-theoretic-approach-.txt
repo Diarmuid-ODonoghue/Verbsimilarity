@@ -1,0 +1,3 @@
+Artificial intelligence, trained via machine learning (e.g. neural nets, random forests) or computational statistical algorithms (e.g. support vector machines, ridge regression), holds much promise for the improvement of small-molecule drug discovery. However, small-molecule structure-activity data are high dimensional with low signal-to-noise ratios and proper validation of predictive methods is difficult. It is poorly understood which, if any, of the currently available machine learning algorithms will best predict new candidate drugs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31070704

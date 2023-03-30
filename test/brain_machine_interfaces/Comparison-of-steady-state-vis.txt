@@ -1,0 +1,3 @@
+Many proposed EEG-based brain-computer interfaces (BCIs) make use of visual stimuli to elicit steady-state visual evoked potentials (SSVEP), the frequency of which can be mapped to a computer input. However, such a control scheme can be ineffective if a user has no motor control over their eyes and cannot direct their gaze towards a flashing stimulus to generate such a signal. Tactile-based methods, such as somatosensory steady-state evoked potentials (SSSEP), are a potentially attractive alternative in these scenarios. Here, we compare the neural signals elicited by SSSEP to those elicited by SSVEP in naïve BCI users towards evaluating the feasibility of SSSEP-based control of an EEG BCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570188

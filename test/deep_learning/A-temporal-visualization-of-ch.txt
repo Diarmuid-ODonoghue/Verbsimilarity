@@ -1,0 +1,3 @@
+Chronic obstructive pulmonary disease (COPD) is a progressive lung disease that is classified into stages based on disease severity. We aimed to characterize the time to progression prior to death in patients with COPD and to generate a temporal visualization that describes signs and symptoms during different stages of COPD progression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31842874

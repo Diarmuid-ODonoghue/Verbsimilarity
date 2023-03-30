@@ -1,0 +1,3 @@
+A brain-computer interface aims at restoring communication and control in severely disabled people by identification and classification of EEG features such as event-related potentials (ERPs). The aim of this study is to compare different modalities of EEG recording for extraction of ERPs. The first comparison evaluates the performance of six disc electrodes with that of the EMOTIV headset, while the second evaluates three different electrode types (disc, needle, and large squared electrode).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24094907

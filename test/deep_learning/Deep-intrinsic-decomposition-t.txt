@@ -1,0 +1,3 @@
+Estimation of intrinsic images still remains a challenging task due to weaknesses of ground-truth datasets, which either are too small or present non-realistic issues. On the other hand, end-to-end deep learning architectures start to achieve interesting results that we believe could be improved if important physical hints were not ignored. In this work, we present a twofold framework: (a) a flexible generation of images overcoming some classical dataset problems such as larger size jointly with coherent lighting appearance; and (b) a flexible architecture tying physical properties through intrinsic losses. Our proposal is versatile, presents low computation time, and achieves state-of-the-art results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32118875

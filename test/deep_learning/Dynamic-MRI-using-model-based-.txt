@@ -1,0 +1,3 @@
+To introduce a novel framework to combine deep-learned priors along with complementary image regularization penalties to reconstruct free breathing & ungated cardiac MRI data from highly undersampled multi-channel measurements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30860286

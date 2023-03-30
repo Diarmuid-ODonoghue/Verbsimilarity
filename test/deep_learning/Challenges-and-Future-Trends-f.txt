@@ -1,0 +1,3 @@
+The current situation in microarray data analysis and prospects for the future are briefly discussed in this chapter, in which the competition between microarray technologies and high-throughput technologies is considered under a data analysis view. The up-to-date limitations of DNA microarrays are important to forecast challenges and future trends in microarray data analysis; these include data analysis techniques associated with an increasing sample sizes, new feature selection methods, deep learning techniques, covariate significance testing as well as false discovery rate methods, among other procedures for a better interpretability of the results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31115895

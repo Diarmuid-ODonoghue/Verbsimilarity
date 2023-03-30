@@ -1,0 +1,3 @@
+We aimed to evaluate the performance of the newly developed deep learning Radiomics of elastography (DLRE) for assessing liver fibrosis stages. DLRE adopts the radiomic strategy for quantitative analysis of the heterogeneity in two-dimensional shear wave elastography (2D-SWE) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29730602

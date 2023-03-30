@@ -1,0 +1,3 @@
+Rehabilitation of upper-limb sensorimotor function in children with motor dysfunctions is primarily based on movement training. This study developed a virtual-reality based, paediatric interactive therapy system (PITS) that allows children to practice specific movements of the upper limbs with immediate feedback about their motor performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19283533

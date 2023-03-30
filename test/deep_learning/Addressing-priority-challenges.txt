@@ -1,0 +1,3 @@
+Colorectal capsule endoscopy (CCE) is a potentially valuable patient-friendly technique for colorectal cancer screening in large populations. Before it can be widely applied, significant research priorities need to be addressed. We present two innovative data science algorithms which can considerably improve acquisition and analysis of relevant data on colorectal polyps obtained from capsule endoscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30836800

@@ -1,0 +1,3 @@
+Robot Assisted Surgery (RAS) Systems win more and more recognition in the field of orthopaedics. Especially in Hip Surgery RAS has proved to be suited for application in medical routine. Often Robot Assisted Surgery Systems consist of a planning- and an interoperative component. According to specifications done with the planning software the tools are driven. Benefits of the robot assisted surgery should be higher precision and a better surgical outcome. In the co-operation project of several Fraunhofer Institutes "RoMed" (Robots and Manipulators for Medical Application) an exemplary application of robot aided spine surgery is developed [1]. The planning software used in this context is proposed in this article.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11317809

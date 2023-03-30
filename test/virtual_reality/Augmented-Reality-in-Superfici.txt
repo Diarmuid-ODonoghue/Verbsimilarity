@@ -1,0 +1,3 @@
+Augmented reality (AR) applied to surgery refers to the virtual superimposition of computer-generated anatomical information on the surgical field. AR assistance in extracranial-intracranial (EC-IC) bypass revascularization surgery has been reported to be a helpful technical adjunct.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31232435

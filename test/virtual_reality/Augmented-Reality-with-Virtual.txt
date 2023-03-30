@@ -1,0 +1,3 @@
+Advanced magnetic resonance imaging (MRI) acquisition methods such as 4D phase contrast magnetic resonance imaging (4D pcMRI) have found widespread applications in assessing hemodynamics in cerebral aneurysms. One of the goals is the identification of a hemodynamic scenario predictive of aneurysm rupture. Because of the technical complexity the 4D pcMRI technology, challenges exist in extracting and communicating the wealth of information contained in the MRI image data, in particular, to a multidisciplinary team of health professionals and basic scientists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30077029

@@ -1,0 +1,3 @@
+Recent brain-computer interface (BCI) assisted stroke rehabilitation protocols tend to focus on sensorimotor activity of the brain. Relying on evidence claiming that a variety of brain rhythms beyond sensorimotor areas are related to the extent of motor deficits, we propose to identify neural correlates of motor learning beyond sensorimotor areas spatially and spectrally for further use in novel BCI-assisted neurorehabilitation settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28367834

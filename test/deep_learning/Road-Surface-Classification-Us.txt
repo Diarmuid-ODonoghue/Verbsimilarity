@@ -1,0 +1,3 @@
+Deep learning is a fast-growing field of research, in particular, for autonomous application. In this study, a deep learning network based on various sensor data is proposed for identifying the roads where the vehicle is driving. Long-Short Term Memory (LSTM) unit and ensemble learning are utilized for network design and a feature selection technique is applied such that unnecessary sensor data could be excluded without a loss of performance. Real vehicle experiments were carried out for the learning and verification of the proposed deep learning structure. The classification performance was verified through four different test roads. The proposed network shows the classification accuracy of 94.6% in the test data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30544855

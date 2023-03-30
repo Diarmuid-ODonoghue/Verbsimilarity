@@ -1,0 +1,3 @@
+Certain diseases affect brain areas that control the movements of the patients' body, thereby limiting their autonomy and communication capacity. Research in the field of Brain-Computer Interfaces aims to provide patients with an alternative communication channel not based on muscular activity, but on the processing of brain signals. Through these systems, subjects can control external devices such as spellers to communicate, robotic prostheses to restore limb movements, or domotic systems. The present work focus on the non-muscular control of a robotic wheelchair.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28558741

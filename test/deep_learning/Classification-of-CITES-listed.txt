@@ -1,0 +1,3 @@
+The current state-of-the-art for field wood identification to combat illegal logging relies on experienced practitioners using hand lenses, specialized identification keys, atlases of woods, and field manuals. Accumulation of this expertise is time-consuming and access to training is relatively rare compared to the international demand for field wood identification. A reliable, consistent and cost effective field screening method is necessary for effective global scale enforcement of international treaties such as the Convention on the International Trade in Endagered Species (CITES) or national laws (e.g. the US Lacey Act) governing timber trade and imports.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29588649

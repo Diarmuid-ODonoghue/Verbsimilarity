@@ -1,0 +1,3 @@
+Happiness is a universal fundamental human goal. Since the emergence of Positive Psychology, a major focus in psychological research has been to study the role of certain factors in the prediction of happiness. The conventional methodologies are based on linear relationships, such as the commonly used Multivariate Linear Regression (MLR), which may suffer from the lack of representative capacity to the varied psychological features. Using Deep Neural Networks (DNN), we define a Happiness Degree Predictor (H-DP) based on the answers to five psychometric standardized questionnaires.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29183649

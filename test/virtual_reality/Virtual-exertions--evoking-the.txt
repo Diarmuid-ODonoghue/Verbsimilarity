@@ -1,0 +1,3 @@
+This study was a proof of concept for virtual exertions, a novel method that involves the use of body tracking and electromyography for grasping and moving projections of objects in virtual reality (VR). The user views objects in his or her hands during rehearsed co-contractions of the same agonist-antagonist muscles normally used for the desired activities to suggest exerting forces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25977324

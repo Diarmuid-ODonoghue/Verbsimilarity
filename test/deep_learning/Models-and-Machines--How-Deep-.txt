@@ -1,0 +1,3 @@
+Recent advances in machine learning (ML) have led to enthusiasm about its use throughout the biopharmaceutical industry. The ML methods can be applied to a wide range of problems and have the potential to revolutionize aspects of drug development. The incorporation of ML in modeling and simulation (M&S) has been eagerly anticipated, and in this perspective, we highlight examples in which ML and M&S approaches can be integrated as complementary parts of a clinical pharmacology workflow.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30549240

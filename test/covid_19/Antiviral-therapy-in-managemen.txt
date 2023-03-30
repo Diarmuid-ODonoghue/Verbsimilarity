@@ -1,0 +1,3 @@
+The purpose of the current systematic review is to evaluate the efficacy of antiviral therapies in treatment of COVID-19. In addition, clinical trials on the efficacy of antiviral therapies in the management of Severe Acute Respiratory Syndrome coronavirus (SARS-Cov) or Middle East Respiratory Syndrome coronavirus (MERS-CoV) have also been reviewed, in order to identify potential treatment options for COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32309809

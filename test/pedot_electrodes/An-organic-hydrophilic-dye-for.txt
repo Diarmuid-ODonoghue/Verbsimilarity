@@ -1,0 +1,3 @@
+In this study we report the first organic hydrophilic dye employed for 100% water-based electrolyte DSSCs. We show that the replacement of alkyl by glycolic chains in the dye structure is able to provide excellent wettability, resulting in an efficient system with remarkably reduced desorption problems that allowed us to perform tests over a wide pH range. By changing the electrolyte composition, employing chenodeoxycholic acid as a co-adsorbent and using PEDOT counter-electrodes, 3% power conversion efficiency under 1-sun illumination was obtained. We show that chenodeoxycholic acid does not significantly increase the wettability, and we provide new insights into the higher performance resulting from its co-adsorption.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25119775

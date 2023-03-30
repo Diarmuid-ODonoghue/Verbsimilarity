@@ -1,0 +1,3 @@
+This paper considers moments due to friction forces on the human fingertip. A computational technique called the friction moment arc method is presented. The method computes the static and/or dynamic friction moment independent of a friction force calculation. In addition, a new finger holder to display friction moment is presented. This device incorporates a small brushless motor and disk, and connects the human's finger to an interface finger of the five-fingered haptic interface robot HIRO II. Subjects' perception of friction moment while wearing the finger holder, as well as perceptions during object manipulation in a virtual reality environment, were evaluated experimentally.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26962953

@@ -1,0 +1,3 @@
+Graph theoretic analyses applied to examine the brain at rest have played a critical role in clarifying the foundations of the brain's intrinsic and task-related activity. There are many opportunities for clinical scientists to describe and predict dysfunction using a network perspective. This primer describes the theoretic basis and practical application of graph theoretic analysis to resting state functional MR imaging data. Major practices, concepts, and findings are concisely reviewed. The theoretic and practical frontiers of resting state functional MR imaging are highlighted with observations about major avenues for conceptual advances and clinical translation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28985931

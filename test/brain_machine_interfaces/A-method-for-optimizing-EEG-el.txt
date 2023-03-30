@@ -1,0 +1,3 @@
+The P300 speller is intended to restore communication to patients with advanced neuromuscular disorders, but clinical implementation may be hindered by several factors, including system setup, burden, and cost. Our goal was to develop a method that can overcome these barriers by optimizing EEG electrode number and placement for P300 studies within a population of subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25316166

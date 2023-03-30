@@ -1,0 +1,3 @@
+Creating a library of binary segmentation mask sequences for the abdominal anatomy hierarchy of SNOMED and developing a quick, flexible automatic method for generating iso-surface models from these named structure masks has been a primary goal in our research. This paper describes our development of a clear path for computing visualizations of arbitrary groups of organs from these masks (typically generated from Visible Human data). One use of these methods is teaching the anatomy of various organ systems in the human body using virtual reality environments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15718781

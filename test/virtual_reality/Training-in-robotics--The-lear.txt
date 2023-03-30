@@ -1,0 +1,3 @@
+To define the learning curve of robot-assisted laparoscopic surgery for prostatectomy (RALP) and upper tract procedures, and show the differences between the classical approach to training and the new concept of parallel learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26019925

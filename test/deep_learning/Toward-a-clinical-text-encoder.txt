@@ -1,0 +1,3 @@
+Our objective is to develop algorithms for encoding clinical text into representations that can be used for a variety of phenotyping tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31233140

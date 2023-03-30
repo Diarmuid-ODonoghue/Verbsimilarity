@@ -1,0 +1,3 @@
+Functional and structural disconnection of the brain is a prevailing hypothesis to explain cognitive impairment in Alzheimer's Disease (AD). We aim to understand the link between alterations to networks and cognitive impairment using functional connectivity analysis and modelling.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31306967

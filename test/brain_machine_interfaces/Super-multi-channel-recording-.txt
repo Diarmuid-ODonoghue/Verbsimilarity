@@ -1,0 +1,3 @@
+In order to realize a low-invasive and high accuracy Brain-Machine Interface (BMI) system for clinical applications, a super multi-channel recording system was developed in which 4096 channels of Electrocorticogram (ECoG) signal can be amplified and transmitted to outside the body by using an Ultra Wide Band (UWB) wireless system. Also, a high density, flexible electrode array made by using a Parylene-C substrate was developed that is composed of units of 32-ch recording arrays. We have succeeded in an evaluation test of UWB wireless transmitting using a body phantom system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25571167

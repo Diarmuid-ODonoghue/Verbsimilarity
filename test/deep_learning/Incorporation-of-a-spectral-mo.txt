@@ -1,0 +1,3 @@
+MRSI has shown great promise in the detection and monitoring of neurologic pathologies such as tumor. A necessary component of data processing includes the quantitation of each metabolite, typically done through fitting a model of the spectrum to the data. For high-resolution volumetric MRSI of the brain, which may have ~10,000 spectra, significant processing time is required for spectral analysis and generation of metabolite maps.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30666698

@@ -1,0 +1,3 @@
+Spatial 3-dimensional understanding of the brain is essential to learning neuroanatomy, and 3-dimensional learning techniques have been proposed as tools to enhance neuroanatomy training. The aim of this study was to examine the impact of immersive virtual-reality neuroanatomy training and compare it to traditional paper-based methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29510979

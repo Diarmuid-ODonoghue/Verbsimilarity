@@ -1,0 +1,3 @@
+To determine whether an unsupervised machine learning classifier can identify patterns of visual field loss in standard visual fields consistent with typical patterns learned by decades of human experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15277482

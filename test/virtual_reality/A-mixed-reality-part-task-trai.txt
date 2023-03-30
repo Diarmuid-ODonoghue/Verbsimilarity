@@ -1,0 +1,3 @@
+Mixed-reality (MR) procedural simulators combine virtual and physical components and visualization software that can be used for debriefing and offer an alternative to learn subclavian central venous access (SCVA). We present a SCVA MR simulator, a part-task trainer, which can assist in the training of medical personnel.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24310163

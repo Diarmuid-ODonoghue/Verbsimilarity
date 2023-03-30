@@ -1,0 +1,3 @@
+Deep Convolutional Neural Networks (DCNN) have recently emerged as superior for many image segmentation tasks. The DCNN performance is however heavily dependent on the availability of large amounts of problem-specific training samples. Here we show that DCNNs trained on ground truth created automatically using fluorescently labeled cells, perform similar to manual annotations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28798336

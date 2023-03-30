@@ -1,0 +1,3 @@
+Achieving proper renal access is arguably the most challenging component of percutaneous nephrolithotomy. A core skill required during this procedure is the use of C-arm fluoroscopic imaging and parallax techniques for proper needle insertion into a predetermined calyceal papilla. The trainers available for these skills include virtual reality (VR) simulators and physical models requiring actual fluoroscopy and radiation exposure precautions. In this study we present the successful proof-of-concept of a low-cost physical fluoro-less C-arm trainer (CAT) for training percutaneous renal access.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25177777

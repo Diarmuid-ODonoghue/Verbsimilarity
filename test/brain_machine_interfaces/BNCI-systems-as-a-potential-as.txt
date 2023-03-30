@@ -1,0 +1,3 @@
+This paper highlights aspects related to current research and thinking about ethical issues in relation to Brain Computer Interface (BCI) and Brain-Neuronal Computer Interfaces (BNCI) research through the experience of one particular project, BrainAble, which is exploring and developing the potential of these technologies to enable people with complex disabilities to control computers. It describes how ethical practice has been developed both within the multidisciplinary research team and with participants.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24308848

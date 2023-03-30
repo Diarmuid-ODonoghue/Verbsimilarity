@@ -1,0 +1,3 @@
+To study the feasibility of automatically identifying normal digital mammography (DM) exams with artificial intelligence (AI) to reduce the breast cancer screening reading workload.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30993432

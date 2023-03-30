@@ -1,0 +1,3 @@
+Classifier transfers usually come with dataset shifts. To overcome dataset shifts in practical applications, we consider the limitations in computational resources in this paper for the adaptation of batch learning algorithms, like the support vector machine (SVM).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28192282

@@ -1,0 +1,3 @@
+This functional MRI study was designed to describe activated fiber topography and trajectories in the corpus callosum (CC) of six patients carrying different degree of partial callosal resection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25039660

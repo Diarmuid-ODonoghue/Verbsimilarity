@@ -1,0 +1,3 @@
+The experience of auditory verbal hallucinations in schizophrenia is associated with changes in brain network function. In particular, studies indicate altered functional coupling between nodes of the language and default mode networks. Neurofeedback based on real-time functional magnetic resonance imaging (rtfMRI) can be used to modulate such aberrant network connectivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30703519

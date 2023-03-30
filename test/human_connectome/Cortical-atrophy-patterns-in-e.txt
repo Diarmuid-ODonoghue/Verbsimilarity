@@ -1,0 +1,3 @@
+Cortical brain atrophy detectable with MRI in non-demented advanced Parkinson's disease (PD) is well characterized, but its presence in early disease stages is still under debate. We aimed to investigate cortical atrophy patterns in a large sample of early untreated PD patients using a hypothesis-free data-driven approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29449187

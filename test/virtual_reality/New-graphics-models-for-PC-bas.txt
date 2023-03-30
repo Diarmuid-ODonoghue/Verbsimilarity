@@ -1,0 +1,3 @@
+High-end graphics workstations (GWS) have been used for surgical simulators utilizing Computer Graphics (CG) and Virtual Reality (VR) technologies. This is because the simulators need lots of computing power, mainly for collision detection among objects modeled as a set of polygons. In this paper, we propose to use mathematical functions to model objects for collision detection. However, for graphic display we continue to use polygonal representation. Using the new model, we have developed a PC based ocular surgery simulator, which creates realistic surgery image in real-time. The computation time was found to be much lower than that in the conventional method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11317764

@@ -1,0 +1,3 @@
+The brain functional connectome constitutes a unique fingerprint allowing identification of individuals among a pool of people. Here we establish that the connectome develops into a more stable, individual wiring pattern during adolescence and demonstrate that a delay in this network tuning process is associated with reduced mental health in the formative years of late neurodevelopment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28218917

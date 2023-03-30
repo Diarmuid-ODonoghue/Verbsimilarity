@@ -1,0 +1,3 @@
+To compare the image quality of low-dose (LD) computed tomography (CT) obtained using a deep learning-based denoising algorithm (DLA) with LD CT images reconstructed with a filtered back projection (FBP) and advanced modeled iterative reconstruction (ADMIRE).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32090528

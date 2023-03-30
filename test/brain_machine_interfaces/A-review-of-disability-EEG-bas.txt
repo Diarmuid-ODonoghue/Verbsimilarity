@@ -1,0 +1,3 @@
+Intelligent wheelchair technology has recently been utilised to address several mobility problems. Techniques based on brain-computer interface (BCI) are currently used to develop electric wheelchairs. Using human brain control in wheelchairs for people with disability has elicited widespread attention due to its flexibility.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29958722

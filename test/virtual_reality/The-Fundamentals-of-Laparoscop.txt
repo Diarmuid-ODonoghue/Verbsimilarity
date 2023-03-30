@@ -1,0 +1,3 @@
+Considerable resources have been invested in both low- and high-fidelity simulators in surgical training. The purpose of this study was to investigate if the Fundamentals of Laparoscopic Surgery (FLS, low-fidelity box trainer) and LapVR (high-fidelity virtual reality) training systems correlate with operative performance on the Global Operative Assessment of Laparoscopic Skills (GOALS) global rating scale using a porcine cholecystectomy model in a novice surgical group with minimal laparoscopic experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26641071

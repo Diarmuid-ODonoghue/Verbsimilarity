@@ -1,0 +1,3 @@
+In the field of Brain-Computer Interfaces (BCI), the original two-class oddball paradigm has been extended to multiple stimuli with balanced probabilities and random presentation sequences. Exploiting the differences between standard and deviant ERP responses, these multi-class paradigms are suitable for communication and control.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366433

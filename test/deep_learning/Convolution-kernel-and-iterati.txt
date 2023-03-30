@@ -1,0 +1,3 @@
+The aim of this study was to investigate the influence of convolution kernel and iterative reconstruction on the diagnostic performance of radiomics and deep learning (DL) in lung adenocarcinomas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31426132

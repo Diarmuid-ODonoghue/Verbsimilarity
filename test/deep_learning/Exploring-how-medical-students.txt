@@ -1,0 +1,3 @@
+The web-based presentation software Prezi was used to create a digital presentation in order to facilitate antibiotic knowledge in an undergraduate course on infectious diseases in the Karolinska Institutet Medical Programme. It was unclear how the students used this in their learning, and there is a lack of research on using Prezi presentations in higher education, as well as on learner-content interaction in blended learning in general.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31196111

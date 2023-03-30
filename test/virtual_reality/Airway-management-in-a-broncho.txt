@@ -1,0 +1,3 @@
+Several simulation-based possibilities for training flexible optical intubation have been developed, ranging from non-anatomical phantoms to high-fidelity virtual reality simulators. These teaching devices might also be used to assess the competence of trainees before allowing them to practice on patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24247408

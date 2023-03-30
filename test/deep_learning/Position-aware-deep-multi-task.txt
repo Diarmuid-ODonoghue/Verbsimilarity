@@ -1,0 +1,3 @@
+A drug-drug interaction (DDI) is a situation in which a drug affects the activity of another drug synergistically or antagonistically when being administered together. The information of DDIs is crucial for healthcare professionals to prevent adverse drug events. Although some known DDIs can be found in purposely-built databases such as DrugBank, most information is still buried in scientific publications. Therefore, automatically extracting DDIs from biomedical texts is sorely needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29559249

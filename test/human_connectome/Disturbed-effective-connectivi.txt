@@ -1,0 +1,3 @@
+Disturbance of the triple network model was recently proposed to be associated with the occurrence of posttraumatic stress disorder (PTSD) symptoms. Based on resting-state dynamic causal modeling (rs-DCM) analysis, we investigated the neurobiological model at a neuronal level along with potential neuroimaging biomarkers for identifying individuals with PTSD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30448966

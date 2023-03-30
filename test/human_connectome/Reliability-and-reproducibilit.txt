@@ -1,0 +1,3 @@
+Application of fMRI connectivity metrics as diagnostic biomarkers at the individual level will require reliability, sensitivity and specificity to longitudinal changes in development, aging, neurocognitive, and behavioral performance and pathologies. Such metrics have not been well characterized for recent advances in BOLD acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27069771

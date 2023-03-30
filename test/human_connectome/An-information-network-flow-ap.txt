@@ -1,0 +1,3 @@
+Connectome-based predictive modeling (CPM) is a recently developed machine-learning-based framework to predict individual differences in behavior from functional brain connectivity (FC). In these models, FC was operationalized as Pearson's correlation between brain regions' fMRI time courses. However, Pearson's correlation is limited since it only captures linear relationships. We developed a more generalized metric of FC based on information flow. This measure represents FC by abstracting the brain as a flow network of nodes that send bits of information to each other, where bits are quantified through an information theory statistic called transfer entropy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31286688

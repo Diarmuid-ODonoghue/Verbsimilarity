@@ -1,0 +1,3 @@
+Computer aided detection (CAD) offers an efficient way to assist doctors to interpret fundus images. In a CAD system, retinal vessel (RV) detection is a crucial step to identify the retinal disease regions. However, RV detection is still a challenging problem due to variations in morphology of the vessels on noisy and low contrast fundus images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30501859

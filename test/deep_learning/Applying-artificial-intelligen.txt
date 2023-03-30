@@ -1,0 +1,3 @@
+We used artificial intelligence to develop a novel algorithm using physiomarkers to predict the onset of severe sepsis in critically ill children.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30052552

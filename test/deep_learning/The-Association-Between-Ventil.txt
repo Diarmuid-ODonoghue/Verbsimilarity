@@ -1,0 +1,3 @@
+Ventilator dyssynchrony is potentially harmful to patients with or at risk for the acute respiratory distress syndrome. Automated detection of ventilator dyssynchrony from ventilator waveforms has been difficult. It is unclear if certain types of ventilator dyssynchrony deliver large tidal volumes and whether levels of sedation alter the frequency of ventilator dyssynchrony.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29337804

@@ -1,0 +1,3 @@
+We aimed at improving group performance in a challenging visual search task via a hybrid collaborative brain-computer interface (cBCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28541187

@@ -1,0 +1,3 @@
+We propose a system that affords real-time sound synthesis of footsteps on different materials. The system is based on microphones, which detect real footstep sounds from subjects, from which the ground reaction force (GRF) is estimated. Such GRF is used to control a sound synthesis engine based on physical models. Two experiments were conducted. In the first experiment, the ability of subjects to recognize the surface they were exposed to was assessed. In the second experiment, the sound synthesis engine was enhanced with environmental sounds. Results show that, in some conditions, adding a soundscape significantly improves the recognition of the simulated environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21737860

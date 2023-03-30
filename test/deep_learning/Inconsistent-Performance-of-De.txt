@@ -1,0 +1,3 @@
+Performance of recently developed deep learning models for image classification surpasses that of radiologists. However, there are questions about model performance consistency and generalization in unseen external data. The purpose of this study is to determine whether the high performance of deep learning on mammograms can be transferred to external data with a different data distribution.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32068005

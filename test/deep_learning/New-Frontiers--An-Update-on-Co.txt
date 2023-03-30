@@ -1,0 +1,3 @@
+The purpose of this article is to compare traditional versus machine learning-based computer-aided detection (CAD) platforms in breast imaging with a focus on mammography, to underscore limitations of traditional CAD, and to highlight potential solutions in new CAD systems under development for the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30667309

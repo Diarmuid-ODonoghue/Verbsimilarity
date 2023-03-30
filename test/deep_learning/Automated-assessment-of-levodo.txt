@@ -1,0 +1,3 @@
+Technological solutions for quantifying Parkinson's disease (PD) symptoms may provide an objective means to track response to treatment, including side effects such as levodopa-induced dyskinesia. Vision-based systems are advantageous as they do not require physical contact with the body and have minimal instrumentation compared to wearables. We have developed a vision-based system to quantify a change in dyskinesia as reported by patients using 2D videos of clinical assessments during acute levodopa infusions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29748112

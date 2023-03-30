@@ -1,0 +1,3 @@
+Este breve documento se centra en el papel de los modelos matemáticos para analizar el impacto de las pandemias en los recursos de salud y las diferentes trade-off que pueden estar presente. Existe una gran cantidad de literatura que sugiere que los modelos matemáticos pueden ser útiles para estimar cuánto equipo e infraestructura adicionales pueden ser necesarios para mitigar un aumento en la demanda de servicios de salud durante un brote a gran escala de una enfermedad infecciosa. Comento sobre el papel crucial de estos modelos con un enfoque especial en sus fortalezas y limitaciones.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32343682

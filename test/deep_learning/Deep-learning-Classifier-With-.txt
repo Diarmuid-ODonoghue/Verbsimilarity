@@ -1,0 +1,3 @@
+To investigate and compare the efficacy of two machine-learning technologies with deep-learning (DL) and support vector machine (SVM) for the detection of branch retinal vein occlusion (BRVO) using ultrawide-field fundus images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30662847

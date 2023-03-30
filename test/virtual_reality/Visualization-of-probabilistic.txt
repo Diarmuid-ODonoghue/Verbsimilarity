@@ -1,0 +1,3 @@
+Understanding the connectivity structure of the human brain is a fundamental prerequisite for the treatment of psychiatric or neurological diseases. Probabilistic tractography has become an established method to account for the inherent uncertainties of the actual course of fiber bundles in magnetic resonance imaging data. This paper presents a visualization system that addresses the assessment of fiber probabilities in relation to anatomical landmarks. We employ real-time transparent rendering strategy to display fiber tracts within their structural context in a virtual environment. Thereby, we not only emphasize spatial patterns but furthermore allow an interactive control over the amount of visible anatomical information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21335844

@@ -1,0 +1,3 @@
+To develop a reproducible and fast method to reconstruct MR fingerprinting arterial spin labeling (MRF-ASL) perfusion maps using deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32017236

@@ -1,0 +1,3 @@
+The human brain is complex and interconnected structurally. Brain connectome change is associated with Alzheimer's disease (AD) and other neurodegenerative diseases. Genetics and genomics studies have identified molecular changes in AD; however, the results are often limited to isolated brain regions and are difficult to interpret its findings in respect to brain connectome. The mechanisms of how one brain region impacts the molecular pathways in other regions have not been systematically studied. And how the brain regions susceptible to AD pathology interact with each other at the transcriptome level and how these interactions relate to brain connectome change are unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32024511

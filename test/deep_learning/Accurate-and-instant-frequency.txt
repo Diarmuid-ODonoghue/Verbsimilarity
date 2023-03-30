@@ -1,0 +1,3 @@
+We used a deep learning network to find the frequency of a noisy sinusoidal wave. A three-layer neural network was designed to extract the frequency of sinusoidal waves that had been combined with white noise at a signal-to-noise ratio of 25 dB. One hundred thousand waves were prepared for training and testing the model. We designed a neural network that could achieve a mean squared error of 4 × 10-5 for normalized frequencies. This model was written for the range 1 kHz ≤ f ≤ 10 kHz but also shown how to easily be generalized to other ranges. The algorithm is easy to rewrite and the final results are highly accurate. The trained model can find frequency of any previously-unseen noisy wave in less than a second.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31414287

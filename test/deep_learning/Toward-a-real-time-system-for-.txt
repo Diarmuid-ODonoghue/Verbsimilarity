@@ -1,0 +1,3 @@
+We have previously proposed temporal enhanced ultrasound (TeUS) as a new paradigm for tissue characterization. TeUS is based on analyzing a sequence of ultrasound data with deep learning and has been demonstrated to be successful for detection of cancer in ultrasound-guided prostate biopsy. Our aim is to enable the dissemination of this technology to the community for large-scale clinical validation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29589258

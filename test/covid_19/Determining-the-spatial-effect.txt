@@ -1,0 +1,3 @@
+This study investigates the propagation power and effects of the coronavirus disease 2019 (COVID-19) in light of published data. We examine the factors affecting COVID-19 together with the spatial effects, and use spatial panel data models to determine the relationship among the variables including their spatial effects. Using spatial panel models, we analyse the relationship between confirmed cases of COVID-19, deaths thereof, and recovered cases due to treatment. We accordingly determine and include the spatial effects in this examination after establishing the appropriate model for COVID-19. The most efficient and consistent model is interpreted with direct and indirect spatial effects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32292691

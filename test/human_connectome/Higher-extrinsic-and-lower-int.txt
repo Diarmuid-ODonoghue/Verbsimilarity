@@ -1,0 +1,3 @@
+Dedication and training to a profession results in a certain level of expertise. This expertise, like any other skill obtained in our lifetime, is encoded in the brain and may be reflected in our brain's connectome. This property can be observed by mapping resting state connectivity. In this study, we examine the differences in resting state functional connectivity in four major networks between professional "Baduk" (Go) players and normal subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29299380

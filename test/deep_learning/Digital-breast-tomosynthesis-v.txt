@@ -1,0 +1,3 @@
+To evaluate the impact of utilizing digital breast tomosynthesis (DBT) or/and full-field digital mammography (FFDM), and different transfer learning strategies on deep convolutional neural network (DCNN)-based mass classification for breast cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31691121

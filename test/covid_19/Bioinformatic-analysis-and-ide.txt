@@ -1,0 +1,3 @@
+During virus infection, host toll-like receptors (TLRs) can recognize different pathogen-associated molecular patterns and trigger the innate immune response. TLR7/8 can identify the single-stranded RNA (ssRNA) of the virus. This study aimed to search ssRNA sequences recognized by TLR7/8 from the SARS-CoV-2, SARS-CoV, and MERS-CoV whole genomes by a bioinformatic technique. The immunoinformatic approach showed that the SARS-CoV-2 genome has more ssRNA fragments that could be recognized by TLR7/8 than the SARS-CoV genome. These findings suggest innate immune hyperactivation by SARS-CoV-2. This activity is possibly able to provoke a robust proinflammatory response via TLR7/8 recognition and cause acute lung injury.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32361001

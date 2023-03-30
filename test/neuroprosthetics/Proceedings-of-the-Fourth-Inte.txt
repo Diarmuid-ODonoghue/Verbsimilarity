@@ -1,0 +1,3 @@
+The Fourth International Workshop on Advances in Electrocorticography (ECoG) convened in New Orleans, LA, on October 11-12, 2012. The proceedings of the workshop serves as an accurate record of the most contemporary clinical and experimental work on brain surface recording and represents the insights of a unique multidisciplinary ensemble of expert clinicians and scientists. Presentations covered a broad range of topics, including innovations in passive functional mapping, increased understanding of pathologic high-frequency oscillations, evolving sensor technologies, a human trial of ECoG-driven brain-machine interface, as well as fresh insights into brain electrical stimulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24034899

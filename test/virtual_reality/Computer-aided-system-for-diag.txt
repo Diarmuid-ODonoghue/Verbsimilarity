@@ -1,0 +1,3 @@
+The purpose of this study was to compare the diagnostic efficiency of a thyroid ultrasound computer-aided diagnosis (CAD) system with that of 1 radiologist.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29286180

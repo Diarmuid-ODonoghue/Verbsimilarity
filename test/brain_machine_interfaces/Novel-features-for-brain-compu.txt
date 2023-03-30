@@ -1,0 +1,3 @@
+While conventional approaches of BCI feature extraction are based on the power spectrum, we have tried using nonlinear features for classifying BCI data. In this paper, we report our test results and findings, which indicate that the proposed method is a potentially useful addition to current feature extraction techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18364991

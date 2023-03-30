@@ -1,0 +1,3 @@
+This paper presents a virtual model of patients with Deep Brain Stimulation implants. The model is based on Human Connectome and 7 Tesla Magnetic Resonance Imaging (MRI) data. We envision that the proposed virtual patient simulator will enable radio frequency power dosimetry on patients with deep brain stimulation implants undergoing MRI. Results from the proposed virtual patient study may facilitate the use of clinical MRI instead of computed tomography scans. The virtual patient will be flexible and morphable to relate to patient-specific neurological and psychiatric conditions such as Obsessive Compulsive Disorder, which benefit from deep brain stimulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25705324

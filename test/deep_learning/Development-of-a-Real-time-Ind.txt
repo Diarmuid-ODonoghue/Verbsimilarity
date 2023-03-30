@@ -1,0 +1,3 @@
+An indoor, real-time location system (RTLS) can benefit both hospitals and patients by improving clinical efficiency through data-driven optimization of procedures. Bluetooth-based RTLS systems are cost-effective but lack accuracy because Bluetooth signal is subject to significant fluctuation. We aim to improve the accuracy of RTLS using the deep learning technique.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32323324

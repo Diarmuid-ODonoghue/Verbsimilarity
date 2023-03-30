@@ -1,0 +1,3 @@
+Functional neuroimaging has great potential to inform clinical decisions, whether by identifying neural biomarkers of illness progression and severity, predicting therapeutic response, or selecting suitable patients for surgical interventions. Yet a persisting barrier to functional neuroimaging's clinical translation is our incomplete understanding of how normative variance in cognition, personality, and behavior shape the brain's structural and functional organization. We propose that modeling individual differences in these brain-behavior relationships is crucial for improving the accuracy of neuroimaging biomarkers for neurologic and psychiatric disorders.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25328842

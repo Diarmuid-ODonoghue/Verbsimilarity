@@ -1,0 +1,3 @@
+Simulation training for stone surgery is now increasingly used as part of training curricula worldwide. A combination of low and high fidelity simulators has been used with varying degrees of 'realism' provided by them. In this review, we discuss low and high fidelity simulators used for ureteroscopy (URS) and percutaneous nephrolithotomy (PCNL) stone procedures with their advantages, disadvantages and future direction for endourological simulation surgery. The final goal will be to understand whether or not 'realism' has to be considered as a critical element in simulation for this field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28403125

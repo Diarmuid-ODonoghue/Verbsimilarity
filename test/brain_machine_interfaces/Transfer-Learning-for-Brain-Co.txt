@@ -1,0 +1,3 @@
+This paper targets a major challenge in developing practical electroencephalogram (EEG)-based brain-computer interfaces (BCIs): how to cope with individual differences so that better learning performance can be obtained for a new subject, with minimum or even no subject-specific data?
+
+https://www.ncbi.nlm.nih.gov/pubmed/31034407

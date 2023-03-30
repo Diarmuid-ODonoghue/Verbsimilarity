@@ -1,0 +1,3 @@
+The YaQ software platform is a complete system dedicated to real-time crowd simulation and rendering. Fitting multiple application domains, such as video games and VR, YaQ aims to provide efficient algorithms to generate crowds comprising up to thousands of varied virtual humans navigating in large-scale, global environments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19798862

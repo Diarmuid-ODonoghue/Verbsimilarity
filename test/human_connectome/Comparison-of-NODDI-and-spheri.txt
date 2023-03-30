@@ -1,0 +1,3 @@
+Neurite orientation dispersion and density imaging (NODDI) is a clinically feasible approach to measure intra-neurite volume fraction (fin). However, the sophisticated fitting procedure takes several hours. And the NODDI model relied on several questionable assumptions. Recent analytical work demonstrated that fin could be simply calculated from the spherical mean signal (MEANS) averaged over all gradient directions with a more solid theoretical foundation. The current study aims to compare NODDI and MEANS for measuring fin in human brain and investigate the potential of MEANS as a fast approach in clinics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30496791

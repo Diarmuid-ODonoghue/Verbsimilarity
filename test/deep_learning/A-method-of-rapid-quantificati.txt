@@ -1,0 +1,3 @@
+One technical barrier to patient-specific computed tomography (CT) dosimetry has been the lack of computational tools for the automatic patient-specific multi-organ segmentation of CT images and rapid organ dose quantification. When previous CT images are available for the same body region of the patient, the ability to obtain patient-specific organ doses for CT - in a similar manner as radiation therapy treatment planning - will open the door to personalized and prospective CT scan protocols. This study aims to demonstrate the feasibility of combining deep-learning algorithms for automatic segmentation of multiple radiosensitive organs from CT images with the GPU-based Monte Carlo rapid organ dose calculation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32155670

@@ -1,0 +1,3 @@
+We describe ReorientExpress, a method to perform reference-free orientation of transcriptomic long sequencing reads. ReorientExpress uses deep learning to correctly predict the orientation of the majority of reads, and in particular when trained on a closely related species or in combination with read clustering. ReorientExpress enables long-read transcriptomics in non-model organisms and samples without a genome reference without using additional technologies and is available at https://github.com/comprna/reorientexpress.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31783882

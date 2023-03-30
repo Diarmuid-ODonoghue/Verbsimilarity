@@ -1,0 +1,3 @@
+Since the concept of Deep Learning (DL) was formally proposed in 2006, it had a major impact on academic research and industry. Nowadays, DL provides an unprecedented way to analyze and process data with demonstrated great results in computer vision, medical imaging, natural language processing, etc. In this Minireview, we summarize applications of DL in Nuclear Magnetic Resonance (NMR) spectroscopy and outline a perspective for DL as entirely new approaches that are likely to transform NMR spectroscopy into a much more efficient and powerful technique in chemistry and life science.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32251549

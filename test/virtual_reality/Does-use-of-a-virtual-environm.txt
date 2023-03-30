@@ -1,0 +1,3 @@
+Although numerous virtual reality applications have been developed for sensorimotor retraining in neurologically impaired individuals, it is unclear whether the virtual environment (VE) changes motor performance, especially in patients with brain injuries. To address this question, the movement characteristics of forward arm reaches during standing were compared in physical and virtual environments, presented at different viewing angles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23866962

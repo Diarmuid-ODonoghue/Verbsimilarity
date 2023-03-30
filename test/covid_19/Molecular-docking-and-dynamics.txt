@@ -1,0 +1,3 @@
+Design and development of an effective drug to combat the 2019 novel coronavirus remains a challenge. Therefore, it is of interest to study the binding features of 1615 FDA approved drugs with the recently known 2019-nCoV main protease structure having high sequence homology with that from SARS-CoV. We document the binding features of top 10 drugs with the target protein. We further report that Conivaptan and Azelastine are mainly involved in hydrophobic interactions with active site residues. Both drugs can maintain close proximity to the binding pocket of main protease during simulation. However, these data need further in vitro and in vivo evaluation to repurpose these two drugs against 2019-nCoV.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32308266

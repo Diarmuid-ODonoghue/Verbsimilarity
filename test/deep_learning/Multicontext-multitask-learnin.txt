@@ -1,0 +1,3 @@
+In this paper, for the purpose of accurate and efficient mass detection, we propose a new deep learning framework, including two major stages: Suspicious region localization (SRL) and Multicontext Multitask Learning (MCMTL).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31799718

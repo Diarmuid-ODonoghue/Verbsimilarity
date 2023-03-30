@@ -1,0 +1,3 @@
+Essential proteins are crucial for cellular life and thus, identification of essential proteins is an important topic and a challenging problem for researchers. Recently lots of computational approaches have been proposed to handle this problem. However, traditional centrality methods cannot fully represent the topological features of biological networks. In addition, identifying essential proteins is an imbalanced learning problem; but few current shallow machine learning-based methods are designed to handle the imbalanced characteristics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31787076

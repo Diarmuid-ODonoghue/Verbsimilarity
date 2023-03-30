@@ -1,0 +1,3 @@
+Cancer subtype classification has the potential to significantly improve disease prognosis and develop individualized patient management. Existing methods are limited by their ability to handle extremely high-dimensional data and by the influence of misleading, irrelevant factors, resulting in ambiguous and overlapping subtypes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31603461

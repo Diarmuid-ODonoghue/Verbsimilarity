@@ -1,0 +1,3 @@
+Vestibular prosthetics transmit angular velocities to the nervous system via electrical stimulation. Head-fixed gyroscopes measure angular motion, but the gyroscope coordinate system will not be coincident with the sensory organs the prosthetic replaces. Here we show a simple calibration method to align gyroscope measurements with the anatomical coordinate system. We benchmarked the method with simulated movements and obtain proof-of-concept with one healthy subject. The method was robust to misalignment, required little data, and minimal processing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22329908

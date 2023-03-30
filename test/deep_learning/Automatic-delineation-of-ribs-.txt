@@ -1,0 +1,3 @@
+In chest radiographs (CXRs), all bones and soft tissues are overlapping with each other, which raises issues for radiologists to read and interpret CXRs. Delineating the ribs and clavicles is helpful for suppressing them from chest radiographs so that their effects can be reduced for chest radiography analysis. However, delineating ribs and clavicles automatically is difficult by methods without deep learning models. Moreover, few of methods without deep learning models can delineate the anterior ribs effectively due to their faint rib edges in the posterior-anterior (PA) CXRs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31430596

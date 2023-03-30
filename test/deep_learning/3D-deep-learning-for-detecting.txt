@@ -1,0 +1,3 @@
+To demonstrate and test the validity of a novel deep-learning-based system for the automated detection of pulmonary nodules.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30137371

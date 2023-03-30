@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) algorithm development has long been hampered by two major issues: small sample sets and a lack of reproducibility. We offer a solution to both of these problems via a software suite that streamlines both the issues of finding and preprocessing data in a reliable manner, as well as that of using a consistent interface for machine learning methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30177583

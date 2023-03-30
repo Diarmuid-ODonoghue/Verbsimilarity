@@ -1,0 +1,3 @@
+MicroSim is a training simulator for microsurgical tasks. It is based on a virtual reality environment including a realistic interface and a real-time simulation model. The interface consists of real instruments which are tracked by an optical tracking system. The surgical scene is presented to the user through a stereo display which is similar to the view a surgeon has through a microscope. Abstract training modules, which are used to train basic fine motor skills and the prototype of a microvascular anastomosis have been implemented in cooperation with VRmagic GmbH.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23400157

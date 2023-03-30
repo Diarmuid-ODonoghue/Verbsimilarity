@@ -1,0 +1,3 @@
+In this age of big data, certain models require very large data stores in order to be informative and accurate. In many cases however, the data are stored in separate locations requiring data transfer between local sites which can cause various practical hurdles, such as privacy concerns or heavy network load. This is especially true for medical imaging data, which can be constrained due to the health insurance portability and accountability act (HIPAA) which provides security protocols for medical data. Medical imaging datasets can also contain many thousands or millions of features, requiring heavy network load.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31630085

@@ -1,0 +1,3 @@
+This paper investigates the fusion of steady-state somatosensory evoked potentials (SSSEPs) and transient event-related potentials (tERPs), evoked through tactile simulation on the left and right-hand fingertips, in a three-class EEG based hybrid brain-computer interface. It was hypothesized, that fusing the input signals leads to higher classification rates than classifying tERP and SSSEP individually.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27788124

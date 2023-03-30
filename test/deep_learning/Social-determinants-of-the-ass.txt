@@ -1,0 +1,3 @@
+The present study used a deep learning model (recurrent neural network) for testing: (i) whether social determinants are major determinants of the association among cerebrovascular disease, hearing loss and cognitive impairment in a middle-aged or older population (hypothesis 1); and (ii) whether the association among the three diseases is very strong in the middle-aged or older population (hypothesis 2).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31257714

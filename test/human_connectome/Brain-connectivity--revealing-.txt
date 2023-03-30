@@ -1,0 +1,3 @@
+A new semi-automated method for high-throughput identification of visual neurons and their synaptic partners has been combined with optical recording of activity and behavioral analysis to give the first complete description of an elementary circuit for detecting visual motion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24070448

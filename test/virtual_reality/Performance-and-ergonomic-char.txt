@@ -1,0 +1,3 @@
+Display positions for laparoscopy in current operating rooms may not be optimal for surgeon comfort or task performance, and face-mounted displays (FMDs) have been forwarded as a potential ergonomic solution. Little is known concerning expert use characteristics of these devices that might help define their role in future surgical care. The authors report the performance and ergonomic characterization of an FMD using virtual reality simulation technology to recreate the surgical environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17180274

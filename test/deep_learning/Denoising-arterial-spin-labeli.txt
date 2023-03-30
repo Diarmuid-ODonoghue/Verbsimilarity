@@ -1,0 +1,3 @@
+Arterial spin labeling (ASL) perfusion MRI is a noninvasive technique for measuring cerebral blood flow (CBF) in a quantitative manner. A technical challenge in ASL MRI is data processing because of the inherently low signal-to-noise-ratio (SNR). Deep learning (DL) is an emerging machine learning technique that can learn a nonlinear transform from acquired data without using any explicit hypothesis. Such a high flexibility may be particularly beneficial for ASL denoising. In this paper, we proposed and validated a DL-based ASL MRI denoising algorithm (DL-ASL).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31954173

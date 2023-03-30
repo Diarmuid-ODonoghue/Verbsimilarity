@@ -1,0 +1,3 @@
+In recent work, O'Reilly and colleagues demonstrate relatively intact interhemispheric functional connectivity in a macaque brain in the absence of major commissural fibers. This work adds to a growing body of literature challenging the notion that structural and functional brain connectivity metrics are related in a straightforward manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24094797

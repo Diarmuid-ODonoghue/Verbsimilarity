@@ -1,0 +1,3 @@
+ Electrocorticography (ECoG) has been used for a range of applications including electrophysiological mapping, epilepsy monitoring, and more recently as a recording modality for brain-computer interfaces (BCIs). Studies that examine ECoG electrodes designed and implanted chronically solely for BCI applications remain limited. The present study explored how two key factors influence chronic, closed-loop ECoG BCI: (i) the effect of inter-electrode distance on BCI performance and (ii) the differences in neural adaptation and performance when fixed versus adaptive BCI decoding weights are used.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27651034

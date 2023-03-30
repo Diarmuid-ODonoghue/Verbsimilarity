@@ -1,0 +1,3 @@
+Manually tracing regions of interest (ROIs) within the liver is the de facto standard method for measuring liver attenuation on computed tomography (CT) in diagnosing nonalcoholic fatty liver disease (NAFLD). However, manual tracing is resource intensive. To address these limitations and to expand the availability of a quantitative CT measure of hepatic steatosis, we propose the automatic liver attenuation ROI-based measurement (ALARM) method for automated liver attenuation estimation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31228267

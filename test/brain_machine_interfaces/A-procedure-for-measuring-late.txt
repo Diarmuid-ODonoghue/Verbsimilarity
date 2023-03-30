@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) systems must process neural signals with consistent timing in order to support adequate system performance. Thus, it is important to have the capability to determine whether a particular BCI configuration (i.e., hardware and software) provides adequate timing performance for a particular experiment. This report presents a method of measuring and quantifying different aspects of system timing in several typical BCI experiments across a range of settings, and presents comprehensive measures of expected overall system latency for each experimental configuration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20403781

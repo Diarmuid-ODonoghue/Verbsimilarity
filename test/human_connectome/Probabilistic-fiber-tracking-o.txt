@@ -1,0 +1,3 @@
+Accurate localization of anatomically and functionally separate SMA tracts is important to improve planning prior to neurosurgery. Using fMRI and probabilistic DTI techniques, we assessed the connectivity between the frontal language area (Broca's area) and the rostral pre-SMA (language SMA) and caudal SMA proper (motor SMA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24380641

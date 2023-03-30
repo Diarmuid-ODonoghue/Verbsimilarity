@@ -1,0 +1,3 @@
+To characterize long non-coding RNAs (lncRNAs), both identifying and functionally annotating them are essential to be addressed. Moreover, a comprehensive construction for lncRNA annotation is desired to facilitate the research in the field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29850816

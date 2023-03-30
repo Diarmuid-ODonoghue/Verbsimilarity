@@ -1,0 +1,3 @@
+Diffusion MRI (dMRI), while powerful for characterization of tissue microstructure, suffers from long acquisition time. In this paper, we present a method for effective diffusion MRI reconstruction from slice-undersampled data. Instead of full diffusion-weighted (DW) image volumes, only a subsample of equally-spaced slices need to be acquired. We show that complementary information from DW volumes corresponding to different diffusion wavevectors can be harnessed using graph convolutional neural networks for reconstruction of the full DW volumes. The experimental results indicate a high acceleration factor of up to 5 can be achieved with minimal information loss.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32161432

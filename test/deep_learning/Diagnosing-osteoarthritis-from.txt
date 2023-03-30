@@ -1,0 +1,3 @@
+We aim to study to what extent conventional and deep-learning-based T2 relaxometry patterns are able to distinguish between knees with and without radiographic osteoarthritis (OA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30905742

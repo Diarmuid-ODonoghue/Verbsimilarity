@@ -1,0 +1,3 @@
+We report epidemiological and clinical investigations on ten pediatric SARS-CoV-2 infection cases confirmed by real-time reverse transcription PCR assay of SARS-CoV-2 RNA. Symptoms in these cases were nonspecific and no children required respiratory support or intensive care. Chest X-rays lacked definite signs of pneumonia, a defining feature of the infection in adult cases. Notably, eight children persistently tested positive on rectal swabs even after nasopharyngeal testing was negative, raising the possibility of fecal-oral transmission.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32284613

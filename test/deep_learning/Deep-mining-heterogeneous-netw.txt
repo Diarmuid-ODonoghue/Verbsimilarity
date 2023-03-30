@@ -1,0 +1,3 @@
+A heterogeneous network topology possessing abundant interactions between biomedical entities has yet to be utilized in similarity-based methods for predicting drug-target associations based on the array of varying features of drugs and their targets. Deep learning reveals features of vertices of a large network that can be adapted in accommodating the similarity-based solutions to provide a flexible method of drug-target prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28430977

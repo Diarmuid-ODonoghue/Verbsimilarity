@@ -1,0 +1,3 @@
+Laparoscopy is difficult to master, in part because surgeons operate in a three-dimensional (3D) space guided by two-dimensional (2D) images. This trial explores the effect of 3D vision during a laparoscopic training program, and examine whether it is possible to transfer skills acquired with 3D conditions to 2D conditions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28302275

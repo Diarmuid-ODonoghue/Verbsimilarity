@@ -1,0 +1,3 @@
+Probe-based confocal laser endomicroscopy (pCLE) is a subcellular in vivo imaging technique capable of producing images that enable diagnosis of malign structural modifications in epithelial tissue. Images acquired with pCLE are, however, often tainted by significant artifacts that impair diagnosis. This is especially detrimental for automated image analysis, which is why said images are often excluded from recognition pipelines.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30078151

@@ -1,0 +1,3 @@
+The study objective was to test the efficacy of game-based virtual reality (VR) therapy as a mean of correcting postural and co-ordination abnormalities in individuals with traumatic brain injury (TBI). Therapy was done with interactive customized VR games and scenarios, utilizing an Xbox Kinect sensor.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24702281

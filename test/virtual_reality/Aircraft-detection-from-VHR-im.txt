@@ -1,0 +1,3 @@
+Aircraft automatic detection from very high-resolution (VHR) images plays an important role in a wide variety of applications. This paper proposes a novel detector for aircraft detection from very high-resolution (VHR) remote sensing images. To accurately distinguish aircrafts from background, a circle-frequency filter (CF-filter) is used to extract the candidate locations of aircrafts from a large size image. A multi-level feature model is then employed to represent both local appearance and spatial layout of aircrafts by means of Robust Hue Descriptor and Histogram of Oriented Gradients. The experimental results demonstrate the superior performance of the proposed method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24163637

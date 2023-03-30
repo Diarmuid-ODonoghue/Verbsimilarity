@@ -1,0 +1,3 @@
+With the increase in the world's aging population, there is a growing need to prevent and predict dementia among the general population. The availability of national time-series health examination data in South Korea provides an opportunity to use deep learning algorithm, an artificial intelligence technology, to expedite the analysis of mass and sequential data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31471957

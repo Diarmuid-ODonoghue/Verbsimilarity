@@ -1,0 +1,3 @@
+Effective visualization of the operative field is vital to surgical safety and education. However, additional metrics for visualization are needed to complement other common measures of surgeon proficiency, such as time or errors. Unlike other surgical modalities, robot-assisted minimally invasive surgery (RAMIS) enables data-driven feedback to trainees through measurement of camera adjustments. The purpose of this study was to validate and quantify the importance of novel camera metrics during RAMIS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27422247

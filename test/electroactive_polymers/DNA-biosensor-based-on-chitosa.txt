@@ -1,0 +1,3 @@
+A biosensor based on chitosan doped with carbon nanotube (CNT) was fabricated to detect salmon sperm DNA. Methylene blue (MB) was employed as a DNA indicator. It was found that CNTs can enhance the electroactive surface area threefold (0.28 +/- 0.03 and 0.093 +/- 0.06 cm(2) for chitosan-CNT- and chitosan-modified electrodes, respectively) and can accelerate the rate of electron transfer between the redox-active MB and the electrode. A low detection limit of 0.252 nM fish sperm DNA was achieved, and no interference was found in the presence of 5 microg/ml human serum albumin. The differential pulse voltammetry signal of MB was linear over the fish sperm DNA concentration range of 0.5-20 nM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16169507

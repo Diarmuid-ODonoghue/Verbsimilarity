@@ -1,0 +1,3 @@
+Focal cortical dysplasia (FCD) is a congenital malformation of cortical development that often leads to medically refractory epilepsy. Focal resection can be an effective treatment, but is challenging as the surgically relevant abnormality may exceed the MR-visible lesion. The aim of the current study is to develop methodology to characterize the profile of functional connectivity around FCDs using resting-state functional MRI and in the individual patient. The detection of aberrant connectivity may provide a means to more completely delineate the clinically relevant lesion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27861502

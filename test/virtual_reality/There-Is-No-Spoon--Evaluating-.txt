@@ -1,0 +1,3 @@
+Immersive analytics turns the very space surrounding the user into a canvas for data analysis, supporting human cognitive abilities in myriad ways. We present the results of a design study, contextual inquiry, and longitudinal evaluation involving professional economists using a Virtual Reality (VR) system for multidimensional visualization to explore actual economic data. Results from our preregistered evaluation highlight the varied use of space depending on context (exploration vs. presentation), the organization of space to support work, and the impact of immersion on navigation and orientation in the 3D analysis space.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31484124

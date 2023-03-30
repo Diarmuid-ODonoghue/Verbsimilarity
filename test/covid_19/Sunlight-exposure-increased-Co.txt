@@ -1,0 +1,3 @@
+This study aims to present the correlation between sunlight exposure and Covid-19 statuses in Jakarta, Indonesia. The secondary data analysis was derived from surveillance data for Covid-19 from government authorities, including the Ministry of Health, the Meteorological, Climatological, and Geophysical Agency, and the local government of Jakarta. Three statuses related to Covid-19 were examined in the study: incidence, death, and recovered. Meanwhile, sunlight exposure was presented as daily duration of it. Only the number of recovered patients correlated significantly with sunlight exposure (p-value = .025; r = 0.350). This study's findings showed that sunlight exposure was associated with recovery from Covid-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32361458

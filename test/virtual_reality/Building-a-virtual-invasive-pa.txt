@@ -1,0 +1,3 @@
+Virtual Reality shows promise as a valuable tool in medical research and training, but one of the factors limiting the expansion potential of such technology is cost of both hardware and software. This paper describes a proof-of-concept project whose aim was to design and implement a generic VR simulation system using low cost hardware and free software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10180576

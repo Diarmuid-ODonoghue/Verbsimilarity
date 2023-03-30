@@ -1,0 +1,3 @@
+When we talk to one another face-to-face, body gestures accompany our speech. Motion tracking technology enables us to include body gestures in avatar-mediated communication, by mapping one's movements onto one's own 3D avatar in real time, so the avatar is self-animated. We conducted two experiments to investigate (a) whether head-mounted display virtual reality is useful for researching the influence of body gestures in communication; and (b) whether body gestures are used to help in communicating the meaning of a word. Participants worked in pairs and played a communication game, where one person had to describe the meanings of words to the other.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22022442

@@ -1,0 +1,3 @@
+A strategy for fabrication of electroactive nanocomposites with nanoscale organization, based on self-assembly, is reported. Gold nanoparticles are assembled by a polypeptide folding-dependent bridging. The polypeptides are further utilized to recruit and associate with a water soluble conducting polymer. The polymer is homogenously incorporated into the nanocomposite, forming conducting pathways which make the composite material highly conducting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20689898

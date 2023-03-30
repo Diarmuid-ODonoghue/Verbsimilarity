@@ -1,0 +1,3 @@
+Information on severity of coronavirus disease (COVID-19) (transmissibility, disease seriousness, impact) is crucial for preparation of healthcare sectors. We present a simple approach to assess disease seriousness, creating a reference cohort of pneumonia patients from sentinel hospitals. First comparisons exposed a higher rate of COVID-19 patients requiring ventilation. There were more case fatalities among COVID-19 patients without comorbidities than in the reference cohort. Hospitals should prepare for high utilisation of ventilation and intensive care resources.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32186278

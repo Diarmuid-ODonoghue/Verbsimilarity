@@ -1,0 +1,3 @@
+Arterial Spin Labeling (ASL) is a quantitative, non-invasive alternative for perfusion imaging that does not use contrast agents. The magnetic resonance fingerprinting (MRF) framework can be adapted to ASL to estimate multiple physiological parameters simultaneously. In this work, we introduce an optimization scheme to increase the sensitivity of the ASL fingerprint. We also propose a regression based estimation framework for MRF-ASL.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31751497

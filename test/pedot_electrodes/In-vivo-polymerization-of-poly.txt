@@ -1,0 +1,3 @@
+Maintaining a reliable neural interface is a well-known challenge with implanted neural prostheses. Here we evaluate a method of forming an integrated neural interface through polymerization of PEDOT in vivo. Polymerization resulted in lower impedance and improved recording quality of local field potentials on implanted electrodes in the rat cerebral cortex. Histological analysis by optical microscopy confirmed successful integration of the PEDOT within tissue surrounding implanted electrodes. This technique offers a unique neural interfacing approach with potential to improve the long-term functionality of neural prostheses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22255561

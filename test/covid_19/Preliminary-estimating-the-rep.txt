@@ -1,0 +1,3 @@
+The novel coronavirus disease 2019 (COVID-19) outbreak and Italy has caused 6088 cases and 41 deaths in Republic of Korea and 3144 cases and 107 death in Italy by 5 March 2020. We modeled the transmission process in Republic of Korea and Italy with a stochastic model and estimated the basic reproduction number R0 as 2.6 (95% CI: 2.3-2.9) or 3.2 (95% CI: 2.9-3.5) in Republic of Korea, under the assumption that the exponential growth starting on 31 January or 5 February 2020, and 2.6 (95% CI: 2.3-2.9) or 3.3 (95% CI: 3.0-3.6) in Italy, under the assumption that the exponential growth starting on 5 February or 10 February 2020.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32334115

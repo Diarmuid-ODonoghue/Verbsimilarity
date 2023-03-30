@@ -1,0 +1,3 @@
+Minimally invasive surgery is often built upon a time-consuming preoperative step consisting of segmentation and trajectory planning. At the temporal bone, a complete automation of these two tasks might lead to faster interventions and more reproducible results, benefiting clinical workflow and patient health.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30888596

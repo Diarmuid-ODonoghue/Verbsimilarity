@@ -1,0 +1,3 @@
+Gesture Therapy is an upper limb virtual reality rehabilitation-based therapy for stroke survivors. It promotes motor rehabilitation by challenging patients with simple computer games representative of daily activities for self-support. This therapy has demonstrated clinical value, but the underlying functional neural reorganization changes associated with this therapy that are responsible for the behavioral improvements are not yet known.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23841967

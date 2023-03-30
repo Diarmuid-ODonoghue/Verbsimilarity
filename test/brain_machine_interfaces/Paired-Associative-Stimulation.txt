@@ -1,0 +1,3 @@
+Novel paired associative stimulation (novel-PAS), delivered by pairing movement-related cortical potentials (MRCPs) with electrical stimulation of somatosensory afferents, is an innovative neuromodulatory intervention. Novel-PAS results in increased corticomotor excitability and has potential as a rehabilitative adjunct to improve outcomes following stroke. The duration of its excitatory effect has important implications for how this novel PAS intervention might be applied within a traditional therapy session, but previous research has not explored its effects beyond 30 min post-intervention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28580648

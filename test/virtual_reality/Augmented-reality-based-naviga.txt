@@ -1,0 +1,3 @@
+This pilot study was performed to examine the accuracy of the AR-KNEE system, an imageless navigation system using augmented reality (AR) technology for total knee arthroplasty. The AR-KNEE system enables the surgeon to view information from the navigation superimposed on the surgical field on a smartphone screen in real time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31712907

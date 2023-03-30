@@ -1,0 +1,3 @@
+With the rapidly growing biomedical literature, automatically indexing biomedical articles by Medical Subject Heading (MeSH), namely MeSH indexing, has become increasingly important for facilitating hypothesis generation and knowledge discovery. Over the past years, many large-scale MeSH indexing approaches have been proposed, such as Medical Text Indexer, MeSHLabeler, DeepMeSH and MeSHProbeNet. However, the performance of these methods is hampered by using limited information, i.e. only the title and abstract of biomedical articles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31596475

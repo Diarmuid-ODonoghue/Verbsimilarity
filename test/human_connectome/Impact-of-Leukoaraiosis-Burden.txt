@@ -1,0 +1,3 @@
+The National Institutes of Health Stroke Scale (NIHSS) awards higher deficit scores for infarcts in the dominant hemisphere when compared with otherwise similar infarcts in the nondominant hemisphere. This has been shown to adversely affect stroke recognition, therapeutic decisions, and outcome. However, factors modifying the association between infarct side and deficit severity are incompletely understood. Thus, we sought to determine whether age and age-related leukoaraiosis alter the relation between NIHSS deficit score and the side and volume of infarction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26556825

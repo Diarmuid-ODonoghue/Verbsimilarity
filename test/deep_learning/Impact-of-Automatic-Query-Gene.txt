@@ -1,0 +1,3 @@
+The quality of health care is continuously improving and is expected to improve further because of the advancement of machine learning and knowledge-based techniques along with innovation and availability of wearable sensors. With these advancements, health care professionals are now becoming more interested and involved in seeking scientific research evidence from external sources for decision making relevant to medical diagnosis, treatments, and prognosis. Not much work has been done to develop methods for unobtrusive and seamless curation of data from the biomedical literature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31815673

@@ -1,0 +1,3 @@
+Deep learning (DL), part of a broader family of machine learning methods, is based on learning data representations rather than task-specific algorithms. Deep learning can be used to improve the image quality of clinical scans with image noise reduction. We review the ability of DL to reduce the image noise, present the advantages and disadvantages of computed tomography image reconstruction, and examine the potential value of new DL-based computed tomography image reconstruction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31789682

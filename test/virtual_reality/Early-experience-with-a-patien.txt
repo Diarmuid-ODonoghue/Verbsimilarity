@@ -1,0 +1,3 @@
+With the help of contemporary computer technology it is possible to create a virtual surgical environment (VSE) for training. This article describes a patient-specific virtual rhinologic surgical simulation platform that supports rehearsal of endoscopic skull-base surgery. We also share our early experience with select cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29105367

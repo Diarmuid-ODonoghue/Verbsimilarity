@@ -1,0 +1,3 @@
+Background parenchymal uptake (BPU), which describes the level of radiotracer uptake in normal fibroglandular tissue on molecular breast imaging (MBI), has been identified as a breast cancer risk factor. Our objective was to develop and validate a deep learning model using image convolution to automatically categorize BPU on MBI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30807208

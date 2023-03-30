@@ -1,0 +1,3 @@
+A deep transfer learning for underwater source ranging is proposed, which migrates the predictive ability obtained from synthetic environment (source domain) into an experimental sea area (target domain). A deep neural network is first trained on large synthetic datasets generated from historical environmental data, and then part of the neural network is refined on collected data set for source ranging. Its performance is tested on a deep-sea experiment through comparing with convolutional neural networks of different training datasets. Data processing results demonstrate that the ranging accuracy is considerably improved by the proposed method, which can be easily adapted for related areas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31671979

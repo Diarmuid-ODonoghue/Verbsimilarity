@@ -1,0 +1,3 @@
+Ultrasound is one of the most important imaging techniques in clinical medicine with unique advantages. Skills in ultrasound imaging are very usefull for physicians including novices and thus also mandated by the Task Force "National Competence-Based Learning Objectives for Undergraduate Medical Education" (NKLM) in Germany and as well as by the German Ultrasound Society (Deutsche Gesellschaft für Ultraschall in der Medizin, DEGUM). Since ultrasound is best learned hands-on in very small supervised groups, we developed and implemented a comprehensive ultrasound-curriculum for all undergraduate medical students of our faculty using a peer-teaching concept.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31138197

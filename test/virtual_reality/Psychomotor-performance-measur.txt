@@ -1,0 +1,3 @@
+This study was conducted to validate the role of virtual reality computer simulation as an objective method for assessing laparoscopic technical skills. The authors aimed to investigate whether performance in the operating room, assessed using a modified Objective Structured Assessment of Technical Skill (OSATS), correlated with the performance parameters registered by a virtual reality laparoscopic trainer (LapSim).
+
+https://www.ncbi.nlm.nih.gov/pubmed/18622548

@@ -1,0 +1,3 @@
+In arm movement BCIs (brain-computer interfaces), unimanual research has been much more extensively studied than its bimanual counterpart. However, it is well known that the bimanual brain state is different from the unimanual one. Conventional methodology used in unimanual studies does not take the brain stage into consideration, and therefore appears to be insufficient for decoding bimanual movements. In this paper, we propose the use of a two-staged (effector-then-trajectory) decoder, which combines the classification of movement conditions and uses a hand trajectory predicting algorithm for unimanual and bimanual movements, for application in real-world BCIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28875947

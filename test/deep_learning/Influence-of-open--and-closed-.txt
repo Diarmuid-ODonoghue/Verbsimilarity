@@ -1,0 +1,3 @@
+Two learning approaches are consistently distinguished in the literature: deep and surface learning. The deep learning approach is considered preferable. Open-book tests are expected to stimulate deep learning and to offer a possible way of handling the substantial growth in medical knowledge. In this study we test the hypothesis that open-book tests stimulate deep learning more than closed-book tests.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18823515

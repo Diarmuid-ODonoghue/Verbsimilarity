@@ -1,0 +1,3 @@
+An attenuated rabies virus that expresses fluorescent protein has made it possible to analyze retrograde (presynaptic) monosynaptic connections in vivo. By combining attenuated rabies virus with a Cre-loxP based system to target cells in a subtype-specific fashion, it is possible to examine neuronal input in vivo onto any class of neuron, in development and in the mature brain. We describe here the methods to amplify deletion mutant, pseudotyped rabies virus, selectively target cells of interest using genetic and viral approaches, as well as the stereotaxic procedures required to target neuronal subtypes of interest in vivo.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27943201

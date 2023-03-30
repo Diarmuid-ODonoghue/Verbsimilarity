@@ -1,0 +1,3 @@
+This article aims to examine the implementation process of diagnosis-related groups (DRGs) in the clinical departments of a German hospital group and to explain why some gain competitive advantage while others do not.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17995556

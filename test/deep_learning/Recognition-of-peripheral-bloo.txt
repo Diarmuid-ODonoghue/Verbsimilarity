@@ -1,0 +1,3 @@
+Morphological analysis is the starting point for the diagnostic approach of more than 80% of hematological diseases. However, the morphological differentiation among different types of normal and abnormal peripheral blood cells is a difficult task that requires experience and skills. Therefore, the paper proposes a system for the automatic classification of eight groups of peripheral blood cells with high accuracy by means of a transfer learning approach using convolutional neural networks. With this new approach, it is not necessary to implement image segmentation, the feature extraction becomes automatic and existing models can be fine-tuned to obtain specific classifiers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31425939

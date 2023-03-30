@@ -1,0 +1,3 @@
+Several approaches have been developed and implemented to use virtual reality for rehabilitation of walking for people poststroke. The purpose of this article is to compare and contrast these approaches by describing the virtual reality technology and evaluating the evidence to support its use. Early findings are encouraging but await verification, refinement, and extension.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18174115

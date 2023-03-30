@@ -1,0 +1,3 @@
+Endometrial pathology is frequent in premenopausal women and the diagnostic hysteroscopy is considered the gold standard for assessing endometrial cavity and congenital uterine anomalies. However it is an invasive and uncomfortable procedure. Saline contrast hysterosalgingography and hysterosalpingo-contrast sonography allow detailed assessment of the uterine cavity. We propose a virtual hysteroscopy from three-dimensional saline and three-dimensional hysterosalpingo-contrast sonography scan data to generate a virtual reality as a new noninvasive procedure for assessing the uterine cavity in uterine congenital anomaly and endometrial pathology cases as well.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28440357

@@ -1,0 +1,3 @@
+Preterm birth imposes a high risk for developing neuromotor delay. Earlier prediction of adverse outcome in preterm infants is crucial for referral to earlier intervention. This study aimed to predict abnormal motor outcome at 2 years from early brain diffusion magnetic resonance imaging (MRI) acquired between 29 and 35 weeks postmenstrual age (PMA) using a deep learning convolutional neural network (CNN) model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32278897

@@ -1,0 +1,3 @@
+The development of computerized surgical simulators in a virtual reality environment demands models for proper validation. Recent investigations have shown that a virtual reality simulator (MIST-VR) is a reliable tool for the assessment of laparoscopic psychomotor skills and that it improves the automation of the so-called fulcrum effect. Therefore, we set out to determine whether training with the MIST-VR would improve the surgical performance of surgically inexperienced medical students and to see if results obtained in the simulator would correlate with surgical performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11961622

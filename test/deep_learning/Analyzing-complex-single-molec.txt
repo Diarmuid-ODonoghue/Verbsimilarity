@@ -1,0 +1,3 @@
+A fluorescent emitter simultaneously transmits its identity, location, and cellular context through its emission pattern. We developed smNet, a deep neural network for multiplexed single-molecule analysis to retrieve such information with high accuracy. We demonstrate that smNet can extract three-dimensional molecule location, orientation, and wavefront distortion with precision approaching the theoretical limit, and therefore will allow multiplexed measurements through the emission pattern of a single molecule.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30377349

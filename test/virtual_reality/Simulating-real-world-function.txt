@@ -1,0 +1,3 @@
+To develop a virtual reality platform that would serve as a functionally meaningful measure of cognition in schizophrenia and that would also complement standard batteries of cognitive tests during clinical trials for cognitive treatments in schizophrenia, be amenable to human neuroimaging research, yet lend itself to neurobiological comparison with rodent analogs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24324418

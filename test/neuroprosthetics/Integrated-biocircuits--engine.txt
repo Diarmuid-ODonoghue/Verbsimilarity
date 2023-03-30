@@ -1,0 +1,3 @@
+Implantable neurotechnologies have revolutionized neuromodulatory medicine for treating the dysfunction of diseased neural circuitry. However, challenges with biocompatibility and lack of full control over neural network communication and function limits the potential to create more stable and robust neuromodulation devices. Thus, we propose a platform technology of implantable and programmable cellular systems, namely Integrated Biocircuits, which use only cells as the functional components of the device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29350183

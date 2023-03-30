@@ -1,0 +1,3 @@
+There is accumulating evidence that epilepsy is caused by network dysfunction. We evaluated the hub reorganization of subcortical structures in patients with focal epilepsy using graph theoretical analysis based on diffusion-tensor imaging (DTI). In addition, we investigated differences in the values of diffusion tensors and scalars, fractional anisotropy (FA), and mean diffusivity (MD) of subcortical structures between patients with focal epilepsy and healthy subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30618219

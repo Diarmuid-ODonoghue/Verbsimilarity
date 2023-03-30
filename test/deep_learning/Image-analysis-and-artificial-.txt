@@ -1,0 +1,3 @@
+Microbiologists are valued for their time-honed skills in image analysis, including identification of pathogens and inflammatory context in Gram stains, ova and parasite preparations, blood smears and histopathologic slides. They also must classify colony growth on a variety of agar plates for triage and assessment. Recent advances in image analysis, in particular application of artificial intelligence (AI), have the potential to automate these processes and support more timely and accurate diagnoses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32213317

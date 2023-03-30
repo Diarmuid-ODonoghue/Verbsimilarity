@@ -1,0 +1,3 @@
+A virtual reality trainer was designed to familiarize students and surgeons with surgical navigation using an angled laparoscopic lens and camera system. Previous laparoscopic trainers have been devoted to task or procedure training. Our system is exclusively devoted to laparoscope manipulation and navigation. Laparoscopic experts scored better than novices in this system suggesting construct validity. The trainer received favorable subjective ratings. This simulator may provide for improved navigation in the operating room and become a useful tool for residents and practicing surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11317733

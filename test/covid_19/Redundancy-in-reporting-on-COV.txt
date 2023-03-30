@@ -1,0 +1,3 @@
+Additional to the problems described very well by Dr. Ioannidis1 , there is another issue that became highlighted during this pandemic: redundancy in research and reporting. Redundant articles repeat already known information and are mostly published just for the sake of publishing. By searching through Pubmed, one can easily see that the number of publications related to COVID-19 is growing exponentially (Figure).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32350859

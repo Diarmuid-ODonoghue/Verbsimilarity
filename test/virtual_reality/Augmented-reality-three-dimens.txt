@@ -1,0 +1,3 @@
+A video see-through augmented reality three-dimensional display method is presented. The system that is used for dense viewpoint augmented reality presentation fuses the light fields of the real scene and the virtual model naturally. Inherently benefiting from the rich information of the light field, depth sense and occlusion can be handled under no priori depth information of the real scene. A series of processes are proposed to optimize the augmented reality performance. Experimental results show that the reconstructed fused 3D light field on the autostereoscopic display is well presented. The virtual model is naturally integrated into the real scene with a consistence between binocular parallax and monocular depth cues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27410076

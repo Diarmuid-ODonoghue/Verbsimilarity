@@ -1,0 +1,3 @@
+Precise assessment of ligand bioactivities (including IC50, EC50, Ki, Kd, etc.) is essential for virtual screening and lead compound identification. However, not all ligands have experimentally determined activities. In particular, many G protein-coupled receptors (GPCRs), which are the largest integral membrane protein family and represent targets of nearly 40% drugs on the market, lack published experimental data about ligand interactions. Computational methods with the ability to accurately predict the bioactivity of ligands can help efficiently address this problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29432522

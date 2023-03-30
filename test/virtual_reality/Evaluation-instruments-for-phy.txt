@@ -1,0 +1,3 @@
+Physiotherapeutic rehabilitation is essential to improve functional mobility, muscular strength, balance and quality of life of stroke patients, but conventional techniques using repeated physical activities can soon become monotonous. The use of virtual reality (VR) in rehabilitation offers a possible alternative to the traditional methods of promoting improvements in muscle strength and balance. However, there is not yet consensus about which instruments should be used to assess the effectiveness of VR in stroke rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31542173

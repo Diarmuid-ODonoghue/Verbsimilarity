@@ -1,0 +1,3 @@
+Opiate addiction remains intractable in a large percentage of patients, and relapse is the biggest hurdle to recovery. Many studies have identified a central role of the nucleus accumbens (NAc) in addiction. Deep brain stimulation (DBS) has the advantages of being reversible, adjustable, and minimally invasive, and it has become a potential neurobiological intervention for addiction. The purpose of our study was to investigate whether high-frequency DBS in the NAc effectively attenuates the reinstatement of morphine seeking in morphine-primed rats.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23673114

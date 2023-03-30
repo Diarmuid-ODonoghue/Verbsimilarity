@@ -1,0 +1,3 @@
+Multiple types of neural signals are available for controlling assistive devices through brain-computer interfaces (BCIs). Intracortically recorded spiking neural signals are attractive for BCIs because they can in principle provide greater fidelity of encoded information compared to electrocorticographic (ECoG) signals and electroencephalograms (EEGs). Recent reports show that the information content of these spiking neural signals can be reliably extracted simply by causally band-pass filtering the recorded extracellular voltage signals and then applying a spike detection threshold, without relying on "sorting" action potentials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25128256

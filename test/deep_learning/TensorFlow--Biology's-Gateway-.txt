@@ -1,0 +1,3 @@
+TensorFlow is Google's recently released open-source software for deep learning. What are its applications for computational biology?
+
+https://www.ncbi.nlm.nih.gov/pubmed/27136685

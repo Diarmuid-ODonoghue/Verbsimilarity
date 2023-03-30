@@ -1,0 +1,3 @@
+Mechanistic case diagram (MCD) was recommended for increasing the depth of understanding of disease, but with few articles on its specific methods. We address the experience of making MCD in the fullest depth to identify the pros and cons of using MCDs in such ways.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28870018

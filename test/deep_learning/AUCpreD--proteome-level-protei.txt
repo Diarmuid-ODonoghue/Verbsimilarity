@@ -1,0 +1,3 @@
+Protein intrinsically disordered regions (IDRs) play an important role in many biological processes. Two key properties of IDRs are (i) the occurrence is proteome-wide and (ii) the ratio of disordered residues is about 6%, which makes it challenging to accurately predict IDRs. Most IDR prediction methods use sequence profile to improve accuracy, which prevents its application to proteome-wide prediction since it is time-consuming to generate sequence profiles. On the other hand, the methods without using sequence profile fare much worse than using sequence profile.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27587688

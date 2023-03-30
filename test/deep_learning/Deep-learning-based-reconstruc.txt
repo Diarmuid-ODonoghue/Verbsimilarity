@@ -1,0 +1,3 @@
+To demonstrate that mapping pelvis conductivity at 3T with deep learning (DL) is feasible.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32314825

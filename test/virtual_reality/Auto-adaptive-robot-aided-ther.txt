@@ -1,0 +1,3 @@
+This paper presents an application of a classification method to adaptively and dynamically modify the therapy and real-time displays of a virtual reality system in accordance with the specific state of each patient using his/her physiological reactions. First, a theoretical background about several machine learning techniques for classification is presented. Then, nine machine learning techniques are compared in order to select the best candidate in terms of accuracy. Finally, first experimental results are presented to show that the therapy can be modulated in function of the patient state using machine learning classification techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24199656

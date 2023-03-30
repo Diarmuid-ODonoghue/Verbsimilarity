@@ -1,0 +1,3 @@
+Electrocorticography grids have been used to study and diagnose neural pathophysiology for over 50 years, and recently have been used for various neural prosthetic applications. Here we provide evidence that micro-scale electrodes are better suited for studying cortical pathology and function, and for implementing neural prostheses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26138146

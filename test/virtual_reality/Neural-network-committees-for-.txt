@@ -1,0 +1,3 @@
+In virtual reality (VR) systems, the user's finger and hand positions are sensed and used to control the virtual environments. Direct biocontrol of VR environments using surface electromyography (SEMG) signals may be more synergistic and unconstraining to the user. The purpose of the present investigation was to develop a technique to predict the finger joint angle from the surface EMG measurements of the extensor muscle using neural network models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19154615

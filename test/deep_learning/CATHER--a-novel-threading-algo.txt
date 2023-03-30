@@ -1,0 +1,3 @@
+Threading is one of the most effective methods for protein structure prediction. In recent years, the increasing accuracy in protein contact map prediction opens a new avenue to improve the performance of threading algorithms. Several preliminary studies suggest that with predicted contacts, the performance of threading algorithms can be improved greatly. There is still much room to explore to make better use of predicted contacts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31790141

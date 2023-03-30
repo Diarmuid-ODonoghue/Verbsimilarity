@@ -1,0 +1,3 @@
+During the ongoing COVID-19 pandemic, contact with the healthcare system for cancer treatment can increase risk of infection and associated mortality. Treatment recommendations must consider this risk for elderly and vulnerable cancer patients. We re-analyzed trials in elderly glioblastoma (GBM) patients, incorporating COVID-19 risk, in order to provide a quantitative framework for comparing different radiation (RT) fractionation schedules on patient outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32339235

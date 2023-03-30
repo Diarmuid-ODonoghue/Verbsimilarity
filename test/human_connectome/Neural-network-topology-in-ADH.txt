@@ -1,0 +1,3 @@
+Attention-deficit/hyperactivity disorder (ADHD) has been associated with widespread brain abnormalities in white and grey matter, affecting not only local, but global functional networks as well. In this study, we explored these functional networks using source-reconstructed electroencephalography in ADHD and typically developing (TD) children. We expected evidence for maturational delay, with underlying abnormalities in the default mode network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29028500

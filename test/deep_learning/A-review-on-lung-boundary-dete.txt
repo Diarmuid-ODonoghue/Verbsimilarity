@@ -1,0 +1,3 @@
+Chest radiography is the most common imaging modality for pulmonary diseases. Due to its wide usage, there is a rich literature addressing automated detection of cardiopulmonary diseases in digital chest X-rays (CXRs). One of the essential steps for automated analysis of CXRs is localizing the relevant region of interest, i.e., isolating lung region from other less relevant parts, for applying decision-making algorithms there. This article provides an overview of the recent literature on lung boundary detection in CXR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30730032

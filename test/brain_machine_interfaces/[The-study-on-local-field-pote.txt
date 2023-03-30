@@ -1,0 +1,3 @@
+The local field potential (LFP) is a summation of dendritic potentials. The main objective of the present work is to view the features of LFP in M1 during the experimental rat pushed a paddle with the right forelimb.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21560336

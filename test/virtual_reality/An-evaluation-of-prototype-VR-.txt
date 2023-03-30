@@ -1,0 +1,3 @@
+This paper presents an enquiry into the suitability of Virtual Reality (VR) technology as the principal training method for applied surgical anatomy. In this work we present the development of a prototype VR medical training environment and the evaluation results of preliminary trials aiming to identify the effectiveness of the system in the subject domains of anatomy teaching and surgical rehearsal, whilst acknowledging current training requirements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391366

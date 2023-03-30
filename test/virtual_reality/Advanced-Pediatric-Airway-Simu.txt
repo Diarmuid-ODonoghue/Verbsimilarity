@@ -1,0 +1,3 @@
+Simulation is an emerging and viable means to increase pediatric airway surgical training. A variety of simulators currently exist that may be used or modified for laryngoscopy, bronchoscopy, and endoscopic intervention, although anatomic realism and utility for complex procedures are limited. There is a need for further development of improved endoscopic and anatomic models. Innovative techniques are enabling small-scale manufacturing of generalizable and patient-specific simulators. The high acuity of the pediatric airway patient makes the use of simulation an attractive modality for training, competency maintenance, and patient safety quality-improvement studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28669462

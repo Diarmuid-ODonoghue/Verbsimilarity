@@ -1,0 +1,3 @@
+It is well known that to acquire sensorimotor (SMR)-based brain-computer interface (BCI) control requires a training period before users can achieve their best possible performances. Nevertheless, the effect of this training procedure on the cortical activity related to the mental imagery ability still requires investigation to be fully elucidated. The aim of this study was to gain insights into the effects of SMR-based BCI training on the cortical spectral activity associated with the performance of different mental imagery tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24835634

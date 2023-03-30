@@ -1,0 +1,3 @@
+The recently introduced MR-Linac enables MRI-guided Online Adaptive Radiation Therapy (MRgOART) of pancreatic cancer, for which fast and accurate segmentation of the gross tumor volume (GTV) is essential. This work aims to develop an algorithm allowing automatic segmentation of the pancreatic GTV based on multi-parametric MRI using deep neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32045787

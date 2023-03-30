@@ -1,0 +1,3 @@
+Brain activation differs according to lesion location in functional magnetic resonance imaging (fMRI) studies, but lesion location-dependent electroencephalographic (EEG) alterations are unclear. Because of the increasing use of EEG-based brain-computer-interface rehabilitation, we examined lesion location-dependent EEG patterns in patients with stroke while they performed motor tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26935230

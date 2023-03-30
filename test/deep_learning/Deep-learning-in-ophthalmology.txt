@@ -1,0 +1,3 @@
+Deep learning is an emerging technology with numerous potential applications in Ophthalmology. Deep learning tools have been applied to different diagnostic modalities including digital photographs, optical coherence tomography, and visual fields. These tools have demonstrated utility in assessment of various disease processes including cataracts, glaucoma, age-related macular degeneration, and diabetic retinopathy. Deep learning techniques are evolving rapidly, and will become more integrated into ophthalmic care. This article reviews the current evidence for deep learning in ophthalmology, and discusses future applications, as well as potential drawbacks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30119782

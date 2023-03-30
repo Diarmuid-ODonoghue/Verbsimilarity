@@ -1,0 +1,3 @@
+As we move through an environment, we are constantly making assessments, judgments and decisions about the things we encounter. Some are acted upon immediately, but many more become mental notes or fleeting impressions-our implicit 'labeling' of the world. In this paper, we use physiological correlates of this labeling to construct a hybrid brain-computer interface (hBCI) system for efficient navigation of a 3D environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24891496

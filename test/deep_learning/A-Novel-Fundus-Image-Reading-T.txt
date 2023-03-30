@@ -1,0 +1,3 @@
+We described a novel multi-step retinal fundus image reading system for providing high-quality large data for machine learning algorithms, and assessed the grader variability in the large-scale dataset generated with this system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30344460

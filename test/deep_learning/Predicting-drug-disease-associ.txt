@@ -1,0 +1,3 @@
+In the process of drug development, computational drug repositioning is effective and resource-saving with regards to its important functions on identifying new drug-disease associations. Recent years have witnessed a great progression in the field of data mining with the advent of deep learning. An increasing number of deep learning-based techniques have been proposed to develop computational tools in bioinformatics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31747915

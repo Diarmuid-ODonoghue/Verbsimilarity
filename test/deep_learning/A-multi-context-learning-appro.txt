@@ -1,0 +1,3 @@
+Epilepsy is a neurological disease characterized by unprovoked seizures in the brain. The recent advances in sensor technologies allow researchers to analyze the collected biological records to improve the treatment of epilepsy. Electroencephalogram (EEG) is the most commonly used biological measurement to effectively capture the abnormalities of different brain areas during the EEG seizures. To avoid manual visual inspection from long-term EEG readings, automatic epileptic EEG seizure detection has become an important research issue in bioinformatics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30463546

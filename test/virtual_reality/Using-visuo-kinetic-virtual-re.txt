@@ -1,0 +1,3 @@
+Illusions that alter perception of the body provide novel opportunities to target brain-based contributions to problems such as persistent pain. One example of this, mirror therapy, uses vision to augment perceived movement of a painful limb to treat pain. Since mirrors can't be used to induce augmented neck or other spinal movement, we aimed to test whether such an illusion could be achieved using virtual reality, in advance of testing its potential therapeutic benefit. We hypothesised that perceived head rotation would depend on visually suggested movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28243537

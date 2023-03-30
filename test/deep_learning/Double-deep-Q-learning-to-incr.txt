@@ -1,0 +1,3 @@
+We use a double deep Q-learning network (DDQN) to find the right material type and the optimal geometrical design for metasurface holograms to reach high efficiency. The DDQN acts like an intelligent sweep and could identify the optimal results in ~5.7 billion states after only 2169 steps. The optimal results were found between 23 different material types and various geometrical properties for a three-layer structure. The computed transmission efficiency was 32% for high-quality metasurface holograms; this is two times bigger than the previously reported results under the same conditions. The found structure is transmission-type and polarization-independent and works in the visible region.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31358783

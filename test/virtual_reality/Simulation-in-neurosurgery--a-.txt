@@ -1,0 +1,3 @@
+Computer-based surgical simulators create a no-risk virtual environment where surgeons can develop and refine skills through harmless repetition. These applications may be of particular benefit to neurosurgeons, as the vulnerability of nervous tissue limits the margin for error. The rapid progression of computer-processing capabilities in recent years has led to the development of more sophisticated and realistic neurosurgery simulators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20881575

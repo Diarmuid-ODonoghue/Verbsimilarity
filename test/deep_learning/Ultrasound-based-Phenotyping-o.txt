@@ -1,0 +1,3 @@
+Prediction of post-hemorrhagic hydrocephalus (PHH) outcome-i.e. whether it requires intervention or not-in premature neonates using cranial ultrasound (CUS) images is challenging. In this paper, we present a novel fully-automatic method to perform phenotyping of the brain lateral ventricles and predict PHH outcome from CUS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32086190

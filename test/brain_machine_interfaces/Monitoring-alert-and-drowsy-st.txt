@@ -1,0 +1,3 @@
+As a human brain performs various cognitive functions within ever-changing environments, states of the brain characterized by recorded brain activities such as electroencephalogram (EEG) are inevitably nonstationary. The challenges of analyzing the nonstationary EEG signals include finding neurocognitive sources that underlie different brain states and using EEG data to quantitatively assess the state changes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28627505

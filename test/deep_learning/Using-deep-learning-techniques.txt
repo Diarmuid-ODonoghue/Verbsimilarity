@@ -1,0 +1,3 @@
+To evaluate the efficacy of a deep-learning model to segment the lung and thorax regions in pediatric chest X-rays (CXRs). Validating the diagnosis of bacterial or viral pneumonia could be improved after lung segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31270968

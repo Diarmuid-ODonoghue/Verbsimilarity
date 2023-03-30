@@ -1,0 +1,3 @@
+Ultra-high-fidelity (UHF) graphics in virtual reality (VR) simulation might improve surgical skill acquisition in temporal bone training. This study aims to compare UHF VR simulation training with conventional, screen-based VR simulation training (cVR) with respect to performance and cognitive load (CL).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32067096

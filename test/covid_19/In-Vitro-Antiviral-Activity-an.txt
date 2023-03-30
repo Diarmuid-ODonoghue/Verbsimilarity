@@ -1,0 +1,3 @@
+The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) first broke out in Wuhan (China) and subsequently spread worldwide. Chloroquine has been sporadically used in treating SARS-CoV-2 infection. Hydroxychloroquine shares the same mechanism of action as chloroquine, but its more tolerable safety profile makes it the preferred drug to treat malaria and autoimmune conditions. We propose that the immunomodulatory effect of hydroxychloroquine also may be useful in controlling the cytokine storm that occurs late-phase in critically ill SARS-CoV-2 infected patients. Currently, there is no evidence to support the use of hydroxychloroquine in SARS-CoV-2 infection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32150618

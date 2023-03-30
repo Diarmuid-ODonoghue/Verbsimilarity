@@ -1,0 +1,3 @@
+Transcranial direct current stimulation (tDCS) can enhance or diminish cortical excitability levels depending on the polarity of the stimulation. One application of non-invasive brain-stimulation has been to modulate a possible inter-hemispheric disinhibition after a stroke. This disinhibition model has been developed mainly for the upper extremity motor system, but it is not known whether the language/speech-motor system shows a similar inter-hemispheric interaction. We aimed to examine physiological evidence of inter- and intra-hemispheric connectivity changes induced by tDCS of the right inferior frontal gyrus (IFG) using arterial-spin labeling (ASL) MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27472845

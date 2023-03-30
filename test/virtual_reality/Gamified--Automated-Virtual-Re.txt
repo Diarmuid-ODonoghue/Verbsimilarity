@@ -1,0 +1,3 @@
+Virtual Reality exposure therapy (VRET) is an evidence-based treatment of phobias and recent research suggests that this applies also to self-contained, automated interventions requiring no therapist guidance. With the advent and growing adoption of consumer VR technology, automated VR intervention have the potential to close the considerable treatment gap for specific phobias through dissemination as consumer applications, self-help at clinics, or as blended treatment. There is however a lack of translational effectiveness studies on VRET treatment effects under real-world conditions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32210850

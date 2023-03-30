@@ -1,0 +1,3 @@
+Skill assessment in surgery traditionally has relied on the expert observation and qualitative scoring. Our novel study design demonstrates how analysis of performance in sensorimotor tasks and bench-top surgical simulators can provide inferences about the technical proficiency as well as the training history of surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30629489

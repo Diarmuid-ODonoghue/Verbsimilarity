@@ -1,0 +1,3 @@
+Two-dimensional movement control is a popular issue in brain-computer interface (BCI) research and has many applications in the real world. In this paper, we introduce a combined control strategy to a binary class-based BCI system that allows the user to move a cursor in a two-dimensional (2D) plane. Users focus on a single moving vector to control 2D movement instead of controlling vertical and horizontal movement separately.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29130453

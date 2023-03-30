@@ -1,0 +1,3 @@
+Recently, several attempts were conducted to transfer deep learning to medical image reconstruction. An increasingly number of publications follow the concept of embedding the computed tomography (CT) reconstruction as a known operator into a neural network. However, most of the approaches presented lack an efficient CT reconstruction framework fully integrated into deep learning environments. As a result, many approaches use workarounds for mathematically unambiguously solvable problems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31389023

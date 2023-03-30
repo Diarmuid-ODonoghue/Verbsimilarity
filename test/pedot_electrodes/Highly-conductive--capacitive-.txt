@@ -1,0 +1,3 @@
+Highly conductive, capacitive and flexible electrodes are fabricated by employing 3D graphene-nanotube-palladium nanostructures and a PEDOT:PSS conducting polymer. The fabricated flexible electrodes, without any additional metallic current collectors, exhibit increased charge mobility and good mechanical properties; they also allow greater access to the electrolyte ions and hence are suitable for flexible energy storage applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25142299

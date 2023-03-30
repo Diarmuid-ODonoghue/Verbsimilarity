@@ -1,0 +1,3 @@
+Brain-computer interfaces can potentially map the subjective relevance of the visual surroundings, based on neural activity and eye movements, in order to infer the interest of a person in real-time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28555611

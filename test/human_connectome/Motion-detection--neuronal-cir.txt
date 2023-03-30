@@ -1,0 +1,3 @@
+Motion detection in fly vision has been investigated experimentally and theoretically for half of a century, yet mechanistic insights into the neuronal computation have only started to emerge. In a recent issue of Nature, two studies provide major insights into how motion direction is extracted from the image flow projected onto the retina.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24034242

@@ -1,0 +1,3 @@
+Motivated by the potential devastating effect of a COVID-19 outbreak in retirement homes and long-term facilities for dependent elderly, we present the impact of worst-case scenarios in French institutions using a specific age structure and case-age fatality ratios. The death toll could equal the yearly death toll caused by seasonal influenza in those older than 65 years or could largely exceed that, depending on the final attack rate and proportion of infected institutions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32317051

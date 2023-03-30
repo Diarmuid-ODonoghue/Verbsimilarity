@@ -1,0 +1,3 @@
+The goal of temporal indexing is to select an occurred time or time interval for each medical entity in clinical notes, so that all medical entities can be indexed on a united timeline, which could assist the understanding of clinical notes and the further application of medical entities. Some temporal relation shared tasks for the medical entity in English clinical notes have been organized in the past few years, such as the 2012 i2b2 NLP challenge, 2015 and 2016 clinical TempEval challenges. In these tasks, many heuristics rule-based and machine learning-based systems have been developed. In recent years, the deep neural network models have shown great potential on many problems including the relation classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30700331

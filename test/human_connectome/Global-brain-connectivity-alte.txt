@@ -1,0 +1,3 @@
+The human brain is organized into functionally distinct modules of which interactions constitute the human functional connectome. Accumulating evidence has implicated perturbations in the patterns of brain connectivity across a range of neurologic and neuropsychiatric disorders, but little is known about diagnostic specificity. Schizophrenia and bipolar disorders are severe mental disorders with partly overlapping symptomatology. Neuroimaging has demonstrated brain network disintegration in the pathophysiologies; however, to which degree the 2 diagnoses present with overlapping abnormalities remains unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26854755

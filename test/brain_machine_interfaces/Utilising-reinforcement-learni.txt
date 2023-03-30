@@ -1,0 +1,3 @@
+In this paper we propose a novel application of reinforcement learning to the area of auditory neural stimulation. We aim to develop a simulation environment which is based off real neurological responses to auditory and electrical stimulation in the cochlear nucleus (CN) and inferior colliculus (IC) of an animal model. Using this simulator we implement closed loop reinforcement learning algorithms to determine which methods are most effective at learning effective acoustic neural stimulation strategies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27432803

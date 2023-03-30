@@ -1,0 +1,3 @@
+Walking balance in older adults is disproportionately susceptible to lateral instability provoked by optical flow perturbations. The prolonged exposure to these perturbations could promote reactive balance control and increased balance confidence in older adults, but this scientific premise has yet to be investigated. This proof of concept study was designed to investigate the propensity for time-dependent tuning of walking balance control and the presence of aftereffects in older adults following a single session of optical flow perturbation training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31262319

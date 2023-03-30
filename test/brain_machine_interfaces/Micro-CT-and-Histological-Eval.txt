@@ -1,0 +1,3 @@
+Recently, we reported the development of a stent-mounted electrode array (Stentrode) capable of chronically recording neural signals from within a blood vessel with high fidelity. Preliminary data suggested incorporation of the Stentrode into the blood vessel wall was associated with improved recording sensitivity. We now investigate neointimal incorporation of the Stentrode, implanted in a cohort of sheep for up to 190 days.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27337706

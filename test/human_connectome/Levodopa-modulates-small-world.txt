@@ -1,0 +1,3 @@
+PD is associated with disrupted connectivity to a large number of distributed brain regions. How the disease alters the functional topological organization of the brain, however, remains poorly understood. Furthermore, how levodopa modulates network topology in PD is largely unknown. The objective of this study was to use resting-state functional MRI and graph theory to determine how small-world architecture is altered in PD and affected by levodopa administration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27461405

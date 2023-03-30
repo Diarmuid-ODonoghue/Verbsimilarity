@@ -1,0 +1,3 @@
+The radiological reading room is undergoing a paradigm shift to a symbiosis of computer science and radiology using artificial intelligence integrated with machine and deep learning with radiomics to better define tissue characteristics. The goal is to use integrated deep learning and radiomics with radiological parameters to produce a personalized diagnosis for a patient.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31080889

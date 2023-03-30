@@ -1,0 +1,3 @@
+We aimed to investigate the separability of the neural correlates of 2 types of motor imagery, self and third person (actions owned by the participant himself vs. another individual). If possible this would allow for the development of BCI interfaces to train disorders of action and intention understanding beyond simple imitation, such as autism.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28651628

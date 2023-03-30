@@ -1,0 +1,3 @@
+To further our understanding of immunopeptidomics, improved tools are needed to identify peptides presented by major histocompatibility complex class I (MHC-I). Many existing tools are limited by their reliance upon chemical affinity data, which is less biologically relevant than sampling by mass spectrometry, and other tools are limited by incomplete exploration of machine learning approaches. Herein, we assemble publicly available data describing human peptides discovered by sampling the MHC-I immunopeptidome with mass spectrometry and use this database to train random forest classifiers (ForestMHC) to predict presentation by MHC-I.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30611210

@@ -1,0 +1,3 @@
+To study the influence of gradient echo-based contrasts as input channels to a 3D patch-based neural network trained for synthetic CT (sCT) generation in canine and human populations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31593328

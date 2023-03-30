@@ -1,0 +1,3 @@
+Text mining and natural language processing of clinical text, such as notes from electronic health records, requires specific consideration of the specialized characteristics of these texts. Deep learning methods could potentially mitigate domain specific challenges such as limited access to in-domain tools and data sets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31865900

@@ -1,0 +1,3 @@
+The classification of cancer subtypes is of great importance to cancer disease diagnosis and therapy. Many supervised learning approaches have been applied to cancer subtype classification in the past few years, especially of deep learning based approaches. Recently, the deep forest model has been proposed as an alternative of deep neural networks to learn hyper-representations by using cascade ensemble decision trees. It has been proved that the deep forest model has competitive or even better performance than deep neural networks in some extent. However, the standard deep forest model may face overfitting and ensemble diversity challenges when dealing with small sample size and high-dimensional biology data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29671390

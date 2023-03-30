@@ -1,0 +1,3 @@
+We critically evaluate the future potential of machine learning (ML), deep learning (DL), and artificial intelligence (AI) in precision medicine. The goal of this work is to show progress in ML in digital health, to exemplify future needs and trends, and to identify any essential prerequisites of AI and ML for precision health.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31871830

@@ -1,0 +1,3 @@
+Abundant literature suggests the use of slow cortical potentials (SCPs) in a wide spectrum of basic and applied neuroscience areas. Due to their low signal to noise ratio, these potentials are often studied using grand-average analysis, which conceals trial-to-trial information. Moreover, most of the single trial analysis methods in the literature are based on classical electroencephalogram (EEG) features ([1-30] Hz) and are likely to be unsuitable for SCPs that have different signal properties (such as having the signal's spectral content in the range [0.2-0.7] Hz). In this paper we provide insights into the selection of appropriate parameters for spectral and spatial filtering.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23611808

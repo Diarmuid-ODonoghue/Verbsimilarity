@@ -1,0 +1,3 @@
+IMPAIRED: arm function and loss of manual dexterity can lead to decreased independence in activities of daily living in persons with Multiple Sclerosis (MS). In this study we verified the feasibility and efficacy of a serious games approach to supervised upper limb rehabilitation of the more affected arm in persons with MS and the cross-over effect to the nontreated arm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31352180

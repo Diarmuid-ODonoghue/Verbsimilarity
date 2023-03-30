@@ -1,0 +1,3 @@
+Many stroke survivors have significant long-term gait impairment, often involving foot drop. Current physiotherapies provide limited recovery. Orthoses substitute for ankle strength, but they provide no lasting therapeutic effect. Brain-computer interface (BCI)-controlled functional electrical stimulation (FES) is a novel rehabilitative approach that may generate permanent neurological improvements. This study explores the safety and feasibility of a foot-drop-targeted BCI-FES physiotherapy in chronic stroke survivors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26162751

@@ -1,0 +1,3 @@
+The need to develop new methods of surgical training combined with advances in computing has led to the development of virtual reality surgical simulators. The PERC Mentor(TM) is designed to train the user in percutaneous renal collecting system access puncture. This study aimed to validate the use of this kind of simulator, in percutaneous renal access training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23595389

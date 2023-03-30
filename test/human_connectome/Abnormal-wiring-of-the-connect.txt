@@ -1,0 +1,3 @@
+Recent brain imaging findings suggest that there are widely distributed abnormalities affecting the brain connectivity in individuals with autism spectrum disorder (ASD). Using graph theoretical analysis, it is possible to investigate both global and local properties of brain's wiring diagram, i.e., the connectome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26677408

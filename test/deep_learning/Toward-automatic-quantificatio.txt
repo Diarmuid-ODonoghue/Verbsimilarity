@@ -1,0 +1,3 @@
+Knee osteoarthritis (OA) is a common disease that impairs knee function and causes pain. Radiologists usually review knee X-ray images and grade the severity of the impairments according to the Kellgren-Lawrence grading scheme. However, this approach becomes inefficient in hospitals with high throughput as it is time-consuming, tedious and also subjective. This paper introduces a model for automatic diagnosis of knee OA based on an end-to-end deep learning method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31938993

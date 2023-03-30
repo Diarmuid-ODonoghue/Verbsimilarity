@@ -1,0 +1,3 @@
+Photorealistic simulations may provide efficient transfer of certain skills to the real system, but by being opaque may fail to encourage deeper learning of the structure and function of the system. Schematic simulations that are more abstract, with less visual fidelity but make system structure and function transparent, may enhance deeper learning and optimize retention and transfer of learning. We compared learning effectiveness of these 2 modes of externalizing the output of a common simulation engine (the Virtual Anesthesia Machine, VAM) that models machine function and dynamics and responds in real time to user interventions such as changes in gas flow or ventilation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19088639

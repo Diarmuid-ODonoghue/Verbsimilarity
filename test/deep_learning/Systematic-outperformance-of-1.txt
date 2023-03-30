@@ -1,0 +1,3 @@
+Recently, convolutional neural networks (CNNs) systematically outperformed dermatologists in distinguishing dermoscopic melanoma and nevi images. However, such a binary classification does not reflect the clinical reality of skin cancer screenings in which multiple diagnoses need to be taken into account.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31419752

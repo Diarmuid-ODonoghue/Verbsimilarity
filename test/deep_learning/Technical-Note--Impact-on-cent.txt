@@ -1,0 +1,3 @@
+We use central frequency ratio and noise magnitude ratio from noise power spectrum (NPS) to evaluate the noise reduction techniques of ASiR and ASiR-V of GE, SAFIRE and ADMIRE of Siemens, and PixelShine of AlgoMedica. ASiR, ASiR-V, SAFIRE and ADMIRE use a combination of image and projection data whereas PixelShine uses artificial intelligence neural network for noise reduction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31778233

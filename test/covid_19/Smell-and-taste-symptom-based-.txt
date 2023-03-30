@@ -1,0 +1,3 @@
+The presentation of COVID-19 overlaps with common influenza symptoms. There is limited data on whether a specific symptom or collection of symptoms may be useful to predict test positivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32363809

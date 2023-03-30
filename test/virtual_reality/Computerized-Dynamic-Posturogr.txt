@@ -1,0 +1,3 @@
+Computerized Dynamic Posturography (CDP)was developed by the American space program to assess imbalance in astronauts, and eventually evolved into a clinical diagnostic tool. However it is not a specific measure of vestibular function. Vestibular Evoked Myogenic Potential testing (VEMPs) is a new clinical tool which is sensitive and specific for measuring otolithic pathology, especially in the atypical vestibular patient.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30384214

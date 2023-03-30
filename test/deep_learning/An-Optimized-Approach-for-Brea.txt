@@ -1,0 +1,3 @@
+Breast cancer is considered as the most perilous sickness among females worldwide and the ratio of new cases is expanding yearly. Many researchers have proposed efficient algorithms to diagnose breast cancer at early stages, which have increased the efficiency and performance by utilizing the learned features of gold standard histopathological images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32324518

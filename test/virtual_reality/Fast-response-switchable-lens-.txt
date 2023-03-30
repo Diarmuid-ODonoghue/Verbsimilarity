@@ -1,0 +1,3 @@
+We report a switchable lens in which a twisted nematic (TN) liquid crystal cell is utilized to control the input polarization. Different polarization state leads to different path length in the proposed optical system, which in turn results in different focal length. This type of switchable lens has advantages in fast response time, low operation voltage, and inherently lower chromatic aberration. Using a pixelated TN panel, we can create depth information to the selected pixels and thus add depth information to a 2D image. By cascading three such device structures together, we can generate 8 different focuses for 3D displays, wearable virtual/augmented reality, and other head mounted display devices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26832545

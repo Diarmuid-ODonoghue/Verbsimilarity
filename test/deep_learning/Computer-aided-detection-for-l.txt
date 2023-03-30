@@ -1,0 +1,3 @@
+Evidence has shown that deep learning computer aided detection (CADe) system achieved high overall detection accuracy for polyp detection during colonoscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315365

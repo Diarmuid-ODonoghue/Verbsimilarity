@@ -1,0 +1,3 @@
+Models and simulations are finding increased roles in medical education. The Virtual Haptic Back (VHB) is a virtual reality simulation of the mechanical properties of the human back designed as an aid to teaching clinical palpatory diagnosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18387190

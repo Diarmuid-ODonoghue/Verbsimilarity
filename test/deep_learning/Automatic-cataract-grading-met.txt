@@ -1,0 +1,3 @@
+The shortage of ophthalmologists in rural areas in China causes a lot of cataract patients not getting timely diagnosis and effective treatment. We develop an algorithm and platform to automatically diagnose and grade cataract based on fundus images of patients. This method can help government assisting poor population more accurately.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31450174

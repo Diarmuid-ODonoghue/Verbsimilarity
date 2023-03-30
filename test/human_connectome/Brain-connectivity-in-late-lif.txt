@@ -1,0 +1,3 @@
+To use novel methods to examine age associations across an integrated brain network in healthy older adults (HOA) and individuals with late-life depression (LLD). Graph theory metrics describe the organizational configuration of both the global network and specified brain regions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25154538

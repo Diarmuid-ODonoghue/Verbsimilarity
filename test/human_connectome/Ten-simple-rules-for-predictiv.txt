@@ -1,0 +1,3 @@
+Establishing brain-behavior associations that map brain organization to phenotypic measures and generalize to novel individuals remains a challenge in neuroimaging. Predictive modeling approaches that define and validate models with independent datasets offer a solution to this problem. While these methods can detect novel and generalizable brain-behavior associations, they can be daunting, which has limited their use by the wider connectivity community. Here, we offer practical advice and examples based on functional magnetic resonance imaging (fMRI) functional connectivity data for implementing these approaches. We hope these ten rules will increase the use of predictive models with neuroimaging data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30831310

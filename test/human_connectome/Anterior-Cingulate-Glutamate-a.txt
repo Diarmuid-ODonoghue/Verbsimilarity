@@ -1,0 +1,3 @@
+The underlying neurobiological mechanism for abnormal functional connectivity in schizophrenia (SCZ) remains unknown. This project investigated whether glutamate and GABA, 2 metabolites that contribute to excitatory and inhibitory functions, may influence functional connectivity in SCZ.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29912445

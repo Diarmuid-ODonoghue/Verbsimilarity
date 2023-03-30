@@ -1,0 +1,3 @@
+To perform simultaneous functional MRI of multiple, distributed brain regions at high temporal resolution using a 2D-selective radiofrequency (2DRF) excitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24574142

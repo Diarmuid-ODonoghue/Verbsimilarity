@@ -1,0 +1,3 @@
+Model organisms play critical roles in biomedical research of human diseases and drug development. An imperative task is to translate information/knowledge acquired from model organisms to humans. In this study, we address a trans-species learning problem: predicting human cell responses to diverse stimuli, based on the responses of rat cells treated with the same stimuli.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25995230

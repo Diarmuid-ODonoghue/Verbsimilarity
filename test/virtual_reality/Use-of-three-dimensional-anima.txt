@@ -1,0 +1,3 @@
+Using commercial computer graphics software (TrueSpace), we constructed a virtual-reality model for teaching interscalene brachial plexus block. This tool combines the clarity of schematic drawings and the clinical relevance of video clips and live demonstrations. The aim is to accelerate learning and aid retention of relevant information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15619604

@@ -1,0 +1,3 @@
+Polyadenylation is a critical step for gene expression regulation during the maturation of mRNA. An accurate and robust method for poly(A) signals (PASs) identification is not only desired for the purpose of better transcripts' end annotation, but can also help us gain a deeper insight of the underlying regulatory mechanism. Although many methods have been proposed for PAS recognition, most of them are PAS motif- and human-specific, which leads to high risks of overfitting, low generalization power, and inability to reveal the connections between the underlying mechanisms of different mammals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30500881

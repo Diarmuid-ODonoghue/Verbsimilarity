@@ -1,0 +1,3 @@
+Biomedical studies, both in research and in clinical applications, deal with the management of large amounts of data. Different sensors and transducers, advances in technologies, and the availability of innovative medical equipment and instrumentation all contribute to the ability to make biological measurements at different scales, ranging from systems, to organs, to tissues, to cells, right down to proteins and genes. Biomedical signals and data carry important information about the system or the organ that generated them.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26186053

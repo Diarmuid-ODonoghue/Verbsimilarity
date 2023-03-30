@@ -1,0 +1,3 @@
+Holmes tremor is a debilitating movement disorder with limited treatment options. Lesions causing Holmes tremor can occur in multiple different brain locations, leaving the neuroanatomical substrate unclear. Here, we test whether lesion locations that cause Holmes tremor map to a connected brain circuit and whether this circuit might serve as a useful therapeutic target.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31614012

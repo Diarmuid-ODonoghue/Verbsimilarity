@@ -1,0 +1,3 @@
+Surgical residents have learned flexible endoscopy by practicing on patients in hospital settings under the strict guidance of experienced surgeons. Simulation is often used to "pretrain" novices on endoscopic skills before real clinical practice; nonetheless, the optimal method of training remains unknown. The purpose of this study was to compare endoscopic virtual reality and physical model simulators and their respective roles in transferring skills to the clinical environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25239553

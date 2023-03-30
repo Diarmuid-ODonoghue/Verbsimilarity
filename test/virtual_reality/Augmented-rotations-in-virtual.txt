@@ -1,0 +1,3 @@
+A large body of research in the field of virtual reality is focused on making user interfaces more natural and intuitive by leveraging natural body movements to explore a virtual environment. For example, head-tracked user interfaces allow users to naturally look around a virtual space by moving their head. However, such approaches may not be appropriate for users with temporary or permanent limitations of their head movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31245034

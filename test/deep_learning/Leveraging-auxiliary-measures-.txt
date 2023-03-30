@@ -1,0 +1,3 @@
+Accurate predictive modeling in clinical research enables effective early intervention that patients are most likely to benefit from. However, due to the complex biological nature of disease progression, capturing the highly non-linear information from low-level input features is quite challenging. This requires predictive models with high-capacity. In practice, clinical datasets are often of limited size, bringing danger of overfitting for high-capacity models. To address these two challenges, we propose a deep multi-task neural network for predictive modeling.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30537954

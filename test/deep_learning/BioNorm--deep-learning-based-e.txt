@@ -1,0 +1,3 @@
+A biochemical reaction, bio-event, depicts the relationships between participating entities. Current text mining research has been focusing on identifying bio-events from scientific literature. However, rare efforts have been dedicated to normalize bio-events extracted from scientific literature with the entries in the curated reaction databases, which could disambiguate the events and further support interconnecting events into biologically meaningful and complete networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31350561

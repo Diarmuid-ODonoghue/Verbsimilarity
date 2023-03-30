@@ -1,0 +1,3 @@
+Hand amputation is a highly disabling event, which significantly affects quality of life. An effective hand replacement can be achieved if the user, in addition to motor functions, is provided with the sensations that are naturally perceived while grasping and moving. Intraneural peripheral electrodes have shown promising results toward the restoration of the sense of touch. However, the long-term usability and clinical relevance of intraneural sensory feedback have not yet been clearly demonstrated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30474259

@@ -1,0 +1,3 @@
+Competence in cataract surgery is a public health necessity, and videos of cataract surgery are routinely available to educators and trainees but currently are of limited use in training. Machine learning and deep learning techniques can yield tools that efficiently segment videos of cataract surgery into constituent phases for subsequent automated skill assessment and feedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30951163

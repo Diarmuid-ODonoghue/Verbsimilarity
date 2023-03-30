@@ -1,0 +1,3 @@
+Few artificial intelligence-based technologies have been developed to improve the efficiency of screening for esophageal squamous cell carcinoma (ESCC). Here, we developed and validated a novel system of computer-aided detection (CAD) using a deep neural network (DNN) to localize and identify early ESCC under conventional endoscopic white-light imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31302091

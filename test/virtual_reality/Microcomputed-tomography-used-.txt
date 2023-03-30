@@ -1,0 +1,3 @@
+Microcomputed tomography is a new technique for the non-destructive study of porous biological materials. We examined 11 wisdom teeth that had been removed prophylactically by microcomputed tomography operating in the cone beam mode. The two-dimensional sections of the teeth were reconstructed with surface rendering software to provide three-dimensional models that were observed and handled in virtual reality. The tooth itself, or the pulp chamber and canals, can be reconstructed and observed separately or simultaneously. Many teeth looked dystrophic with abnormal distributions of roots and canals. Microcomputed tomography seems to be a promising way of studying dental anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15993991

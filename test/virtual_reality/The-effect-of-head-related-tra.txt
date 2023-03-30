@@ -1,0 +1,3 @@
+Four head-related transfer function (HRTF) data sets were compared to determine the effect of HRTF measurement methodology on the localization of spatialized auditory stimuli.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18516836

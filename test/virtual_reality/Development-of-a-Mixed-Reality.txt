@@ -1,0 +1,3 @@
+A mixed reality (MR) headset that enables three-dimensional (3D) visualization of interactive holograms anchored to specific points in physical space was developed for use with lateral skull base anatomy. The objectives of this study are to: 1) develop an augmented reality platform using the headset for visualization of temporal bone structures, and 2) measure the accuracy of the platform as an image guidance system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30239435

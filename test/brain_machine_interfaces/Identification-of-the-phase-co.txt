@@ -1,0 +1,3 @@
+The subject of brain-computer interfaces (BCIs) represents a vast and still mainly undiscovered land, but perhaps the most interesting part of BCIs is trying to understand the information exchange and coding in the brain itself. According to some recent reports, the phase characteristics of the signals play an important role in the information transfer and coding. The mechanism of phase shifts, regarding the information processing, is also known as the phase coding of information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18657956

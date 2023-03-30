@@ -1,0 +1,3 @@
+Clinical lung ultrasound (LUS) is a fast bedside diagnostic tool which can assist clinicians in decisions regarding the treatment and monitoring of patients with respiratory symptoms. LUS training and education differ widely, and is often done in a clinical setting, with potential risks for patients if decisions are made based on the wrong interpretations. No clear guidelines or recommendations for objective and standardized assessment of LUS skills exist, and those that do are often based on a fixed time-frame or an arbitrary number of examinations performed; this does not ensure adequate competencies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30404101

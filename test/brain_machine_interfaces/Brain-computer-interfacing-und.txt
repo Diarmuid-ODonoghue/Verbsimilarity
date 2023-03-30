@@ -1,0 +1,3 @@
+While motor-imagery based brain-computer interfaces (BCIs) have been studied over many years by now, most of these studies have taken place in controlled lab settings. Bringing BCI technology into everyday life is still one of the main challenges in this field of research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27578310

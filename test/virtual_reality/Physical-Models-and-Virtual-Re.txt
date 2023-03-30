@@ -1,0 +1,3 @@
+The increasing role of simulation in the medical education of future otolaryngologists has followed suit with other surgical disciplines. Simulators make it possible for the resident to explore and learn in a safe and less stressful environment. The various subspecialties in otolaryngology use physical simulators and virtual-reality simulators. Although physical simulators allow the operator to make direct contact with its components, virtual-reality simulators allow the operator to interact with an environment that is computer generated. This article gives an overview of the various types of physical simulators and virtual-reality simulators used in otolaryngology that have been reported in the literature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28716337

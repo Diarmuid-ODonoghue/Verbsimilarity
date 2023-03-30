@@ -1,0 +1,3 @@
+Virtual reality (VR) simulation helps reducing the learning curve of laparoscopic colectomy. Moreover, it may be used to ascertain surgeons' pretraining skills. It was aimed to establish predictive validity of specific parameters gathered during VR simulation training on sigmoid colectomy and whether simulator parameters correlate with technical performance during the same operation in a swine model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24994032

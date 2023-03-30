@@ -1,0 +1,3 @@
+During the last decade, improvements in high-throughput sequencing have generated a wealth of genomic data. Functionally interpreting these sequences and finding the biological signals that are hallmarks of gene function and regulation is currently mostly done using automated genome annotation platforms, which mainly rely on integrated machine learning frameworks to identify different functional sites of interest, including splice sites. Splicing is an essential step in the gene regulation process, and the correct identification of splice sites is a major cornerstone in a genome annotation system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29931149

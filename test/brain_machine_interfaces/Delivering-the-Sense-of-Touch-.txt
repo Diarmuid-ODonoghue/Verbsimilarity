@@ -1,0 +1,3 @@
+Intracortical somatosensory interfaces have now entered the clinical domain. Darie et al. explore the implications of research published in Science Translational Medicine by Flesher et al. (2016), discuss how to design such a system given current technology, and question how to effectively communicate with users about their experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28231460

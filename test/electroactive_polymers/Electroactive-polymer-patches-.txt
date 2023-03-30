@@ -1,0 +1,3 @@
+Fully wearable and unobtrusive sensing will enable the possibility of monitoring people anywhere and anytime, for healthcare, well-being, protection and safety. Many research groups have exploited textiles as the ideal platform for pervasive monitoring. This paper reports advances in electroactive polymer technology oriented to mechanical sensing and actuation within textile interfaces. The preliminary development of a textile-based glove in which electroactive polymers act as force/position sensors and haptic feedback actuators is presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22256288

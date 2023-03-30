@@ -1,0 +1,3 @@
+This article establishes a comprehensive review of all the different methods proposed by the literature concerning augmented reality in intra-abdominal minimally invasive surgery (also known as laparoscopic surgery). A solid background of surgical augmented reality is first provided in order to support the survey. Then, the various methods of laparoscopic augmented reality as well as their key tasks are categorized in order to better grasp the current landscape of the field. Finally, the various issues gathered from these reviewed approaches are organized in order to outline the remaining challenges of augmented reality in laparoscopic surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28160692

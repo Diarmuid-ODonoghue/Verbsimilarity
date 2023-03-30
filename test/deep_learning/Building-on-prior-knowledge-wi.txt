@@ -1,0 +1,3 @@
+Lake et al. propose that people rely on "start-up software," "causal models," and "intuitive theories" built using compositional representations to learn new tasks more efficiently than some deep neural network models. We highlight the many drawbacks of a commitment to compositional representations and describe our continuing effort to explore how the ability to build on prior knowledge and to learn new tasks efficiently could arise through learning in deep neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29342701

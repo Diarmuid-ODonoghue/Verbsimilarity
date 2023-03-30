@@ -1,0 +1,3 @@
+A significant problem in precision medicine is the prediction of drug sensitivity for individual cancer cell lines. Predictive models such as Random Forests have shown promising performance while predicting from individual genomic features such as gene expressions. However, accessibility of various other forms of data types including information on multiple tested drugs necessitates the examination of designing predictive models incorporating the various data types.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29589559

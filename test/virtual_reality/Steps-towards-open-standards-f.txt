@@ -1,0 +1,3 @@
+Very little medical virtual reality systems which are developed are applied in real surgical scenarios. One reason for this is that the system solutions resulting from research projects often address a single research question and are not embedded in an overall design. This paper presents a DICOM based approach on standardizing data structures, i.e. surface meshes, which are required for supporting surgical workflows by virtual reality applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391258

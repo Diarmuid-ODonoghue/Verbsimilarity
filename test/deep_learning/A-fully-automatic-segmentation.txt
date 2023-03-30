@@ -1,0 +1,3 @@
+Several negative factors, such as juxta-pleural nodules, pulmonary vessels, and image noise, make accurately segmenting lungs from computed tomography (CT) images a complex task. We propose a novel hybrid automated algorithm in the paper based on random forest to deal with the issues. Our method aims to eliminate the effect of the factors and generate accurate segmentation of lungs from CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31788807

@@ -1,0 +1,3 @@
+Major depressive disorder (MDD) is a multifactorial disease which often coexists with cognitive deficits. Depression-induced cognitive deficits are known to be associated with aberrant reward processing, neurochemical and structural alterations. Recent studies have shown that chronic electrical stimulation of brain reward areas induces a robust antidepressant effect. However, the effects of repeated electrical self-stimulation of lateral hypothalamus - medial forebrain bundle (LH-MFB) on depression-induced cognitive deficits and associated neurochemical and structural alterations in the prefrontal cortex (PFC) are unknown.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30765272

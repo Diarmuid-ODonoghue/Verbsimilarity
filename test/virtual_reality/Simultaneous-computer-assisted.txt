@@ -1,0 +1,3 @@
+Fluorescence-based enhanced reality (FLER) enables the quantification of fluorescence signal dynamics, which can be superimposed onto real-time laparoscopic images by using a virtual perfusion cartogram. The current practice of perfusion assessment relies on visualizing the bowel serosa. The aim of this experimental study was to quantify potential differences in mucosal and serosal perfusion levels in an ischemic colon segment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31741157

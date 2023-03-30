@@ -1,0 +1,3 @@
+A virtual reality neurosurgery simulator with haptic feedback may help in the training and assessment of technical skills requiring the use of tactile and visual cues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22233921

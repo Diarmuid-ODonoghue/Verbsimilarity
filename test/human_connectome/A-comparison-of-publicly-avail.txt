@@ -1,0 +1,3 @@
+Linear registration to a standard space is one of the major steps in processing and analyzing magnetic resonance images (MRIs) of the brain. Here we present an overview of linear stereotaxic MRI registration and compare the performance of 5 publicly available and extensively used linear registration techniques in medical image analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29548850

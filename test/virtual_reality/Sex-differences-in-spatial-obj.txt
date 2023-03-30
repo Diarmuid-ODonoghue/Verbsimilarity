@@ -1,0 +1,3 @@
+The grocery shopping Virtual Reality Spatial Object-Location Test (VRSOLT) was developed to examine sex differences in spatial object-location memory in a 3D virtual environment that simulates the real world. Forty college students (20 males, 20 females) were tested on the VRSOLT as well as mental rotation and 2D object-location memory tasks. Both convergent and divergent validity was demonstrated. Males showed an advantage on mental rotation, and results of the VRSOLT grocery store test replicated the female object-location advantage seen in 2D tests. A strategy of systematically navigating the environment may aid female encoding for object location.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18721096

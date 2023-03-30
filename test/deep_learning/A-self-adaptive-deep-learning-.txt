@@ -1,0 +1,3 @@
+To provide a self-adaptive deep learning (DL) method to automatically detect the eye laterality based on fundus images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31536537

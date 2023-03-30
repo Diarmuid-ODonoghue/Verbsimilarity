@@ -1,0 +1,3 @@
+The purpose of this article is to discuss potential applications of artificial intelligence (AI) in breast imaging and limitations that may slow or prevent its adoption.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30422715

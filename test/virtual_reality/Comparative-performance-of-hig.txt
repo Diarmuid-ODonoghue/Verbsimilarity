@@ -1,0 +1,3 @@
+We performed a comparative study of high-fidelity training models for flexible ureteroscopy (URS). Our objective was to determine whether high-fidelity non-virtual reality (VR) models are as effective as the VR model in teaching flexible URS skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22279308

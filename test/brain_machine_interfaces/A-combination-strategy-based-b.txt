@@ -1,0 +1,3 @@
+Two-dimensional (2D) movement control is an important issue in brain-computer interfaces (BCIs) research because being able to move, for example, a cursor with the brain will enable patients with motor disabilities to control their environment. However, it is still a challenge to continuously control 2D movement with a non-invasive BCI system. In this paper, we developed a 2D cursor control with motor imagery BCI tasks allowing users to move a cursor to any position by using a combination strategy. With this strategy, a user can combine multiple motor imagery tasks, alternatively or simultaneously, to control 2D movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26083480

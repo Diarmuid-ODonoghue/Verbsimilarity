@@ -1,0 +1,3 @@
+Deep learning has become a promising approach for automated support for clinical diagnosis. When medical data samples are limited, collaboration among multiple institutions is necessary to achieve high algorithm performance. However, sharing patient data often has limitations due to technical, legal, or ethical concerns. In this study, we propose methods of distributing deep learning models as an attractive alternative to sharing patient data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29617797

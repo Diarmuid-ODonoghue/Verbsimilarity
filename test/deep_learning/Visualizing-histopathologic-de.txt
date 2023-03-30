@@ -1,0 +1,3 @@
+There is growing interest in utilizing artificial intelligence, and particularly deep learning, for computer vision in histopathology. While accumulating studies highlight expert-level performance of convolutional neural networks (CNNs) on focused classification tasks, most studies rely on probability distribution scores with empirically defined cutoff values based on post-hoc analysis. More generalizable tools that allow humans to visualize histology-based deep learning inferences and decision making are scarce.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29769044

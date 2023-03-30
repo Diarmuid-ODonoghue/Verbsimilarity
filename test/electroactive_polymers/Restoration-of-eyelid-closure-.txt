@@ -1,0 +1,3 @@
+Electroactive polymer artificial muscle is an emerging technology that has the potential to be used in rehabilitating facial movement in patients with paralysis. These electroactive polymers act like human muscles by expanding and contracting based on variable voltage input levels. The authors seek to establish a reproducible eyelid blink with artificial muscle. The aim of this proof of concept study is to determine whether eyelid closure can be created with a novel eyelid sling model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17828051

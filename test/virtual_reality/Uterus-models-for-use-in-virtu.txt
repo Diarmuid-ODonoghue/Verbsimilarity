@@ -1,0 +1,3 @@
+Virtual reality models of human organs are needed in surgery simulators which are developed for educational and training purposes. A simulation can only be useful, however, if the mechanical performance of the system in terms of force-feedback for the user as well as the visual representation is realistic. We therefore aim at developing a mechanical computer model of the organ in question which yields realistic force-deformation behavior under virtual instrument-tissue interactions and which, in particular, runs in real time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19285774

@@ -1,0 +1,3 @@
+Healthcare worker (HCW) safety is of pivotal importance during a pandemic such as Coronavirus Disease 2019 (COVID-19), and employee health and well-being ensures functionality of healthcare institutions. This is particularly true for an intensive care unit (ICU) where highly specialized staff cannot be readily replaced. In the light of lacking evidence for optimal staffing models in a pandemic, we hypothesized that staff shortage can be reduced when staff scheduling takes the epidemiology of a disease epidemic into account.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32343514

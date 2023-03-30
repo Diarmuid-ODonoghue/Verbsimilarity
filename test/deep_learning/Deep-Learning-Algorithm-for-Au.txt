@@ -1,0 +1,3 @@
+Automating and standardizing the contouring of clinical target volumes (CTVs) can reduce interphysician variability, which is one of the largest sources of uncertainty in head and neck radiation therapy. In addition to using uniform margin expansions to auto-delineate high-risk CTVs, very little work has been performed to provide patient- and disease-specific high-risk CTVs. The aim of the present study was to develop a deep neural network for the auto-delineation of high-risk CTVs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29559291

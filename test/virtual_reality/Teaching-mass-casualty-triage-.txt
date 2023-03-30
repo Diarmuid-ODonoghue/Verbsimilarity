@@ -1,0 +1,3 @@
+Virtual reality (VR) environments offer potential advantages over traditional paper methods, manikin simulation, and live drills for mass casualty training and assessment. The authors measured the acquisition of triage skills by novice learners after exposing them to three sequential scenarios (A, B, and C) of five simulated patients each in a fully immersed three-dimensional VR environment. The hypothesis was that learners would improve in speed, accuracy, and self-efficacy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18699829

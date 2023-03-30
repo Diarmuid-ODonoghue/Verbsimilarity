@@ -1,0 +1,3 @@
+Recent attempts in developing brain-computer interface (BCI)-controlled robots have shown the potential of this area in the field of assistive robots. However, implementing the process of picking and placing objects using a BCI-controlled robotic arm still remains challenging. BCI performance, system portability, and user comfort need to be further improved.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30523962

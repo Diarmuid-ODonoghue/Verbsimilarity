@@ -1,0 +1,3 @@
+The β-Lactamase (BL) enzyme family is an important class of enzymes that plays a key role in bacterial resistance to antibiotics. As the newly identified number of BL enzymes is increasing daily, it is imperative to develop a computational tool to classify the newly identified BL enzymes into one of its classes. There are two types of classification of BL enzymes: Molecular Classification and Functional Classification. Existing computational methods only address Molecular Classification and the performance of these existing methods is unsatisfactory.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29297322

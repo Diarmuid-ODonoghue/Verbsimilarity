@@ -1,0 +1,3 @@
+This article describes the development and initial clinical testing of an innovative home-based treatment for upper extremity hemiplegia that integrates contralaterally controlled functional electrical stimulation with hand therapy video games.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31360537

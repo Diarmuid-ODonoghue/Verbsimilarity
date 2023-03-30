@@ -1,0 +1,3 @@
+Epidural and spinal anesthesia are mostly performed "blind" without any medical imaging. Currently, training of these procedures is performed on human specimens, virtual reality systems, manikins and mostly in clinical practice supervised by a professional. In this study a novel hybrid, low-cost patient simulator for the training of needle insertion into the epidural space was designed. The patient phantom provides a realistic force feedback comparable with biological tissue and enables sensing of the needle tip position during insertion. A display delivers the trainee a real-time feedback of the needle tip position.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29059806

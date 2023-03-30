@@ -1,0 +1,3 @@
+Exponential development of minimally invasive techniques, such as robotic-assisted devices, raises the question of how to assess robotic surgery skills. Early development of virtual simulators has provided efficient tools for laparoscopic skills certification based on objective scoring, high availability, and lower cost. However, similar evaluation is lacking for robotic training. The purpose of this study was to assess several criteria, such as reliability, face, content, construct, and concurrent validity of a new virtual robotic surgery simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22476836

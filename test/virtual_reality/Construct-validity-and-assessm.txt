@@ -1,0 +1,3 @@
+The SIMENDO is an affordable virtual reality simulator designed to train basic psychomotor skills for endoscopic surgery. This study aimed first to establish construct validity by determining which parameters can discriminate groups with different experience levels, and second to establish the extent to which training is useful by determining when inexperienced groups reach expert level.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17653815

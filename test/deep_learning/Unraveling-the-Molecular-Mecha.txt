@@ -1,0 +1,3 @@
+The mechanism of action of empagliflozin in heart failure with reduced ejection fraction (HFrEF) was deciphered using deep learning in silico analyses together with in vivo validation. The most robust mechanism of action involved the sodium-hydrogen exchanger (NHE)-1 co-transporter with 94.7% accuracy, which was similar for diabetics and nondiabetics. Notably, direct NHE1 blockade by empagliflozin ameliorated cardiomyocyte cell death by restoring expression of X-linked inhibitor of apoptosis (XIAP) and baculoviral IAP repeat-containing protein 5 (BIRC5). These results were independent of diabetes mellitus comorbidity, suggesting that empagliflozin may emerge as a new treatment in HFrEF.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31998851

@@ -1,0 +1,3 @@
+To realize the automated bone age assessment by applying deep learning to digital radiography （DR） image recognition of left wrist joint in Uyghur teenagers, and explore its practical application value in forensic medicine bone age assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29577701

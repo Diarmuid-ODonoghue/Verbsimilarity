@@ -1,0 +1,3 @@
+Recently, electrocorticography-based brain-computer interfaces have been successfully used to translate cortical activity into control signals for external devices. However, the utility of such devices would be greatly enhanced by somatosensory feedback. Direct stimulation of somatosensory cortex evokes sensory perceptions, and is thus a promising option for closing the loop. Before this can be implemented in humans it is necessary to evaluate how changes in stimulus parameters are perceived and the extent to which they can be discriminated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23665776

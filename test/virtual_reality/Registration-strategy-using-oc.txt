@@ -1,0 +1,3 @@
+An augmented reality tool allows for visual tracking of real anatomic structures in superposition with volume-rendered computed tomographic or magnetic resonance imaging scans and thus can be used for navigated translocation of important structures during operation. In this feasibility study, ARToolKit was used in mandibular angle oblique split osteotomy to define the cutting planes according to an operative plan.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21959439

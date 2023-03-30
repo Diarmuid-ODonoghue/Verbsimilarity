@@ -1,0 +1,3 @@
+A neuroprosthesis using a brain-machine interface (BMI) is a promising therapeutic option for severely paralyzed patients, but the ability to control it may vary among individual patients and needs to be evaluated before any invasive procedure is undertaken. We have developed a neuroprosthetic hand that can be controlled by magnetoencephalographic (MEG) signals to noninvasively evaluate subjects' ability to control a neuroprosthesis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26134845

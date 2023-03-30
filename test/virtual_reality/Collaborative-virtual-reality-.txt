@@ -1,0 +1,3 @@
+Advanced Cardiac Life Support (ACLS) is a series of team-based, sequential and time constrained interventions, requiring effective communication and coordination of activities that are performed by the care provider team on a patient undergoing cardiac arrest or respiratory failure. The state-of-the-art ACLS training is conducted in a face-to-face environment under expert supervision and suffers from several drawbacks including conflicting care provider schedules and high cost of training equipment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732098

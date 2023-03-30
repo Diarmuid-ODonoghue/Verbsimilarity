@@ -1,0 +1,3 @@
+Single-particle cryo-electron microscopy (cryo-EM) has become a powerful technique for determining 3D structures of biological macromolecules at near-atomic resolution. However, this approach requires picking huge numbers of macromolecular particle images from thousands of low-contrast, high-noisy electron micrographs. Although machine-learning methods were developed to get rid of this bottleneck, it still lacks universal methods that could automatically picking the noisy cryo-EM particles of various macromolecules.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31584618

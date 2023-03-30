@@ -1,0 +1,3 @@
+Neuroengineering is emerging as an exciting new field with wide ranging research opportunities to contribute to both basic and clinical neurosciences. Armed with training and diverse research tools, engineers are now contributing to technologies to interface to neurons and to the whole brain. The research on modern neural and brain interface technologies has culminated in very recent, exciting programs to develop brain-machine interfaces such as neutrally controlled prostheses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19162981

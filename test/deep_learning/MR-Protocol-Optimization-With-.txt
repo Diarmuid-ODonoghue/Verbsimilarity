@@ -1,0 +1,3 @@
+This study was performed to demonstrate that a properly trained convolutional neural net (CNN) can provide an acceptable surrogate for human readers when performing a protocol optimization study. Tears of the anterior cruciate ligament (ACL) were used as a proof of concept for this study.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31732262

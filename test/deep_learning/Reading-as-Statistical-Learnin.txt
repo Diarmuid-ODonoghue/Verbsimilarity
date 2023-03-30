@@ -1,0 +1,3 @@
+The purpose of this tutorial is to explain how learning to read can be thought of as learning statistical regularities and to demonstrate why this is relevant for theory, modeling, and practice. This tutorial also shows how triangulation of methods and cross-linguistic research can be used to gain insight.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30120442

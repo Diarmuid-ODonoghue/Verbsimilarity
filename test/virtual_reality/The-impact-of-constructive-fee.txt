@@ -1,0 +1,3 @@
+Recently, virtual reality computer simulators have been used to enhance traditional endoscopy teaching. Previous studies have demonstrated construct validity of these systems and transfer of virtual skills to the operating room. However, to date no simulator-training curricula have been designed and there is very little evidence on the impact of external feedback on acquisition of endoscopic skills. The aim of the present study was to assess the impact of external feedback on the learning curves on a VR colonoscopy simulator using inexperienced trainees.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19828469

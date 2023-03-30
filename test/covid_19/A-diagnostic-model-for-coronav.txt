@@ -1,0 +1,3 @@
+Rapid and accurate diagnosis of coronavirus disease 2019 (COVID-19) is critical during the epidemic. We aim to identify differences in CT imaging and clinical manifestations between pneumonia patients with and without COVID-19, and to develop and validate a diagnostic model for COVID-19 based on radiological semantic and clinical features alone.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32300971

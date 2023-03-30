@@ -1,0 +1,3 @@
+We aimed to evaluate the value of deep learning on positron emission tomography with computed tomography (PET/CT)-based radiomics for individual induction chemotherapy (IC) in advanced nasopharyngeal carcinoma (NPC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30975664

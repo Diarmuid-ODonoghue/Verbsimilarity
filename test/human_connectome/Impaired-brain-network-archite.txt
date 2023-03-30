@@ -1,0 +1,3 @@
+Resting state functional magnetic resonance imaging (rs-fMRI) has been applied to investigate topographic structure in Parkinson's disease (PD). Alteration of topographic architecture has been inconsistent in PD AIM: To investigate the network profile of PD using graph theoretical analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28789983

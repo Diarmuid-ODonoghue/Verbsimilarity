@@ -1,0 +1,3 @@
+Infodemiology (ie, information epidemiology) uses web-based data to inform public health and policy. Infodemiology metrics have been widely and successfully used to assess and forecast epidemics and outbreaks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32250957

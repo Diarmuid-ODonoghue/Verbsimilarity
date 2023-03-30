@@ -1,0 +1,3 @@
+The role of thyroid hormone on brain development is dramatically illustrated by "cretinism," a severe mental retardation due to iodine deficiency and maternal hypothyroidism during gestation. In the last decades, the molecular bases of the cellular action of thyroid hormone in the nervous tissue have been at least partially elucidated, and the emerged picture is much more complex than expected. In this article, the main mechanisms determining thyroid hormone availability, nuclear and membrane receptor occupancy and downstream action, gene expression, and nongenomic mechanism are reviewed, focusing on myelination and myelin turnover.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26140723

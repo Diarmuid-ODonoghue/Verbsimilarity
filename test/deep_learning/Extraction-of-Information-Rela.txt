@@ -1,0 +1,3 @@
+Pharmacovigilance and drug-safety surveillance are crucial for monitoring adverse drug events (ADEs), but the main ADE-reporting systems such as Food and Drug Administration Adverse Event Reporting System face challenges such as underreporting. Therefore, as complementary surveillance, data on ADEs are extracted from electronic health record (EHR) notes via natural language processing (NLP). As NLP develops, many up-to-date machine-learning techniques are introduced in this field, such as deep learning and multi-task learning (MTL). However, only a few studies have focused on employing such techniques to extract ADEs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30478023

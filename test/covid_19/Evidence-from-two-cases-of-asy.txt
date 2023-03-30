@@ -1,0 +1,3 @@
+Among 78 laboratory-confirmed cases, we found two asymptomatic infections. One patient was discharged within 14 days after treatment. Another patient was discharged 25 days after treatment, and his RT-PCR test was still positive on the 15th day. We found that there may be virus carriers in the asymptomatic population with an epidemiological contact history. After 14 days of isolation, those with asymptomatic infection may still carry the virus, which means a risk of transmission, presenting a new challenge for the management of home isolation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32251796

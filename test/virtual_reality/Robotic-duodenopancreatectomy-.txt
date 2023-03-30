@@ -1,0 +1,3 @@
+The minimally invasive surgeon cannot use 'sense of touch' to orientate surgical resection, identifying important structures (vessels, tumors, etc.) by manual palpation. Robotic research has provided technology to facilitate laparoscopic surgery; however, robotics has yet to solve the lack of tactile feedback inherent to keyhole surgery. Misinterpretation of the vascular supply and tumor location may increase the risk of intraoperative bleeding and worsen dissection with positive resection margins.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24609700

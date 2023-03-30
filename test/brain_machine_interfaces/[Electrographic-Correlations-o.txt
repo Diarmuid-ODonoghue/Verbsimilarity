@@ -1,0 +1,3 @@
+On the purpose to detect in EEG specific patterns associated with any verbal performance the gamma activity were investigated. The technique which allows the subject to initiate the mental pronunciation of words and phrases (inner speech) was created. Wavelet analysis of EEG has been experimentally demonstrated that the preparation and implementation stages are related to the specific spatio-temporal patterns in frequency range 64-68 Hz. Sustainable reproduction and efficient identification of such patterns can solve the fundamentally problem of alphabet control commands formation for Brain Computer Interface and Brain to Braine Interface systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26860004

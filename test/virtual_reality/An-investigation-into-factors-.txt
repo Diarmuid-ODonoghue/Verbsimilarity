@@ -1,0 +1,3 @@
+Two interactive virtual reality environments were used to identify factors that may affect, or be affected by, the degree of immersion in a virtual world. In particular, the level of stress in a "swimming with dolphins" simulation is measured, as is the degree of simulator sickness resulting form a virtual roller coaster. Analysis of the results indicates that a relationship between the degree of immersion and the following factors: excitement, comfort, quality and age. The following factors are found to depend on the degree of immersion: simulator sickness, control, excitement and desire to repeat the experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10350927

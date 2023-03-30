@@ -1,0 +1,3 @@
+The importance of sleep is paramount to health. Insufficient sleep can reduce physical, emotional, and mental well-being and can lead to a multitude of health complications among people with chronic conditions. Physical activity and sleep are highly interrelated health behaviors. Our physical activity during the day (ie, awake time) influences our quality of sleep, and vice versa. The current popularity of wearables for tracking physical activity and sleep, including actigraphy devices, can foster the development of new advanced data analytics. This can help to develop new electronic health (eHealth) applications and provide more insights into sleep science.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27815231

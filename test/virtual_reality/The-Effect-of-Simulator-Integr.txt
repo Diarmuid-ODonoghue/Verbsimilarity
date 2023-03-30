@@ -1,0 +1,3 @@
+Simulation-integrated tutoring in virtual reality (VR) simulation training by green lighting is a common learning support in simulation-based temporal bone surgical training. However, tutoring overreliance can negatively affect learning. We therefore wanted to investigate the effects of simulator-integrated tutoring on performance and learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32044853

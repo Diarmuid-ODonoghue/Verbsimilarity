@@ -1,0 +1,3 @@
+Synthetic FLAIR images are of lower quality than conventional FLAIR images. Here, we aimed to improve the synthetic FLAIR image quality using deep learning with pixel-by-pixel translation through conditional generative adversarial network training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30630834

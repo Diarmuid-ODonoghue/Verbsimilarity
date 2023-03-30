@@ -1,0 +1,3 @@
+Imaging of glioblastoma patients after maximal safe resection and chemoradiation commonly demonstrates new enhancements that raise concerns about tumor progression. However, in 30% to 50% of patients, these enhancements primarily represent the effects of treatment, or pseudo-progression (PsP). We hypothesize that quantitative machine learning analysis of clinically acquired multiparametric magnetic resonance imaging (mpMRI) can identify subvisual imaging characteristics to provide robust, noninvasive imaging signatures that can distinguish true progression (TP) from PsP.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32129893

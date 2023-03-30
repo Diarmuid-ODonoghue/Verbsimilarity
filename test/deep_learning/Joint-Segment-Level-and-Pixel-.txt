@@ -1,0 +1,3 @@
+Deep learning based methods for retinal vessel segmentation are usually trained based on pixel-wise losses, which treat all vessel pixels with equal importance in pixel-to-pixel matching between a predicted probability map and the corresponding manually annotated segmentation. However, due to the highly imbalanced pixel ratio between thick and thin vessels in fundus images, a pixel-wise loss would limit deep learning models to learn features for accurate segmentation of thin vessels, which is an important task for clinical diagnosis of eye-related diseases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29993396

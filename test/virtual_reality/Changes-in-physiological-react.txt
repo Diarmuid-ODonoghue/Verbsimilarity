@@ -1,0 +1,3 @@
+A key symptom of posttraumatic stress disorder (PTSD) is hyperreactivity to trauma-relevant stimuli. Though physiological arousal is reliably elevated in PTSD, the question remains whether this arousal responds to treatment. Virtual reality (VR) has been posited to increase emotional engagement during prolonged exposure therapy (PE) for PTSD by augmenting imaginal exposures with trauma-relevant sensory information. However, the comparative effects of VR exposure therapy (VRE) have received limited empirical inquiry.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32338946

@@ -1,0 +1,3 @@
+We re-designed the outpatient management of trauma at our institution to eliminate appointments if there would be no change in management or information provision. All cases referred by the Emergency Department (ED) were reviewed at a Virtual Fracture Clinic (VFC) by an orthopaedic consultant and telephoned afterwards by a senior nurse. If face-to-face review was required, it was arranged at a specialist shoulder clinic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28168971

@@ -1,0 +1,3 @@
+Virtual reality exposure therapy is an efficacious treatment of anxiety disorders, and recent research suggests that such treatments can be automated, relying on gamification elements instead of a real-life therapist directing treatment. Such automated, gamified treatments could be disseminated without restrictions, helping to close the treatment gap for anxiety disorders. Despite initial findings suggesting high efficacy, very is little is known about how users experience this type of intervention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32347803

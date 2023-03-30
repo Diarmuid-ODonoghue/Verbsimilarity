@@ -1,0 +1,3 @@
+Few brain-computer interface (BCI) studies have addressed learning mechanisms by exposure to visual feedback that elicits scalp electroencephalogram. We examined the effect of realistic visual feedback of hand movement associated with sensorimotor rhythm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23643578

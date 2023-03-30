@@ -1,0 +1,3 @@
+The aim of this phantom study was to investigate the effect of scan parameters and noise suppression techniques on the minimum radiation dose for acceptable image quality for CT emphysema densitometry.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31724436

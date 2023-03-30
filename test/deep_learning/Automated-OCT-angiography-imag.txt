@@ -1,0 +1,3 @@
+To expedite and to standardize the process of image quality assessment in optical coherence tomography angiography (OCTA) using a specialized deep learning algorithm (DLA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31119426

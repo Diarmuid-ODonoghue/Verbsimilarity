@@ -1,0 +1,3 @@
+Silver nanowires (AgNWs) mesh has been used as transparent electrodes in optoelectronic devices. However, the lack of practical patterning techniques for the random percolating nanowire network has limited its applications in devices where a well-defined pixel is required. Here, by controlling the surface wetting properties of a polydimethylsiloxane (PDMS) release template, we are able to pattern the random AgNWs network with uniform conducting property; and due to the hydrophobic recovery nature of PDMS, a multilayer patterning and transferring process can be realized, resulting in a fine-patterned, smooth, and uniform AgNWs mesh/poly(3,4-ethylenedioxythiophene) polystyrenesulfonate (
+
+https://www.ncbi.nlm.nih.gov/pubmed/27027683

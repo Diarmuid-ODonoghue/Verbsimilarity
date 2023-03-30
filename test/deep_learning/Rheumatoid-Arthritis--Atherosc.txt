@@ -1,0 +1,3 @@
+Rheumatoid arthritis (RA) is a chronic, autoimmune disease which may result in a higher risk of cardiovascular (CV) events and stroke. Tissue characterization and risk stratification of patients with rheumatoid arthritis are a challenging problem. Risk stratification of RA patients using traditional risk factor-based calculators either underestimates or overestimates the CV risk. Advancements in medical imaging have facilitated early and accurate CV risk stratification compared to conventional cardiovascular risk calculators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30684090

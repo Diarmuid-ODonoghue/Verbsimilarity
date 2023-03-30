@@ -1,0 +1,3 @@
+To investigate the efficacy and effects of transcranial direct current stimulation (tDCS) on motor imagery brain-computer interface (MI-BCI) with robotic feedback for stroke rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25721551

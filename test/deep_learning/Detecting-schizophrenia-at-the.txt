@@ -1,0 +1,3 @@
+Previous studies using resting-state functional neuroimaging have revealed alterations in whole-brain images, connectome-wide functional connectivity and graph-based metrics in groups of patients with schizophrenia relative to groups of healthy controls. However, it is unclear which of these measures best captures the neural correlates of this disorder at the level of the individual patient.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31391132

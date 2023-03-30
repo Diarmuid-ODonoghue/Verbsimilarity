@@ -1,0 +1,3 @@
+The Wuhan outbreak of novel Corona virus infection has been the global focus since December 2019. This infection has become a global pandemic. It is highly important to understand the virology of the pathogen and to explore the therapeutic options for management of this pandemic. Drug repurposing strategies are being considered for management of COVID 19. Among the identified drugs, Baricitinib has become a keen interest for researchers because of its ability to inhibit the viral assembly by the prevention of Clarithrin associated endocytosis. We tried to explore the reasons on why Baricitinib is not an ideal option for COVID 19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32259575

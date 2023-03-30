@@ -1,0 +1,3 @@
+The annotation of a large corpus of Electroencephalography (EEG) reports is a crucial step in the development of an EEG-specific patient cohort retrieval system. The annotation of multiple types of EEG-specific medical concepts, along with their polarity and modality, is challenging, especially when automatically performed on Big Data. To address this challenge, we present a novel framework which combines the advantages of active and deep learning while producing annotations that capture a variety of attributes of medical concepts. Results obtained through our novel framework show great promise.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28815135

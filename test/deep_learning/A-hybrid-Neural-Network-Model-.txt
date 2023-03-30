@@ -1,0 +1,3 @@
+In this paper, we propose a novel neural network architecture for clinical text mining. We formulate this hybrid neural network model (HNN), composed of recurrent neural network and deep residual network, to jointly predict the presence and period assertion values associated with medical events in clinical texts. We evaluate the effectiveness of our model on a corpus of expert-annotated longitudinal Electronic Health Records (EHR) notes from Cancer patients. Our experiments show that HNN improves the joint assertion classification accuracy as compared to conventional baselines.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29854183

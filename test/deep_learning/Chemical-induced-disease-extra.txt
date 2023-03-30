@@ -1,0 +1,3 @@
+Extracting relationships between chemicals and diseases from unstructured literature have attracted plenty of attention since the relationships are very useful for a large number of biomedical applications such as drug repositioning and pharmacovigilance. A number of machine learning methods have been proposed for chemical-induced disease (CID) extraction due to some publicly available annotated corpora. Most of them suffer from time-consuming feature engineering except deep learning methods. In this paper, we propose a novel document-level deep learning method, called recurrent piecewise convolutional neural networks (RPCNN), for CID extraction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30066652

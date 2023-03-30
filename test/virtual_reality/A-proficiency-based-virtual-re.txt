@@ -1,0 +1,3 @@
+The fundamentals of endoscopic surgery (FES) examination is a national test of knowledge and skill in flexible gastrointestinal endoscopy. The skill portion of the examination involves five tasks that assesses the following skills: scope navigation, loop reduction, mucosal inspection, retroflexion, and targeting. This project aimed to assess the efficacy of a proficiency-based virtual reality (VR) curriculum in preparing residents for the FES skills exam.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28812161

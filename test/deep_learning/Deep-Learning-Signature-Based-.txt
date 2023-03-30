@@ -1,0 +1,3 @@
+To evaluate the noninvasive predictive performance of deep learning features based on staging CT for sentinel lymph node (SLN) metastasis of breast cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31818648

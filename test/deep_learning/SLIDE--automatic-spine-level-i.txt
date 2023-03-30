@@ -1,0 +1,3 @@
+Percutaneous spinal needle insertion procedures often require proper identification of the vertebral level to effectively and safely deliver analgesic agents. The current clinical method involves "blind" identification of the vertebral level through manual palpation of the spine, which has only 30% reported accuracy. Therefore, there is a need for better anatomical identification prior to needle insertion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28361323

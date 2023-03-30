@@ -1,0 +1,3 @@
+The integration of an ionic liquid gel on conformal electrodes is investigated for applications in long-term cutaneous recordings. Electrodes made of Au and the conducting polymer PEDOT:PSS coated with the gel show a low impedance in contact with the skin that maintains a steady value over several days, paving the way for non-invasive, long-term monitoring of human electrophysiological activity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24591460

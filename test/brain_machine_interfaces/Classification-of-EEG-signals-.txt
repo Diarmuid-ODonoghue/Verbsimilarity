@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) systems in neuro-rehabilitation use brain signals to control external devices. User status such as attention affects BCI performance; thus detecting the user's attention drift due to internal or external factors is essential for high detection accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28431949

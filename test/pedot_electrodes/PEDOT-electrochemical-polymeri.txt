@@ -1,0 +1,3 @@
+The goal of the authors is to restore fine motor control and sensation for high-arm amputees. They developed a regenerative peripheral nerve interface with the aim of attaining closed loop neural control by integrating directly with the amputee's residual motor and sensory peripheral nerves. PEDOT, poly(3,4-ethylenedioxythiophene), has both electrical and ionic conduction characteristics. This hybrid character could help bridge the salutatory conduction of the nervous system to an electrode. The purpose of this study was to determine whether electrodes polymerized with PEDOT have improved ability to both record and stimulate peripheral nerve action potentials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22456363

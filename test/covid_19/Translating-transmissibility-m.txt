@@ -1,0 +1,3 @@
+The rapid increase in clinical cases of the new coronavirus disease, COVID-19, suggests high transmissibility. However, the estimates of the basic reproductive number reported in the literature vary widely. Considering this, we drew the function of contact-rate reduction required to control the transmission from both detectable and undetectable sources. Based on this, we offer a set of recommendations for symptomatic and asymptomatic populations during the current pandemic. Understanding the dynamics of transmission is essential to support government decisions and improve the community's adherence to preventive measures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32294667

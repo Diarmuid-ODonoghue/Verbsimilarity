@@ -1,0 +1,3 @@
+Parkinson's disease (PD) is a neurodegenerative disorder causing progressive gait disability. Although robot-assisted gait training (RAGT) using the Lokomat device has been demonstrated to improve gait in PD, it is not clear what the best training settings are, in particular if a self-selected treadmill speed can give better results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30370751

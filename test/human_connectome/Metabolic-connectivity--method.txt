@@ -1,0 +1,3 @@
+Metabolic connectivity modelling aims to detect functionally interacting brain regions based on PET recordings with the glucose analogue [F]fluorodeoxyglucose (FDG). Here, we outline the most popular metabolic connectivity methods and summarize recent applications in clinical and basic neuroscience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28914733

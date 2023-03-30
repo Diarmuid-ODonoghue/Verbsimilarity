@@ -1,0 +1,3 @@
+Deep learning is a newer and advanced subfield in artificial intelligence (AI). The aim of our study is to validate a machine-based algorithm developed based on deep convolutional neural networks as a tool for screening to detect referable diabetic retinopathy (DR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31957737

@@ -1,0 +1,3 @@
+To longitudinally investigate the connectome in different stages of Huntington's disease (HD) by applying graph theoretical analysis to diffusion MRI data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26288754

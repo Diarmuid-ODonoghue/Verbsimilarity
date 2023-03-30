@@ -1,0 +1,3 @@
+New strategies like motor imagery based brain-computer interfaces, which use brain signals such as event-related desynchronization (ERD) or event-related synchronization (ERS) for motor rehabilitation after a stroke, are undergoing investigation. However, little is known about the relationship between ERD and ERS patterns and the degree of stroke impairment. The aim of this work was to clarify this relationship.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22895995

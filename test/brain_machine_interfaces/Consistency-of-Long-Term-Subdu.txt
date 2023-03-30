@@ -1,0 +1,3 @@
+Subdural electrocorticography (ECoG) can provide a robust control signal for a brain-computer interface (BCI). However, the long-term recording properties of ECoG are poorly understood as most ECoG studies in the BCI field have only used signals recorded for less than 28 days. We assessed human ECoG recordings over durations of many months to investigate changes to recording quality that occur with long-term implantation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29364119

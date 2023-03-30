@@ -1,0 +1,3 @@
+The aim of this study was to investigate the transfer of skills between various levels of force feedback (FFB) using the Simodont dental trainer (Moog, Nieuw-Vennep, the Netherlands). Students practiced a manual dexterity exercise in a virtual reality environment at a standard level of FFB and then were tested at the standard and an altered level of FFB. In addition, the students' satisfaction with the training exercise was evaluated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31116175

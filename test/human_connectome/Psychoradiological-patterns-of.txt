@@ -1,0 +1,3 @@
+Brain connectome research based on graph theoretical analysis shows that small-world topological properties play an important role in the structural and functional alterations observed in patients with psychiatric disorders. However, the reported global topological alterations in small-world properties are controversial, are not consistently conceptualized according to agreed-upon criteria, and are not critically examined for consistent alterations in patients with each major psychiatric disorder.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29952747

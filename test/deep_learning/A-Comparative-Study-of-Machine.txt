@@ -1,0 +1,3 @@
+Severe obesity is a global public health threat of growing proportions. Accurate models to predict severe postoperative complications could be of value in the preoperative assessment of potential candidates for bariatric surgery. So far, traditional statistical methods have failed to produce high accuracy. We aimed to find a useful machine learning (ML) algorithm to predict the risk for severe complication after bariatric surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31083643

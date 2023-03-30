@@ -1,0 +1,3 @@
+Biological materials are often used as industrial sources; however, the features of their tactile texture have not been examined. Here, we show that the features of biological materials are warm, silky, and non-slippery sensations, which are governed by thermal conductivity, surface energy, and surface roughness. Interestingly, surface roughness is the most important factor in determining these three tactile sensations. This finding is valuable for developing virtual reality systems and humanoids as well as for understanding the cognitive mechanism of biological materials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20598512

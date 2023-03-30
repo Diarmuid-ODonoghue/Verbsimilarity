@@ -1,0 +1,3 @@
+Steady-state visually evoked potential (SSVEP)-based brain-computer interfaces (BCIs) allow healthy subjects to communicate. However, their dependence on gaze control prevents their use with severely disabled patients. Gaze-independent SSVEP-BCIs have been designed but have shown a drop in accuracy and have not been tested in brain-injured patients. In the present paper, we propose a novel independent SSVEP-BCI based on covert attention with an improved classification rate. We study the influence of feature extraction algorithms and the number of harmonics. Finally, we test online communication on healthy volunteers and patients with locked-in syndrome (LIS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24838215

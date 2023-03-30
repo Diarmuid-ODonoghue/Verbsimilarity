@@ -1,0 +1,3 @@
+Although AR technology has been largely dominated by visual media, a number of AR tools using both visual and auditory feedback have been developed specifically to assist people with low vision or blindness - an application domain that we term Augmented Reality for Visual Impairment (AR4VI). We describe two AR4VI tools developed at Smith-Kettlewell, as well as a number of pre-existing examples. We emphasize that AR4VI is a powerful tool with the potential to remove or significantly reduce a range of accessibility barriers. Rather than being restricted to use by people with visual impairments, AR4VI is a compelling universal design approach offering benefits for mainstream applications as well.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29303163

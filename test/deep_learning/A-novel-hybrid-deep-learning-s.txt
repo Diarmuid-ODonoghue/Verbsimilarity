@@ -1,0 +1,3 @@
+Learning the structures and unknown correlations of a motor imagery electroencephalogram (MI-EEG) signal is important for its classification. It is also a major challenge to obtain good classification accuracy from the increased number of classes and increased variability from different people. In this study, a four-class MI task is investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31341093

@@ -1,0 +1,3 @@
+Connectome disruption is a hallmark of many neurological diseases and trauma with no current strategies to restore lost long-distance axonal pathways in the brain. We are creating transplantable micro-tissue engineered neural networks (micro-TENNs), which are preformed constructs consisting of embedded neurons and long axonal tracts to integrate with the nervous system to physically reconstitute lost axonal pathways.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26760138

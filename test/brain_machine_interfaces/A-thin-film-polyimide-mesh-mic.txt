@@ -1,0 +1,3 @@
+Epidural electrocorticography (ECoG) activity may be more reliable and stable than single-unit-activity or local field potential. Invasive brain computer interface (BCI) devices are limited by mechanical mismatching and cellular reactive responses due to differences in the elastic modulus and the motion of stiff electrodes. We propose a mesh-shaped electrode to enhance the contactability between surface of dura and electrode.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25024292

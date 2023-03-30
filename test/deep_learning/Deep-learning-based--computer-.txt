@@ -1,0 +1,3 @@
+Application of deep-learning technology to skin cancer classification can potentially improve the sensitivity and specificity of skin cancer screening, but the number of training images required for such a system is thought to be extremely large.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29953582

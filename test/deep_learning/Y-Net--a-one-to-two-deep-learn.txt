@@ -1,0 +1,3 @@
+In this Letter, for the first time, to the best of our knowledge, we propose a digital holographic reconstruction method with a one-to-two deep learning framework (Y-Net). Perfectly fitting the holographic reconstruction process, the Y-Net can simultaneously reconstruct intensity and phase information from a single digital hologram. As a result, this compact network with reduced parameters brings higher performance than typical network variants. The experimental results of the mouse phagocytes demonstrate the advantages of the proposed Y-Net.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31568437

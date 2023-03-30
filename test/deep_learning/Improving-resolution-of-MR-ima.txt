@@ -1,0 +1,3 @@
+The routine MRI scan protocol consists of multiple pulse sequences that acquire images of varying contrast. Since high frequency contents such as edges are not significantly affected by image contrast, down-sampled images in one contrast may be improved by high resolution (HR) images acquired in another contrast, reducing the total scan time. In this study, we propose a new deep learning framework that uses HR MR images in one contrast to generate HR MR images from highly down-sampled MR images in another contrast.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29729006

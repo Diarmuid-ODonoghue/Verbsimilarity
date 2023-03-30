@@ -1,0 +1,3 @@
+Unilateral Spatial Neglect (USN) is normally assessed with paper-and-pencil tests. Virtual reality can be an effective neuropsychological tool for a more ecological and functional assessment and rehabilitation of neglect. We developed a 3D Virtual Reality platform - NeuroVirtual 3D - for the assessment and rehabilitation of cognitive deficits, in particular for USN. Within the virtual environments it is possible to interact with virtual objects and execute specific exercises using a Microsoft Kinect. Through the analysis of different grasping tasks it is possible to evaluate in an ecological way the patients' ability to find and handle objects in both sides of the virtual space.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732482

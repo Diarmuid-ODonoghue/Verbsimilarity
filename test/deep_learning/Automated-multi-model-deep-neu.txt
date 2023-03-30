@@ -1,0 +1,3 @@
+To develop an automated framework for sleep stage scoring from PSG via a deep neural network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31938990

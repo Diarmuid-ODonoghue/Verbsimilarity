@@ -1,0 +1,3 @@
+For virtual reality laparosopic simulation we developed a new, highly immersive simulation mode. The goal of the current pilot study was to investigate if kinetosis or other negative vegetative side effects can be caused by a total virtual training set-up (TVRL).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28660325

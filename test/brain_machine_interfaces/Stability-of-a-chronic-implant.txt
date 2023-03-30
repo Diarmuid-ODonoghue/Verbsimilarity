@@ -1,0 +1,3 @@
+We investigated the long-term functional stability and home use of a fully implanted electrocorticography (ECoG)-based brain-computer interface (BCI) for communication by an individual with late-stage Amyotrophic Lateral Sclerosis (ALS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31401488

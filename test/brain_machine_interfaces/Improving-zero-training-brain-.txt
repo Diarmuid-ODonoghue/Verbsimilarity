@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) based on event-related potentials (ERP) incorporate a decoder to classify recorded brain signals and subsequently select a control signal that drives a computer application. Standard supervised BCI decoders require a tedious calibration procedure prior to every session. Several unsupervised classification methods have been proposed that tune the decoder during actual use and as such omit this calibration. Each of these methods has its own strengths and weaknesses. Our aim is to improve overall accuracy of ERP-based BCIs without calibration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28287076

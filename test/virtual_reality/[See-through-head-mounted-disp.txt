@@ -1,0 +1,3 @@
+In this paper we present the medical augmented reality system INPRES for Intraoperative Presentation of surgical planning and simulation results. The system is based on a see-through head-mounted display for data visualization and overlay. Key challenges are tracking of the display and the patient, registration of virtual data with the real world and calibration of the display device. Further tasks are detection of occlusions, intuitive man-machine-cooperation and evaluation of the complete setup. The system configuration and the methods are shown, first results are given and future work is outlined.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12451774

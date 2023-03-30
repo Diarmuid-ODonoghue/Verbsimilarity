@@ -1,0 +1,3 @@
+We propose an approach of 3D convolutional neural network to segment the prostate in MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30088208

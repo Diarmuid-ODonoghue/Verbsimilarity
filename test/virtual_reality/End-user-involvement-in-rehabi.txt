@@ -1,0 +1,3 @@
+Despite increasing evidence for the effectiveness of off-the-shelf and rehabilitation-specific active video games (AVGs) and virtual reality (VR) systems for rehabilitation, clinical uptake remains poor. A better match between VR/AVG system capabilities and client/therapist needs, through improved end-user involvement (UI) in VR/AVG implementation research, may increase uptake of this technology. The purpose of this paper is to review four case examples from the authors' collective experience of including end users in VR/AVG research to identify common benefits, challenges and lessons learned.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31663039

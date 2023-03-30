@@ -1,0 +1,3 @@
+Cell nuclei classification in breast cancer histopathology images plays an important role in effective diagnose since breast cancer can often be characterized by its expression in cell nuclei. However, due to the small and variant sizes of cell nuclei, and heavy noise in histopathology images, traditional machine learning methods cannot achieve desirable recognition accuracy. To address this challenge, this paper aims to present a novel deep neural network which performs representation learning and cell nuclei recognition in an end-to-end manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28861708

@@ -1,0 +1,3 @@
+Emerging evidence indicates that circular RNA (circRNA) plays a crucial role in human disease. Using circRNA as biomarker gives rise to a new perspective regarding our diagnosing of diseases and understanding of disease pathogenesis. However, detection of circRNA-disease associations by biological experiments alone is often blind, limited to small-scale, high-cost and time-consuming. Therefore, there is an urgent need for reliable computational methods to rapidly infer the potential circRNA-disease associations on a large scale and to provide the most promising candidates for biological experiments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31793982

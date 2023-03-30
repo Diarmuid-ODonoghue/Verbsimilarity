@@ -1,0 +1,3 @@
+With each significant development in the field of neurosurgery, our dependence on computers, small and large, has continuously increased. From something as mundane as bipolar cautery to sophisticated intraoperative navigation with real-time magnetic resonance imaging-assisted surgical guidance, both technologies, however simple or complex, require computational processing power to function. The next frontier for neurosurgery involves developing a greater understanding of the brain and furthering our capabilities as surgeons to directly affect brain circuitry and function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22846655

@@ -1,0 +1,3 @@
+The prediction of atherosclerosis using retinal fundus images and deep learning has not been shown possible. The purpose of this study is to develop a deep learning model which predicts atherosclerosis using retinal fundus images and to verify its clinical implications by conducting a retrospective cohort analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32222370

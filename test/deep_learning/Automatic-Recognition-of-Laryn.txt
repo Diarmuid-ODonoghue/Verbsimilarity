@@ -1,0 +1,3 @@
+To develop a deep-learning-based computer-aided diagnosis system for distinguishing laryngeal neoplasms (benign, precancerous lesions, and cancer) and improve the clinician-based accuracy of diagnostic assessments of laryngoscopy findings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32068890

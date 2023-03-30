@@ -1,0 +1,3 @@
+Multiresolution analysis (MRA) offers a useful framework for signal analysis in the temporal and spectral domains, although commonly employed MRA methods may not be the best approach for brain computer interface (BCI) applications. This study aims to develop a new MRA system for extracting tempo-spatial-spectral features for BCI applications based on wavelet lifting over graphs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23843600

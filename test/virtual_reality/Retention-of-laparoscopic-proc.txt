@@ -1,0 +1,3 @@
+Virtual-reality (VR) simulator training has been shown to improve surgical performance in laparoscopic procedures in the operating room. We have, in a randomised controlled trial, demonstrated transferability to real operations. The validity of the LapSim virtual-reality simulator as an assessment tool has been demonstrated in several reports. However, an unanswered question regarding simulator training is the durability, or retention, of skills acquired during simulator training. The aim of the present study is to assess the retention of skills acquired using the LapSim VR simulator, 6 and 18 months after an initial training course.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20927549

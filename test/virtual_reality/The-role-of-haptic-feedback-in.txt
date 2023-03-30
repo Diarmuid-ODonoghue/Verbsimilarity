@@ -1,0 +1,3 @@
+Laparoscopic virtual reality simulators are becoming a ubiquitous tool in resident training and assessment. These devices provide the operator with various levels of realism, including haptic (or force) feedback. However, this feature adds significantly to the cost of the devices, and limited data exist assessing the value of haptics in skill acquisition and development. Utilizing the Laparoscopy VR (Immersion Medical, Gaithersburg, MD), we hypothesized that the incorporation of force feedback in the simulated operative environment would allow superior trainee performance compared with performance of the same basic skills tasks in a non-haptic model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19631336

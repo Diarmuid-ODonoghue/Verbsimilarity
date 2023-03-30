@@ -1,0 +1,3 @@
+A substantial portion of medical data is unstructured. Extracting data from unstructured text presents a barrier to advancing clinical research and improving patient care. In addition, ongoing studies have been focused predominately on the English language, whereas inflected languages with non-Latin alphabets (such as Slavic languages with a Cyrillic alphabet) present numerous linguistic challenges. We developed deep-learning-based natural language processing algorithms for automatically extracting biomarker status of patients with breast cancer from three oncology centers in Bulgaria.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31577448

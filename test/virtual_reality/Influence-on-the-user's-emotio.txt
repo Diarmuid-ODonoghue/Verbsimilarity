@@ -1,0 +1,3 @@
+In recent years, a remarkable trend in neurorehabilitation is the combination of conventional methods and emerging technologies, such as robotic platforms with virtual reality (VR), Serious Games (SG) and other types of sophisticated graphic interfaces. The aim of the present study is to evaluate the influence on the user's mental workload of the degree of graphic detail present in this kind of environments, comparing the experience of subjects working with two graphical environments with the same physical load but radically different graphic detail levels.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32036205

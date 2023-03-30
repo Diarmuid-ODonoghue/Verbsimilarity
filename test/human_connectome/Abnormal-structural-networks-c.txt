@@ -1,0 +1,3 @@
+Major depressive disorder (MDD) has been shown to be associated with a disrupted topological organization of functional brain networks. However, little is known regarding whether these changes have a structural basis. Diffusion tensor imaging (DTI) enables comprehensive whole-brain mapping of the white matter tracts that link regions distributed throughout the entire brain, the so-called human connectome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24690111

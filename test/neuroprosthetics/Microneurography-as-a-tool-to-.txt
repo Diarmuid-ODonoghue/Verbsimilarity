@@ -1,0 +1,3 @@
+The usability of dexterous hand prostheses is still hampered by the lack of natural and effective control strategies. A decoding strategy based on the processing of descending efferent neural signals recorded using peripheral neural interfaces could be a solution to such limitation. Unfortunately, this choice is still restrained by the reduced knowledge of the dynamics of human efferent signals recorded from the nerves and associated to hand movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30961620

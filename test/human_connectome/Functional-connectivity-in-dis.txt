@@ -1,0 +1,3 @@
+Cognitive dysfunction is common in psychotic disorders, and may reflect underlying pathophysiology. However, substantial cognitive heterogeneity exists both within and between diagnostic categories, creating challenges for studying the neurobiology of cognitive dysfunction in patients. The aim of this study was to identify patients with psychosis with intact versus impaired cognitive profiles, and to examine resting state functional connectivity between patient groups and compared to healthy controls to determine the extent to which patterns of connectivity are overlapping or distinct.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30126818

@@ -1,0 +1,3 @@
+The availability of sophisticated neural probes is a key prerequisite in the development of future brain-machine interfaces (BMIs). In this study, the authors developed and validated a neural probe design capable of simultaneous drug delivery and electrophysiology recordings in vivo. Focal drug delivery promises to extend dramatically the recording lives of neural probes, a limiting factor to clinical adoption of BMI technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19569896

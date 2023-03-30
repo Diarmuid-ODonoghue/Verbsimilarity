@@ -1,0 +1,3 @@
+Session-to-session nonstationarity is inherent in brain-computer interfaces based on electroencephalography. The objective of this paper is to quantify the mismatch between the training model and test data caused by nonstationarity and to adapt the model towards minimizing the mismatch.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25242018

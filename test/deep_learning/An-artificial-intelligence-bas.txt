@@ -1,0 +1,3 @@
+To validate an artificial intelligence-based computer algorithm for detection of epileptiform EEG discharges (EDs) and subsequent identification of patients with epilepsy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32299000

@@ -1,0 +1,3 @@
+A deep neural network was developed for magnetic resonance fingerprinting (MRF) quantification. This study aimed at extending previous studies of deep learning MRF to in vivo applications, allowing sub-second computation time for large-scale data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32276007

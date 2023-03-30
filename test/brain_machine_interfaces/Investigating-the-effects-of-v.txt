@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) allow users to operate a device or application by means of cognitive activity. This technology will ultimately be used in real-world environments which include the presence of distractors. The purpose of the study was to determine the effect of visual distractors on BCI performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29677690

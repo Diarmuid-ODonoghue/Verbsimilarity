@@ -1,0 +1,3 @@
+Transforming large amounts of genomic data into valuable knowledge for predicting complex traits has been an important challenge for animal and plant breeders. Prediction of complex traits has not escaped the current excitement on machine-learning, including interest in deep learning algorithms such as multilayer perceptrons (MLP) and convolutional neural networks (CNN). The aim of this study was to compare the predictive performance of two deep learning methods (MLP and CNN), two ensemble learning methods [random forests (RF) and gradient boosting (GB)], and two parametric methods [genomic best linear unbiased prediction (GBLUP) and Bayes B] using real and simulated datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32093611

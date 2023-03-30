@@ -1,0 +1,3 @@
+A new virus, SARS-CoV-2, has spread world-wide since December 2019, probably affecting millions of people and killing thousands. Failure to anticipate the spread of the virus now seriously threatens many health systems. We have designed a model for predicting the evolution of the SARS-CoV-2 epidemic in France, which is based on seroprevalence and makes it possible to anticipate the deconfinement strategy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32360497

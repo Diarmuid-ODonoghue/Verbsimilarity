@@ -1,0 +1,3 @@
+Research suggests that preflight training in virtual reality devices can simulate certain aspects of microgravity and may prove to be an effective countermeasure for space motion sickness (SMS) and spatial disorientation (SD). It is hypothesized that exposing subjects preflight to variable virtual orientations, similar to those encountered during spaceflight, will reduce the incidence and/or severity of SMS and SD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15828634

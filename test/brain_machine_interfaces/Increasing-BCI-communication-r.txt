@@ -1,0 +1,3 @@
+The P300 speller is a brain-computer interface (BCI) that can possibly restore communication abilities to individuals with severe neuromuscular disabilities, such as amyotrophic lateral sclerosis (ALS), by exploiting elicited brain signals in electroencephalography (EEG) data. However, accurate spelling with BCIs is slow due to the need to average data over multiple trials to increase the signal-to-noise ratio (SNR) of the elicited brain signals. Probabilistic approaches to dynamically control data collection have shown improved performance in non-disabled populations; however, validation of these approaches in a target BCI user population has not occurred.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25588137

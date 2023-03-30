@@ -1,0 +1,3 @@
+Automated segmentation of brain structures is an important task in structural and functional image analysis. We developed a fast and accurate method for the striatum segmentation using deep convolutional neural networks (CNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27777000

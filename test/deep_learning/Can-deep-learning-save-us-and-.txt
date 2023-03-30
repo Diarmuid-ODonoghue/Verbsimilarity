@@ -1,0 +1,3 @@
+How to model and encode the semantics of human-written text and select the type of neural network to process it are not settled issues in sentiment analysis. Accuracy and transferability are critical issues in machine learning in general and are closely related to the viability the trained model. I present a computationally-efficient and accurate feedforward neural network for sentiment prediction capable of maintaining high transfer accuracy when coupled with an effective semantics model of the text. Experimental results on representative benchmark datasets and comparisons to other methods show the advantages of the new approach. Applications to security validation programs are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32127723

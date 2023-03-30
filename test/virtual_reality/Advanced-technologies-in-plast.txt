@@ -1,0 +1,3 @@
+Over the last two decades, virtual reality, haptics, simulators, robotics, and other "advanced technologies" have emerged as important innovations in medical learning and practice. Reports on simulator applications in medicine now appear regularly in the medical, computer science, engineering, and popular literature. The goal of this article is to review the emerging intersection between advanced technologies and surgery and how new technology is being utilized in several surgical fields, particularly plastic surgery. The authors also discuss how plastic and reconstructive surgeons can benefit by working to further the development of multimedia and simulated environment technologies in surgical practice and training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15509950

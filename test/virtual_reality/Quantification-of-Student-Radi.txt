@@ -1,0 +1,3 @@
+Immersive virtual reality (VR) simulation environments facilitate novel ways for users to visualize anatomy and quantify performance relative to expert users. The ability of software to provide positional feedback before a practitioner progresses with subsequent stages of examinations has broad implications for primary and allied healthcare professionals, particularly with respect to health and safety (eg, exposing to x-rays). The effect of training student-radiographers (radiology technicians), with a VR simulation environment was quantitatively assessed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31274828

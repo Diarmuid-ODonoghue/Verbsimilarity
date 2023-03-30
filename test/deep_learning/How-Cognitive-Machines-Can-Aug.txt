@@ -1,0 +1,3 @@
+Artificial intelligence (AI) neural networks rapidly convert disparate facts and data into highly predictive analytic models. Machine learning maps image-patient phenotype correlations opaque to standard statistics. Deep learning performs accurate image-derived tissue characterization and can generate virtual CT images from MRI datasets. Natural language processing reads medical literature and efficiently reconfigures years of PACS and electronic medical record information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30422716

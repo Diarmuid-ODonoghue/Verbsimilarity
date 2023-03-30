@@ -1,0 +1,3 @@
+Annotation of surgical videos is a time-consuming task which requires specific knowledge. In this paper, we present and evaluate a deep learning-based method that includes pre-annotation of the phases and steps in surgical videos and user assistance in the annotation process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32040704

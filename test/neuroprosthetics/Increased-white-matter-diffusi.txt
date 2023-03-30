@@ -1,0 +1,3 @@
+We utilized diffusion tensor imaging (DTI) to evaluate the cerebral white matter changes that are associated with phantom limb pain in patients with unilateral arm amputation. It was anticipated that this would complement previous research in which we had shown that changes in cerebral blood volume were associated with the cerebral pain network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31569919

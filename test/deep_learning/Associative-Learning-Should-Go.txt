@@ -1,0 +1,3 @@
+Conditioning, how animals learn to associate two or more events, is one of the most influential paradigms in learning theory. It is nevertheless unclear how current models of associative learning can accommodate complex phenomena without ad hoc representational assumptions. We propose to embrace deep neural networks to negotiate this problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28668210

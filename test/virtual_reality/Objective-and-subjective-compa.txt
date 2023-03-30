@@ -1,0 +1,3 @@
+The aim of this study was to assess the objective and subjective image characteristics of monoenergetic images (MEI[+]), using a noise-optimized algorithm at different kiloelectron volts (keV) compared to polyenergetic images (PEI), in patients with pancreatic ductal adenocarcinoma (PDAC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30888484

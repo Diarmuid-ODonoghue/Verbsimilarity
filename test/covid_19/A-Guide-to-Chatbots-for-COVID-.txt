@@ -1,0 +1,3 @@
+The coronavirus disease 2019 (COVID-19) outbreak has required institutions to rapidly adapt to changing public health circumstances. The Centers for Disease Control and Prevention has encouraged health care facilities to explore novel health care delivery modes. However, many institutions may not be prepared to begin offering digital health and telehealth services. Chatbots are one digital health tool that can help evolve triage and screening processes in a scalable manner. Here, we present a decision-making and implementation framework for deploying COVID-19 screening chatbots at pediatric health care facilities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32325425

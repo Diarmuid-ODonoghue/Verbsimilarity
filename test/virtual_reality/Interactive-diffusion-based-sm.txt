@@ -1,0 +1,3 @@
+Volume segmentation with concurrent visualization is becoming an increasingly important part of medical diagnostics. This is due to the fact that the immediate visual feedback speeds up evaluation of the segmentation process, hence enhances segmentation quality. Therefore, our aim was to develop a method for volume segmentation and smoothing which achieves interactive performance on standard PCs and is useful in clinical practice (i.e. fast and of high quality).
+
+https://www.ncbi.nlm.nih.gov/pubmed/17492111

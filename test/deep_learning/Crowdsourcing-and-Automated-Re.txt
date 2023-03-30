@@ -1,0 +1,3 @@
+As the number of people with diabetic retinopathy (DR) in the USA is expected to increase threefold by 2050, the need to reduce health care costs associated with screening for this treatable disease is ever present. Crowdsourcing and automated retinal image analysis (ARIA) are two areas where new technology has been applied to reduce costs in screening for DR. This paper reviews the current literature surrounding these new technologies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28942485

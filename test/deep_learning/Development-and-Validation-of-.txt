@@ -1,0 +1,3 @@
+Deep learning is a family of computational methods that allow an algorithm to program itself by learning from a large set of examples that demonstrate the desired behavior, removing the need to specify rules explicitly. Application of these methods to medical imaging requires further assessment and validation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27898976

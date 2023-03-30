@@ -1,0 +1,3 @@
+In the acquisition of new skills that are difficult to master, such as those required for laparoscopy, feedback is a crucial component of the learning experience. Optimally, feedback should accurately reflect the task performance to be improved and be proximal to the training experience. In surgery, however, feedback typically is in vivo. The development of virtual reality training systems currently offers new training options. This study investigated the effect of feedback type and quality on laparoscopic skills acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17200909

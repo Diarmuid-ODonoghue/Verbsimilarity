@@ -1,0 +1,3 @@
+In this study, we compared deep learning (DL) with support vector machine (SVM), both of which use three-dimensional optical coherence tomography (3D-OCT) images for detecting epiretinal membrane (ERM).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30218173

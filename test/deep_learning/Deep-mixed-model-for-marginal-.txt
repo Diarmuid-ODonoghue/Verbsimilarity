@@ -1,0 +1,3 @@
+Genome-wide Association Studies (GWAS) have contributed to unraveling associations between genetic variants in the human genome and complex traits for more than a decade. While many works have been invented as follow-ups to detect interactions between SNPs, epistasis are still yet to be modeled and discovered more thoroughly.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31881907

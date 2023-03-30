@@ -1,0 +1,3 @@
+This study explores the usefulness of virtual simulation training for learning to place pedicle screws in the lumbar spine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24846707

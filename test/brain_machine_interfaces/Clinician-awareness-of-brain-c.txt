@@ -1,0 +1,3 @@
+Individuals with severe neurological disabilities but preserved cognition, including children, are often precluded from connecting with their environments. Brain computer interfaces (BCI) are a potential solution where advancing technologies create new clinical opportunities. We evaluated clinician awareness as a modifiable barrier to progress and identified eligible populations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31907010

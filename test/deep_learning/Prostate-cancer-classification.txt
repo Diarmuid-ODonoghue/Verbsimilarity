@@ -1,0 +1,3 @@
+Prostate cancer classification has a significant impact on the prognosis and treatment planning of patients. Currently, this classification is based on the Gleason score analysis of biopsied tissues, which is neither accurate nor risk free. This study aims to learn discriminative features in prostate images and assist physicians in classifying prostate cancer automatically.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30597561

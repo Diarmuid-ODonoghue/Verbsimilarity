@@ -1,0 +1,3 @@
+Cervical cancer is the fifth most common cancer among women, which is the third leading cause of cancer death in women worldwide. Brachytherapy is the most effective treatment for cervical cancer. For brachytherapy, computed tomography (CT) imaging is necessary since it conveys tissue density information which can be used for dose planning. However, the metal artifacts caused by brachytherapy applicators remain a challenge for the automatic processing of image data for image-guided procedures or accurate dose calculations. Therefore, developing an effective metal artifact reduction (MAR) algorithm in cervical CT images is of high demand.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30482231

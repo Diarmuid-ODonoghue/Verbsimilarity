@@ -1,0 +1,3 @@
+To develop benchmark scores of competency for use within a competency based virtual reality (VR) robotic training curriculum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27862825

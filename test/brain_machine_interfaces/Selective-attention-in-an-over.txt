@@ -1,0 +1,3 @@
+Listeners are good at attending to one auditory stream in a crowded environment. However, is there an upper limit of streams present in an auditory scene at which this selective attention breaks down? Here, participants were asked to attend one stream of spoken letters amidst other letter streams. In half of the trials, an initial primer was played, cueing subjects to the sound configuration. Results indicate that performance increases with token repetitions. Priming provided a performance benefit, suggesting that stream selection, not formation, is the bottleneck associated with attention in an overcrowded scene. Results' implications for brain-computer interfaces are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23145699

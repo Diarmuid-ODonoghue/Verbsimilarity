@@ -1,0 +1,3 @@
+This study is to evaluate the accuracy of machine learning for differentiation between optic neuropathies, pseudopapilledema (PPE) and normals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31399077

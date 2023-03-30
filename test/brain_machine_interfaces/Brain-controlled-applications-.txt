@@ -1,0 +1,3 @@
+Access to the world wide web and multimedia content is an important aspect of life. We present a web browser and a multimedia user interface adapted for control with a brain-computer interface (BCI) which can be used by severely motor impaired persons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25533310

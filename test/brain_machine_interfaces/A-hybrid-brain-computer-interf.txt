@@ -1,0 +1,3 @@
+Brain Computer Interfaces (BCIs) are developed to translate brain waves into machine instructions for external devices control. Recently, hybrid BCI systems are proposed for the multi-degree control of a real wheelchair to improve the systematical efficiency of traditional BCIs. However, it is difficult for existing hybrid BCIs to implement the multi-dimensional control in one command cycle.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24713576

@@ -1,0 +1,3 @@
+A prerequisite for many eye tracking and video-oculography (VOG) methods is an accurate localization of the pupil. Several existing techniques face challenges in images with artifacts and under naturalistic low-light conditions, e.g. with highly dilated pupils.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31176683

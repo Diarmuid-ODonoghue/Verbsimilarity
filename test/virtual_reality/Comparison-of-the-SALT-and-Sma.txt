@@ -1,0 +1,3 @@
+Virtual reality systems may allow for organized study of mass casualty triage systems by allowing investigators to replicate the same mass casualty incident, with the same victims, for a large number of rescuers. The study objectives were to develop such a virtual reality system, and use it to assess the ability of trained paramedic students to triage simulated victims using two triage systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21451414

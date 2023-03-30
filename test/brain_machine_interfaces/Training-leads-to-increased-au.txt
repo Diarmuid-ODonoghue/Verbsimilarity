@@ -1,0 +1,3 @@
+Auditory brain-computer interfaces are an assistive technology that can restore communication for motor impaired end-users. Such non-visual brain-computer interface paradigms are of particular importance for end-users that may lose or have lost gaze control. We attempted to show that motor impaired end-users can learn to control an auditory speller on the basis of event-related potentials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26350406

@@ -1,0 +1,3 @@
+Powered wheelchair (PW) driving is a complex activity and requires the acquisition of several skills. Given the risks involved with PW use, safe and effective training methods are needed. Virtual reality training allows users to practice difficult tasks in a safe environment. An additional benefit is that augmented feedback can be provided to optimize learning. The purpose of this study was to investigate whether providing augmented feedback during powered wheelchair simulator training results in superior performance, and whether skills learned in a virtual environment transfer to real PW driving.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30658668

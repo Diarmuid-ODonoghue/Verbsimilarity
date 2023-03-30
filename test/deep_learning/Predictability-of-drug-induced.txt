@@ -1,0 +1,3 @@
+Drug-induced liver injury (DILI) is a major concern in drug development, as hepatotoxicity may not be apparent at early stages but can lead to life threatening consequences. The ability to predict DILI from in vitro data would be a crucial advantage. In 2018, the Critical Assessment Massive Data Analysis group proposed the CMap Drug Safety challenge focusing on DILI prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32054490

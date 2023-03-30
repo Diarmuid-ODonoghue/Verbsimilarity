@@ -1,0 +1,3 @@
+In the present work, we describe the correction of diffusion-weighted MRI for site and scanner biases using a novel method based on invariant representation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32250475

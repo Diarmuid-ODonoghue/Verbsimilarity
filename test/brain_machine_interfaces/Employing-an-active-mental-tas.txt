@@ -1,0 +1,3 @@
+A majority of auditory brain-computer interfaces (BCIs) use the attentional modulation of auditory event-related potentials (ERPs) for communication and control. This study investigated whether the performance of an ERP-based auditory BCI can be further improved by increasing the mental efforts associated with the execution of the attention-related task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22854211

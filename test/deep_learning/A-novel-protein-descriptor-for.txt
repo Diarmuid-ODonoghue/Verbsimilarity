@@ -1,0 +1,3 @@
+Binding sites are the pockets of proteins that can bind drugs; the discovery of these pockets is a critical step in drug design. With the help of computers, protein pockets prediction can save manpower and financial resources.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31533611

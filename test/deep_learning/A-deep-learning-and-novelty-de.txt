@@ -1,0 +1,3 @@
+Supervised machine learning is a powerful and widely used method for analyzing high-content screening data. Despite its accuracy, efficiency, and versatility, supervised machine learning has drawbacks, most notably its dependence on a priori knowledge of expected phenotypes and time-consuming classifier training. We provide a solution to these limitations with CellCognition Explorer, a generic novelty detection and deep learning framework. Application to several large-scale screening data sets on nuclear and mitotic cell morphologies demonstrates that CellCognition Explorer enables discovery of rare phenotypes without user training, which has broad implications for improved assay development in high-content screening.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28954863

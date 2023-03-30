@@ -1,0 +1,3 @@
+Imaging studies of the subcortical striatum in vivo have been technically challenging despite its functional importance in movement control and procedural learning. Here, we report a method for imaging striatal neuronal circuits in mice in vivo using two-photon microscopy. Cell bodies and intermingled dendrites of GABAergic neurons labeled with fluorescent proteins were imaged in the dorsal striatum through an imaging window implanted in the overlying cortex. This technique could be highly useful for studying the structure and function of striatal networks at cellular and subcellular resolutions in normal mice, as well as in mouse models of neurological disorders.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27400866

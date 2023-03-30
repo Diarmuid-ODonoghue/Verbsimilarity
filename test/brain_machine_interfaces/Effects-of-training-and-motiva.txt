@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) technology aims at helping end-users with severe motor paralysis to communicate with their environment without using the natural output pathways of the brain. For end-users in complete paralysis, loss of gaze control may necessitate non-visual BCI systems. The present study investigated the effect of training on performance with an auditory P300 multi-class speller paradigm. For half of the participants, spatial cues were added to the auditory stimuli to see whether performance can be further optimized. The influence of motivation, mood and workload on performance and P300 component was also examined.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26051753

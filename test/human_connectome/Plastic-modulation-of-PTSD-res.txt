@@ -1,0 +1,3 @@
+Electroencephalographic (EEG) neurofeedback training has been shown to produce plastic modulations in salience network and default mode network functional connectivity in healthy individuals. In this study, we investigated whether a single session of neurofeedback training aimed at the voluntary reduction of alpha rhythm (8-12 Hz) amplitude would be related to differences in EEG network oscillations, functional MRI (fMRI) connectivity, and subjective measures of state anxiety and arousal in a group of individuals with post-traumatic stress disorder (PTSD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24266644

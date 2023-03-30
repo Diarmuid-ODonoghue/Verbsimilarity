@@ -1,0 +1,3 @@
+In this note, we show that exponentially deep belief networks can approximate any distribution over binary vectors to arbitrary accuracy, even when the width of each layer is limited to the dimensionality of the data. We further show that such networks can be greedily learned in an easy yet impractical way.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18533819

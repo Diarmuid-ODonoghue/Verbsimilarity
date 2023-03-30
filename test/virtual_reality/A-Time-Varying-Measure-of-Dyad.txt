@@ -1,0 +1,3 @@
+We propose a novel approach to the analysis of synchronized three-dimensional motion in dyads. Motion recorded at high time resolution, as with a gaming device, is preprocessed in each of the three spatial dimensions by spline smoothing. Synchrony is then defined, at each time point, as the cosine between the two individuals' estimated velocity vectors. The approach is extended to allow a time lag, allowing for the analysis of leader-follower dynamics. Mean square cosine over the time range is proposed as a scalar summary of dyadic synchrony, and this measure is found to be positively associated with cognitive empathy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30957565

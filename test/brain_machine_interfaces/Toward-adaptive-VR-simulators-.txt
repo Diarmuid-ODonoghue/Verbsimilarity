@@ -1,0 +1,3 @@
+The next generation of VR simulators could take into account a novel input: the user's mental state, as measured with electrodes and a brain-computer interface. One illustration of this promising path is a project that adapted a guidance system's force feedback to the user's mental workload in real time. A first application of this approach is a medical training simulator that provides virtual assistance that adapts to the trainee's mental activity. Such results pave the way to VR systems that will automatically reconfigure and adapt to their users' mental states and cognitive processes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24808078

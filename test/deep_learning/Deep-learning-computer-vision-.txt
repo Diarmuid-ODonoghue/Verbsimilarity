@@ -1,0 +1,3 @@
+To assess the recall of a deep learning (DL) method to automatically detect kidney stones composition from digital photographs of stones.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32045113

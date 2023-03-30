@@ -1,0 +1,3 @@
+Evaluate a method for the estimation of the nocturnal systolic blood pressure (SBP) dip from 24 h blood pressure trends using a wrist-worn photoplethysmography (PPG) sensor and a deep neural network in free-living individuals, comparing the deep neural network to traditional machine learning and non-machine learning baselines.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30699397

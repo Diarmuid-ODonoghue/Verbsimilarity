@@ -1,0 +1,3 @@
+Vision science is a truly interdisciplinary field of research, lying at the interface between psychology, computer science and neurobiology. It spans a broad range of research questions, from what visual neurons in the brain do, to the design and use of virtual reality technology. Here, I will take one well-researched area of human vision binocular depth perception, as an exemplar of the various ways in which the processes of human perception can be studied: from basic questions about the sensitivity of binocular vision to understanding how having two eyes helps us function in the natural environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15539367

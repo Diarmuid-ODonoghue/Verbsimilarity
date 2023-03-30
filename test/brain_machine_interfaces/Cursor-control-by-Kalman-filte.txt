@@ -1,0 +1,3 @@
+We describe a novel human-machine interface for the control of a two-dimensional (2D) computer cursor using four inertial measurement units (IMUs) placed on the user's upper-body.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25242561

@@ -1,0 +1,3 @@
+We demonstrated an organic and oxide hybrid CMOS inverter with the solution-processed semiconductor and source/drain electrodes. For the solution-processed n- and p-type semiconductor, InGaZnO solution and TIPS-pentacene/PαMS blend were spin-coated respectively while Silver ink and PEDOT:PSS solution were drop-casted with the help of the bank to serve as source/drain electrodes. The InGaZnO and the TIPS-pentacene transistors show typical n- and p-type transistor operations with low off-current. Based on the combination of the solution-processed n- and p-type transistors, full-swing characteristic curve with low static current of the hybrid CMOS were obtained.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31968479

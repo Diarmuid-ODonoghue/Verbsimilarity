@@ -1,0 +1,3 @@
+Twin-to-twin transfusion syndrome (TTTS) is a potentially lethal condition that affects pregnancies in which twins share a single placenta. The definitive treatment for TTTS is fetoscopic laser photocoagulation, a procedure in which placental blood vessels are selectively cauterized. Challenges in this procedure include difficulty in quickly identifying placental blood vessels due to the many artifacts in the endoscopic video that the surgeon uses for navigation. We propose using deep-learned segmentations of blood vessels to create masks that can be recombined with the original fetoscopic video frame in such a way that the location of placental blood vessels is discernable at a glance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30484115

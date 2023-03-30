@@ -1,0 +1,3 @@
+To develop and evaluate a patch-based convolutional neural network (CNN) to generate synthetic computed tomography (sCT) images for magnetic resonance (MR)-only workflow for radiotherapy of head and neck tumors. A patch-based deep learning method was chosen to improve robustness to abnormal anatomies caused by large tumors, surgical excisions, or dental artifacts. In this study, we evaluate whether the generated sCT images enable accurate MR-based dose calculations in the head and neck region.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31206701

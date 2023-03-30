@@ -1,0 +1,3 @@
+Lung cancer is one of the most malignant tumors, causing over 1,000,000 deaths each year worldwide. Deep learning has brought success in many domains in recent years. DNA methylation, an epigenetic factor, is used for model training in many studies. There is an opportunity for deep learning methods to analyze the lung cancer epigenetic data to determine their subtypes for appropriate treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31760935

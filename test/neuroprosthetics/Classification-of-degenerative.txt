@@ -1,0 +1,3 @@
+To provide an automated classification method for degenerative parkinsonian syndromes (PS) based on semiquantitative 123I-FP-CIT SPECT striatal indices and support-vector-machine (SVM) analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31037416

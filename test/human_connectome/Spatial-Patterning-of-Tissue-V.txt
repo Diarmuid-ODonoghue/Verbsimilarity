@@ -1,0 +1,3 @@
+There is growing recognition that connectome architecture shapes cortical and subcortical gray matter atrophy across a spectrum of neurological and psychiatric diseases. Whether connectivity contributes to tissue volume loss in schizophrenia in the same manner remains unknown.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31837746

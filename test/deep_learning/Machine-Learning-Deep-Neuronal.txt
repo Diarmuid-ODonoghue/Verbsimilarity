@@ -1,0 +1,3 @@
+The constantly increasing number of computed tomography (CT) examinations poses major challenges for radiologists. In this article, the additional benefits and potential of an artificial intelligence (AI) analysis platform for chest CT examinations in routine clinical practice will be examined. Specific application examples include AI-based, fully automatic lung segmentation with emphysema quantification, aortic measurements, detection of pulmonary nodules, and bone mineral density measurement. This contribution aims to appraise this AI-based application for value-added diagnosis during routine chest CT examinations and explore future development perspectives.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32317574

@@ -1,0 +1,3 @@
+To evaluate if a deep learning algorithm can be trained to identify tumour-infiltrating lymphocytes (TILs) in tissue samples of testicular germ cell tumours and to assess whether the TIL counts correlate with relapse status of the patient.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30518631

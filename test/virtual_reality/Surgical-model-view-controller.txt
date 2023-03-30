@@ -1,0 +1,3 @@
+Surgical simulations require haptic interactions and collaboration in a shared virtual environment. A software framework for decoupled surgical simulation based on a multi-controller and multi-viewer model-view-controller (MVC) pattern was developed and tested.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20714933

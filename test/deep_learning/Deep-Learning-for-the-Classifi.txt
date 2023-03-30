@@ -1,0 +1,3 @@
+Infertility is a global health concern, and couples are increasingly seeking medical assistance to achieve reproduction. Semen analysis is a primary assessment performed by a clinician, in which the morphology of the sperm population is evaluated. Machine learning algorithms that automate, standardize, and expedite sperm classification are the subject of ongoing research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31279166

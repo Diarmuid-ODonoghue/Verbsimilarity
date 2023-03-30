@@ -1,0 +1,3 @@
+Development of machine assisted tools for automatic analysis of psoriasis skin biopsy image plays an important role in clinical assistance. Development of automatic approach for accurate segmentation of psoriasis skin biopsy image is the initial prerequisite for developing such system. However, the complex cellular structure, presence of imaging artifacts, uneven staining variation make the task challenging. This paper presents a pioneering attempt for automatic segmentation of psoriasis skin biopsy images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29650319

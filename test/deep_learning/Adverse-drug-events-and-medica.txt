@@ -1,0 +1,3 @@
+Identification of drugs, associated medication entities, and interactions among them are crucial to prevent unwanted effects of drug therapy, known as adverse drug events. This article describes our participation to the n2c2 shared-task in extracting relations between medication-related entities in electronic health records.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31390003

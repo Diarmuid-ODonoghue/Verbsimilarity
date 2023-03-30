@@ -1,0 +1,3 @@
+In this paper, a short-impulse ultra-wide band (UWB) transmitter is introduced to enable large-scale neural recordings within miniature brain implants including thousands of channels. The proposed impulse radio UWB transmitter uses a BPSK modulation scheme, the carrier signal of which uses only two delayed impulses to encode the transmitted signal. The proposed UWB transmitter has been implemented into a CMOS 180 nm technology. It occupies 300 μm × 230 μm, and consumes only 6.7 pJ/bit from a 1.8-V supply. Experimental results show that the transmitter has a bandwidth of 2.6 GHz to 5.6 GHz and achieves a maximum data rate of 800 Mbps, which outperforms existing low-power UWB transmitters for similar applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28269693

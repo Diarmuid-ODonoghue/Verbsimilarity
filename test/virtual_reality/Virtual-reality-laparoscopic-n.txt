@@ -1,0 +1,3 @@
+Several training models have been developed to improve surgeons' operative skills as well as patient outcomes. Before implementing these models in training programs, their usefulness and accuracy need to be assessed. In this study, we examined the ability of a laparoscopic nephrectomy (LN) virtual reality (VR) simulator to distinguish between different levels of expertise (construct validity).
+
+https://www.ncbi.nlm.nih.gov/pubmed/19954352

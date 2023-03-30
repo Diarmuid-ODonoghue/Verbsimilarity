@@ -1,0 +1,3 @@
+Automatic classification of healthy tissues and organs based on histology images is an open problem, mainly due to the lack of automated tools. Solutions in this regard have potential in educational medicine and medical practices. Some preliminary advances have been made using image processing techniques and classical supervised learning. Due to the breakthrough performance of deep learning in various areas, we present an approach to recognise and classify, automatically, fundamental tissues and organs using Convolutional Neural Networks (CNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30337082

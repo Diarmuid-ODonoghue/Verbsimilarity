@@ -1,0 +1,3 @@
+This paper discusses the invariance and variability in interaction error-related potentials (ErrPs), where a special focus is laid upon the factors of (1) the human mental processing required to assess interface actions (2) time (3) subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28776500

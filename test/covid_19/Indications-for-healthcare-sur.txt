@@ -1,0 +1,3 @@
+European healthcare systems face extreme pressure from coronavirus disease (COVID-19). We relate country-specific accumulated COVID-19 deaths (intensity approach) and active COVID-19 cases (magnitude approach) to measures of healthcare system capacity: hospital beds, healthcare workers and healthcare expenditure. Modelled by the intensity approach with a composite measure for healthcare capacity, the countries experiencing the highest pressure on 25 March 2020 - relative to Italy on 11 March - were Italy, Spain, the Netherlands and France (www.covid-hcpressure.org).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32265003

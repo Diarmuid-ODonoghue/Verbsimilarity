@@ -1,0 +1,3 @@
+Accurate lesion segmentation is important for measurements of lesion load and atrophy in subjects with multiple sclerosis (MS). International MS lesion challenges show a preference of convolutional neural networks (CNN) strategies, such as nicMSlesions. However, since the software is trained on fairly homogenous training data, we aimed to test the performance of nicMSlesions in an independent dataset with manual and other automatic lesion segmentations to determine whether this method is suitable for larger, multi-center studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31734527

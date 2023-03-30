@@ -1,0 +1,3 @@
+The COVID-19 pandemic, after it was reported in December 2019, is a highly contagious and now spreading to over 190 countries, causing a severe public health burden. Currently, there is no vaccine or specific drug to treat COVID-19, which is caused by a novel coronavirus, SARS-2-CoV. For this emergency, the FDA has approved Remdesivir and Hydroxychloroquine for treatment of COVID-19 as Emergency Use Authorization. However, even after this pandemic, COVID-19 may still have a chance to come back. Therefore, we need to come out with new strategies for drug discovery for combating COVID-19 in the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32292909

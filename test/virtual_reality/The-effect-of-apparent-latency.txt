@@ -1,0 +1,3 @@
+The aim of this study was to determine the effect of head movement frequency and predictive compensation on (a) latency produced in a monocular see-through helmet-mounted display (HMD) test bed and (b) simulator sickness experienced by users wearing the HMD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22624290

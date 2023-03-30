@@ -1,0 +1,3 @@
+Driver fatigue is one of the major implications in transportation safety and accounted for up to 40% of road accidents. This study aimed to analyze the EEG alpha power changes in partially sleep-deprived drivers while performing a simulated driving task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26811821

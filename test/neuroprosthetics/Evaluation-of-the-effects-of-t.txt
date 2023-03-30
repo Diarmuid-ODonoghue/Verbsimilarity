@@ -1,0 +1,3 @@
+Exoskeletons for lower and upper extremities have been introduced in neurorehabilitation because they can guide the patient's limb following its anatomy, covering many degrees of freedom and most of its natural workspace, and allowing the control of the articular joints. The aims of this study were to evaluate the possible use of a novel exoskeleton, the Arm Light Exoskeleton (ALEx), for robot-aided neurorehabilitation and to investigate the effects of some rehabilitative strategies adopted in robot-assisted training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26801620

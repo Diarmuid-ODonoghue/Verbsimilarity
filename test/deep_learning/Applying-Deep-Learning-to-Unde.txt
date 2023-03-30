@@ -1,0 +1,3 @@
+We applied deep learning algorithms to build correlate models that predict tooth mobility in a convenience sample of urban Latinos. Our application of deep learning identified age, general health, soda consumption, flossing, financial stress, and years living in the US as the strongest correlates of self-reported tooth mobility among 78 variables entered. The application of deep learning was useful for gaining insights into the most important modifiable and non-modifiable factors predicting tooth mobility, and maybe useful for guiding targeted interventions in urban Latinos.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29968648

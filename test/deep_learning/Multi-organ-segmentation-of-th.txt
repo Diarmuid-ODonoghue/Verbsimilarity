@@ -1,0 +1,3 @@
+In radiation therapy, a key step for a successful cancer treatment is image-based treatment planning. One objective of the planning phase is the fast and accurate segmentation of organs at risk and target structures from medical images. However, manual delineation of organs, which is still the gold standard in many clinical environments, is time-consuming and prone to inter-observer variations. Consequently, many automated segmentation methods have been developed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30847761

@@ -1,0 +1,3 @@
+To evaluate the influence of temperature on the infectivity of COVID-19 in Japan.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32360939

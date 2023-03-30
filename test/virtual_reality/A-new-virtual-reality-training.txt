@@ -1,0 +1,3 @@
+During laparoscopic surgery distractions often occur and multitasking between surgery and other tasks, such as technical equipment handling, is a necessary competence. In psychological research, reduction of adverse effects of distraction is demonstrated when specifically multitasking is trained. The aim of this study was to examine whether multitasking and more specifically task-switching can be trained in a virtual-reality (VR) laparoscopic skills simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25439179

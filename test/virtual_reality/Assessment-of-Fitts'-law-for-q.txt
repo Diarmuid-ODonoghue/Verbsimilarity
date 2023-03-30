@@ -1,0 +1,3 @@
+To develop a model for human performance in combined translational and rotational movements based on Fitts' law.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20653226

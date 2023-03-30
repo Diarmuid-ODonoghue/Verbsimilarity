@@ -1,0 +1,3 @@
+This paper describes the research behind a part-task approach to both the development of, and the training offered, by a virtual reality simulator for knee arthroscopy. An ethnographic approach has been taken to examine the nature of task performance and the current training of the arthroscopic diagnosis of the knee. This Human Factors research is used to support the development of WISHKATS. The design addresses the challenge of technically producing haptic feedback for a knee surgery simulator whilst offering sufficient fidelity to train the necessary skills and conform to traditional surgical training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455896

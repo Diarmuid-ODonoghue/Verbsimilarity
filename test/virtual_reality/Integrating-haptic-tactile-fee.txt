@@ -1,0 +1,3 @@
+Video-capture virtual reality (VR) systems are gaining popularity as intervention tools. To date, these platforms offer visual and audio feedback but do not provide haptic feedback. We contend that adding haptic feedback may enhance the quality of intervention for various theoretical and empirical reasons. This study aims to integrate haptic-tactile feedback into a video capture system (GX VR), which is currently applied for rehabilitation. The proposed multi-modal system can deliver audio-visual as well as vibrotactile feedback. The latter is provided via small vibratory discs attached to the patient's limbs. This paper describes the system, the guidelines of its design, and the ongoing usability study.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16640464

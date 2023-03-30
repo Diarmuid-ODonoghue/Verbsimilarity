@@ -1,0 +1,3 @@
+The dopamine hypothesis is one of the most influential theories of the neurobiological background of schizophrenia (SCZ). However, direct evidence for abnormal dopamine-related subcortical-cortical circuitry disconnectivity is still lacking. The aim of this study was therefore to test dopamine-related substantia nigra (SN)-based striato-thalamo-cortical resting-state functional connectivity (FC) in SCZ.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28605528

@@ -1,0 +1,3 @@
+Various options are available for the treatment of mitral valve insufficiency, including reconstructive approaches such as annulus correction through ring implants. The correct choice of general therapy and implant is relevant for an optimal outcome. Additional to guidelines, decision support systems (DSS) can provide decision aid by means of virtual intervention planning and predictive simulations. Our approach on virtual downsizing is one of the virtual intervention tools that are part of the DSS workflow. It allows for emulating a ring implantation based on patient-specific lumen geometry and vendor-specific implants.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30293173

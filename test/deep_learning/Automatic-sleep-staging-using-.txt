@@ -1,0 +1,3 @@
+To validate a previously developed sleep staging algorithm using heart rate variability (HRV) and body movements in an independent broad cohort of unselected sleep disordered patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32249911

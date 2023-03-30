@@ -1,0 +1,3 @@
+The rapid development of Artificial Intelligence/deep learning technology and its implementation into routine clinical imaging will cause a major transformation to the practice of radiology. Strategic positioning will ensure the successful transition of radiologists into their new roles as augmented clinicians. This paper describes an overall vision on how to achieve a smooth transition through the practice of augmented radiology where radiologists-in-the-loop ensure the safe implementation of Artificial Intelligence systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29685530

@@ -1,0 +1,3 @@
+While it is often claimed that virtual reality (VR) training system can offer self-directed and mentor-free skill learning using the system's performance metrics (PM), no studies have yet provided evidence-based confirmation. This experimental study investigated what extent to which trainees achieved their self-learning with a current VR simulator and whether additional mentoring improved skill learning, skill transfer and cognitive workloads in robotic surgery simulation training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28634632

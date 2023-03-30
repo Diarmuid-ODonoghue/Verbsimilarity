@@ -1,0 +1,3 @@
+Simulation is a widely used technique for medical education. Due to decreased training opportunities with real patients, and increased emphasis on both patient outcomes and remote access, demand has increased for more advanced, realistic simulation methods. Here, we discuss the increasing need for, and benefits of, extended (virtual, augmented, or mixed) reality throughout the continuum of medical education, from anatomy for medical students to procedures for residents. We discuss how to drive the adoption of mixed reality tools into medical school's anatomy, and procedural, curricula.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32095765

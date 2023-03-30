@@ -1,0 +1,3 @@
+Healthcare workers (n = 803) with mild symptoms were tested for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (n = 90 positive) and asked to complete a symptom questionnaire. Anosmia, muscle ache, ocular pain, general malaise, headache, extreme tiredness and fever were associated with positivity. A predictive model based on these symptoms showed moderate discriminative value (sensitivity: 91.2%; specificity: 55.6%). While our models would not justify presumptive SARS-CoV-2 diagnosis without molecular confirmation, it can contribute to targeted screening strategies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32347200

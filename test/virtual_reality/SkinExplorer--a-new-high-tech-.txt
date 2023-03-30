@@ -1,0 +1,3 @@
+The confocal laser scanning microscope allows performing acquisition of several histological sections with precise visual morphological landmarks and their reconstruction. A powerful and modern confocal microscope enables to quickly reconstruct virtual 3D models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22272747

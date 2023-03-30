@@ -1,0 +1,3 @@
+To compare area measurements between swept source optical coherence tomography angiography (SSOCTA), fluorescein angiography (FA), and indocyanine green angiography (ICGA) after applying a novel deep-learning-assisted algorithm for accurate image registration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31800463

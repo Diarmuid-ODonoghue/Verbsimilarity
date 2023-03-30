@@ -1,0 +1,3 @@
+Sparse-data computed tomography (CT) frequently occurs, such as breast tomosynthesis, C-arm CT, on-board four-dimensional cone-beam CT (4D CBCT), and industrial CT. However, sparse-data image reconstruction remains challenging due to highly undersampled data. This work develops a data-driven image reconstruction method for sparse-data CT using deep neural networks (DNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32274793

@@ -1,0 +1,3 @@
+Connectomics, the reconstruction of neuronal wiring diagrams via electron microscopy, is bringing us closer to understanding how brains organize behavior. But high-resolution imaging of the brain can do more. A new study now provides insights into how neuronal circuits develop.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30721681

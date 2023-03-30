@@ -1,0 +1,3 @@
+Phase contrast (PC) cardiovascular magnetic resonance (CMR) is widely employed for flow quantification, but analysis typically requires time consuming manual segmentation which can require human correction. Advances in machine learning have markedly improved automated processing, but have yet to be applied to PC-CMR. This study tested a novel machine learning model for fully automated analysis of PC-CMR aortic flow.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30612574

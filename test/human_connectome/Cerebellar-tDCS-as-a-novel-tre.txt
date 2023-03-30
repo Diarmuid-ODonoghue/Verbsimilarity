@@ -1,0 +1,3 @@
+Aphasia is an acquired deficit in the ability to communicate through language. Noninvasive neuromodulation offers the potential to boost neural function and recovery, yet the optimal site of neuromodulation for aphasia has yet to be established. The right posterolateral cerebellum is involved in multiple language functions, interconnects with left-hemisphere language cortices, and is crucial for optimization of function and skill acquisition, suggesting that cerebellar neuromodulation could enhance aphasia rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27232953

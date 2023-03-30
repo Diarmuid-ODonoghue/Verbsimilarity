@@ -1,0 +1,3 @@
+Our objectives were to compare the utility of learning a suturing task on the virtual reality da Vinci Skills Simulator versus the da Vinci Surgical System dry laboratory platform and to assess user satisfaction among novice robotic surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23925015

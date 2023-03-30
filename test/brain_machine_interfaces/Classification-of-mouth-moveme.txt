@@ -1,0 +1,3 @@
+A brain-computer interface (BCI) is an interface that uses signals from the brain to control a computer. BCIs will likely become important tools for severely paralyzed patients to restore interaction with the environment. The sensorimotor cortex is a promising target brain region for a BCI due to the detailed topography and minimal functional interference with other important brain processes. Previous studies have shown that attempted movements in paralyzed people generate neural activity that strongly resembles actual movements. Hence decodability for BCI applications can be studied in able-bodied volunteers with actual movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26579972

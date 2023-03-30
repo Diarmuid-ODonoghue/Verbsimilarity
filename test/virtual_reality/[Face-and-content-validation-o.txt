@@ -1,0 +1,3 @@
+To evaluate the face and content validation of the virtual reality transurethral resection of the prostate simulator (TURPSim(TM)).
+
+https://www.ncbi.nlm.nih.gov/pubmed/22490357

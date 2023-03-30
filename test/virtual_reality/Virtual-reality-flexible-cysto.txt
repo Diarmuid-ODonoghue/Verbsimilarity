@@ -1,0 +1,3 @@
+To validate a flexible cystoscopy simulator by determining if it could differentiate between expert and novice cystoscopists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12460340

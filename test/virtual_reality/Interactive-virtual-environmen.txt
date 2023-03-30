@@ -1,0 +1,3 @@
+The goal of this study was to determine whether non immersive interactive virtual environments are an effective medium for training individuals who suffer from Unilateral Spatial Neglect (USN) as a result of a right hemisphere stroke, and to compare it to a standard computer visual scanning training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16298925

@@ -1,0 +1,3 @@
+We investigated whether the peg transfer task is interchangeable between a VR simulator and a box trainer. Our research questions: (1) Are scores of the box trainer interchangeable with the virtual equivalent of the exercise; (2) does training on the box affect performance on the VR simulator and vice versa; and (3) which system is preferred?
+
+https://www.ncbi.nlm.nih.gov/pubmed/23549769

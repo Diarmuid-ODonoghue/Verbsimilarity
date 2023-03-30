@@ -1,0 +1,3 @@
+Brain-machine and brain-computer interface technologies hold great promise for use in the recovery of sensory and motor functions lost as a result of nervous-system injuries or limb amputations. This Perspective describes the current state of noninvasive and invasive technologies with a view to potential applications. The scientific and technological challenges and barriers to translation are critically analyzed for a variety of approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24197734

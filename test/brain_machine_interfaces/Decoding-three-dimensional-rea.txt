@@ -1,0 +1,3 @@
+Electrocorticography (ECoG) signals have emerged as a potential control signal for brain-computer interface (BCI) applications due to balancing signal quality and implant invasiveness. While there have been numerous demonstrations in which ECoG signals were used to decode motor movements and to develop BCI systems, the extent of information that can be decoded has been uncertain. Therefore, we sought to determine if ECoG signals could be used to decode kinematics (speed, velocity, and position) of arm movements in 3D space.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26902372

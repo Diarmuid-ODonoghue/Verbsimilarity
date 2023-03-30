@@ -1,0 +1,3 @@
+Psychomotor skills for endoscopic surgery can be trained with virtual reality simulators. Distributed training is more effective than massed training, but it is unclear whether distributed training over several days is more effective than distributed training within 1 day. This study aimed to determine which of these two options is the most effective for training endoscopic psychomotor skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17122979

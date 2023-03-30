@@ -1,0 +1,3 @@
+Decoding forelimb movements from the firing activity of cortical neurons has been interfaced with robotic and prosthetic systems to replace lost upper limb functions in humans. Despite the potential of this approach to improve locomotion and facilitate gait rehabilitation, decoding lower limb movement from the motor cortex has received comparatively little attention. Here, we performed experiments to identify the type and amount of information that can be decoded from neuronal ensemble activity in the hindlimb area of the rat motor cortex during bipedal locomotor tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26331532

@@ -1,0 +1,3 @@
+Suggested neural correlates of insomnia disorder have been hard to replicate. Even the most consistent finding, altered white-matter microstructure in the anterior limb of the internal capsule, is based on a handful studies. The urge for replicable targets to understand the underlying mechanisms of insomnia made us study white-matter fractional anisotropy (FA) across three samples of cases and controls.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32123914

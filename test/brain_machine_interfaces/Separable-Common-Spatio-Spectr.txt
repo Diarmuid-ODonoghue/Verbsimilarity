@@ -1,0 +1,3 @@
+Feature extraction is one of the most important steps in any brain-computer interface (BCI) system. In particular, spatio-spectral feature extraction for motor-imagery BCIs (MI-BCI) has been the focus of several works in the past decade. This paper proposes a novel method, called separable common spatio-spectral patterns (SCSSP), for extraction of discriminant spatio-spectral EEG features in MI-BCIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26452197

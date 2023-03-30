@@ -1,0 +1,3 @@
+Studies on brain computer interfaces (BCIs) have been mainly concerned with algorithm improvement for better signal classification. Fewer studies, however, have addressed to date the role of cognitive mechanisms underlying the elicitation of brain-signals in BCIs. We tested the effect of visuospatial attention orienting on a P300-guided BCI, by comparing the effectiveness of three visual interfaces, which elicited different modalities of visuospatial attention orienting (exogenous vs. endogenous).
+
+https://www.ncbi.nlm.nih.gov/pubmed/21903462

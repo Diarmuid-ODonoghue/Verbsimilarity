@@ -1,0 +1,3 @@
+Patient age has important clinical utility for refining a differential diagnosis in radiology. Here, we evaluate the potential for convolutional neural network models to predict patient age based on anterior-posterior chest radiographs for instances where patients may present for emergency services without the ability to provide this identifying information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32347410

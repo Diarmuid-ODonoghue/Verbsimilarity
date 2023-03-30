@@ -1,0 +1,3 @@
+To propose a square's ring motion stimulation based on steady-state motion visual evoked potential, and compare it with the commonly used visual stimulation modes (Newton's ring motion, square flicker and circular flicker).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30358339

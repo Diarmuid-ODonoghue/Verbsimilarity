@@ -1,0 +1,3 @@
+Laparoscopic appendectomy is a commonly performed surgical procedure, but few training models have been described for it. We examined a virtual reality module for practising a laparoscopic appendectomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27717707

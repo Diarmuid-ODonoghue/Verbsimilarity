@@ -1,0 +1,3 @@
+Coronavirus disease 2019 (COVID-19) is a pandemic that has affected more than 1.8 million people worldwide, overwhelmed health care systems owing to the high proportion of critical presentations, and resulted in more than 100,000 deaths. Since the first data analyses in China, elevated cardiac troponin has been noted in a substantial proportion of patients, implicating myocardial injury as a possible pathogenic mechanism contributing to severe illness and mortality. Accordingly, high troponin levels are associated with increased mortality in patients with COVID-19. This brief review explores the available evidence regarding the association between COVID-19 and myocardial injury.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315733

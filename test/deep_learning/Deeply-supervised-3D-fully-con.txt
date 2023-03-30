@@ -1,0 +1,3 @@
+Reliable automated segmentation of the prostate is indispensable for image-guided prostate interventions. However, the segmentation task is challenging due to inhomogeneous intensity distributions, variation in prostate anatomy, among other problems. Manual segmentation can be time-consuming and is subject to inter- and intraobserver variation. We developed an automated deep learning-based method to address this technical challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30702759

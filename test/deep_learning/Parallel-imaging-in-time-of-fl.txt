@@ -1,0 +1,3 @@
+To develop and evaluate a method of parallel imaging time-of-flight (TOF) MRA using deep multistream convolutional neural networks (CNNs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30666723

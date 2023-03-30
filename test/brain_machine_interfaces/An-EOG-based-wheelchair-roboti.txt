@@ -1,0 +1,3 @@
+In this study, we combine a wheelchair and an intelligent robotic arm based on an electrooculogram (EOG) signal to help patients with spinal cord injuries (SCIs) accomplish a self-drinking task. The main challenge is to accurately control the wheelchair to ensure that the randomly located object is within a limited reachable space of the robotic arm (length: 0.8 m; width: 0.4 m; height: 0.6 m), which requires decimeter-level precision, and is still undemonstrated for EOG-based systems as well as EEG-based systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30620927

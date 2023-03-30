@@ -1,0 +1,3 @@
+Most deep learning (DL) studies have focused on neoplastic pathology, with the realm of inflammatory pathology remaining largely untouched.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31246112

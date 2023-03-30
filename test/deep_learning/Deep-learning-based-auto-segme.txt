@@ -1,0 +1,3 @@
+Magnetic resonance (MR) only radiation therapy for prostate treatment provides superior contrast for defining targets and organs-at-risk (OARs). This study aims to develop a deep learning model to leverage this advantage to automate the contouring process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32355894

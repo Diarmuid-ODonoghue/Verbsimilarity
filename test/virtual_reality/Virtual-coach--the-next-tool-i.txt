@@ -1,0 +1,3 @@
+Functional endoscopic sinus surgery (FESS) can be challenging as novices become accustomed to handling endoscopes and instruments while navigating complex sinonasal anatomy. Experts demonstrate fluid and efficient motions when addressing pathology. The training process from novice to expert relies on hands-on experience in cadaveric laboratories and preceptorship models that require significant time and expense. This study aims to validate the use of a virtual coach to guide users step-by-step through a basic FESS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31834672

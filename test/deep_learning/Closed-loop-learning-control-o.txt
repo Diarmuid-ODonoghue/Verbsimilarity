@@ -1,0 +1,3 @@
+We demonstrate the use of shaped ultrafast laser pulses in the deep ultraviolet to control the ring opening isomerization of 1,3-cyclohexadiene to form 1,3,5-hexatriene. The experiments are performed with a gas phase sample and the isomerization yield is probed with dissociative ionization driven by a time-delayed, intense infrared laser pulse. Differences in the electronic structure of the ions for the two isomers, as shown by ab initio calculations, result in very different fragmentation products following strong-field ionization. We find that a shaped pulse yields a approximately 37% increase in the isomerization over an unshaped laser pulse.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19355736

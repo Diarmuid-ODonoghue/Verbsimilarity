@@ -1,0 +1,3 @@
+Virtual reality (VR) is not commonly used in clinical rehabilitation, and commercial VR gaming systems may have mixed effects in patients with stroke. Therefore, we developed RehabMaster™, a task-specific interactive game-based VR system for post-stroke rehabilitation of the upper extremities, and assessed its usability and clinical efficacy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24597650

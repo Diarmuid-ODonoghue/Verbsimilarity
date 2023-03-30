@@ -1,0 +1,3 @@
+Hemodynamic instability and cardiovascular events heavily affect the prognosis of traumatic brain injury. Physiological signals are monitored to detect these events. However, the signals are often riddled with faulty readings, which jeopardize the reliability of the clinical parameters obtained from the signals. A machine-learning model for the elimination of artifactual events shows promising results for improving signal quality. However, the actual impact of the improvements on the performance of the clinical parameters after the elimination of the artifacts is not well studied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28991060

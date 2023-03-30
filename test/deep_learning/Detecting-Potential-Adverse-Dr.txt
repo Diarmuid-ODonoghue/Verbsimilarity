@@ -1,0 +1,3 @@
+Adverse drug reactions (ADRs) are common and are the underlying cause of over a million serious injuries and deaths each year. The most familiar method to detect ADRs is relying on spontaneous reports. Unfortunately, the low reporting rate of spontaneous reports is a serious limitation of pharmacovigilance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30724742

@@ -1,0 +1,3 @@
+A conducting polymer sensor for direct label-free DNA detection based on a polythiophene bearing an electroactive linker group is investigated. DNA hybridization is studied by electrochemical impedance spectroscopy (EIS) and quartz crystal microbalance (QCM) techniques. Modelling of DNA hybridization by EIS measurements exhibits the contribution of nucleic acid to a superficial p-doping process. A 675-mer single-stranded DNA is produced using asymmetric PCR from a DNA sequence of a transposable element mariner and hybridized to the previously immobilized probe. Electrochemical stimulus leads to the release "on demand" of DNA fragments and the amount delivery permits to do PCR amplification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17010598

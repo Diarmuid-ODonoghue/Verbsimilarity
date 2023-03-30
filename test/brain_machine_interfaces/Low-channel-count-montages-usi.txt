@@ -1,0 +1,3 @@
+Brain computer interfaces (BCIs) are slowly making their appearance on the consumer market, accompanied by a higher popularity among the general public. This new group of users requires easy-to-use headsets with robustness to non-precise placement. In this paper, an optimized fixed montage EEG headset for VEP BCIs is proposed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31476744

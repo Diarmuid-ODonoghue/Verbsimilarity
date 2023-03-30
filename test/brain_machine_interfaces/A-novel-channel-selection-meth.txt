@@ -1,0 +1,3 @@
+For sensorimotor rhythms based brain-computer interface (BCI) systems, classification of different motor imageries (MIs) remains a crucial problem. An important aspect is how many scalp electrodes (channels) should be used in order to reach optimal performance classifying motor imaginations. While the previous researches on channel selection mainly focus on MI tasks paradigms without feedback, the present work aims to investigate the optimal channel selection in MI tasks paradigms with real-time feedback (two-class control and four-class control paradigms).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26489759

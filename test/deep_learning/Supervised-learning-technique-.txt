@@ -1,0 +1,3 @@
+White matter hyperintensities (WMHs) are foci of abnormal signal intensity in white matter regions seen with magnetic resonance imaging (MRI). WMHs are associated with normal ageing and have shown prognostic value in neurological conditions such as traumatic brain injury (TBI). The impracticality of manually quantifying these lesions limits their clinical utility and motivates the utilization of machine learning techniques for automated segmentation workflows.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27834541

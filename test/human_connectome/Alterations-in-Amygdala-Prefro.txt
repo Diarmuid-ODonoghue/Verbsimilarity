@@ -1,0 +1,3 @@
+Generalized anxiety disorder (GAD) is characterized by the core symptom of uncontrollable worry. Functional magnetic resonance imaging studies link this symptom to aberrant functional connectivity between the amygdala and prefrontal cortex. Patients with GAD also display a characteristic pattern of autonomic dysregulation. Although frontolimbic circuitry is implicated in the regulation of autonomic arousal, no previous study to our knowledge combined functional magnetic resonance imaging with peripheral physiologic monitoring in these patients to test the hypothesis that core symptoms of worry and autonomic dysregulation in GAD arise from a shared underlying neural mechanism.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26682467

@@ -1,0 +1,3 @@
+Although migraine is one of the most investigated neurologic disorders, we do not have a perfect neuroimaging biomarker for its pathophysiology. One option to improve our knowledge is to study resting-state functional connectivity in and out of headache pain. However, our understanding of the functional connectivity changes during spontaneous migraine attack is partial and incomplete.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28446211

@@ -1,0 +1,3 @@
+Biomechanical deformable volumetric registration can help improve safety of surgical interventions by ensuring the operations are extremely precise. However, this technique has been limited by the accuracy and the computational efficiency of patient-specific modeling.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28219432

@@ -1,0 +1,3 @@
+Since the US Food and Drug Administration approved robotically assisted surgical devices for human surgery in 2000, the number of surgeries utilizing this innovative technology has risen. In 2015, approximately 650 000 robot-assisted procedures were performed worldwide. Surgeons must be properly trained to safely transition to using such innovative technology. Multiple virtual reality robotic simulators are now commercially available for educational and training purposes. There is a need for comparative evaluations of these simulators to aid users in selecting an appropriate device for their purposes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29125206

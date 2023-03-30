@@ -1,0 +1,3 @@
+In this study, images of 2450 benign thyroid nodules and 2557 malignant thyroid nodules were collected and labeled, and an automatic image recognition and diagnosis system was established by deep learning using the YOLOv2 neural network. The performance of the system in the diagnosis of thyroid nodules was evaluated, and the application value of artificial intelligence in clinical practice was investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30621704

@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) include stimulators, infusion devices, and neuroprostheses. They all belong to functional neurosurgery. Deep brain stimulators (DBS) are widely used for therapy and are in need of innovative evolutions. Robotized exoskeletons require BCIs able to drive up to 26 degrees of freedom (DoF). We report the nanomicrotechnology development of prototypes for new 3D DBS and for motor neuroprostheses. For this complex project, all compounds have been designed and are being tested. Experiments were performed in rats and primates for proof of concepts and development of the electroencephalogram (EEG) recognition algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21867795

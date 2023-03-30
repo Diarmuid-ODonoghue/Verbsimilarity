@@ -1,0 +1,3 @@
+Common spatial patterns (CSP) is a commonly used technique for classifying imagined movement type brain-computer interface (BCI) datasets. It has been very successful with many extensions and improvements on the basic technique. However, a drawback of CSP is that the signal processing pipeline contains two supervised learning stages: the first in which class- relevant spatial filters are learned and a second in which a classifier is used to classify the filtered variances. This may lead to potential overfitting issues, which are generally avoided by limiting CSP to only a few filters.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26372428

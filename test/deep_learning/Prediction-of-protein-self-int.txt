@@ -1,0 +1,3 @@
+Self-interacting Proteins (SIPs) plays a critical role in a series of life function in most living cells. Researches on SIPs are important part of molecular biology. Although numerous SIPs data be provided, traditional experimental methods are labor-intensive, time-consuming and costly and can only yield limited results in real-world needs. Hence,it's urgent to develop an efficient computational SIPs prediction method to fill the gap. Deep learning technologies have proven to produce subversive performance improvements in many areas, but the effectiveness of deep learning methods for SIPs prediction has not been verified.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30577794

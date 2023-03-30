@@ -1,0 +1,3 @@
+Numerous efforts to generate "connectomes," or synaptic wiring diagrams, of large neural circuits or entire nervous systems are currently underway. These efforts promise an abundance of data to guide theoretical models of neural computation and test their predictions. However, there is not yet a standard set of tools for incorporating the connectivity constraints that these datasets provide into the models typically studied in theoretical neuroscience. This article surveys recent approaches to building models with constrained wiring diagrams and the insights they have provided. It also describes challenges and the need for new techniques to scale these approaches to ever more complex datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31470252

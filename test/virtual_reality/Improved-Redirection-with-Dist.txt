@@ -1,0 +1,3 @@
+Users in virtual environments often find navigation more difficult than in the real world. Our new locomotion interface, Improved Redirection with Distractors (IRD), enables users to walk in larger-than-tracked space VEs without predefined waypoints. We compared IRD to the current best interface, really walking, by conducting a user study measuring navigational ability. Our results show that IRD users can really walk through VEs that are larger than the tracked space and can point to targets and complete maps of VEs no worse than when really walking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25429369

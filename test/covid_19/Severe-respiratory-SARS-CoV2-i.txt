@@ -1,0 +1,3 @@
+SARS-CoV-2 is a novel virus of the Coronaviridiae family that represents a major global health issue. Mechanisms implicated in virus/host cells interaction are central for cell infection and replication that in turn lead to disease onset and local damage. To enter airway and lung epithelia, SARS-CoV-2 attaches to ACE2 receptors by spike (S) glycoproteins. Molecular mechanisms that promote interaction between SARS-CoV-2 virus and host with particular focus on virus cell entry receptor ACE2 are described. We further explore the impact of underlying medical conditions and therapies including renin-angiotensin inhibitors on modulating ACE 2, which is the major SARS-CoV-2 cell entry receptor.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32364961

@@ -1,0 +1,3 @@
+Cognitive behavioral therapy (CBT) is an evidence-based treatment for alcohol use disorders (AUDs), yet is rarely implemented with high fidelity in clinical practice. Computer-based delivery of CBT offers the potential to address dissemination challenges, but to date there have been no evaluations of a web-based CBT program for alcohol use within a clinical sample.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27488212

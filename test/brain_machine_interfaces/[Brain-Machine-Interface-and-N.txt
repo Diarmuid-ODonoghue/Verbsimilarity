@@ -1,0 +1,3 @@
+Brain-Machine Interface (BMI) is a technology that enables users to control computers/machines intuitively via their volitional brain activities. Controlling robotic arms and tablet PCs, assisting the movement of paretic limbs through robotic action/neuromuscular electrical stimulation, and other types of cybernetic device controls have been demonstrated. The continued use of BMI promotes the plasticity of brains, hence the functional reorganization of sensorimotor nervous systems can be induced in patients with motor disabilities. The application of BMI for the compensation and neurological recovery of physical movement might be clinically tolerated in the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31289253

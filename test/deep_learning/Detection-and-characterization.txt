@@ -1,0 +1,3 @@
+The purpose of this study was to assess the potential of a deep learning model to discriminate between benign and malignant breast lesions using magnetic resonance imaging (MRI) and characterize different histological subtypes of breast lesions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30926444

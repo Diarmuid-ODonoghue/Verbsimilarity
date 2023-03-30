@@ -1,0 +1,3 @@
+Reinforcement learning has achieved tremendous success in recent years, notably in complex games such as Atari, Go, and chess. In large part, this success has been made possible by powerful function approximation methods in the form of deep neural networks. The objective of this paper is to introduce the basic concepts of reinforcement learning, explain how reinforcement learning can be effectively combined with deep learning, and explore how deep reinforcement learning could be useful in a medical context.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30815460

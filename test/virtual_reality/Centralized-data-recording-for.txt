@@ -1,0 +1,3 @@
+Virtual reality simulators have the capability to automatically record user performance data in an unbiased, cost effective manner that is also less error prone than manual methods. Centralized data recording simplifies proficiency evaluation even more; however is not commonly available to date for surgical skills trainers. We will detail our approach in implementing a framework for distributed score recording over the Internet using a database for persistent storage.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377227

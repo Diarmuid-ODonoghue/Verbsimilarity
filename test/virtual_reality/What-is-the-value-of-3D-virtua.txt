@@ -1,0 +1,3 @@
+Acetabular fractures are difficult to classify owing to the complex three-dimensional (3D) anatomy of the pelvis. 3D printing helps to understand and reliably classify acetabular fracture types. 3D-virtual reality (VR) may have comparable benefits. Our hypothesis is that 3D-VR is equivalent to 3D printing in understanding acetabular fracture patterns.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31531739

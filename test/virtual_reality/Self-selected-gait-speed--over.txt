@@ -1,0 +1,3 @@
+The study of gait at self-selected speed is important. Traditional gait laboratories being relatively limited in space provide insufficient path length, while treadmill (TM) walking compromises natural gait by imposing speed variables. Self-paced (SP) walking can be realized on TM using feedback-controlled belt speed. We compared over ground walking vs. SP TM in two self-selected gait speed experiments: without visual flow, and while subjects were immersed in a virtual reality (VR) environment inducing natural visual flow.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25881130

@@ -1,0 +1,3 @@
+Hypo/reduced activity in motor response inhibition (RI) cerebral networks was recently proposed as a promising specific neurobiological marker of attention deficit-hyperactivity disorder (ADHD). Before adopting such a pattern as a key diagnosis tool, we aim to replicate in an independent study the mechanisms underlying reduced RI-related activity in ADHD, after controlling for potentially confounding effects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27648848

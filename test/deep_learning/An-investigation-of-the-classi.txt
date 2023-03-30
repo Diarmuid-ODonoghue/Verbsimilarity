@@ -1,0 +1,3 @@
+Deep learning-based computer-aided diagnosis (CAD) is an important method in aiding diagnosis for radiologists. We investigated the accuracy of a deep learning-based CAD in classifying breast lesions with different histological types.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32030218

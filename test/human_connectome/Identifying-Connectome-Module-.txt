@@ -1,0 +1,3 @@
+Computational tools for the analysis of complex biological networks are lacking in human connectome research. Especially, how to discover the brain network patterns shared by a group of subjects is a challenging computational neuroscience problem. Although some single graph clustering methods can be extended to solve the multi-graph cases, the discovered network patterns are often imbalanced, e.g. isolated points. To address these problems, we propose a novel indicator constrained and balanced multi-graph normalized cut method to identify the connectome module patterns from the connectivity brain networks of the targeted subject group. We evaluated our method by analyzing the weighted fiber connectivity networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26525952

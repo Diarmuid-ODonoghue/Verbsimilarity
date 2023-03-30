@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) is an assistive technology that conveys users' intentions by decoding various brain activities and translating them into control commands, without the need of verbal instructions and/or physical interactions. However, errors existing in BCI systems affect their performance greatly, which in turn confines the development and application of BCI technology. It has been demonstrated viable to extract error potential from electroencephalography recordings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26846163

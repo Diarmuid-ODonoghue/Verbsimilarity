@@ -1,0 +1,3 @@
+The authors examined whether the beneficial effect of text familiarity on proofreading is dependent on the type of encoding operations performed on the text prior to proofreading (i.e., surface vs. deep), and on the time elapsed between encoding and proofreading. In the present study, familiarity, irrespective of the nature of the encoding operations and delay, improved proofreading times, whereas only surface encoding made proofreading more accurate. These results represent a challenge for the transfer-appropriate processing model of memory.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16937896

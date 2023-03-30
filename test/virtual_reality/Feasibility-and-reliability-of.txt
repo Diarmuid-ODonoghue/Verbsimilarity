@@ -1,0 +1,3 @@
+Using Unity for the Oculus Development-Kit 2, we have developed an affordable, portable virtual reality platform that targets the visuomotor domain, a missing link in current clinical assessments of postural control. Here, we describe the design and technical development as well as report its feasibility with regards to cybersickness and test-retest reliability in healthy young adults.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29364733

@@ -1,0 +1,3 @@
+The letters "Interpretation of the Outputs of Deep Learning Model trained with Skin Cancer Dataset" and "Automated Dermatological Diagnosis: Hype or Reality?" highlight the opportunities, hurdles, and possible pitfalls with the development of tools that allow for automated skin lesion classification. The potential clinical impact of these advances relies on their scalability, accuracy, and generalizability across a range of diagnostic scenarios.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30244720

@@ -1,0 +1,3 @@
+Non-intrusive inspection systems based on X-ray radiography techniques are routinely used at transport hubs to ensure the conformity of cargo content with the supplied shipping manifest. As trade volumes increase and regulations become more stringent, manual inspection by trained operators is less and less viable due to low throughput. Machine vision techniques can assist operators in their task by automating parts of the inspection workflow. Since cars are routinely involved in trafficking, export fraud, and tax evasion schemes, they represent an attractive target for automated detection and flagging for subsequent inspection by operators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28157116

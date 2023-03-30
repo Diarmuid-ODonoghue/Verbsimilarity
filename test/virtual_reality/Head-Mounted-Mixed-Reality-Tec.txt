@@ -1,0 +1,3 @@
+Head-mounted mixed-reality technologies may enable advanced intraoperative visualization during visceral surgery. In this technical note, we describe an innovative use of real-time mixed reality during robotic-assisted transanal total mesorectal excision.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30640838

@@ -1,0 +1,3 @@
+We address the automatic segmentation of healthy and cancerous liver tissues (parenchyma, active and necrotic parts of hepatocellular carcinoma (HCC) tumor) on multiphase CT images using a deep learning approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31041697

@@ -1,0 +1,3 @@
+This paper presents the results of a large study involving fusion prostate biopsies to demonstrate that temporal ultrasound can be used to accurately classify tissue labels identified in multi-parametric magnetic resonance imaging (mp-MRI) as suspicious for cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27059021

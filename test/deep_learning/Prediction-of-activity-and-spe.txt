@@ -1,0 +1,3 @@
+CRISPR-Cpf1 has recently been reported as another RNA-guided endonuclease of class 2 CRISPR-Cas system, which expands the molecular biology toolkit for genome editing. However, most of the online tools and applications to date have been developed primarily for the Cas9. There are a limited number of tools available for the Cpf1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31195957

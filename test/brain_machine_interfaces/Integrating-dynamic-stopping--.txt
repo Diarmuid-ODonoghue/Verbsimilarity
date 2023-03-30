@@ -1,0 +1,3 @@
+Most BCIs have to undergo a calibration session in which data is recorded to train decoders with machine learning. Only recently zero-training methods have become a subject of study. This work proposes a probabilistic framework for BCI applications which exploit event-related potentials (ERPs). For the example of a visual P300 speller we show how the framework harvests the structure suitable to solve the decoding task by (a) transfer learning, (b) unsupervised adaptation, (c) language model and (d) dynamic stopping.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24834896

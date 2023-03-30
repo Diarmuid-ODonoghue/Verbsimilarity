@@ -1,0 +1,3 @@
+One of the challenges in the area of brain-computer interfacing (BCI) is to develop an asynchronous BCI or a self-paced BCI that detects whether a user intends to pass messages. This paper proposes a novel asynchronous BCI that uses mixed frequency and phase-coded visual stimuli, which can provide high-speed and accurate command entries.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29989946

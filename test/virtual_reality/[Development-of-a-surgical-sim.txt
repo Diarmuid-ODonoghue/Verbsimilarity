@@ -1,0 +1,3 @@
+Traditional training methods for surgeons include anatomical studies on human cadavers. Limited availability and ethical problems led to the consideration of alternatives. The surgeon's level of training could be significantly increased by a interactive training system trough computer graphics and virtual reality (VR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/9577822

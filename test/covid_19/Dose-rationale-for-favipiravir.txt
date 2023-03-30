@@ -1,0 +1,3 @@
+We read with a great interest the paper by Du et Chen suggesting dosing regimen of favipiravir in COVID-191 . We would like to complement their observations with our PK/PD experience of favipiravir against Ebola virus (EBOV). The drug EC50 against EBOV and SARS-CoV-2 are 10-60 µg/ml and 9.4 µg/ml4 , respectively. However results obtained by our working group suggest a higher value of EC50 , in the range 40-80 µg/ml (X. de Lamballerie & F. Touret, unpublished results). We therefore use the conservative assumption that the drug EC50 against SARS-CoV-2 is in the same range as against EBOV.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32350860

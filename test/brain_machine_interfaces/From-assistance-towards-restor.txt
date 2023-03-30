@@ -1,0 +1,3 @@
+Today's implanted brain-computer interfaces make direct contact with the brain or even penetrate the tissue, bearing additional risks with regard to safety and stability. What is more, these approaches aim to control prosthetic devices as assistive tools and do not yet strive to become rehabilitative tools for restoring lost motor function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25015699

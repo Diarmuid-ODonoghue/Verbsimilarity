@@ -1,0 +1,3 @@
+Deep brain stimulation is a common treatment for medication-refractory essential tremor. Current coordinate-based targeting methods result in variable outcomes due to variation in thalamic structure and the optimal patient-specific functional location. The purpose of this study was to compare the coordinate-based pre-operative targets to patient-specific thalamic segmentation utilizing a probabilistic tractography methodology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29307012

@@ -1,0 +1,3 @@
+In 2017, the utilization of robotic-assisted surgery had grown 10-40-fold relative to laparoscopic surgery in common general surgery procedures. The rapid rise in the utilization of robotic-assisted surgery has necessitated a standardized training curriculum. Many curricula are currently being developed and validated. Additionally, advancements in virtual reality simulators have facilitated their integration into robotic-assisted surgery training. This review aims to highlight and discuss the features of existing curricula and robotic-assisted surgery training simulators and to provide updates on their respective validation process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30953199

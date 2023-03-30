@@ -1,0 +1,3 @@
+Tree rings, as archives of the past and biosensors of the present, offer unique opportunities to study influences of the fluctuating environment over decades to centuries. As such, tree-ring-based wood traits are capital input for global vegetation models. To contribute to earth system sciences, however, sufficient spatial coverage is required of detailed individual-based measurements, necessitating large amounts of data. X-ray computed tomography (CT) scanning is one of the few techniques that can deliver such data sets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31361809

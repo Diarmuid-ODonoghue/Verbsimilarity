@@ -1,0 +1,3 @@
+Automated anatomical labeling facilitates the diagnostic process for physicians and radiologists. One of the challenges in automated anatomical labeling problems is the robustness to handle the large individual variability inherited in human anatomy. A novel deep neural network framework, referred to Tree Labeling Network (TreeLab-Net), is proposed to resolve this problem in this work.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30484116

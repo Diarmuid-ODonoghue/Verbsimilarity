@@ -1,0 +1,3 @@
+The conventional scores of the neuropsychological batteries are not fully optimized for diagnosing dementia despite their variety and abundance of information. To achieve low-cost high-accuracy diagnose performance for dementia using a neuropsychological battery, a novel framework is proposed using the response profiles of 2666 cognitively normal elderly individuals and 435 dementia patients who have participated in the Korean Longitudinal Study on Cognitive Aging and Dementia (KLOSCAD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30285646

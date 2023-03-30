@@ -1,0 +1,3 @@
+In this study, the three-dimensional virtual reality simulation system described herein provides preoperative simulation to verify that the osteotomy and fusion procedures chosen to treat musculoskeletal defects are appropriate. The system also provides an excellent means of training surgeons in new operations without putting patients at risk, and may be especially useful for difficult surgical procedures often performed in orthopedics, craniofacial disease, or plastic and reconstructive surgery departments. The system can be used to teach intern and train resident doctors, and is a planning tool for visiting staff.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11818188

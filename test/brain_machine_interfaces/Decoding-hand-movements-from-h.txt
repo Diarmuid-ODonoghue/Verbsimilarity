@@ -1,0 +1,3 @@
+Tasks of daily life can become a significant challenge for motor impaired persons. Depending on the severity of their impairment, they require more complex solutions to retain an independent life. Brain-computer interfaces (BCIs) target to provide an intuitive form of control for advanced assistive devices such as robotic arms or neuroprostheses. In our current study we aim to decode three different executed hand movements in an online BCI scenario from electroencephalographic (EEG) data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32272464

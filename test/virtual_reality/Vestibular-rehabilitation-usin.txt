@@ -1,0 +1,3 @@
+This paper presents a theoretical justification for using a wide field of view (FOV) virtual reality display system for use in vestibular rehabilitation. A wide FOV environment offers some unique features that may be beneficial to vestibular rehabilitation. Primarily, optic flow information extracted from the periphery may be critical for recalibrating the sensory processes used by people with vestibular disorders. If this hypothesis is correct, then wide FOV systems will have an advantage over narrow field of view input devices such as head mounted or desktop displays. Devices that we have incorporated into our system that are critical for monitoring improvement in this clinical population will also be described.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17271394

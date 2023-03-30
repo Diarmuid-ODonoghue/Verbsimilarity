@@ -1,0 +1,3 @@
+We proposed a novel simultaneous hybrid brain-computer interface (BCI) by incorporating electrical stimulation into a motor imagery (MI) based BCI system. The goal of this study was to enhance the overall performance of an MI-based BCI. In addition, the brain oscillatory pattern in the hybrid task was also investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28004644

@@ -1,0 +1,3 @@
+The third artificial intelligence (AI) boom is coming, and there is an inkling that the speed of its evolution is quickly increasing. In games like chess, shogi, and go, AI has already defeated human champions, and the fact that it is able to achieve autonomous driving is also being realized. Under these circumstances, AI has evolved and diversified at a remarkable pace in medical diagnosis, especially in diagnostic imaging. Therefore, this commentary focuses on AI in medical diagnostic imaging and explains the recent development trends and practical applications of computer-aided detection/diagnosis using artificial intelligence, especially deep learning technology, as well as some topics surrounding it.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31898014

@@ -1,0 +1,3 @@
+In this work we propose the use of conditional random fields with long-range dependencies for the classification of finger movements from electrocorticographic recordings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27138273

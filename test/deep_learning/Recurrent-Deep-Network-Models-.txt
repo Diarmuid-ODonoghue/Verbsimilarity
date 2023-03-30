@@ -1,0 +1,3 @@
+Although a number of foundational natural language processing (NLP) tasks like text segmentation are considered a simple problem in the general English domain dominated by well-formed text, complexities of clinical documentation lead to poor performance of existing solutions designed for the general English domain. We present an alternative solution that relies on a convolutional neural network layer followed by a bidirectional long short-term memory layer (CNN-Bi-LSTM) for the task of sentence boundary disambiguation and describe an ensemble approach for domain adaptation using two training corpora. Implementations using the Keras neural-networks API are available at https://github.com/NLPIE/clinical-sentences.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31437913

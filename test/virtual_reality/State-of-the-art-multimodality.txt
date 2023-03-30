@@ -1,0 +1,3 @@
+Imaging of the heart anatomy plays an important role, especially in catheter ablation for the treatment of arrhythmias in adults with congenital heart disease (ACHD). We present a comprehensive overview of the current state-of-the-art modalities available to plan and guide catheter ablation in an ACHD patient. In addition to the clinical assessment of the computed tomography and the integration of 3D reconstructions into the electroanatomical mapping system, 3D printing and virtual reality assessment showed its value in preprocedural planning of the intervention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30133862

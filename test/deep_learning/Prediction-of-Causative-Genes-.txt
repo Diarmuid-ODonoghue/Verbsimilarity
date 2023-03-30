@@ -1,0 +1,3 @@
+To illustrate a data-driven deep learning approach to predicting the gene responsible for the inherited retinal disorder (IRD) in macular dystrophy caused by ABCA4 and RP1L1 gene aberration in comparison with retinitis pigmentosa caused by EYS gene aberration and normal subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31093368

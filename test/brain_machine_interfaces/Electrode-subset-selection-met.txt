@@ -1,0 +1,3 @@
+An electroencephalography (EEG)-based P300 speller is a type of brain-computer interface (BCI) that uses EEG to allow a user to select characters without physical movement. In general, using fewer electrodes for such a system makes it easier to set up and less expensive. This study addresses the question of electrode selection for EEG-based P300 systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24506528

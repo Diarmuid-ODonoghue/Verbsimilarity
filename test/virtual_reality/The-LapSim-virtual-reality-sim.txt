@@ -1,0 +1,3 @@
+The acquisition of technical skills using surgical simulators is an area of active research and rapidly evolving technology. The LapSim is a virtual reality simulator that currently allows practice of basic laparoscopic skills and some procedures. To date, no reviews have been published with reference to a single virtual reality simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20614142

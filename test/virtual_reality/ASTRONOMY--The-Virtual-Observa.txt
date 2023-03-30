@@ -1,0 +1,3 @@
+Data from decades of observations by dozens of instruments may soon be accessible over the Internet, changing the way that astronomy is done around the world. The National Virtual Observatory will be an electronic web that gives astronomers access to terabytes of celestial data with the click of a mouse. The virtual observatory promises to make possible new analyses of the heavens by weaving together information from facilities around the world--and in space.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17750399

@@ -1,0 +1,3 @@
+Effective screening is a desirable method for the early detection and successful treatment for diabetic retinopathy, and fundus photography is currently the dominant medium for retinal imaging due to its convenience and accessibility. Manual screening using fundus photographs has however involved considerable costs for patients, clinicians and national health systems, which has limited its application particularly in less-developed countries. The advent of artificial intelligence, and in particular deep learning techniques, has however raised the possibility of widespread automated screening.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32313813

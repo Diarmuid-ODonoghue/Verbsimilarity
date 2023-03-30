@@ -1,0 +1,3 @@
+To assist people with disabilities, exoskeletons must be provided with human-robot interfaces and smart algorithms capable to identify the user's movement intentions. Surface electromyographic (sEMG) signals could be suitable for this purpose, but their applicability in shared control schemes for real-time operation of assistive devices in daily-life activities is limited due to high inter-subject variability, which requires custom calibrations and training. Here, we developed a machine-learning-based algorithm for detecting the user's motion intention based on electromyographic signals, and discussed its applicability for controlling an upper-limb exoskeleton for people with severe arm disabilities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30922326

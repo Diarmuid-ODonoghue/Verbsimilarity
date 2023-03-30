@@ -1,0 +1,3 @@
+To determine whether deep learning-based algorithms applied to breast MR images can aid in the prediction of occult invasive disease following the diagnosis of ductal carcinoma in situ (DCIS) by core needle biopsy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31698241

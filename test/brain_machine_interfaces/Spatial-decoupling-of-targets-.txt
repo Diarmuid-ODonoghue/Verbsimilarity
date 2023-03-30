@@ -1,0 +1,3 @@
+Recently, paradigms using code-modulated visual evoked potentials (c-VEPs) have proven to achieve among the highest information transfer rates for noninvasive brain-computer interfaces (BCIs). One issue with current c-VEP paradigms, and visual-evoked paradigms in general, is that they require direct foveal fixation of the flashing stimuli. These interfaces are often visually unpleasant and can be irritating and fatiguing to the user, thus adversely impacting practical performance. In this study, a novel c-VEP BCI paradigm is presented that attempts to perform spatial decoupling of the targets and flashing stimuli using two distinct concepts: spatial separation and boundary positioning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25875047

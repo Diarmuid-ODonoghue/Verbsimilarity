@@ -1,0 +1,3 @@
+Endoscopic sinus surgery (ESS) is the surgical standard treatment for chronic rhinitis/rhinosinusitis and nasal polyposis. There is a reported complication rate of 5-10% associated with this type of surgery. Simulation has been advocated as a means to improve surgical training and minimize the rates of complication and medical error. This study aimed to show how a virtual reality ESS simulator was developed, with particular emphasis on achieving satisfactory photorealism and surgical verisimilitude.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23562204

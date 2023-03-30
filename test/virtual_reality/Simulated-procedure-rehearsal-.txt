@@ -1,0 +1,3 @@
+Patient-specific simulated rehearsal (PsR) of a carotid artery stenting procedure (CAS) enables the interventionalist to rehearse the case before performing the procedure on the actual patient by incorporating patient-specific computed tomographic data into the simulation software. This study aimed to evaluate whether PsR of a CAS procedure can enhance the operative performance versus a virtual reality (VR) generic CAS warm-up procedure or no preparation at all.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22566016

@@ -1,0 +1,3 @@
+With the rapid acceleration of technology, fundamental changes in the science of surgery are emerging within the lifetime of a surgeon's practice. This review includes the technologies of information systems, robotics, virtual reality, simulation and training, directed-energy surgical instruments, photonics, and brain chips, as well as their impact on the practice of surgery. Also considered are those technologies that may replace surgery, such as genetic engineering, tissue engineering, suspended animation, and nanotechnology. The evidence for each of these technologies is presented as preliminary reports of their success in research laboratories.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16568364

@@ -1,0 +1,3 @@
+The recent SARS-Cov2 pandemic, which has recently affected Italy since February 21, constitutes a threat for normal subjects, as the Coronavirus Disease 19 (COVID19) can manifest with a broad spectrum of clinical phenotypes ranging from asymptomatic cases to pneumonia or even death. There is evidence that older age and several comorbidities can affect the risk to develop severe pneumonia and possibly the need of mechanic ventilation in subjects infected with SARS-Cov2. Therefore, we evaluated the outcome of SARS-Cov2 infection in patients with inborn errors of immunity (IEI) such as X linked agammaglobulinemia (XLA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32319118

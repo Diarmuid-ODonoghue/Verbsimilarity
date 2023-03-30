@@ -1,0 +1,3 @@
+Machine learning (ML) has become a vital part of medical imaging research. ML methods have evolved over the years from manual seeded inputs to automatic initializations. The advancements in the field of ML have led to more intelligent and self-reliant computer-aided diagnosis (CAD) systems, as the learning ability of ML methods has been constantly improving. More and more automated methods are emerging with deep feature learning and representations. Recent advancements of ML with deeper and extensive representation approaches, commonly known as deep learning (DL) approaches, have made a very significant impact on improving the diagnostics capabilities of the CAD systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31350843

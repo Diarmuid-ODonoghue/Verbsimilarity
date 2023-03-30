@@ -1,0 +1,3 @@
+Current dataset visualizations have limited capability of allowing users to remove only small regions of the dataset and inspect the remaining volume. We have developed a new visualization based on the focus + context paradigm to provide users with a 3D volume or 2D slice rendering of regions that are marked as arbitrary-shaped focus and shown as drilled-out. A novel way of computing whether the rays traversing the dataset fall within the drilled-out region results in an accurate rendering of the sculpted context dataset. A user study showed that the new visualization improves accuracy and speed in tissue removal tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732531

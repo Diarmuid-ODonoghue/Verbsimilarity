@@ -1,0 +1,3 @@
+Intraoperative sentinel node (SN) identification in patients with head-and-neck malignancies can be challenging due to unexpected drainage patterns and anatomical complexity. Here, intraoperative navigation-based guidance technologies may provide outcome. In this study, gamma camera-based freehandSPECT was evaluated in combination with the hybrid tracer ICG-99mTc-nanocolloid.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28819936

@@ -1,0 +1,3 @@
+MRI gradient-fields may induce extrinsic voltage between electrodes and conductive neurostimulator enclosure of implanted deep brain stimulation (DBS) systems, and may cause unintended stimulation and/or malfunction. Electromagnetic (EM) simulations using detailed anatomical human models, therapy implant trajectories, and gradient coil models can be used to calculate clinically relevant induced voltage levels. Incorporating additional anatomical human models into the EM simulation library can help to achieve more clinically relevant and accurate induced voltage levels, however, adding new anatomical human models and developing implant trajectories is time-consuming, expensive and not always feasible.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32153375

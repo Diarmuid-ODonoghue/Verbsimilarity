@@ -1,0 +1,3 @@
+To analyze the limitations of existing simulators for urologic techniques, and then test and evaluate a novel virtual reality (VR) simulator for endourologic procedures of the lower urinary tract. Surgical simulation using VR has the potential to have a tremendous impact on surgical training, testing, and certification. Endourologic procedures seem to be an ideal target for VR systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16765168

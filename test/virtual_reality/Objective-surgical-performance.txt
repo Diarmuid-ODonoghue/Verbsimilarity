@@ -1,0 +1,3 @@
+We present robust methods for objective, structured, and automated assessment of surgical performance in virtual diagnostic hysteroscopy. Surgery specific metrics are based on a hierarchical task decomposition and have been integrated into our simulation setup. Measurements include visible surface quantification, fluid consumption and indicators for safety and economy of movement. Both visual and quantitative results from exemplary interventions of novice and expert surgeons are shown.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377330

@@ -1,0 +1,3 @@
+To investigate whether multi-view convolutional neural networks can improve a fully automated lymph node detection system for pelvic MR Lymphography (MRL) images of patients with prostate cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31772836

@@ -1,0 +1,3 @@
+Basal cell carcinoma (BCC) is the most commonly diagnosed cancer and the number of diagnosis is growing worldwide due to increased exposure to solar radiation and the aging population. Reduction of positive margin rates when removing BCC leads to fewer revision surgeries and consequently lower health care costs, improved cosmetic outcomes and better patient care. In this study, we propose the first use of a perioperative mass spectrometry technology (iKnife) along with a deep learning framework for detection of BCC signatures from tissue burns.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32323209

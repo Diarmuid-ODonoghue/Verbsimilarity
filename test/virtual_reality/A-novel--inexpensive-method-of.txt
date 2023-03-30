@@ -1,0 +1,3 @@
+Augmented reality (AR) is a technique in which an overlay of a virtual image to a live picture is performed to create a new image in which both original images coexist as a single image. This results in the visualization of internal structures through overlying tissues. The objective was to describe an easy, inexpensive, and successful method to coregister with AR in an image-guided surgery setting using the resources at hand.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17415176

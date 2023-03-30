@@ -1,0 +1,3 @@
+Feature extraction of electroencephalogram (EEG) plays a vital role in brain-computer interfaces (BCIs). In recent years, common spatial pattern (CSP) has been proven to be an effective feature extraction method. However, the traditional CSP has disadvantages of requiring a lot of input channels and the lack of frequency information. In order to remedy the defects of CSP, wavelet packet decomposition (WPD) and CSP are combined to extract effective features. But WPD-CSP method considers less about extracting specific features that are fitted for the specific subject. So a subject-based feature extraction method using fisher WPD-CSP is proposed in this paper.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27084317

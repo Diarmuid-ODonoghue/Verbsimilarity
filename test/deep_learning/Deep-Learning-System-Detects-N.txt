@@ -1,0 +1,3 @@
+We aimed to develop and validate a deep-learning computer-aided detection (CAD) system, suitable for use in real time in clinical practice, to improve endoscopic detection of early neoplasia in patients with Barrett's esophagus (BE).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31759929

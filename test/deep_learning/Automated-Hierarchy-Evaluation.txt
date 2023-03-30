@@ -1,0 +1,3 @@
+The detection of large vessel occlusion (LVO) plays a critical role in the diagnosis and treatment of acute ischemic stroke (AIS). Identifying LVO in the pre-hospital setting or early stage of hospitalization would increase the patients' chance of receiving appropriate reperfusion therapy and thereby improve neurological recovery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32265682

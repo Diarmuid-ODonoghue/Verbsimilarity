@@ -1,0 +1,3 @@
+Electroencephalography (EEG) is a method that measures and records the electrical activity of the human brain. These biomedical signals are currently being actively used in many research fields and have a wide range of potential uses in brain-computer interfaces (BCIs). The main aim of the present work is to improve the classification of EEG patterns for EEG-based BCI systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29903485

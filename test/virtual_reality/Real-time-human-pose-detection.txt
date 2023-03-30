@@ -1,0 +1,3 @@
+We present a real-time algorithm for human pose detection and tracking from vision-based 3D data and its application to tele-rehabilitation in virtual environments. We employ stereo camera(s) to capture 3D avatars of geographically dislocated patient and therapist in real-time, while sending the data remotely and displaying it in a virtual scene. A pose detection and tracking algorithm extracts kinematic parameters from each participant and determines pose similarity. The pose similarity score is used to quantify patient's performance and provide real-time feedback for remote rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22357010

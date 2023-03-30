@@ -1,0 +1,3 @@
+The linearly-constrained minimum-variance (LCMV) beamformer is traditionally used as a spatial filter for source localization, but here we consider its spatiotemporal extension for P300 classification. We compare two variants and show that the spatiotemporal LCMV beamformer is at par with state-of-the-art P300 classifiers, but several orders of magnitude faster in training the classifier.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26971787

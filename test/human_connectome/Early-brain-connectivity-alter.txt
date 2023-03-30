@@ -1,0 +1,3 @@
+Animal models of Alzheimer's disease (AD) are essential to understanding the disease progression and to development of early biomarkers. Because AD has been described as a disconnection syndrome, magnetic resonance imaging (MRI)-based connectomics provides a highly translational approach to characterizing the disruption in connectivity associated with the disease. In this study, a transgenic rat model of AD (TgF344-AD) was analyzed to describe both cognitive performance and brain connectivity at an early stage (5 months of age) before a significant concentration of β-amyloid plaques is present.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29415770

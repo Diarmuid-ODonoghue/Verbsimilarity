@@ -1,0 +1,3 @@
+The ability to predict which pairs of amino acid residues in a protein are in contact with each other offers many advantages for various areas of research that focus on proteins. For example, contact prediction can be used to reduce the computational complexity of predicting the structure of proteins and even to help identify functionally important regions of proteins. These predictions are becoming especially important given the relatively low number of experimentally determined protein structures compared to the amount of available protein sequence data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30871477

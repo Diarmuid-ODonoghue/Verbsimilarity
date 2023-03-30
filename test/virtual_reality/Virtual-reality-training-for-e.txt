@@ -1,0 +1,3 @@
+Virtual reality (VR) simulators have been developed to train basic endoscopic surgical skills outside of the operating room. An important issue is how to create optimal conditions for integration of these types of simulators into the surgical training curriculum. The willingness of surgical residents to train these skills on a voluntary basis was surveyed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17704889

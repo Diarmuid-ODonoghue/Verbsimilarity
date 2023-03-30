@@ -1,0 +1,3 @@
+Three-dimensional images of patients are currently viewed and assessed using two-dimensional media and techniques. These two-dimensional techniques do not offer depth perception, while this is required for optimal interpretation of three-dimensional and four-dimensional ultrasound, MRI and CT images. The I-Space virtual reality system offers depth perception and allows the user to take length and volume measurements. I-Space offers a spectacular new way of studying embryonic and foetal growth and development in vivo. This may contribute to prenatal diagnostics being brought forward from the second and third trimesters to the first trimester of pregnancy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20619045

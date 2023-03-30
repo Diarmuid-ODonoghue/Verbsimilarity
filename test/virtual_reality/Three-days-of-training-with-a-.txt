@@ -1,0 +1,3 @@
+The aim of this work is to evaluate the effectiveness of training with the low-fidelity ArthroBox® regarding performance of different basic arthroscopy tasks using a validated high-fidelity virtual reality simulator of the knee.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31079163

@@ -1,0 +1,3 @@
+We study the applicability of a visual P3-based and a Steady State Visually Evoked Potentials (SSVEP)-based Brain-Computer Interfaces (BCIs) for mental text spelling on a cohort of patients with incomplete Locked-In Syndrome (LIS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24086289

@@ -1,0 +1,3 @@
+Schizophrenia has long been suggested to represent a disorder with prominent neural dysconnectivity. Gamma-band oscillations are highly relevant in this context, due both to their proposed involvement in neuronal synchronization and to their association with neurotransmitter systems relevant for schizophrenia. Several task-related studies have confirmed reduced power and synchronization of gamma-band oscillations in schizophrenia, but it has been suggested that these findings might not apply to the resting state. The present study aimed to investigate resting-state gamma-band connectivity in patients with schizophrenia.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25170031

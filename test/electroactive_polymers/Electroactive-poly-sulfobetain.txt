@@ -1,0 +1,3 @@
+This paper reports a multifunctional zwitterionic poly(sulfobetaine-3,4-ethylenedioxythiophene) (PSBEDOT), which could be facilely synthesized by electropolymerization in aqueous solution. The PSBEDOT surface exhibits excellent conductivity, stability and switchable antifouling/antimicrobial properties. It shows great promise for applications in organic bioelectronics. This new material may significantly increase the performance and service life, minimize the foreign body reaction, improve the biocompatibility and reduce the infection of bio-electronic devices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29899920

@@ -1,0 +1,3 @@
+Underlying respiratory allergy and experimental allergen exposure reduce the expression of the SARS-CoV-2 receptor, ACE2, which could lead to reduced COVID-19 susceptibility.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32333915

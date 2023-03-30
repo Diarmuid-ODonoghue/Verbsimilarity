@@ -1,0 +1,3 @@
+For many years, clinicians have been seeking for objective pain assessment solutions via neuroimaging techniques, focusing on the brain to detect human pain. Unfortunately, most of those techniques are not applicable in the clinical environment or lack accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31254336

@@ -1,0 +1,3 @@
+We aimed to clarify the high-risk factors with multivariate analysis and establish a prediction of disease progression, so as to help clinicians to better choose therapeutic strategy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32271369

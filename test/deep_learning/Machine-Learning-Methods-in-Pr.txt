@@ -1,0 +1,3 @@
+On a tide of big data, machine learning is coming to its day. Referring to huge amounts of epigenetic data coming from biological experiments and clinic, machine learning can help in detecting epigenetic features in genome, finding correlations between phenotypes and modifications in histone or genes, accelerating the screen of lead compounds targeting epigenetics diseases and many other aspects around the study on epigenetics, which consequently realizes the hope of precision medicine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30421670

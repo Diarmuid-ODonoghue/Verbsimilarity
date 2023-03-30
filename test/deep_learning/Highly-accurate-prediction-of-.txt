@@ -1,0 +1,3 @@
+Building materials can contain elevated levels of naturally occurring radioactive materials (NORM), in particular Ra-226, Th-232 and K-40. Safety standards, such as IAEA Safety Standards Series No. GSR Part 3, dictate particular activities that must be fulfilled to ensure adequate safety. Traditional methods include spectral analysis of material samples measured by a HPGe detector then processed to calculate the specific activity of the NORM in Bq/Kg with 1.96 σ uncertainty. This paper describes a new method that pre-processes the raw spectrum then feeds the result into a set of pre-trained neural networks, thus generating the required specific radionuclide activity as well as the 1.96 σ uncertainty.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28950201

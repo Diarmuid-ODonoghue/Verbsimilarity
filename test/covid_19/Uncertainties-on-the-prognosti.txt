@@ -1,0 +1,3 @@
+We read with great interest the paper by Zhang and colleagues [1], describing the predictive value of D-dimers tested on admission on in-hospital mortality in patients with Covid-19. These interesting results may supply an easy-to practice laboratory marker to clinical teams managing the patients. However, a number of uncertainties must be mentioned.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32344457

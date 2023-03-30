@@ -1,0 +1,3 @@
+With the advent of sophisticated prosthetic limbs, the challenge is now to develop and demonstrate optimal closed-loop control of the these limbs using neural measurements from single/multiple unit activity (SUA/MUA), electrocorticography (ECoG), local field potentials (LFP), scalp electroencephalography (EEG) or even electromyography (EMG) after targeted muscle reinnervation (TMR) in subjects with upper limb disarticulation. In this paper we propose design principles for developing a noninvasive EEG-based brain-machine interface (BMI) for dexterous control of a high degree-of-freedom, biologically realistic limb.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22255271

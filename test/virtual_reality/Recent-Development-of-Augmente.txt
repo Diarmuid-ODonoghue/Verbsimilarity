@@ -1,0 +1,3 @@
+The development augmented reality devices allow physicians to incorporate data visualization into diagnostic and treatment procedures to improve work efficiency, safety, and cost and to enhance surgical training. However, the awareness of possibilities of augmented reality is generally low. This review evaluates whether augmented reality can presently improve the results of surgical procedures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29065604

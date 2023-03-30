@@ -1,0 +1,3 @@
+Left ventricular ejection fraction (LVEF) is one of the key metrics to assess the heart functionality, and cardiac ultrasound (echo) is a standard imaging modality for EF measurement. There is an emerging interest to exploit the point-of-care ultrasound (POCUS) usability due to low cost and ease of access. In this work, we aim to present a computationally efficient mobile application for accurate LVEF estimation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30941679

@@ -1,0 +1,3 @@
+A novel realistic 3D virtual reality (VR) application has been developed to allow medical imaging students at Queensland University of Technology to practice radiographic techniques independently outside the usual radiography laboratory.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26229652

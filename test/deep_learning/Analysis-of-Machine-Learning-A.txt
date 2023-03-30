@@ -1,0 +1,3 @@
+Computational Intelligence Re-meets Medical Image Processing A Comparison of Some Nature-Inspired Optimization Metaheuristics Applied in Biomedical Image Registration BACKGROUND:  Diffuse lung diseases (DLDs) are a diverse group of pulmonary disorders, characterized by inflammation of lung tissue, which may lead to permanent loss of the ability to breathe and death. Distinguishing among these diseases is challenging to physicians due their wide variety and unknown causes. Computer-aided diagnosis (CAD) is a useful approach to improve diagnostic accuracy, by combining information provided by experts with Machine Learning (ML) methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30875707

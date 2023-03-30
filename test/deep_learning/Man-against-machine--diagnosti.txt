@@ -1,0 +1,3 @@
+Deep learning convolutional neural networks (CNN) may facilitate melanoma detection, but data comparing a CNN's diagnostic performance to larger groups of dermatologists are lacking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29846502

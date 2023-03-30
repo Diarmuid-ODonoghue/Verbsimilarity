@@ -1,0 +1,3 @@
+Cognitive models of obsessive-compulsive disorder (OCD) posit dysfunctional appraisal of disorder-relevant stimuli in patients, suggesting disturbances in the processes relying on amygdala-prefrontal connectivity. Recent neuroanatomical models add to the traditional view of dysfunction in corticostriatal circuits by proposing alterations in an affective circuit including amygdala-prefrontal connections. However, abnormalities in amygdala-prefrontal coupling during symptom provocation, and particularly during conditions that require stimulus appraisal, remain to be demonstrated directly.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29622050

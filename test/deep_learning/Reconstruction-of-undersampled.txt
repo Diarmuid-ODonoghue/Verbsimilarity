@@ -1,0 +1,3 @@
+Free-breathing three-dimensional (3D) abdominal imaging is a challenging task for MRI, as respiratory motion severely degrades image quality. One of the most promising self-navigation techniques is the 3D golden-angle radial stack-of-stars (SOS) sequence, which has advantages in terms of speed, resolution, and allowing free breathing. However, streaking artifacts are still clearly observed in reconstructed images when undersampling is applied. This work presents a novel reconstruction approach based on a stacked convolutional auto-encoder (SCAE) network to solve this problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29574939

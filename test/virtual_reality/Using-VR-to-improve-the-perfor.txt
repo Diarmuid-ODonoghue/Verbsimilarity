@@ -1,0 +1,3 @@
+The operations of current robotics systems in low-earth orbit could benefit from the use of virtual reality (VR) systems to improve their performance. This paper presents an example of the type of contribution such a system could provide to assist the space robot operators in their operations, by using the increased situational awareness and the ease of use associated with VR systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14583130

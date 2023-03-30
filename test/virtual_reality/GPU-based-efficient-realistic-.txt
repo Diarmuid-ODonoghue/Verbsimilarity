@@ -1,0 +1,3 @@
+In actual surgery, smoke and bleeding due to cauterization processes provide important visual cues to the surgeon, which have been proposed as factors in surgical skill assessment. While several virtual reality (VR)-based surgical simulators have incorporated the effects of bleeding and smoke generation, they are not realistic due to the requirement of real-time performance. To be interactive, visual update must be performed at at least 30 Hz and haptic (touch) information must be refreshed at 1 kHz. Simulation of smoke and bleeding is, therefore, either ignored or simulated using highly simplified techniques, since other computationally intensive processes compete for the available Central Processing Unit (CPU) resources.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20878651

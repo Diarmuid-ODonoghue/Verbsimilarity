@@ -1,0 +1,3 @@
+In this paper, we show that multiple operations of the typical pattern recognition chain of an fNIRS-based BCI, including feature extraction and classification, can be unified by solving a convex optimization problem. We formulate a regularized least squares problem that learns a single affine transformation of raw HbO(2) and HbR signals. We show that this transformation can achieve competitive results in an fNIRS BCI classification task, as it significantly improves recognition of different levels of workload over previously published results on a publicly available n-back data set. Furthermore, we visualize the learned models and analyze their spatio-temporal characteristics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570378

@@ -1,0 +1,3 @@
+Dry electrodes have an advantage over gel-based 'wet' electrodes by providing quicker set-up time for electroencephalography recording; however, the potentially poorer contact can result in noisier recordings. We examine the impact that this may have on brain-computer interface communication and potential approaches for mitigation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27819250

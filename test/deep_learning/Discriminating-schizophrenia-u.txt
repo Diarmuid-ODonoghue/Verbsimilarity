@@ -1,0 +1,3 @@
+Current fMRI-based classification approaches mostly use functional connectivity or spatial maps as input, instead of exploring the dynamic time courses directly, which does not leverage the full temporal information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31420302

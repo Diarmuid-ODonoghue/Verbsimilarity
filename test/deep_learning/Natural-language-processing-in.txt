@@ -1,0 +1,3 @@
+Structural modeling of protein-protein interactions produces a large number of putative configurations of the protein complexes. Identification of the near-native models among them is a serious challenge. Publicly available results of biomedical research may provide constraints on the binding mode, which can be essential for the docking. Our text-mining (TM) tool, which extracts binding site residues from the PubMed abstracts, was successfully applied to protein docking (Badal et al., PLoS Comput Biol, 2015; 11: e1004630). Still, many extracted residues were not relevant to the docking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29506465

@@ -1,0 +1,3 @@
+Bats are considered to be the natural reservoir for many viruses, of which some are potential human pathogens. In India, an association of Pteropus medius bats with the Nipah virus was reported in the past. It is suspected that the recently emerged severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) also has its association with bats. To assess the presence of CoVs in bats, we performed identification and characterization of bat CoV (BtCoV) in P. medius and Rousettus species from representative States in India, collected during 2018 and 2019.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32317409

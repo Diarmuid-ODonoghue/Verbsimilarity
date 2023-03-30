@@ -1,0 +1,3 @@
+Trocar insertion, the first step to most micro surgery procedures is a difficult procedure to learn and practice because procedure is carried out almost entirely without any visual feedback of the organs underlying the tissue being punctured. A majority of injuries is attributed to the excessive use of force by the surgeon. This paper looks at developing a haptic based trocar insertion simulator which will assist in training and skill advancement in carrying out this procedure. Different issues regarding development of force model and and trocar-tissue interaction is studied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16404055

@@ -1,0 +1,3 @@
+Plant population density is an important factor for agricultural production systems due to its substantial influence on crop yield and quality. Traditionally, plant population density is estimated by using either field assessment or a germination-test-based approach. These approaches can be laborious and inaccurate. Recent advances in deep learning provide new tools to solve challenging computer vision tasks such as object detection, which can be used for detecting and counting plant seedlings in the field. The goal of this study was to develop a deep-learning-based approach to count plant seedlings in the field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31768186

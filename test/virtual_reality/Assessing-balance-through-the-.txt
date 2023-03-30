@@ -1,0 +1,3 @@
+As the population ages, the prevention of falls is an increasingly important public health problem. Balance assessment forms an important component of fall-prevention programs for older adults. The recent development of cost-effective and highly responsive virtual reality (VR) systems means new methods of balance assessment are feasible in a clinical setting. This proof-of-concept study made use of the submillimeter tracking built into modern VR head-mounted displays (VRHMDs) to assess balance through the use of visual-vestibular conflict. The objective of this study was to evaluate the validity, acceptability, and reliability of using a VRHMD to assess balance in older adults.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28883717

@@ -1,0 +1,3 @@
+With the COVID-19 pandemic, clinicians and researchers have been suddenly confronted with the difficulty of treatment provision and continuation of clinical trials without face-to-face contact. This predicament has resulted in the rapid adoption of telehealth methodologies.1 Clinicians and researchers focused on obesity management have an additional need-- a remote way to measure weight. In this piece, we will describe electronic scales (e-scales) and provide guidance on how clinicians/researchers might best implement e-scales in their clinical practice or research studies to remotely measure weight.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32339394

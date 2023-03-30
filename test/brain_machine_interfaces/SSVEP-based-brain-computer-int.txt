@@ -1,0 +1,3 @@
+A brain-computer interface (BCI) based on steady-state visual-evoked potentials (SSVEP) has two difficulties: limitation of the number of commands and uneven probabilities of command execution. To address these problems, the present paper proposes a paradigm of BCI using frequency-modulated visual stimuli. The commands are translated into code words consisting of binary digits, to which visual stimuli with distinct frequencies are assigned. Frequencies of SSVEP are recognized to detect bits, and a command to be executed is determined from the sequence of detected bits. Experimental results show that the proposed paradigm achieves a reliable BCI with higher accuracies and balanced command executing probabilities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23739780

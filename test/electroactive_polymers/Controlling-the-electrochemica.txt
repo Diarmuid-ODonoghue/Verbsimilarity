@@ -1,0 +1,3 @@
+A new and simple method permits control of the electrochemically active area of a carbon fiber microelectrode. An electrophoretic photoresist insulates the 10-microm-diameter carbon fiber microelectrodes. Photolysis of the photoresist followed by immersion of the exposed area into a developing solution reveals electroactive carbon fiber surface. The electroactive surface area exposed can be controlled with a good degree of reproducibility.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16841943

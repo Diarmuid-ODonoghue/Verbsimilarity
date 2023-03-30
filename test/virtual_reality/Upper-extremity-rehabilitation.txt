@@ -1,0 +1,3 @@
+Rehabilitation therapy using a virtual reality (VR) system for stroke patients has gained attention. However, few studies have investigated fully immersive VR using a head-mount display (HMD) for upper extremity rehabilitation in stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31218794

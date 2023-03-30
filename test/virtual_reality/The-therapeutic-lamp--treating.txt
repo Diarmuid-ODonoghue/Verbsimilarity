@@ -1,0 +1,3 @@
+We all have an irrational fear or two. Some of us get scared by an unexpected visit from a spider in our house; others get nervous when they look down from a high building. Fear is an evolutionary and adaptive function that can promote self-preservation and help us deal with the feared object or situation. However, when this state becomes excessive, it might develop into psychological disorders such as phobias, producing high anxiety and affecting everyday life. The Therapeutic Lamp is an interactive projection-based augmented-reality system for treating small-animal phobias. It aims to increase patient-therapist communication, promote more natural interaction, and improve the patient's engagement in the therapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24807885

@@ -1,0 +1,3 @@
+Since the advent of super-resolution microscopy, countless approaches and studies have been published contributing significantly to our understanding of cellular processes. With the aid of chromatin-specific fluorescence labeling techniques, we are gaining increasing insight into gene regulation and chromatin organization. Combined with super-resolution imaging and data analysis, these labeling techniques enable direct assessment not only of chromatin interactions but also of the function of specific chromatin conformational states.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31261775

@@ -1,0 +1,3 @@
+Virtual reality (VR) simulators enrich surgical training and offer training possibilities outside of the operating room (OR). In this study, we created a criterion-based training program on a VR simulator with haptic feedback and tested it by comparing the performances of a simulator group against a control group.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28486087

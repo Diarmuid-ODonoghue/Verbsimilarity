@@ -1,0 +1,3 @@
+Administering electroconvulsive therapy (ECT) necessitates an understanding of the electrophysiological parameters and the device's characteristics, in addition to the sequential steps of treatment preparation and administration. Thus, practical training is necessary for clinicians who learn to administer ECT. Checklists in medicine and surgery have been shown to improve clinical practice and patient safety. Virtual reality (VR) training to improve adherence to checklists has been used in surgery, but to a very little extent in psychiatry, and not in ECT. The aim of this project was to develop and test a VR-based training program that guides the trainee step by step through the sequences that precede ECT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31972670

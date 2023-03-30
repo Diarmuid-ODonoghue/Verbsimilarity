@@ -1,0 +1,3 @@
+During the last few years, virtual reality (VR) has been increasingly implemented in the neurosurgical practice. The scope of this paper is to briefly outline the educational role of this novel technology in training surgeons. At the same time, the ability of VR workstations such as the Dextroscope® to consistently simulate the surgical trajectory to the lesion-target is highlighted. The authors shed light to the current applications of VR systems in the neurosurgical field by describing not only the advantages of those systems, but their principal drawbacks as well. It seems that VR has come to stay and it is already the new best friend of residents due to its "Can't take my eyes off you effect".
+
+https://www.ncbi.nlm.nih.gov/pubmed/24101322

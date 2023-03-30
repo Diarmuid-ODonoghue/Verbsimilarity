@@ -1,0 +1,3 @@
+The role of machine learning on clinical documentation for predictive outcomes remains undefined. We aimed to compare three neural networks on inpatient providers' notes to predict mortality in neonatal hypoxic-ischaemic encephalopathy (HIE).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31762098

@@ -1,0 +1,3 @@
+To investigate the effect on final-product performance of a distributed, virtual reality (VR) simulation training program on cadaveric dissection performance and learning curves compared with standard VR simulation training during a temporal bone course.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30303946

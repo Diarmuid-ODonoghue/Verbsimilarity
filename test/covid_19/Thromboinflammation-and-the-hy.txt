@@ -1,0 +1,3 @@
+The pathogenic coronavirus has been wreaking havoc worldwide since January. Infection with SARS-CoV-2 is problematic as no one has prior immunity, and no specific antiviral treatments are available. While many people with COVID-19 develop mild to moderate symptoms, some develop profound seemingly unchecked inflammatory responses leading to acute lung injury and hypoxemic respiratory failure, the most common cause for death.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32302453

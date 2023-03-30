@@ -1,0 +1,3 @@
+PHENOMENON: Virtual reality simulators are the subject of several recent studies of skills training for robot-assisted surgery. Yet no consensus exists regarding what a core skill set comprises or how to measure skill performance. Defining a core skill set and relevant metrics would help surgical educators evaluate different simulators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25584468

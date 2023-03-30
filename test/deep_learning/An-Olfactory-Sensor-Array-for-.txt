@@ -1,0 +1,3 @@
+Machine learning techniques are useful for applications such as electronic nose (e-nose) systems to classify or identify the target odor. In recent years, deep learning is regarded as one of the most powerful machine learning methods. It enables researchers to extract useful features automatically from high-dimensional raw data and has been widely applied to computer vision, speech recognition, and natural language processing, though little has been reported in the field of olfaction. In this chapter, we describe the procedure to build a deep neural network to predict odor characteristics of chemicals from their mass spectra.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31309470

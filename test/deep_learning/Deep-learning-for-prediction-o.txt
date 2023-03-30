@@ -1,0 +1,3 @@
+The study evaluated the automatic prediction of obstructive disease from myocardial perfusion imaging (MPI) by deep learning as compared with total perfusion deficit (TPD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29550305

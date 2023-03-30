@@ -1,0 +1,3 @@
+The successful motor rehabilitation of stroke, traumatic brain-injured and spinal cord-injured patients requires an intensive and task-specific therapy approach. Budget constraints limit a hand-to-hand therapy approach, so that intelligent machines may offer a solution to promote motor recovery and obtain a better understanding of motor control. This new field of automated or robot-assisted motor rehabilitation has emerged since the 1990s.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14624080

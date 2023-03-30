@@ -1,0 +1,3 @@
+An end-to-end deep convolutional neural network (CNN) based on deep residual network (ResNet) was proposed to efficiently reconstruct reliable T2 mapping from single-shot overlapping-echo detachment (OLED) planar imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29687915

@@ -1,0 +1,3 @@
+Atheroembolism due to aortic manipulation remains an unsolved problem in surgery for thoracic aortic aneurysm. The goal of the present study is to create a computer simulation (CS) model with which to analyze blood flow in the diseased aorta.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19670188

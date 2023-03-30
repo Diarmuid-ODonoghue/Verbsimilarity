@@ -1,0 +1,3 @@
+Federal legislation requires patient notification of dense mammographic breast tissue because increased density is a marker of breast cancer risk and can limit the sensitivity of mammography. As previously described, we clinically implemented our deep learning model at the academic breast imaging practice where the model was developed with high clinical acceptance. Our objective was to externally validate our deep learning model on radiologist breast density assessments in a community breast imaging practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32089465

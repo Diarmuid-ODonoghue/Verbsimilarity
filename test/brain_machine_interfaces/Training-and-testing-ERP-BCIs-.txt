@@ -1,0 +1,3 @@
+As one of the most popular and extensively studied paradigms of brain-computer interfaces (BCIs), event-related potential-based BCIs (ERP-BCIs) are usually built and tested in ideal laboratory settings in most existing studies, with subjects concentrating on stimuli and intentionally avoiding possible distractors. This study is aimed at examining the effect of simultaneous mental activities on ERP-BCIs by manipulating various levels of mental workload during the training and/or testing of an ERP-BCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26655346

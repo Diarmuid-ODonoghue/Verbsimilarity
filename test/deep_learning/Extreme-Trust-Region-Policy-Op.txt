@@ -1,0 +1,3 @@
+In this brief, we develop a deep reinforcement learning method to actively recognize objects by choosing a sequence of actions for an active camera that helps to discriminate between the objects. The method is realized using trust region policy optimization, in which the policy is realized by an extreme learning machine and, therefore, leads to efficient optimization algorithm. The experimental results on the publicly available data set show the advantages of the developed extreme trust region optimization method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29771676

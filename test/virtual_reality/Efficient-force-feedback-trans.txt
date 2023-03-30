@@ -1,0 +1,3 @@
+Remote surgery information requires quick and reliable transmission between the surgeon and the patient side. However, the interconnecting network is usually time varying and lossy which can cause packet loss and delay jitter. In this paper we introduce an adaptive packet prediction and buffer time adjustment algorithm which reduces the negative effects caused by the time varying networks on the transmission of force feedback data. To evaluate our scheme we run a virtual reality applet built in Matlab. Our results show, for severe packet loss and variable delay jitter, the integrated synchronization technique significantly improves the performance of the force feedback device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19163399

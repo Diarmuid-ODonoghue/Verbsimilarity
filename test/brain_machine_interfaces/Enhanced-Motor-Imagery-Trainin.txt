@@ -1,0 +1,3 @@
+Motor imagery-related mu/beta rhythms, which can be voluntarily modulated by subjects, have been widely used in EEG-based brain computer interfaces (BCIs). Moreover, it has been suggested that motor imagery-specific EEG differences can be enhanced by feedback training. However, the differences observed in the EEGs of naive subjects are typically not sufficient to provide reliable EEG control and thus result in unintended feedback. Such feedback can frustrate subjects and impede training. In this study, a hybrid BCI paradigm combining motor imagery and steady-state visually evoked potentials (SSVEPs) has been proposed to provide effective continuous feedback for motor imagery training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25680205

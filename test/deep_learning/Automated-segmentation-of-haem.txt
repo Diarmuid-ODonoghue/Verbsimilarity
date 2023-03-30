@@ -1,0 +1,3 @@
+Spontaneous intracerebral haemorrhage (SICH) is a common condition with high morbidity and mortality. Segmentation of haematoma and perihaematoma oedema on medical images provides quantitative outcome measures for clinical trials and may provide important markers of prognosis in people with SICH.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30711800

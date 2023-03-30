@@ -1,0 +1,3 @@
+A MoO3/Au/MoO3 (MAM) tri-layer structure was developed as a transparent, low-resistance anode for use in organic solar cells. Transmittance was maximized at 82% using symmetric bottom and top MoO3 layers (each of thickness 30 nm) either side of a 12 nm Au layer. Low sheet resistance also resulted (7.4 ohm per square). The series resistance and optical transmission of devices employing these structures as anodes were tailored by varying the thickness of the top MoO3 layer. Dissolution of the top MoO3 layer in
+
+https://www.ncbi.nlm.nih.gov/pubmed/25942865

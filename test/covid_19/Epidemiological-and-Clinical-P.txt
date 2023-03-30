@@ -1,0 +1,3 @@
+Rapid identification of COVID-19 cases, which is crucial to outbreak containment efforts, is challenging due to the lack of pathognomonic symptoms and in settings with limited capacity for specialized nucleic acid-based reverse transcription polymerase chain reaction (PCR) testing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32211755

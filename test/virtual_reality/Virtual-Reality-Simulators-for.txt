@@ -1,0 +1,3 @@
+Surgical simulation is increasingly being considered for training, testing, and possibly credentialing in medicine and surgery. At the University of Washington we have been developing a virtual reality (VR) suturing simulator. In the course of development it must be realized that expensive new technologies should bear the burden of proof of their effectiveness and reliability before they are put into training programs. The purpose of this article is to define the concept of surgical skill and to discuss how it can be measured in the context of validating VR surgical simulators. Specific measures of validity and reliability are reviewed and discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11298709

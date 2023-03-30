@@ -1,0 +1,3 @@
+Reliable longitudinal risk prediction for hospitalized patients is needed to provide quality care. Our goal is to develop a generalizable model capable of leveraging clinical notes to predict healthcare-associated diseases 24-96 hours in advance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32065628

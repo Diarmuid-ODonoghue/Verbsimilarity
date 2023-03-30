@@ -1,0 +1,3 @@
+This paper proposes a novel system (using the Nintendo Wii remote) that offers customised, non-immersive, virtual reality-based, upper-limb stroke rehabilitation and reports on promising preliminary findings with stroke survivors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25391221

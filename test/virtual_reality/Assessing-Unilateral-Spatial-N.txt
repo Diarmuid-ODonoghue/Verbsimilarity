@@ -1,0 +1,3 @@
+Unilateral Spatial Neglect, or neglect, is a common behavioral syndrome in patients following unilateral brain damage, such as stroke. In recent years, new technologies, such as computer-based tools and virtual reality have been used in order to solve some limitations of the traditional neglect evaluation. Within this perspective, also mobile devices such as tablets seems to be promising tools, being able to support interactive virtual environments and, at the same time, allowing to easily reproduce traditional paper-and-pencil test.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26409526

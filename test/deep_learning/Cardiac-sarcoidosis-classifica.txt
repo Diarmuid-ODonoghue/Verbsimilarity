@@ -1,0 +1,3 @@
+The aim of this study was to determine whether deep convolutional neural network (DCNN)-based features can represent the difference between cardiac sarcoidosis (CS) and non-CS using polar maps.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30447397

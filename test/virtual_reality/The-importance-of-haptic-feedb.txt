@@ -1,0 +1,3 @@
+Previous studies on the difference between physical, augmented and virtual reality (VR) simulation state that haptic feedback is an important feature in laparoscopic suturing simulation. Objective assessment is important to improve skills during training. This study focuses on the additive value of VR simulation for laparoscopic suturing training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17943369

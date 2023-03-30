@@ -1,0 +1,3 @@
+Progress in magnetic resonance imaging (MRI) now makes it possible to identify the major white matter tracts in the living human brain. These tracts are important because they carry many of the signals communicated between different brain regions. MRI methods coupled with biophysical modeling can measure the tissue properties and structural features of the tracts that impact our ability to think, feel, and perceive. This review describes the fundamental ideas of the MRI methods used to identify the major white matter tracts in the living human brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27050319

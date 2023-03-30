@@ -1,0 +1,3 @@
+To develop a new approach to correct for physiological and macroscopic motion in multishot, interleaved echo-planar diffusion imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28771867

@@ -1,0 +1,3 @@
+In biomedicine, there is a wealth of information hidden in unstructured narratives such as research articles and clinical reports. To exploit these data properly, a word sense disambiguation (WSD) algorithm prevents downstream difficulties in the natural language processing applications pipeline. Supervised WSD algorithms largely outperform un- or semisupervised and knowledge-based methods; however, they train 1 separate classifier for each ambiguous term, necessitating a large number of expert-labeled training data, an unattainable goal in medical informatics. To alleviate this need, a single model that shares statistical strength across all instances and scales well with the vocabulary size is desirable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30811548

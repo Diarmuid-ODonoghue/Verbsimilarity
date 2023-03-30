@@ -1,0 +1,3 @@
+Main adverse cardiac events (MACE) are essentially composite endpoints for assessing safety and efficacy of treatment processes of acute coronary syndrome (ACS) patients. Timely prediction of MACE is highly valuable for improving the effects of ACS treatments. Most existing tools are specific to predict MACE by mainly using static patient features and neglecting dynamic treatment information during learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30626381

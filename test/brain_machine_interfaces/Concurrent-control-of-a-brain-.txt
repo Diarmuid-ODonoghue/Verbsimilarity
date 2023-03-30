@@ -1,0 +1,3 @@
+A primary control signal in brain-computer interfaces (BCIs) have been cortical signals related to movement. However, in cases where natural motor function remains, BCI control signals may interfere with other possibly simultaneous activity for useful ongoing movement. We sought to determine if the brain could learn to control both a BCI and concurrent overt movement execution in such cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30303130

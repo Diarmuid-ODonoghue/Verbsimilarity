@@ -1,0 +1,3 @@
+Radiomics allows for powerful data-mining and feature extraction techniques to guide clinical decision making. Image segmentation is a necessary step in such pipelines and different techniques can significantly affect results. We demonstrate that a convolutional neural network (CNN) segmentation method performs comparably to expert manual segmentations in an established radiomics pipeline.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30957936

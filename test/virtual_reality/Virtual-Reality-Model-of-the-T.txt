@@ -1,0 +1,3 @@
+Studying the three-dimensional (3D) anatomy of the cavernous sinus is essential for treating lesions in this region with skull base surgeries. Cadaver dissection is a conventional method that has insurmountable flaws with regard to understanding spatial anatomy. The authors' research aimed to build an image model of the cavernous sinus region in a virtual reality system to precisely, individually and objectively elucidate the complete and local stereo-anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29049147

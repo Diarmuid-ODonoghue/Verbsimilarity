@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) represent a technology with the potential to rehabilitate a range of traumatic and degenerative nervous system conditions but require a time-consuming training process to calibrate. An area of BCI research known as transfer learning is aimed at accelerating training by recycling previously recorded training data across sessions or subjects. Training data, however, is typically transferred from one electrode configuration to another without taking individual head anatomy or electrode positioning into account, which may underutilize the recycled data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26169961

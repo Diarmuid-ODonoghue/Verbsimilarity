@@ -1,0 +1,3 @@
+Anatomic stenosis evaluation on coronary CT angiography (CCTA) lacks specificity in indicating the functional significance of a stenosis. Recent developments in CT techniques (including dual-layer spectral detector CT [SDCT] and static stress CT perfusion [CTP]) and image analyses (including fractional flow reserve [FFR] derived from CCTA images [FFRCT] and deep learning analysis [DL]) are potential strategies to increase the specificity of CCTA by combining both anatomical and functional information in one investigation. The aim of the current study is to assess the diagnostic performance of (combinations of) SDCT, CTP, FFRCT and DL for the identification of functionally significant coronary artery stenosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30826767

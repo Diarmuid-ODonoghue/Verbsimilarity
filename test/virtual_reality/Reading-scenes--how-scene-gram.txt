@@ -1,0 +1,3 @@
+Despite many recent technical advances, the human efficacy of naturalistic scene processing is still unparalleled. What guides attention in real world environments? How does scene context affect object search and classification? And how are the many predictions we have with regards to our visual environment structured? Here, we review the latest findings that speak to these questions, ranging from traditional psychophysics, eye movement, and neurocognitive studies in the lab to experiments in virtual reality (VR) and the real world. The growing interest and grasp of a scene's inner workings are enriching our understanding of the efficiency of scene perception and could inspire new technological and clinical advances.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31051430

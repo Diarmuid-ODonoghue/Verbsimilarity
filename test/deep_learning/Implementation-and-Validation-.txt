@@ -1,0 +1,3 @@
+To describe an unsupervised three-dimensional cardiac motion estimation network (CarMEN) for deformable motion estimation from two-dimensional cine MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32076659

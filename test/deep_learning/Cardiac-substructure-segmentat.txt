@@ -1,0 +1,3 @@
+Radiation dose to cardiac substructures is related to radiation-induced heart disease. However, substructures are not considered in radiation therapy planning (RTP) due to poor visualization on CT. Therefore, we developed a novel deep learning (DL) pipeline leveraging MRI's soft tissue contrast coupled with CT for state-of-the-art cardiac substructure segmentation requiring a single, non-contrast CT input.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31794054

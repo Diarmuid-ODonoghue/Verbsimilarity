@@ -1,0 +1,3 @@
+Functional Electrical Stimulation (FES) can electrically activate paretic muscles to assist movement for post-stroke neurorehabilitation. Here, sensory-motor integration may be facilitated by triggering FES with residual electromyographic (EMG) activity. However, muscle activity following stroke often suffers from delays in initiation and termination which may be alleviated with an adjuvant treatment at the central nervous system (CNS) level with transcranial direct current stimulation (tDCS) thereby facilitating re-learning and retaining of normative muscle activation patterns.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24507410

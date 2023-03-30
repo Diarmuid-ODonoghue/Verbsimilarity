@@ -1,0 +1,3 @@
+To examine whether children with or without cerebral palsy (CP) would follow a humanoid robot's (i.e., Darwin) feedback to move their arm faster when playing virtual reality (VR) games.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28816558

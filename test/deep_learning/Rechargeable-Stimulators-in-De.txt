@@ -1,0 +1,3 @@
+From 1999 onwards, deep brain stimulation (DBS) has been proposed as an alternative to capsulotomy in refractory cases of obsessive-compulsive disorder (OCD). Although rechargeable implantable pulse generators (rIPGs) have been used extensively in DBS for movement disorders, there are no reports on rIPGs in patients with a psychiatric DBS indication, and even possible objections to their use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28256778

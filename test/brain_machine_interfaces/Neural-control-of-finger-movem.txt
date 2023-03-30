@@ -1,0 +1,3 @@
+Intracortical brain-machine interfaces (BMIs) are a promising source of prosthesis control signals for individuals with severe motor disabilities. Previous BMI studies have primarily focused on predicting and controlling whole-arm movements; precise control of hand kinematics, however, has not been fully demonstrated. Here, we investigate the continuous decoding of precise finger movements in rhesus macaques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28722685

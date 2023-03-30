@@ -1,0 +1,3 @@
+The emergence of off-screen interaction devices is bringing the field of virtual reality to a broad range of applications where virtual objects can be manipulated without the use of traditional peripherals. However, to facilitate object interaction, other stimuli such as haptic feedback are necessary to improve the user experience. To enable the identification of virtual 3D objects without visual feedback, a haptic display based on a vibrotactile glove and multiple points of contact gives users an enhanced sensation of touching a virtual object with their hands. Experimental results demonstrate the capacity of this technology in practical applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25137722

@@ -1,0 +1,3 @@
+The 3-dimensionally complex interplay of soft tissue, cartilaginous, and bony elements makes the mastery of nasal anatomy difficult. Conventional methods of learning nasal anatomy exist, but they often involve a steep learning curve. Computerized models and virtual reality applications have been used to facilitate teaching in a number of other complex anatomical regions, such as the human temporal bone and pelvic floor. We present a 3-dimensional (3-D) virtual reality model of the human nose.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15381580

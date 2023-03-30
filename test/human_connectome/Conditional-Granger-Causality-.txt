@@ -1,0 +1,3 @@
+Motor imagery has emerged as a promising technique for the improvement of motor function following stroke, but the mechanism of functional network reorganization in patients during this process remains unclear. The aim of this study is to evaluate the cortical motor network patterns of effective connectivity in stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27200373

@@ -1,0 +1,3 @@
+Immersive virtual reality (VR) laparoscopy simulation connects VR simulation with head-mounted displays to increase presence during VR training. The goal of the present study was the comparison of 2 different surroundings according to performance and users' preference.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29504470

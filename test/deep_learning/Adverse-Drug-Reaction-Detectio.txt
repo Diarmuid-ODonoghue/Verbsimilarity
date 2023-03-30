@@ -1,0 +1,3 @@
+Health-related studies have been recently at the heart attention of the media. Social media, such as Twitter, has become a valuable online tool to describe the early detection of various adverse drug reactions (ADRs). Different medications have adverse effects on various cells and tissues, sometimes more than one cell population would be adversely affected. These types of side effect are occasionally associated with the direct or indirect influence of prescribed drugs but do not have general unfavorable mutagenic consequences on patients. This study aimed to demonstrate a quick and accurate method to collect and classify information based on the distribution of approved data on Twitter.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31863657

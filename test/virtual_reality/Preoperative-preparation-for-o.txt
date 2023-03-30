@@ -1,0 +1,3 @@
+The field of temporal bone simulation (TBS) has largely focused on the development and validation of simulators as training and assessment tools. As technology has progressed over the years, researchers have, however, envisioned new clinical applications for simulators extending to preoperative surgical planning and case rehearsal. The purpose of this article was to review the current state of the art in TBS and to highlight recent advancements in the field. Because of space limitations, we will limit our discussion to computer-based virtual reality simulators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26339966

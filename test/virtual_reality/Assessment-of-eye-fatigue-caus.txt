@@ -1,0 +1,3 @@
+Head-mounted displays (HMDs) and virtual reality (VR) have been frequently used in recent years, and a user's experience and computation efficiency could be assessed by mounting eye-trackers. However, in addition to visually induced motion sickness (VIMS), eye fatigue has increasingly emerged during and after the viewing experience, highlighting the necessity of quantitatively assessment of the detrimental effects. As no measurement method for the eye fatigue caused by HMDs has been widely accepted, we detected parameters related to optometry test. We proposed a novel computational approach for estimation of eye fatigue by providing various verifiable models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31729983

@@ -1,0 +1,3 @@
+In vivo studies have suggested that motor exercise can improve muscle regeneration after injury. Nevertheless, preclinical investigations still lack reliable tools to monitor motor performance over time and to deliver optimal training protocols to maximize force recovery. Here, we evaluated the utility of a murine robotic platform (i) to detect early impairment and longitudinal recovery after acute skeletal muscle injury and (ii) to administer varying intensity training protocols to enhance forelimb motor performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27875498

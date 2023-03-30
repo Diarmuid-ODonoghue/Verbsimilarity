@@ -1,0 +1,3 @@
+With the current SARS-CoV2 outbreak, countless tests need to be performed on potential symptomatic individuals, contacts and travellers. The gold standard is a quantitative polymerase chain reaction (qPCR)-based system taking several hours to confirm positivity. For effective public health containment measures, this time span is too long. We therefore evaluated a rapid test in a high-prevalence community setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32334183

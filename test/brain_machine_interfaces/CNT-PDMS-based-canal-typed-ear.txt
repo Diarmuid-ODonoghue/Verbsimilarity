@@ -1,0 +1,3 @@
+Current electroencephalogram (EEG) monitoring systems typically require cumbersome electrodes that must be pasted on a scalp, making a private recording of an EEG in a public place difficult. We have developed a small, user friendly, biocompatible electrode with a good appearance for inconspicuous EEG monitoring.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24963747

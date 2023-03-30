@@ -1,0 +1,3 @@
+This paper presents some recent developments in the field of wearable sensors and systems that are relevant to rehabilitation and provides examples of systems with evidence supporting their effectiveness for rehabilitation. A discussion of current challenges and future developments for selected systems is followed by suggestions for future directions needed to advance towards wider deployment of wearable sensors and systems for rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31245033

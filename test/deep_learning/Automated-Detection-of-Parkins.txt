@@ -1,0 +1,3 @@
+Parkinson's disease (PD) is a serious neurodegenerative disorder. It is reported that most of PD patients have voice impairments. But these voice impairments are not perceptible to common listeners. Therefore, different machine learning methods have been developed for automated PD detection. However, these methods either lack generalization and clinically significant classification performance or face the problem of subject overlap.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32166050

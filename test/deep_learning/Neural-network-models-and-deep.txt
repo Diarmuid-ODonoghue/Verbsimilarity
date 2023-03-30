@@ -1,0 +1,3 @@
+Originally inspired by neurobiology, deep neural network models have become a powerful tool of machine learning and artificial intelligence. They can approximate functions and dynamics by learning from examples. Here we give a brief introduction to neural network models and deep learning for biologists. We introduce feedforward and recurrent networks and explain the expressive power of this modeling framework and the backpropagation algorithm for setting the parameters. Finally, we consider how deep neural network models might help us understand brain computation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30939301

@@ -1,0 +1,3 @@
+Minimally invasive surgical techniques using catheter is now used in many procedures. Development of surgical training of such procedures requires real-time simulation of tool-organ interaction. In such processes, each subsequent step of interaction would be based on the current configuration of the surgical tool (guidewire in this case), leading to development of techniques to solve and visualize the configuration of tool at every time step. This paper presents a Finite Element (FEM) based approach to simulate the tool-organ interaction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15718697

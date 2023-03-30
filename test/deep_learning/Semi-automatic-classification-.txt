@@ -1,0 +1,3 @@
+To present a deep learning-based approach for semi-automatic prostate cancer classification based on multi-parametric magnetic resonance (MR) imaging using a 3D convolutional neural network (CNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31468158

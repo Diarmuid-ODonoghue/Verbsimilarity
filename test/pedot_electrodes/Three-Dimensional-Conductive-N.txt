@@ -1,0 +1,3 @@
+We have synthesized conductive nanocomposites composed of multiwalled carbon nanotubes (MWCNTs) and Au nanoparticles (NPs). The Au NPs with an average size of approximately 4.3 nm are uniformly anchored on the MWCNT. After being exposed to microwave (MW) plasma irradiation, the anchored Au NPs melt and fuse, leading to larger aggregates (34 nm) that can connect the MWCNT forming a three-dimensional conducting network. The formation of a continuous MWCNT network can produce more a conductive pathway, leading to lower sheet resistance. When the Au-MWCNT is dispersed in the highly conductive polymer, poly(ethylene dioxythiophene):polystyrenesulfonate (
+
+https://www.ncbi.nlm.nih.gov/pubmed/25970208

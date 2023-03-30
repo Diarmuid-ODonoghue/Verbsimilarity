@@ -1,0 +1,3 @@
+To assess the feasibility and robustness of an asynchronous and non-invasive EEG-based Brain-Computer Interface (BCI) for continuous mental control of a wheelchair.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18621580

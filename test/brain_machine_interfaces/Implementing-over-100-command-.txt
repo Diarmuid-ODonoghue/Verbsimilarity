@@ -1,0 +1,3 @@
+Recently, electroencephalography (EEG)- based brain-computer interfaces (BCIs) have made tremendous progress in increasing communication speed. However, current BCI systems could only implement a small number of command codes, which hampers their applicability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32149621

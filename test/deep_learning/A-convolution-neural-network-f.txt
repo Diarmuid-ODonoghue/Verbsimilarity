@@ -1,0 +1,3 @@
+This study aims to investigate the feasibility of using convolutional neural networks to predict an accurate and high resolution dose distribution from an approximated and low resolution input dose.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32247227

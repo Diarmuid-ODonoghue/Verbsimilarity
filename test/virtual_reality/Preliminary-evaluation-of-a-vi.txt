@@ -1,0 +1,3 @@
+To evaluate the influence of a simulation-based program on the initial performance of dural puncture by medical interns, and to refine the design of simulator-based teaching and competence assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23274077

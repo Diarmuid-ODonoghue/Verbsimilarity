@@ -1,0 +1,3 @@
+Hybrid brain-computer interfaces (BCIs) have been proved to be more effective in mental control by combining another channel of physiologic control signals. Among those studies, little attention has been paid to the combined use of a steady-state visual evoked potential (SSVEP) and P300 potential, both providing the fastest and the most reliable EEG based BCIs. In this paper, a novel hybrid BCI speller is developed to elicit P300 potential and SSVEP blocking (SSVEP-B) distinctly and simultaneously with the same target stimulus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23369924

@@ -1,0 +1,3 @@
+Among all 209 discharged coronavirus 2019 patients in Shenzhen China between January 23 and February 21, 2020, there are 9 (4.3%) patients showed RT-PCR positive in throat swabs, 13 (6.2%) patients showed RT-PCR positive in anal swabs, and 22 (10.5%) positive in either type. The time between discharge and positive RT-PCR tests is 4.7 days on average. These numbers shed light on the viral dynamics of COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32297851

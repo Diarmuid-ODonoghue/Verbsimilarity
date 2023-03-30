@@ -1,0 +1,3 @@
+A seizure prediction system can detect seizures prior to their occurrence and allow clinicians to provide timely treatment for patients with epilepsy. Research on seizure prediction has progressed from signal processing analyses to machine learning. However, most prediction methods are hand-engineered and have high computational complexity, increasing the difficulty of obtaining real-time predictions. Some forecasting and early warning methods have achieved good results in the short term but have low applicability in practical situations over the long term.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31408651

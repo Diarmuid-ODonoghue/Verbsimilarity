@@ -1,0 +1,3 @@
+Deep learning has shown great promise for improving medical image classification tasks. However, knowing what aspects of an image the deep learning system uses or, in a manner of speaking, sees to make its prediction is difficult.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30403527

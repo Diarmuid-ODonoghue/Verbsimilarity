@@ -1,0 +1,3 @@
+Cerebral small vessel disease, mainly characterized by white matter lesions and lacunes, has a high clinical impact as it leads to vascular dementia. Recent studies have shown that this disease impairs frontoparietal networks. Here, we apply resting-state magnetic resonance imaging and data-driven whole-brain imaging analysis methods (eigenvector centrality) to investigate changes of the functional connectome in early small vessel disease. We show reduced connectivity in frontoparietal networks, whereas connectivity increases in the cerebellum. These functional changes are closely related to white matter lesions and typical neuropsychological deficits associated with small vessel disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24780899

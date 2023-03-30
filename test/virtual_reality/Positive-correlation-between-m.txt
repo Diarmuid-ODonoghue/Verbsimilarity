@@ -1,0 +1,3 @@
+We studied the construct validity of the LapMentor, a virtual reality laparoscopic surgical simulator, and the correlation between the data collected on the LapMentor and the results of video assessment of real laparoscopic surgeries.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22642549

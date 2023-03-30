@@ -1,0 +1,3 @@
+Traditional spatial filters used for steady-state visual evoked potential (SSVEP) extraction such as minimum energy combination (MEC) require the estimation of the background electroencephalogram (EEG) noise components. Even though this leads to improved performance in low signal to noise ratio (SNR) conditions, it makes such algorithms slow compared to the standard detection methods like canonical correlation analysis (CCA) due to the additional computational cost.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29890196

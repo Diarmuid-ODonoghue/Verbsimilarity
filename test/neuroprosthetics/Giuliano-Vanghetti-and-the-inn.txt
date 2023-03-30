@@ -1,0 +1,3 @@
+Developing functional artificial limbs for amputees has been a centuries-old challenge in medicine. We review the mechanical and neurologic principles of "cineplastic operations" and "plastic motors" used to restore movements in prostheses, with special attention to the work of Giuliano Vanghetti.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28993523

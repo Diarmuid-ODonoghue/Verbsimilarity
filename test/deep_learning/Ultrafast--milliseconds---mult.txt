@@ -1,0 +1,3 @@
+Some advanced RF pulses, like multidimensional RF pulses, are often long and require substantial computation time because of a number of constraints and requirements, sometimes hampering clinical use. However, the pulses offer opportunities of reduced-FOV imaging, regional flip-angle homogenization, and localized spectroscopy, e.g., of hyperpolarized metabolites. Proposed herein is a novel deep learning approach to ultrafast design of multidimensional RF pulses with intention of real-time pulse updates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30927308

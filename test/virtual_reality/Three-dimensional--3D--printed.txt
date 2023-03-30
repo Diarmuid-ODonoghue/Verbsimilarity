@@ -1,0 +1,3 @@
+Three-dimensional (3D) printing is a manufacturing process in which an object is created by specialist printers designed to print in additive layers to create a 3D object. Whilst there are initial promising medical applications of 3D printing, a lack of evidence to support its use remains a barrier for larger scale adoption into clinical practice. Endovascular virtual reality (VR) simulation plays an important role in the safe training of future endovascular practitioners, but existing VR models have disadvantages including cost and accessibility which could be addressed with 3D printing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28251121

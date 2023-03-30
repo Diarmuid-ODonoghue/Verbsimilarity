@@ -1,0 +1,3 @@
+Cognitive overload can impair learning, and different factors might affect cognitive load during simulation-based training. In this study, we investigate the role of failure in repeated practice of virtual reality (VR) simulation of hip fracture surgery on cognitive load (CL) estimated by secondary-task reaction time test and two questionnaires.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31832243

@@ -1,0 +1,3 @@
+Stationary subjects who perceive visually induced illusions of self-motion, or vection, in virtual reality (VR) often experience cybersickness, the symptoms of which are similar to those experienced during motion sickness. An experiment was conducted to test the effects of single and dual-axis rotation of a virtual environment on cybersickness. It was predicted that VR displays which induced illusory dual-axis (as opposed to single-axis) self-rotations in stationary subjects would generate more sensory conflict and subsequently more cybersickness.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19911517

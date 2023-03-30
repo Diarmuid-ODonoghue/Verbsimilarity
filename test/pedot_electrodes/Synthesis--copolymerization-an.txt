@@ -1,0 +1,3 @@
+Conjugated polymers have been developed as effective materials for interfacing prosthetic device electrodes with neural tissue. Recent focus has been on the development of conjugated polymers that contain biological components in order to improve the tissue response upon implantation of these electrodes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23103748

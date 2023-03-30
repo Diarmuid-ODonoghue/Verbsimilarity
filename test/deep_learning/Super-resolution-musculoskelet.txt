@@ -1,0 +1,3 @@
+To develop a super-resolution technique using convolutional neural networks for generating thin-slice knee MR images from thicker input slices, and compare this method with alternative through-plane interpolation methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29582464

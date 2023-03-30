@@ -1,0 +1,3 @@
+In healthy adults, successful between-session recall of extinction learning depends on the hippocampus and ventromedial prefrontal cortex (vmPFC), especially when tested in the extinction context. Poor extinction recall and dysfunction within hippocampal-vmPFC circuitry are associated with fear-based disorders (e.g., anxiety, posttraumatic stress disorder). Despite the early age of onset of virtually all fear-based disorders and the protracted development of the hippocampus and vmPFC across the first two decades of life, little is known about extinction recall and the underlying neural correlates in children.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30347237

@@ -1,0 +1,3 @@
+P300-spellers are brain-computer interface (BCI)-based character input systems. Support vector machine (SVM) ensembles are trained with large-scale training sets and used as classifiers in these systems. However, the required large-scale training data necessitate a prolonged collection time for each subject, which results in data collected toward the end of the period being contaminated by the subject's fatigue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29630571

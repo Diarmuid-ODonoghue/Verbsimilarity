@@ -1,0 +1,3 @@
+Prognostic modelling using standard methods is well-established, particularly for predicting risk of single diseases. Machine-learning may offer potential to explore outcomes of even greater complexity, such as premature death. This study aimed to develop novel prediction algorithms using machine-learning, in addition to standard survival modelling, to predict premature all-cause mortality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30917171

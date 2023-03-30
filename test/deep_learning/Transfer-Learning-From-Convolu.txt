@@ -1,0 +1,3 @@
+With the growing adoption of digital breast tomosynthesis (DBT) in breast cancer screening, we compare the performance of deep learning computer-aided diagnosis on DBT images to that of conventional full-field digital mammography (FFDM).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30076083

@@ -1,0 +1,3 @@
+The systemic low-frequency oscillation (sLFO) functional (f)MRI signals extracted from the internal carotid artery (ICA) and the superior sagittal sinus (SSS) are found to have valuable physiological information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31034667

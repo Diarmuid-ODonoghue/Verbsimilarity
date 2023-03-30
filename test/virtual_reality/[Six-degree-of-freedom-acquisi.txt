@@ -1,0 +1,3 @@
+To explore the six degrees of freedom of jaw opening and closing movement with motion capture and analysis system to establish a quantitative method for studying mandibular movement and a digital basis for virtual reality study of mandibular movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21945776

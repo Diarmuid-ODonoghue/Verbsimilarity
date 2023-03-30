@@ -1,0 +1,3 @@
+Training using laparoscopic high-fidelity simulators (LHFSs) to proficiency levels improves laparoscopic cholecystectomy skills. However, high-cost simulators and their limited availability could negatively impact residents' laparoscopic training opportunities. We aimed to assess whether motivation and surgical skill performance differ after basic skills training (BST) using a low-cost (Blackbox) versus LHFS (LapMentor) among medical students.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32014696

@@ -1,0 +1,3 @@
+The purpose of creating the virtual reality (VR) simulator is to facilitate and supplement the training opportunities provided to orthopedic residents. The use of VR simulators has increased rapidly in the field of medical surgery for training purposes. This paper discusses the creation of the virtual surgical environment (VSE) for training residents in an orthopedic surgical process called less invasive stabilization system (LISS) surgery which is used to address fractures of the femur.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29222631

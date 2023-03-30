@@ -1,0 +1,3 @@
+To improve the image quality of highly accelerated multi-channel MRI data by learning a joint variational network that reconstructs multiple clinical contrasts jointly.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32129529

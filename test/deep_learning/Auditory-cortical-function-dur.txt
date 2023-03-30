@@ -1,0 +1,3 @@
+Episodic memory encoding of a verbal message depends upon initial registration, which requires sustained auditory attention followed by deep semantic processing of the message. Motivated by previous data demonstrating modulation of auditory cortical activity during sustained attention to auditory stimuli, we investigated the response of the human auditory cortex during encoding of sentences to episodic memory. Subsequently, we investigated this response in patients with mild cognitive impairment (MCI) and probable Alzheimer's disease (pAD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23281111

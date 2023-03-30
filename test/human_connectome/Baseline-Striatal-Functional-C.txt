@@ -1,0 +1,3 @@
+Clinical response to antipsychotic drug treatment is highly variable, yet prognostic biomarkers are lacking. The authors recently demonstrated that successful antipsychotic drug treatment alters resting-state functional connectivity of the striatum. The goal of the present study was to test whether intrinsic striatal connectivity patterns provide prognostic information and can serve as a potential biomarker of treatment response to antipsychotic drugs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26315980

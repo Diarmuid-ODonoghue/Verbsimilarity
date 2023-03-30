@@ -1,0 +1,3 @@
+Package-free flexible organic solar cells are fabricated with multilayer graphene as top transparent electrodes, which show the highest power conversion efficiency of about 3.2% and excellent flexibility and bending stability. The devices also show good air stability, indicating that multilayer graphene is a promising environmental barrier that can protect the organic solar cells from air contamination.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23553739

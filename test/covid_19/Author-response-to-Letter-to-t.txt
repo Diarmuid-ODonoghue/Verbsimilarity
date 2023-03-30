@@ -1,0 +1,3 @@
+We chose the CAP patients hospitalized in our hospital last year as the control because there was no suitable healthy control group available now. And considering the diverse etiology of CAP, the liver impairment appeared in CAP patients maybe result from ischemia/hypoxia-reperfusion injury, systemic inflammatory response or drug use before hospitalization, besides the pathogen itself.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348618

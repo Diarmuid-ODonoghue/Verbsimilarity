@@ -1,0 +1,3 @@
+Challenges in improving the performance of dexterous upper-limb brain-machine interfaces (BMIs) have prompted renewed interest in quantifying the amount and type of sensory information naturally encoded in the primary motor cortex (M1). Previous single unit studies in monkeys showed M1 is responsive to tactile stimulation, as well as passive and active movement of the limbs. However, recent work in this area has focused primarily on proprioception. Here we examined instead how tactile somatosensation of the hand and fingers is represented in M1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28504971

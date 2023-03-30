@@ -1,0 +1,3 @@
+Brain machine interface (BMI) is a system which communicates the brain with the external machines. In general, an electroencephalograph (EEG) machine has to be used to monitor multi-channel brain responses to improve the BMI performance. However, the bulky size of the EEG machine and applying conductive gels in EEG electrodes also cause the inconvenience of daily life applications. How to select the relevant EEG channel and remove irrelevant channels is important and useful for the development of BMIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31416561

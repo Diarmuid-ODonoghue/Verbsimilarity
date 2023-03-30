@@ -1,0 +1,3 @@
+Bacterial resistance to antibiotics is a growing concern. Antimicrobial peptides (AMPs), natural components of innate immunity, are popular targets for developing new drugs. Machine learning methods are now commonly adopted by wet-laboratory researchers to screen for promising candidates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29590297

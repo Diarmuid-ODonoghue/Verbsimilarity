@@ -1,0 +1,3 @@
+Rehabilitation programs designed to develop skill in upper extremity (UE) function after stroke require progressive practice that engage and challenge the learner. Virtual realty (VR) provides a unique environment where the presentation of stimuli can be controlled systematically for optimal challenge by adapting task difficulty as performance improves. We describe four VR tasks that were developed and tested to improve arm and hand movement skills for individuals with hemiparesis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17587459

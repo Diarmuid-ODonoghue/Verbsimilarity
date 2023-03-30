@@ -1,0 +1,3 @@
+Machine learning techniques can identify complex relationships in large healthcare datasets and build prediction models that better inform physicians in ways that can assist in patient treatment decision-making. In the domain of shoulder arthroplasty, machine learning appears to have the potential to anticipate patients' results after surgery, but this has not been well explored.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32332242

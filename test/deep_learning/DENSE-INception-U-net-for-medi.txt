@@ -1,0 +1,3 @@
+Convolutional neural networks (CNNs) play an important role in the field of medical image segmentation. Among many kinds of CNNs, the U-net architecture is one of the most famous fully convolutional network architectures for medical semantic segmentation tasks. Recent work shows that the U-net network can be substantially deeper thus resulting in improved performance on segmentation tasks. Though adding more layers directly into network is a popular way to make a network deeper, it may lead to gradient vanishing or redundant computation during training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32163817

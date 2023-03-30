@@ -1,0 +1,3 @@
+Technology allowing a remote, experienced surgeon to provide real-time guidance to local surgeons has great potential for training and capacity building in medical centers worldwide. Virtual interactive presence and augmented reality (VIPAR), an iPad-based tool, allows surgeons to provide long-distance, virtual assistance wherever a wireless internet connection is available. Local and remote surgeons view a composite image of video feeds at each station, allowing for intraoperative telecollaboration in real time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26342783

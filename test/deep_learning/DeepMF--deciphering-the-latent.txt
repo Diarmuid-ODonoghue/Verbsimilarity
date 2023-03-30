@@ -1,0 +1,3 @@
+With recent advances in high-throughput technologies, matrix factorization techniques are increasingly being utilized for mapping quantitative omics profiling matrix data into low-dimensional embedding space, in the hope of uncovering insights in the underlying biological processes. Nevertheless, current matrix factorization tools fall short in handling noisy data and missing entries, both deficiencies that are often found in real-life data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31881818

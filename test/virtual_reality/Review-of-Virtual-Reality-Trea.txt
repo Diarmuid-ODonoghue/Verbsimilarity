@@ -1,0 +1,3 @@
+This paper describes recent research that proposes virtual reality techniques as a therapy for patients with cognitive and psychological problems. Specifically this applies to victims of conditions such as traumatic brain injury, Alzheimers and Parkinsons. Additionally virtual reality therapy offers an alternative to current desensitization techniques for the treatment of phobias Some important issues are examined including means of user interaction, skills transfer to the real world, and side-effects of virtual reality exposure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11604849

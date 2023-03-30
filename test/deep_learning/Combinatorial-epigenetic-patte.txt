@@ -1,0 +1,3 @@
+Chromatin immunoprecipitation followed by deep sequencing (ChIP-seq) is the most widely used method for characterizing the epigenetic states of chromatin on a genomic scale. With the recent availability of large genome-wide data sets, often comprising several epigenetic marks, novel approaches are required to explore functionally relevant interactions between histone modifications. Computational discovery of "chromatin states" defined by such combinatorial interactions enabled descriptive annotations of genomes, but more quantitative approaches are needed to progress towards predictive models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24472558

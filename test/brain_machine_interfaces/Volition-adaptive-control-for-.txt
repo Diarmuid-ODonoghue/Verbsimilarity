@@ -1,0 +1,3 @@
+Gait training for individuals with neurological disorders is challenging in providing the suitable assistance and more adaptive behaviour towards user needs. The user specific adaptation can be defined based on the user interaction with the orthosis and by monitoring the user intentions. In this paper, an adaptive control model, commanded by the user intention, is evaluated using a lower limb exoskeleton with incomplete spinal cord injury individuals (SCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29298691

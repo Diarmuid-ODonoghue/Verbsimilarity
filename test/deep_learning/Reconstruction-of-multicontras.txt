@@ -1,0 +1,3 @@
+Magnetic resonance (MR) imaging with a long scan time can lead to degraded images due to patient motion, patient discomfort, and increased costs. For these reasons, the role of rapid MR imaging is important. In this study, we propose the joint reconstruction of multicontrast brain MR images from down-sampled data to accelerate the data acquisition process using a novel deep-learning network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31889314

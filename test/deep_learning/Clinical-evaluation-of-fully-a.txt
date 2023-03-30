@@ -1,0 +1,3 @@
+Segmentation of thigh muscle and adipose tissue is important for the understanding of musculoskeletal diseases such as osteoarthritis. Therefore, the purpose of this work is (a) to evaluate whether a fully automated approach provides accurate segmentation of muscles and adipose tissue cross-sectional areas (CSA) compared with manual segmentation and (b) to evaluate the validity of this method based on a previous clinical study.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31872357

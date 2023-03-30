@@ -1,0 +1,3 @@
+In this paper, we would like to share our experience in developing various virtual medicine applications, including virtual arthroscopy, virtual acupuncture and virtual anatomy. We have deployed the latest graphics processor to develop these virtual reality based learning and training systems. Having utilized various visible human datasets, the visual quality of the applications has been greatly improved.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17281150

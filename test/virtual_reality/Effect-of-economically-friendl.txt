@@ -1,0 +1,3 @@
+Consumer virtual reality (VR) devices are becoming more prevalent in the market, but cybersickness induced by VR devices limits their potential application and promotion. Acustimulation has been found effective in reducing cybersickness symptoms. However, in previous forms, the more effective way of acustimulation is either intrusive or electrical which is hard to be applied to daily VR use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31487560

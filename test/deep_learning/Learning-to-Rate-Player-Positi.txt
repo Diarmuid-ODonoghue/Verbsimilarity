@@ -1,0 +1,3 @@
+We investigate how to learn functions that rate game situations on a soccer pitch according to their potential to lead to successful attacks. We follow a purely data-driven approach using techniques from deep reinforcement learning to valuate multiplayer positionings based on positional data. Empirically, the predicted scores highly correlate with dangerousness of actual situations and show that rating of player positioning without expert knowledge is possible.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30672712

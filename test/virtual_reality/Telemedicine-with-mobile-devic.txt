@@ -1,0 +1,3 @@
+Advanced features are being added to telemedicine paradigms to enhance usability and usefulness. Virtual Interactive Presence (VIP) is a technology that allows a surgeon and patient to interact in a "merged reality" space, to facilitate both verbal, visual, and manual interaction. In this clinical study, a mobile VIP iOS application was introduced into routine post-operative orthopedic and neurosurgical care. Survey responses endorse the usefulness of this tool, as it relates to The virtual interaction provides needed virtual follow-up in instances where in-person follow-up may be limited, and enhances the subjective patient experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28269256

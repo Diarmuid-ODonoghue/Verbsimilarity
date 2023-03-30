@@ -1,0 +1,3 @@
+Annotation of surgical activities becomes increasingly important for many recent applications such as surgical workflow analysis, surgical situation awareness, and the design of the operating room of the future, especially to train machine learning methods in order to develop intelligent assistance. Currently, annotation is mostly performed by observers with medical background and is incredibly costly and time-consuming, creating a major bottleneck for the above-mentioned technologies. In this paper, we propose a way to eliminate, or at least limit, the human intervention in the annotation process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31177422

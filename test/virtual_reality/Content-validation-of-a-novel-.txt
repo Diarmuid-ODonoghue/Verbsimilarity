@@ -1,0 +1,3 @@
+• To assess the content validity of an early prototype robotic simulator. Minimally invasive surgery poses challenges for training future surgeons. The Robotic Surgical Simulator (RoSS) is a novel virtual reality simulator for the da Vinci Surgical System.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21029316

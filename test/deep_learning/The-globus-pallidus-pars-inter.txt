@@ -1,0 +1,3 @@
+There is an apparent contradiction between experimental data showing that the basal ganglia are involved in goal-oriented and routine behaviors and clinical observations. Lesion or disruption by deep brain stimulation of the globus pallidus interna has been used for various therapeutic purposes ranging from the improvement of dystonia to the treatment of Tourette's syndrome. None of these approaches has reported any severe impairment in goal-oriented or automatic movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26900137

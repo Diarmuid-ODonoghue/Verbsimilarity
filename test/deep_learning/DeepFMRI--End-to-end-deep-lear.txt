@@ -1,0 +1,3 @@
+Resting state fMRI has emerged as a popular neuroimaging method for automated recognition and classification of brain disorders. Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common brain disorders affecting young children, yet its underlying mechanism is not completely understood and its diagnosis is mainly dependent on behaviour analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32001294

@@ -1,0 +1,3 @@
+for many technology-driven visuomotor tasks such as tele-surgery, human operators face situations in which the frames of reference for vision and action are misaligned and need to be compensated in order to perform the tasks with the necessary precision. The cognitive mechanisms for the selection of appropriate frames of reference are still not fully understood. This study investigated the effect of changing visual and kinesthetic frames of reference during wrist pointing, simulating activities typical for tele-operations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19753120

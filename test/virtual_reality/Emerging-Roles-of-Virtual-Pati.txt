@@ -1,0 +1,3 @@
+Today's web-enabled and virtual approach to medical education is different from the 20th century's Flexner-dominated approach. Now, lectures get less emphasis and more emphasis is placed on learning via early clinical exposure, standardized patients, and other simulations. This article reviews literature on virtual patients (VPs) and their underlying virtual reality technology, examines VPs' potential through the example of psychiatric intake teaching, and identifies promises and perils posed by VP use in medical education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30794125

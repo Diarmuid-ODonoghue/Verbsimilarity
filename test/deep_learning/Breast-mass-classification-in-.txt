@@ -1,0 +1,3 @@
+We propose a deep learning-based approach to breast mass classification in sonography and compare it with the assessment of four experienced radiologists employing breast imaging reporting and data system 4th edition lexicon and assessment protocol.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30589947

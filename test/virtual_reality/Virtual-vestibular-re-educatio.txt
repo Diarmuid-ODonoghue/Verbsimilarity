@@ -1,0 +1,3 @@
+This paper will provide an introduction to the use of virtual environments for vestibular re-education. The author illustrates some of the ways in which researchers are using virtual reality to improve therapy for vertigo. Users of virtual reality must make adaptations to avoid mismatches between perception due to virtual reality and that due to vestibular and proprioceptive subsystems. Virtual reality may be an interesting new way of studying vestibular compensation in normal and pathological conditions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17067086

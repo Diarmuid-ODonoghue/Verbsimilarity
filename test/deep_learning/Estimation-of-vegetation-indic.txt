@@ -1,0 +1,3 @@
+Unmanned aerial vehicles offer the opportunity for precision agriculture to efficiently monitor agricultural land. A vegetation index (VI) derived from an aerially observed multispectral image (MSI) can quantify crop health, moisture and nutrient content. However, due to the high cost of multispectral sensors, alternate, low-cost solutions have lately received great interest. We present a novel method for model-based estimation of a VI using RGB color images. The non-linear spatio-spectral relationship between the RGB image of vegetation and the index computed by its corresponding MSI is learned through deep neural networks. The learned models can be used to estimate VI of a crop segment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29563961

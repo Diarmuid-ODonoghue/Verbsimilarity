@@ -1,0 +1,3 @@
+Virtual reality (VR) applications meet fundamental principles of rehabilitation: intensity, task oriented training, biofeedback, environments rich in stimuli, and motivation, all pivotal factors for the success of rehabilitation programs. This paper describes the development process of a set of VR minigames developed to increase the motivation of stroke patients while performing repetitive upper limb movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30869599

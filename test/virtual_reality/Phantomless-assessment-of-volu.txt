@@ -1,0 +1,3 @@
+To evaluate phantomless assessment of volumetric bone mineral density (vBMD) based on virtual non-contrast images of arterial (VNCa) and venous phase (VNCv) derived from spectral detector CT in comparison to true non-contrast (TNC) images and adjusted venous phase conventional images (CIV(adjusted)).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32101453

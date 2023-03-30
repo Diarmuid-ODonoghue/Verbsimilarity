@@ -1,0 +1,3 @@
+This research aimed to evaluate the differences in the assessments made by three simulation tools used in a maintainability design office to perform human factor/ergonomics (HFE) analysis: digital human modeling (DHM), virtual reality (VR), and physical mock-up (PMU).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31361155

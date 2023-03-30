@@ -1,0 +1,3 @@
+Laparoscopic liver surgery is seldom performed, mainly because of the risk of hepatic vein bleeding or incomplete resection of the tumour. This risk may be reduced by means of an augmented reality guidance system (ARGS), which have the potential to aid one in finding the position of intrahepatic tumours and hepatic veins and thus in facilitating the oncological resection and in limiting the risk of operative bleeding.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28791423

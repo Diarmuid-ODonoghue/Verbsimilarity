@@ -1,0 +1,3 @@
+Several Italian towns are under lockdown to contain the COVID-19 outbreak. The level of transmission reduction required for physical distancing interventions to mitigate the epidemic is a crucial question. We show that very high adherence to community quarantine (total stay-home policy) and a small household size is necessary for curbing the outbreak in a locked-down town. The larger the household size and amount of time in the public, the longer the lockdown period needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32265005

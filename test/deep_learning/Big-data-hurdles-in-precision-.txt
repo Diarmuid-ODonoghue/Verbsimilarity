@@ -1,0 +1,3 @@
+Nowadays, trendy research in biomedical sciences juxtaposes the term 'precision' to medicine and public health with companion words like big data, data science, and deep learning. Technological advancements permit the collection and merging of large heterogeneous datasets from different sources, from genome sequences to social media posts or from electronic health records to wearables. Additionally, complex algorithms supported by high-performance computing allow one to transform these large datasets into knowledge. Despite such progress, many barriers still exist against achieving precision medicine and precision public health interventions for the benefit of the individual and the population.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30594159

@@ -1,0 +1,3 @@
+Ultrasound-based fetal biometric measurements, such as head circumference (HC) and biparietal diameter (BPD), are frequently used to evaluate gestational age and diagnose fetal central nervous system pathology. Because manual measurements are operator-dependent and time-consuming, much research is being actively conducted on automated methods. However, the existing automated methods are still not satisfactory in terms of accuracy and reliability, owing to difficulties dealing with various artefacts in ultrasound images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31091515

@@ -1,0 +1,3 @@
+We propose a deep learning based method to estimate high-resolution images from multiple fiber bundle images. Our approach first aligns raw fiber bundle image sequences with a motion estimation neural network and then applies a 3D convolution neural network to learn a mapping from aligned fiber bundle image sequences to their ground truth images. Evaluations on lens tissue samples and a 1951 USAF resolution target suggest that our proposed method can significantly improve spatial resolution for fiber bundle imaging systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31163777

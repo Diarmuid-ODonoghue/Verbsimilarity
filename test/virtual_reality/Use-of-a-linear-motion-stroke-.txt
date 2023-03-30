@@ -1,0 +1,3 @@
+Virtual Basic Laparoscopic Skills Trainer (VBLaST) is a virtual reality trainer that replicates the Fundamentals of Laparoscopic Surgery (FLS) tasks for training in minimally invasive surgery. For the ligation loop task, we have developed a novel hardware interface using a linear motion stroke potentiometer to accurately sense the linear translation of the ligation loop and a mechanism to attach the tool interface to a PHANToM Omni for force feedback. Testing shows that the interface provided a realistic feel and control of the loop similar to the endoloop device used in FLS ligation loop task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22356967

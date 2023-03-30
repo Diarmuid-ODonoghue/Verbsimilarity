@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) are no longer only used by healthy participants under controlled conditions in laboratory environments, but also by patients and end-users, controlling applications in their homes or clinics, without the BCI experts around. But are the technology and the field mature enough for this? Especially the successful operation of applications - like text entry systems or assistive mobility devices such as tele-presence robots - requires a good level of BCI control. How much training is needed to achieve such a level? Is it possible to train naïve end-users in 10 days to successfully control such applications?
+
+https://www.ncbi.nlm.nih.gov/pubmed/24119870

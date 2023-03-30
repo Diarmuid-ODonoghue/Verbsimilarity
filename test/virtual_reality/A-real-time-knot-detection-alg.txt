@@ -1,0 +1,3 @@
+In this work, we present an efficient real-time method to detect knots in a virtual-reality suturing simulator. The knot detection method exploits the self-collision information on pairs of thread segments to detect the knot. Once the knot is detected, it is frozen for further evaluation in the simulator. This method was successfully tested for standard knots that are applied with the intracorporeal technique. We have shown that our method can detect knots in real-time for various thread lengths.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377170

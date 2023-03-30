@@ -1,0 +1,3 @@
+Cardiac tissue deformation can modify tissue resistance, membrane capacitance and ion currents and hence cause arrhythmogenic slow conduction. Our aim was to investigate whether uniaxial strain causes different changes in conduction velocity (θ) when the principal strain axis is parallel vs perpendicular to impulse propagation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29282897

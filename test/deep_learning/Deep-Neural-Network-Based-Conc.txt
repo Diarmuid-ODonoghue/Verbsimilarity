@@ -1,0 +1,3 @@
+Oak is the dominant tree species in Korea. Oak pollen has the highest sensitivity rate among all allergenic tree species in Korea. A deep neural network (DNN)-based estimation model was developed to determine the concentration of oak pollen and overcome the shortcomings of conventional regression models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31743971

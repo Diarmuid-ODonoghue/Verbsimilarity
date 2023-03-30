@@ -1,0 +1,3 @@
+This paper describes an application of a display approach which uses chromakey techniques to composite real and computer-generated images allowing a user to see his hands and medical instruments collocated with the display of virtual objects during a medical training simulation. Haptic feedback is provided through the use of a PHANTOM force feedback device in addition to tactile augmentation, which allows the user to touch virtual objects by introducing corresponding real objects in the workspace. A simplified catheter introducer insertion simulation was developed to demonstrate the capabilities of this approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458076

@@ -1,0 +1,3 @@
+We recently developed soft neural interfaces enabling the delivery of electrical and chemical stimulation to the spinal cord. These stimulations restored locomotion in animal models of paralysis. Soft interfaces can be placed either below or above the dura mater. Theoretically, the subdural location combines many advantages, including increased selectivity of electrical stimulation, lower stimulation thresholds, and targeted chemical stimulation through local drug delivery. However, these advantages have not been documented, nor have their functional impact been studied in silico or in a relevant animal model of neurological disorders using a multimodal neural interface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29339580

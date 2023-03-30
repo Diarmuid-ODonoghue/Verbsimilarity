@@ -1,0 +1,3 @@
+Learning distributional representation of clinical concepts (e.g., diseases, drugs, and labs) is an important research area of deep learning in the medical domain. However, many existing relevant methods do not consider temporal dependencies along the longitudinal sequence of a patient's records, which may lead to incorrect selection of contexts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30961579

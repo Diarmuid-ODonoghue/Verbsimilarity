@@ -1,0 +1,3 @@
+Corticomuscular coupling has been investigated for long, to find out the underlying mechanisms behind cortical drives to produce different motor tasks. Although important in rehabilitation perspective, the use of corticomuscular coupling for driving brain-computer interface (BCI)-based neurorehabilitation is much ignored. This is primarily due to the fact that the EEG-EMG coherence popularly used to compute corticomuscular coupling, fails to produce sufficient accuracy in single-trial based prediction of motor tasks in a BCI system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30452976

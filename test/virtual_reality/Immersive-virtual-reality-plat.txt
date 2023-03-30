@@ -1,0 +1,3 @@
+The Medical Readiness Trainer (MRT) integrates fully immersive Virtual Reality (VR), highly advanced medical simulation technologies, and medical data to enable unprecedented medical education and training. The flexibility offered by the MRT environment serves as a practical teaching tool today and in the near future the will serve as an ideal vehicle for facilitating the transition to the next level of medical practice, i.e., telepresence and next generation Internet-based collaborative learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10977542

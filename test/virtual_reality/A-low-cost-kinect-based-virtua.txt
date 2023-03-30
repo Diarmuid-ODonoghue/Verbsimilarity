@@ -1,0 +1,3 @@
+We designed this study to prove the efficacy of the low-cost Kinect-based virtual rehabilitation (VR) system for upper limb recovery among patients with subacute stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29924029

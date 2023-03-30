@@ -1,0 +1,3 @@
+Nephrosis is disease characterized by abnormal protein loss from impaired kidney. We constructed early prediction model using machine learning from clinical time series data, that can predict onset of nephrosis for more than one month. Long short-term memory capable of recognizing temporal sequential data patterns, was adopted as early prediction model for nephrosis. We verified our proposed prediction model has higher accuracy compared with those of baseline classifiers by 5-fold cross validation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31438249

@@ -1,0 +1,3 @@
+Functional neuroimaging studies of schizophrenia have identified abnormal activations in many brain regions. In an effort to interpret these findings from a network perspective, we carried out a meta-analysis of this literature, mapping anatomical locations of under- and over-activation to the topology of a normative human functional connectome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26472684

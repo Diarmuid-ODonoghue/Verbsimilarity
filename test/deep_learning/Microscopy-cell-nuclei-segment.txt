@@ -1,0 +1,3 @@
+Cell nuclei segmentation is a fundamental task in microscopy image analysis, based on which multiple biological related analysis can be performed. Although deep learning (DL) based techniques have achieved state-of-the-art performances in image segmentation tasks, these methods are usually complex and require support of powerful computing resources. In addition, it is impractical to allocate advanced computing resources to each dark- or bright-field microscopy, which is widely employed in vast clinical institutions, considering the cost of medical exams. Thus, it is essential to develop accurate DL based segmentation algorithms working with resources-constraint computing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31914944

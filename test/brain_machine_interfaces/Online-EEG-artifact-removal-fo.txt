@@ -1,0 +1,3 @@
+The performance of brain-computer interfaces (BCIs) based on electroencephalography (EEG) data strongly depends on the effective attenuation of artifacts that are mixed in the recordings. To address this problem, we have developed a novel online EEG artifact removal method for BCI applications, which combines blind source separation (BSS) and regression (REG) analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29952752

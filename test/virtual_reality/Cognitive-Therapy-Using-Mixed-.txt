@@ -1,0 +1,3 @@
+There is new research showing that interactive multimodal rehabilitation may enhance cognitive therapy after cerebrovascular accident. A well-designed Mixed Reality system provides a diverse, controllable and versatile therapeutic environment to help promote neural plasticity during recovery. In addition to stroke patients, there are other groups, such as those with traumatic brain injury (TBI) that could benefit from the system. Initial results, both paper-and-pencil measures and physiological measures, in a trial with fourteen participants are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19592775

@@ -1,0 +1,3 @@
+A 42-year-old male was admitted with shortness of breath secondary to suspected heart failure and chest infection. An echocardiogram revealed a dilated and impaired left ventricle; ejection fraction 29%, with a large, mobile thrombus within the left ventricular apex. Due to the presence of liver dysfunction, vitamin K antagonists were deemed inappropriate; thus, the decision was taken to use the novel anticoagulation agent Apixaban. After 6 days of receiving Apixaban, a cardiac magnetic resonance scan was preformed, which showed complete resolution of the LV apical thrombus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30304634

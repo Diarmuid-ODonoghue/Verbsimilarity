@@ -1,0 +1,3 @@
+This article deals with the stability of poly-ethylenedioxythiopene (PEDOT) coatings under high loads of current pulses. Test parameters were chosen to match many peripheral nervous system applications in regard of charge injection, pulse width, and repetition frequency. PEDOT coatings were characterized with electrochemical impedance spectroscopes and pulse tests. After 60-100 million pulses, impedance increased and a more capacitive behavior was observed. A mean-time-to-failure of 127 million pulses could be calculated, suggesting a stable coating for at least this time frame with superior properties in regard of conventional platinum electrodes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21401668

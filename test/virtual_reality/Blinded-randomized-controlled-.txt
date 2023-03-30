@@ -1,0 +1,3 @@
+OtoTrain is a Web-based otoscopy simulator that has previously been shown to have face and content validity. The objective of this study was to evaluate the effectiveness of this Web-based otoscopy simulator in teaching diagnostic otoscopy to novice learners STUDY DESIGN: Prospective, blinded randomized control trial.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27577536

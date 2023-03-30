@@ -1,0 +1,3 @@
+In otorhinolaryngology training, introduction to temporal bone surgery through hands-on practice on cadaveric human temporal bones is the gold-standard training method before commencing supervised surgery. During the recent decades, the availability of such specimens and the necessary laboratory facilities for training seems to be decreasing. Alternatives to traditional training can consist of drilling artificial models made of plaster or plastic but also virtual reality (VR) simulation. Nevertheless, the integration and availability of these alternatives into specialist training programs remain unknown.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29185029

@@ -1,0 +1,3 @@
+Convolutional neural networks (CNN) have greatly improved medical image segmentation. A robust model requires training data can represent the entire dataset. One of the differing characteristics comes from variability in patient positioning (prone or supine) for radiotherapy. In this study, we investigated the effect of position orientation on segmentation using CNN.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30418701

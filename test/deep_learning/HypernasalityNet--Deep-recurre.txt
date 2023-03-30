@@ -1,0 +1,3 @@
+Cleft palate patients have inability to produce adequate velopharyngeal closure, which results in hypernasal speech. In clinic, hypernasal speech is assessed through subject assessment by speech language pathologists. Automatic hypernasal speech detection can provide aided diagnoses for speech language pathologists and clinicians.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31445242

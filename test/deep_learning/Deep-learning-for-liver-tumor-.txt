@@ -1,0 +1,3 @@
+To develop and validate a proof-of-concept convolutional neural network (CNN)-based deep learning system (DLS) that classifies common hepatic lesions on multi-phasic MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31016442

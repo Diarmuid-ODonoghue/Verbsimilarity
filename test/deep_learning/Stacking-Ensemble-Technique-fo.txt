@@ -1,0 +1,3 @@
+Breast cancer is the second most common cancer among Korean women. Because breast cancer is strongly associated with negative emotional and physical changes, early detection and treatment of breast cancer are very important. As a supporting tool for classifying breast cancer, we tried to identify the best meta-learner model in a stacking ensemble when the same machine learning models for the base learner and meta-learner are used.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31777671

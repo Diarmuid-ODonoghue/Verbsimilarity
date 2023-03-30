@@ -1,0 +1,3 @@
+This paper describes how non-invasive wearable sensors can be used in combination with deep learning to classify artificially induced gait alterations without the requirement for a medical professional or gait analyst to be present. This approach is motivated by the goal of diagnosing gait abnormalities on a symptom-by-symptom basis, irrespective of other neuromuscular movement disorders the patients may be affected by. This could lead to improvements in treatment and offer a greater insight into movement disorders.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30794506

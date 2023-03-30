@@ -1,0 +1,3 @@
+To evaluate the accuracy of deep convolutional neural networks (DCNNs) for detecting neck of femur (NoF) fractures on radiographs, in comparison with perceptual training in medically-naïve individuals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30407743

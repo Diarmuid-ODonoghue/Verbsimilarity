@@ -1,0 +1,3 @@
+Water-fat separation is a postprocessing technique most commonly applied to multiple-gradient-echo magnetic resonance (MR) images to identify fat, provide images with fat suppression, and to measure fat tissue concentration. Recently, Numerous advancements have been reported. In contrast to early methods, the process of water-fat separation has become complicated due to multiparametric analytic models, optimization methods, and the absence of a unified framework for diverse source data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30701621

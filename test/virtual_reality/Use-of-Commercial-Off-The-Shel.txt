@@ -1,0 +1,3 @@
+The increasingly pervasive presence of technology in the operating room raises the need to study the interaction between the surgeon and computer system. A new generation of tools known as commercial off-the-shelf (COTS) devices enabling touchless gesture-based human-computer interaction is currently being explored as a solution in surgical environments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31066679

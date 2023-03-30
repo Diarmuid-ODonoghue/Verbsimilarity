@@ -1,0 +1,3 @@
+Introducing computational methods to laser surgery are an emerging field. Focusing on endoscopic laser interventions, a novel approach is presented to enhance intraoperative incision planning and laser focusing by means of tissue surface information obtained by stereoscopic vision.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24875655

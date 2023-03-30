@@ -1,0 +1,3 @@
+Several specific new technologies [high-resolution CT coronary imaging with fractional flow reserve (CTCA-FFR), virtual reality (VR), vascular robotic systems (VRS), and three-dimensional printing] are poised to improve the treatment of patients with cardiovascular disease and at the same time the safety of the physicians who care for them. This article focuses on the potential clinical impact each of these modalities will have, as well as speculating on synergies that use of them together may achieve.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27020905

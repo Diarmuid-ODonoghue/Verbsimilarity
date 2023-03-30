@@ -1,0 +1,3 @@
+Although the zebrafish embryo is a powerful animal model of human heart failure, the methods routinely employed to monitor cardiac function produce rough approximations that are susceptible to bias and inaccuracies. We developed and validated a deep learning-based image-analysis platform for automated extraction of volumetric parameters of cardiac function from dynamic light-sheet fluorescence microscopy (LSFM) images of embryonic zebrafish hearts. This platform, the Cardiac Functional Imaging Network (CFIN), automatically delivers rapid and accurate assessments of cardiac performance with greater sensitivity than current approaches.This article has an associated First Person interview with the first author of the paper.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31548281

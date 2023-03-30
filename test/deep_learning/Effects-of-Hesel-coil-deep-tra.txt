@@ -1,0 +1,3 @@
+One third of the depressed patients are not improved by antidepressant drugs and psychological treatments, and there is a need for additional treatments. Repetitive transcranial magnetic stimulation (rTMS) is being developed towards an alternative in treatment-resistant depression. Deep transcranial stimulation (dTMS) with the Hesel-coil (H-coil) is a further development of rTMS aiming to enhance the effect by getting the magnetic pulses to penetrate deeper into the brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27093104

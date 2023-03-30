@@ -1,0 +1,3 @@
+Hip fractures contribute to a significant clinical burden globally with over 1.6 million cases per annum and up to 30% mortality rate within the first year. Insertion of a dynamic hip screw (DHS) is a frequently performed procedure to treat extracapsular neck of femur fractures. Poorly performed DHS fixation of extracapsular neck of femur fractures can result in poor mobilisation, chronic pain, and increased cut-out rate requiring revision surgery. A realistic, affordable, and portable fluoroscopic simulation system can improve performance metrics in trainees, including the tip-apex distance (the only clinically validated outcome), and improve outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29606486

@@ -1,0 +1,3 @@
+The achievement of multiple instances of control with the same type of mental strategy represents a way to improve flexibility of brain-computer interface (BCI) systems. Here we test the hypothesis that pure visual motion imagery of an external actuator can be used as a tool to achieve three classes of electroencephalographic (EEG) based control, which might be useful in attention disorders.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28466825

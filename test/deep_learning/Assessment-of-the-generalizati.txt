@@ -1,0 +1,3 @@
+Although deep learning has shown great promise for MR image reconstruction, an open question regarding the success of this approach is the robustness in the case of deviations between training and test data. The goal of this study is to assess the influence of image contrast, SNR, and image content on the generalization of learned image reconstruction, and to demonstrate the potential for transfer learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29774597

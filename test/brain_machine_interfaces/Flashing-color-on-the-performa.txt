@@ -1,0 +1,3 @@
+A critical problem in using steady-state visual evoked potential (SSVEP) based brain-computer interfaces (BCIs) for clinical and commercial use is the visual fatigue the user may suffer when staring at flashing stimuli. Aiming at the design of user-friendly BCIs with satisfactory performance, this work is to preliminarily investigate how different colors influence the SSVEP (i.e. frequency or phase) and system performance. The results show that white stimuli can lead to the highest performance, followed by gray, red, green and blue stimuli.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366265

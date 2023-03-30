@@ -1,0 +1,3 @@
+Functional connectivity MRI is an emerging technique that can be used to investigate typical and atypical brain function in developing and aging populations. Despite some of the current confounds in the field of functional connectivity MRI, the translational potential of the technique available to investigators may eventually be used to improve diagnosis, early disease detection, and therapy monitoring.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25307115

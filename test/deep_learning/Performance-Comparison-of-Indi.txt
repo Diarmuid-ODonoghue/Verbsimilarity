@@ -1,0 +1,3 @@
+The high-background glucose metabolism of normal gray matter on [18F]-fluoro-2-D-deoxyglucose (FDG) positron emission tomography (PET) of the brain results in a low signal-to-background ratio, potentially increasing the possibility of missing important findings in patients with intracranial malignancies. To explore the strategy of using a deep learning classifier to aid in distinguishing normal versus abnormal findings on PET brain images, this study evaluated the performance of a two-dimensional convolutional neural network (2D-CNN) to classify FDG PET brain scans as normal (N) or abnormal (A).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31659587

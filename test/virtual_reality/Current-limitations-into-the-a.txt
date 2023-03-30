@@ -1,0 +1,3 @@
+Virtual Reality (VR) environments have significant potential as a tool in mental health research, but are limited by technical factors and by mental health research factors. Technical difficulties include cost and complexity of virtual environment creation. Mental health research difficulties include current inadequacy of standards to specify needed details for virtual environment design. Technical difficulties are disappearing with technological advances, but the mental health research difficulties will take a concerted effort to overcome. Some of this effort will need to be directed at the formation of collaborative projects and standards for how such collaborations should proceed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10350929

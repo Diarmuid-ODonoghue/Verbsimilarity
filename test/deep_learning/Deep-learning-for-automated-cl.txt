@@ -1,0 +1,3 @@
+To demonstrate the feasibility and evaluate the performance of a deep-learning convolutional neural network (CNN) classification model for automated identification of different types of inferior vena cava (IVC) filters on radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31542278

@@ -1,0 +1,3 @@
+Simulation-based training (SBT) in laparoscopic cholecystectomy (LCCY) provides an opportunity for junior residents to learn the procedure in a safe, nonthreatening environment. Mental rehearsal (MR) has the potential of augmenting skill acquisition. This project investigated the correlation between MR of LCCY with performance on 2 different types of simulators: a procedural task (PT) training model and virtual reality (VR) machine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26073476

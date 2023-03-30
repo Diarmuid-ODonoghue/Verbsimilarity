@@ -1,0 +1,3 @@
+A third of patients with stroke acquire spatial neglect associated with poor rehabilitation outcome. New effective rehabilitation interventions are needed. Scanning training combined with multisensory stimulation to enhance the rehabilitation effect is suggested. In accordance, we have designed a virtual-reality based scanning training that combines visual, audio and sensori-motor stimulation called RehAtt® . Effects were shown in behavioural tests and activity of daily living. Here, we use fMRI to evaluate the change in brain activity during Posner's Cuing Task (attention task) after RehAtt® intervention, in patients with chronic neglect.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29770439

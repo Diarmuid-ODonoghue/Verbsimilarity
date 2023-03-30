@@ -1,0 +1,3 @@
+In December, 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel coronavirus, emerged in Wuhan, China. Since then, the city of Wuhan has taken unprecedented measures in response to the outbreak, including extended school and workplace closures. We aimed to estimate the effects of physical distancing measures on the progression of the COVID-19 epidemic, hoping to provide some insights for the rest of the world.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32220655

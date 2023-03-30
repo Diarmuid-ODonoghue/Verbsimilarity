@@ -1,0 +1,3 @@
+The JFK coma recovery scale-revised (JFK CRS-R), a behavioral observation scale, is widely used in the clinical diagnosis/assessment of patients with disorders of consciousness (DOC). However, the JFK CRS-R is associated with a high rate of misdiagnosis (approximately 40%) because DOC patients cannot provide sufficient behavioral responses. A brain-computer interface (BCI) that detects command/intention-specific changes in electroencephalography (EEG) signals without the need for behavioral expression may provide an alternative method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28393761

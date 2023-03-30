@@ -1,0 +1,3 @@
+The World Health Organization (WHO) declared COVID-19 outbreak as a world pandemic on 12th March 2020. Diagnosis of suspected cases is confirmed by nucleic acid assays with real-time PCR, using respiratory samples. Serology tests are comparatively easier to perform, but their utility may be limited by the performance and the fact that antibodies appear later during the disease course. We aimed to describe the performance data on serological assays for COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32342927

@@ -1,0 +1,3 @@
+The Dextroscope system by Volume Interactions (Singapore) had been applied to minimally invasive neurosurgery in many units. This system enables the neurosurgeon to interact intuitively with the three-dimensional graphics in a direct manner resembling the way one communicates with the real objects. In the paper, we explored its values in pre-operation surgical planning for intracranial meningiomas resection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22884077

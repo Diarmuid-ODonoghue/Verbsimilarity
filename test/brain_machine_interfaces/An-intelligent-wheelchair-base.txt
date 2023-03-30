@@ -1,0 +1,3 @@
+In this paper, we propose an intelligent wheelchair system that relies on a brain computer interface (BCI) and automatic navigation. When in operation, candidate destinations and waypoints are automatically generated on the basis of the current environment. Then, the user selects a destination using a P300-based BCI. Finally, the navigation system plans a path and navigates the wheelchair to the determined destination. While the wheelchair is in motion, the user can issue a stop command with the BCI. Using our system, the mental burden of the user can be alleviated to a large degree. Furthermore, our system can adapt to changes in the environment. The experimental results demonstrated the effectiveness of our system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570205

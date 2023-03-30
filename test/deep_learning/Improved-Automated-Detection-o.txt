@@ -1,0 +1,3 @@
+To compare performance of a deep-learning enhanced algorithm for automated detection of diabetic retinopathy (DR), to the previously published performance of that algorithm, the Iowa Detection Program (IDP)-without deep learning components-on the same publicly available set of fundus images and previously reported consensus reference standard set, by three US Board certified retinal specialists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27701631

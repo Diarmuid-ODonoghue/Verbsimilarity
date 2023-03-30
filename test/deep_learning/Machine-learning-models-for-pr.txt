@@ -1,0 +1,3 @@
+We introduce here ML4Tox, a framework offering Deep Learning and Support Vector Machine models to predict agonist, antagonist, and binding activities of chemical compounds, in this case for the estrogen receptor ligand-binding domain. The ML4Tox models have been developed with a 10 × 5-fold cross-validation schema on the training portion of the CERAPP ToxCast dataset, formed by 1677 chemicals, each described by 777 molecular features. On the CERAPP "All Literature" evaluation set (agonist: 6319 compounds; antagonist 6539; binding 7283), ML4Tox significantly improved sensitivity over published results on all three tasks, with agonist: 0.78 vs 0.56; antagonist: 0.69 vs 0.11; binding: 0.66 vs 0.26.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30628533

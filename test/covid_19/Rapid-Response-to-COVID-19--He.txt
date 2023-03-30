@@ -1,0 +1,3 @@
+To describe the implementation of technological support important for optimizing clinical management of the COVID-19 pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32208481

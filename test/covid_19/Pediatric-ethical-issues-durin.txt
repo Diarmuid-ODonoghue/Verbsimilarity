@@ -1,0 +1,3 @@
+Administrators and providers worry about an overwhelming shortage in critical life-saving ventilators for adults during the COVID-19 pandemic. Attention has focused on developing algorithms for ventilator allocation using several factors, including: pre-existing illness, likelihood to return to baseline health, and length of ventilation (a negative factor in adults) (1). These factors, however, do not easily translate to pediatric medicine nor does ventilator allocation represent an urgent crisis for pediatric medicine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32364256

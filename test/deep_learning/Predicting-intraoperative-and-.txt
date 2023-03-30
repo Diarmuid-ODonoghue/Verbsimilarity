@@ -1,0 +1,3 @@
+To predict intraoperative events (IOE) and postoperative events (POE) consequential to the derailment of the ideal clinical course of patient recovery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315504

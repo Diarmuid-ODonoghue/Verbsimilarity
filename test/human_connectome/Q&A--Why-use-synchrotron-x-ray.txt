@@ -1,0 +1,3 @@
+To understand how information flows and is used in the human brain, we must map neural structures at all levels, providing visualizations similar to those of Google Earth for continents, countries, cities, and streets. Unfortunately, the imaging and processing techniques currently used in connectomics projects cannot achieve complete mapping for the brains of large animals within the timespan of a typical research career. However, feasible improvements in x-ray imaging would change this situation. This Q&A discusses synchrotron x-ray tomography, an exciting new approach for in situ mapping of whole-brain wiring diagrams at multiple levels of spatial resolution.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29268736

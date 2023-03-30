@@ -1,0 +1,3 @@
+The past 25 years have seen great progress in parcellating the cerebral cortex into a mosaic of many distinct areas in mice, monkeys, and humans. Quantitative studies of interareal connectivity have revealed unexpectedly many pathways and a wide range of connection strengths in mouse and macaque cortex. In humans, advances in analyzing "structural" and "functional" connectivity using powerful but indirect noninvasive neuroimaging methods are yielding intriguing insights about brain circuits, their variability across individuals, and their relationship to behavior.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24183027

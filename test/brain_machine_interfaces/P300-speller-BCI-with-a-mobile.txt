@@ -1,0 +1,3 @@
+In a previous study, we presented a low-cost, small and wireless EEG system enabling the recording of single-trial P300 amplitudes in a truly mobile, outdoor walking condition (Debener et al (2012 Psychophysiology 49 1449-53)). Small and wireless mobile EEG systems have substantial practical advantages as they allow for brain activity recordings in natural environments, but these systems may compromise the EEG signal quality. In this study, we aim to evaluate the EEG signal quality that can be obtained with the mobile system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24763067

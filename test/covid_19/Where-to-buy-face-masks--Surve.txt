@@ -1,0 +1,3 @@
+The coronavirus disease 2019 (COVID-19) had spread rapidly since late December 2019. Personal protective equipment was essential to prevent transmission. Owing to shortage of face masks, Taiwan government began to implement quasi rationing on February 6, 2020, by allowing each resident to purchase two masks in seven days. Taiwan National Health Insurance Administration offered online data with real-time updates on face mask availability in all contracted pharmacies and selected local health centers. Based on the open data, numerous software applications quickly emerged to assist the public in finding sales locations efficiently.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32304508

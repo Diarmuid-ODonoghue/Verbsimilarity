@@ -1,0 +1,3 @@
+To investigate the feasibility of brain-computer interface (BCI) with patients on an inpatient spinal cord injury (SCI) unit. Research Method/Design: This study included 25 participants aged 18-64 who sustained traumatic or nontraumatic SCI and did not have severe cognitive or psychiatric impairment. Participants completed a variety of screening measures related to cognition, psychological disposition, pain, and technology experience/interest. The Emotiv electroencephalography system was used in conjunction with a cube rotation and manipulation game presented on a laptop computer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27684465

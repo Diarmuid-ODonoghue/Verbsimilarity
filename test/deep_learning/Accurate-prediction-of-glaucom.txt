@@ -1,0 +1,3 @@
+To assess the use of deep learning (DL) for computer-assisted glaucoma identification, and the impact of training using images selected by an active learning strategy, which minimizes labelling cost. Additionally, this study focuses on the explainability of the glaucoma classifier.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31344328

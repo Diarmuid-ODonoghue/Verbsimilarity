@@ -1,0 +1,3 @@
+To develop an improved k-space reconstruction method using scan-specific deep learning that is trained on autocalibration signal (ACS) data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30277269

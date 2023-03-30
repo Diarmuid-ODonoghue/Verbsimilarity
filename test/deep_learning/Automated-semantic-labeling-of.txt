@@ -1,0 +1,3 @@
+An automated method for identifying the anatomical region of an image independent of metadata labels could improve radiologist workflow (e.g., automated hanging protocols) and help facilitate the automated curation of large medical imaging data sets for machine learning purposes. Deep learning is a potential tool for this purpose.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31041454

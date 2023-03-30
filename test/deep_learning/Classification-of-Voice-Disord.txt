@@ -1,0 +1,3 @@
+Auditory-perceptual voice analysis is a standard method for quantifying pathological voice quality, but perceptual ratings are based on subjective evaluations and therefore may vary among examiners. Although many acoustic metrics have been studied for potential use in the objective evaluation of pathological voices, the interpretation of acoustic metrics in individual cases is difficult and the technique is not widely used by clinicians. The aim of this study was to establish standardized methods to discriminate grade, roughness, breathiness, asthenia, strain (GRBAS) scale scores of pathological voices directly using one-dimensional convolutional neural network (1D-CNN) models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32173149

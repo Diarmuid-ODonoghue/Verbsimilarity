@@ -1,0 +1,3 @@
+To develop, and demonstrate the feasibility of, a novel image reconstruction method for absolute electrical impedance tomography (a-EIT) that pairs deep learning techniques with real-time robust D-bar methods and examine the influence of prior information on the reconstruction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31091516

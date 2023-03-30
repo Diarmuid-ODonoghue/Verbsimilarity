@@ -1,0 +1,3 @@
+Extracting relations between important clinical entities is critical but very challenging for natural language processing (NLP) in the medical domain. Researchers have applied deep learning-based approaches to clinical relation extraction; but most of them consider sentence sequence only, without modeling syntactic structures. The aim of this study was to utilize a deep neural network to capture the syntactic features and further improve the performances of relation extraction in clinical notes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30700301

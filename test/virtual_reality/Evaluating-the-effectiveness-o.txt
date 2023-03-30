@@ -1,0 +1,3 @@
+The Chief Medical Officer's 2008 annual report highlighted the importance of simulation in medical training. Simulator development has focused on increasing authenticity and fidelity. Development has not necessarily been guided by evidence for educational improvement. On reviewing 34 years of literature, Issenberg et al identified ten features of high-fidelity medical simulators that facilitate learning. This study compares cadaveric temporal bone (CTB) simulation with the Voxel-Man TempoSurg (VT) virtual reality simulator in addressing these features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21477431

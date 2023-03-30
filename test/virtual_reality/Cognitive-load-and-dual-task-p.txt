@@ -1,0 +1,3 @@
+Gait and cognitive functions can deteriorate during dual tasking, especially in people with neurological deficits. Most studies examining the simultaneous effects of dual tasking on motor and cognitive aspects were not performed in ecological environments. Using virtual reality technology, functional environments can be simulated to study dual tasking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20023003

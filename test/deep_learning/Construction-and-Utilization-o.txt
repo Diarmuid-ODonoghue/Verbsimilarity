@@ -1,0 +1,3 @@
+At our department, each specimen was assigned a tentative current procedural terminology (CPT) code at accessioning. The codes were subject to subsequent changes by pathologist assistants and pathologists. After the cases had been finalized, their CPT codes went through a final verification step by coding staff, with the aid of a keyword-based CPT code-checking web application. Greater than 97% of the initial assignments were correct. This article describes the construction of a CPT code-predicting neural network model and its incorporation into the CPT code-checking application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31057982

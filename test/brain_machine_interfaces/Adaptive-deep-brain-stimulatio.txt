@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) could potentially be used to interact with pathological brain signals to intervene and ameliorate their effects in disease states. Here, we provide proof-of-principle of this approach by using a BCI to interpret pathological brain activity in patients with advanced Parkinson disease (PD) and to use this feedback to control when therapeutic deep brain stimulation (DBS) is delivered. Our goal was to demonstrate that by personalizing and optimizing stimulation in real time, we could improve on both the efficacy and efficiency of conventional continuous DBS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23852650

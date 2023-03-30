@@ -1,0 +1,3 @@
+There is recent popularity in applying machine learning to medical imaging, notably deep learning, which has achieved state-of-the-art performance in image analysis and processing. The rapid adoption of deep learning may be attributed to the availability of machine learning frameworks and libraries to simplify their use. In this tutorial, we provide a high-level overview of how to build a deep neural network for medical image classification, and provide code that can help those new to the field begin their informatics projects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29725961

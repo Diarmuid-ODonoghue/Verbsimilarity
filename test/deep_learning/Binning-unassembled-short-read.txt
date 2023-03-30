@@ -1,0 +1,3 @@
+Sequence-binning techniques enable the recovery of an increasing number of genomes from complex microbial metagenomes and typically require prior metagenome assembly, incurring the computational cost and drawbacks of the latter, e.g., biases against low-abundance genomes and inability to conveniently assemble multi-terabyte datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32219339

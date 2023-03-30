@@ -1,0 +1,3 @@
+Almost all protein residue contact prediction methods rely on the availability of deep multiple sequence alignments (MSAs). However, many proteins from the poorly populated families do not have sufficient number of homologs in the conventional UniProt database. Here we aim to solve this issue by exploring the rich sequence data from the metagenome sequencing projects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31173061

@@ -1,0 +1,3 @@
+To compare user performance of four fundamental inanimate robotic skills tasks (FIRST) as well as eight da Vinci Skills Simulator (dVSS) virtual reality tasks with intra-operative performance (concurrent validity) during robot-assisted radical prostatectomy (RARP) and to show that a positive correlation exists between simulation and intra-operative performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27104883

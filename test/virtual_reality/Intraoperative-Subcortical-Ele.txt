@@ -1,0 +1,3 @@
+Brain mapping during awake craniotomy is a well-known technique to preserve neurological functions, especially the language. It is still challenging to map the optic radiations due to the difficulty to test the visual field intraoperatively. To assess the visual field during awake craniotomy, we developed the Functions' Explorer based on a virtual reality headset (FEX-VRH).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27756671

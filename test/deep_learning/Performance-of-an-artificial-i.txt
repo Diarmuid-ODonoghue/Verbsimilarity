@@ -1,0 +1,3 @@
+Unlike Papanicolaou tests, there are no commercially available computer-assisted automated screening systems for urine specimens. Despite The Paris System for Reporting Urinary Cytology, there still is poor interobserver agreement with urine cytology and many cases in which a definitive diagnosis cannot be made. In the current study, the authors have reported on the development of an image algorithm that applies computational methods to digitized liquid-based urine cytology slides.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31412169

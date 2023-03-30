@@ -1,0 +1,3 @@
+The clinical use of microsignals recorded over broad cortical regions is largely limited by the chronic reliability of the implanted interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30246690

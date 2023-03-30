@@ -1,0 +1,3 @@
+Mental health disorders are the signature wounds of war resulting from extended U.S. Military conflicts in the Middle East [1]. In an effort to abate the number of Service Members that develop mental health disorders in these conflicts, USC-ICT has created the Stress Resilience in Virtual Environments (STRIVE) project, a set of highly realistic virtual reality combat scenarios and resilience-building sessions designed for pre-deployed military personnel. This short-paper looks at self-reported differences in personality, emotion control, and presence between two different groups, pre-military and non-military, of pilot subjects that tested a prototype of the first four modules of STRIVE.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732503

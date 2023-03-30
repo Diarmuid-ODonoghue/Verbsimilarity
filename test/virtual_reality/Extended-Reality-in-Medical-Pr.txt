@@ -1,0 +1,3 @@
+Advances in display technology and computing have led to new devices capable of overlaying digital information onto the physical world or incorporating aspects of the physical world into virtual scenes. These combinations of digital and physical environments are referred to as extended realities. Extended reality (XR) devices offer many advantages for medical applications including realistic 3D visualization and touch-free interfaces that can be used in sterile environments. This review introduces extended reality and describes how it can be applied to medical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30929093

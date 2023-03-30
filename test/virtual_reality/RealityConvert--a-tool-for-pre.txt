@@ -1,0 +1,3 @@
+There is a growing interest for the broad use of Augmented Reality (AR) and Virtual Reality (VR) in the fields of bioinformatics and cheminformatics to visualize complex biological and chemical structures. AR and VR technologies allow for stunning and immersive experiences, offering untapped opportunities for both research and education purposes. However, preparing 3D models ready to use for AR and VR is time-consuming and requires a technical expertise that severely limits the development of new contents of potential interest for structural biologists, medicinal chemists, molecular modellers and teachers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29036294

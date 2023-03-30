@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMI) have recently been integrated within motor rehabilitation therapies by actively involving the central nervous system (CNS) within the exercises. For instance, the online decoding of intention of motion of a limb from pre-movement EEG correlates is being used to convert passive rehabilitation strategies into active ones mediated by robotics. As early stages of upper limb motor rehabilitation usually focus on analytic single-joint mobilizations, this paper investigates the feasibility of building BMI decoders for these specific types of movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25398273

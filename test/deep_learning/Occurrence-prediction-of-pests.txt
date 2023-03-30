@@ -1,0 +1,3 @@
+The occurrence of cotton pests and diseases has always been an important factor affecting the total cotton production. Cotton has a great dependence on environmental factors during its growth, especially climate change. In recent years, machine learning and especially deep learning methods have been widely used in many fields and have achieved good results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31874611

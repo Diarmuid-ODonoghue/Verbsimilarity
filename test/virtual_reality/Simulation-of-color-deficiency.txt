@@ -1,0 +1,3 @@
+Color deficiency protanopia is simulated in a virtual home environment. A color database is created to set the corresponding relation between each color for normal vision and for protanopia. Based on this database, a second texture system is set up for the home model. The proper texture system is used according to the user's choice on the interactive menu.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15718732

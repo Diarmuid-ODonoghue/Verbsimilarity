@@ -1,0 +1,3 @@
+The method is described for joint use of electroencephalography and near-infrared spectrography for location of sources of electrophysiological and focuses of hemodynamic brain activity during motor execution and imagination. The sources of electrophysiological and focuses of hemodynamic activity the most relevant for controlling the hybrid brain-computer interface based on motor imagery are revealed and discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29446587

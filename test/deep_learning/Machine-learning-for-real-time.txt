@@ -1,0 +1,3 @@
+The large amount of clinical signals in intensive care units can easily overwhelm health-care personnel and can lead to treatment delays, suboptimal care, or clinical errors. The aim of this study was to apply deep machine learning methods to predict severe complications during critical care in real time after cardiothoracic surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30274956

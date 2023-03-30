@@ -1,0 +1,3 @@
+Deep neural networks have revolutionised machine learning, with unparalleled performance in object classification. However, in brain imaging (e.g., fMRI), the direct application of Convolutional Neural Networks (CNN) to decoding subject states or perception from imaging data seems impractical given the scarcity of available data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31585315

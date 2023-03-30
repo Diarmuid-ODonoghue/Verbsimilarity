@@ -1,0 +1,3 @@
+Epilepsy is characterized by unpredictable and sudden paroxysmal neuronal firing occurrences and sometimes evolving in clinically evident seizure. To predict seizure event, small-world characteristic in nine minutes before seizure, divided in three 3-min periods (T0, T1, T2) were investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27526391

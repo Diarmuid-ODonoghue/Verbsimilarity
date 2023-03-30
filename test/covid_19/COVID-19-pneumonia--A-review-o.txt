@@ -1,0 +1,3 @@
+The standard of reference for confirming COVID-19 relies on microbiological tests such as real-time polymerase chain reaction (RT-PCR) or sequencing. However, these tests might not be available in an emergency setting. Computed tomography (CT) can be used as an important complement for the diagnosis of COVID-19 pneumonia in the current epidemic context. In this review, we present the typical CT features of COVID-19 pneumonia and discuss the main differential diagnosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32291197

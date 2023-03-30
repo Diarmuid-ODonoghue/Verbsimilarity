@@ -1,0 +1,3 @@
+Healthcare workers (HCW) are potentially at increased risk of infection with coronavirus disease (COVID-19) and may transmit severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) to vulnerable patients. We present results from staff testing at Sheffield Teaching Hospitals NHS Foundation Trust, United Kingdom. Between 16 and 29 March 2020, 1,533 symptomatic HCW were tested, of whom 282 (18%) were positive for SARS-CoV-2. Testing HCW is a crucial strategy to optimise staffing levels during this outbreak.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32290904

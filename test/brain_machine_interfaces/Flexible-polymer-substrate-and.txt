@@ -1,0 +1,3 @@
+This paper describes the process flow and testing of a substrate for a fully implantable neural recording system. Tungsten microwires are hybrid-packaged on a micromachined flexible polymer substrate forming an intracortical microelectrode array for brain machine interfaces. The microelectrode array is characterized on the bench top and tested in vivo. The microelectrode noise floor is less than 2 microV and acute recording results show a signal to noise ratio of 9.9-17.3 dB. The technique of hybrid fabrication of the electrodes on a flexible substrate provides a general platform for the development of an implantable neural recording system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19163377

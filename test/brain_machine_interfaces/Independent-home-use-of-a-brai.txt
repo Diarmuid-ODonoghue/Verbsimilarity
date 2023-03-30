@@ -1,0 +1,3 @@
+To assess the reliability and usefulness of an EEG-based brain-computer interface (BCI) for patients with advanced amyotrophic lateral sclerosis (ALS) who used it independently at home for up to 18 months.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29950436

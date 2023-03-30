@@ -1,0 +1,3 @@
+Positron emission tomography (PET) with 18F-fluorodeoxyglucose (FDG) reveals altered cerebral metabolism in individuals with mild cognitive impairment (MCI) and Alzheimer's dementia (AD). Previous metabolic connectome analyses derive from groups of patients but do not support the prediction of an individual's risk of conversion from present MCI to AD. We now present an individual metabolic connectome method, namely the Kullback-Leibler Divergence Similarity Estimation (KLSE), to characterize brain-wide metabolic networks that predict an individual's risk of conversion from MCI to AD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32318784

@@ -1,0 +1,3 @@
+Virtual Patients are an essential component of medical virtual reality. Most work to date has been dedicated to virtual patients in surgery. However, virtual patients also have a strong potential in clinical medicine, where they can be used as visual interfaces to knowledge-based systems in various simulation and training applications. In this paper, we describe the implementation of a virtual patient in the field of cardiac emergencies and propose directions to extend the development of virtual patients towards the integration of multiple physiological sub-systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15544304

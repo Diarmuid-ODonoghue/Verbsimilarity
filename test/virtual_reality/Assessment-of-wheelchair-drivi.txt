@@ -1,0 +1,3 @@
+To develop a virtual reality (VR)-based simulator that can assist clinicians in performing standardized wheelchair driving assessments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23820148

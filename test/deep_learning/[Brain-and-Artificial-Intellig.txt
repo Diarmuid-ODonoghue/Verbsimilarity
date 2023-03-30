@@ -1,0 +1,3 @@
+The brain is an information machine equipped with mind and consciousness, acquired through a long history of evolution. Artificial intelligence (AI) aims at the development of intelligent functions in computers. We show mechanisms of deep learning in AI, and compare them with brain functions. In particular, we consider the function of consciousness in the brain, and its relation to AI. Mathematical neuroscience provides a powerful method to both AI and brain science. We conclude by emphasizing that further interactions are important for both AI and brain science.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31787624

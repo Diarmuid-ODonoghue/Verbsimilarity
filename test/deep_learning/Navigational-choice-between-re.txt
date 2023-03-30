@@ -1,0 +1,3 @@
+Under experimental conditions, virtually all behaviors of Caenorhabditis elegans are achieved by combinations of simple locomotion, including forward, reversal movement, turning by deep body bending, and gradual shallow turning. To study how worms regulate these locomotion in response to sensory information, acidic pH avoidance behavior was analyzed by using worm tracking system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26584677

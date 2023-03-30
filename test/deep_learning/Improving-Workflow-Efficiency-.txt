@@ -1,0 +1,3 @@
+The aim of this study was to determine whether machine learning could reduce the number of mammograms the radiologist must read by using a machine-learning classifier to correctly identify normal mammograms and to select the uncertain and abnormal examinations for radiological interpretation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31153798

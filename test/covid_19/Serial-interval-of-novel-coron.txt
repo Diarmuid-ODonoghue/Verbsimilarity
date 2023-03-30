@@ -1,0 +1,3 @@
+To estimate the serial interval of novel coronavirus (COVID-19) from information on 28 infector-infectee pairs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32145466

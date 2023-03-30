@@ -1,0 +1,3 @@
+The aim of the paper is to objectively demonstrate that amputees implanted with intraneural interfaces are truly able to feel a sensation in the phantom hand by recording "phantom" somatosensory evoked potentials from the corresponding brain areas.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29625342

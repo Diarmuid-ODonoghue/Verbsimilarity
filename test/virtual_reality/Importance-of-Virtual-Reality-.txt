@@ -1,0 +1,3 @@
+Post Traumatic Stress Disorder (PTSD) can be a debilitating problem in service members who have served in Iraq or Afghanistan. Virtual Reality Exposure Therapy (VRET) is one of the few interventions demonstrated in randomized controlled trials to be effective for PTSD in this population. There are theoretical reasons to expect that Virtual Reality (VR) adds to the effectiveness of exposure therapy, but there is also added expense and difficulty in using VR. Described is a trial comparing outcomes from VRET and a control exposure therapy (CET) protocol in service members with PTSD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26799904

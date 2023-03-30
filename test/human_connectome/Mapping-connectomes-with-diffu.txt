@@ -1,0 +1,3 @@
+Human connectomics necessitates high-throughput, whole-brain reconstruction of multiple white matter fiber bundles. Scaling up tractography to meet these high-throughput demands yields new fiber tracking challenges, such as minimizing spurious connections and controlling for gyral biases. The aim of this study is to determine which of the two broadest classes of tractography algorithms-deterministic or probabilistic-is most suited to mapping connectomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30303550

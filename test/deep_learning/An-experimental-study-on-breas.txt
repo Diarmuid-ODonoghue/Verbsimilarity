@@ -1,0 +1,3 @@
+Computer-aided diagnosis (CAD) in the medical field has received more and more attention in recent years. One important CAD application is to detect and classify breast lesions in ultrasound images. Traditionally, the process of CAD for breast lesions classification is mainly composed of two separated steps: i) locate the lesion region of interests (ROI); ii) classify the located region of interests (ROI) to see if they are benign or not. However, due to the complex structure of breast and the existence of noise in the ultrasound images, traditional handcrafted feature based methods usually can not achieve satisfactory result.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31262255

@@ -1,0 +1,3 @@
+A high proportion of patients with remitted major depressive disorder (MDD) will experience recurring episodes, whilst some develop resilience and remain in recovery. The neural basis of resilience to recurrence is elusive. Abnormal resting-state connectivity of the subgenual cingulate cortex (sgACC) was previously found in cross-sectional studies of MDD, suggesting its potential pathophysiological importance. The current study aimed to investigate whether resting-state connectivity to a left sgACC seed region distinguishes resilient patients from those developing recurring episodes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27821193

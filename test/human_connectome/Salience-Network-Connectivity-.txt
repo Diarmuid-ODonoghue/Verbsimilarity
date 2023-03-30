@@ -1,0 +1,3 @@
+The salience network, an intrinsic brain network thought to modulate attention to internal versus external stimuli, has been consistently found to be atypical in autism spectrum disorders (ASD). However, little is known about how this altered resting-state connectivity relates to brain activity during information processing, which has important implications for understanding sensory overresponsivity (SOR), a common and impairing condition in ASD related to difficulty downregulating brain responses to sensory stimuli. This study examined how SOR in youth with ASD relates to atypical salience network connectivity and whether these atypicalities are associated with abnormal brain response to basic sensory information.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27343889

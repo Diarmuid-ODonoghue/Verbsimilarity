@@ -1,0 +1,3 @@
+Chronic kidney damage is routinely assessed semiquantitatively by scoring the amount of fibrosis and tubular atrophy in a renal biopsy sample. Although image digitization and morphometric techniques can better quantify the extent of histologic damage, we need more widely applicable ways to stratify kidney disease severity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29725651

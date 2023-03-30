@@ -1,0 +1,3 @@
+Building visual encoding models to accurately predict visual responses is a central challenge for current vision-based brain-machine interface techniques. To achieve high prediction accuracy on neural signals, visual encoding models should include precise visual features and appropriate prediction algorithms. Most existing visual encoding models employ hand-craft visual features (e.g., Gabor wavelets or semantic labels) or data-driven features (e.g., features extracted from deep neural networks (DNN)). They also assume a linear mapping between feature representations to brain activity. However, it remains unknown whether such linear mapping is sufficient for maximizing prediction accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31255596

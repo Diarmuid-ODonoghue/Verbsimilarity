@@ -1,0 +1,3 @@
+We have previously demonstrated a brain-machine interface neuroprosthetic system that provided continuous control of functional electrical stimulation (FES) and restoration of grasp in a primate model of spinal cord injury (SCI). Predicting intended EMG directly from cortical recordings provides a flexible high-dimensional control signal for FES. However, no peripheral signal such as force or EMG is available for training EMG decoders in paralyzed individuals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27247280

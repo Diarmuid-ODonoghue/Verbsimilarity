@@ -1,0 +1,3 @@
+Simulation in medicine is an indispensable tool to improve doctors' responses to different situations, enhancing their performance. However, simulation in ophthalmology is a very recent trend, mainly because of the high complexity of developing newer teaching tools, with the need for highly realistic models, mostly in surgical ophthalmic simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28128813

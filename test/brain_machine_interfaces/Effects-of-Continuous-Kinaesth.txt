@@ -1,0 +1,3 @@
+Feedback plays a crucial role for using brain computer interface systems. This paper proposes the use of vibration-evoked kinaesthetic illusions as part of a novel multisensory feedback for a motor imagery (MI)-based BCI and investigates its contributions in terms of BCI performance and electroencephalographic (EEG) correlates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28809705

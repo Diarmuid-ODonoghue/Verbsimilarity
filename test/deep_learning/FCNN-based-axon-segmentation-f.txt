@@ -1,0 +1,3 @@
+Glioblastoma multiforme treatment is a challenging task in clinical oncology. Convection- enhanced delivery (CED) is showing encouraging but still suboptimal results due to drug leakages. Numerical models can predict drug distribution within the brain, but require retrieving brain physical properties, such as the axon diameter distribution (ADD), through axon architecture analysis. The goal of this work was to provide an automatic, accurate and fast method for axon segmentation in electronic microscopy images based on fully convolutional neural network (FCNN) as to allow automatic ADD computation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30613910

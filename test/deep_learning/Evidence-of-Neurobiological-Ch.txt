@@ -1,0 +1,3 @@
+Genetic models of Parkinson's disease (PD) coupled with advanced imaging techniques can elucidate neurobiological disease progression, and can help identify early biomarkers before clinical signs emerge. PTEN-induced putative kinase 1 (PINK1) helps protect neurons from mitochondrial dysfunction, and a mutation in the associated gene is a risk factor for recessive familial PD. The PINK1 knockout (KO) rat is a novel model for familial PD that has not been neuroradiologically characterized for alterations in brain structure/function, alongside behavior, prior to 4 months of age.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29710734

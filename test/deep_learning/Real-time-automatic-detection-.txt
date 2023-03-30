@@ -1,0 +1,3 @@
+The effect of colonoscopy on colorectal cancer mortality is limited by several factors, among them a certain miss rate, leading to limited adenoma detection rates (ADRs). We investigated the effect of an automatic polyp detection system based on deep learning on polyp detection rate and ADR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30814121

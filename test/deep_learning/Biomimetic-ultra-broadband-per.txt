@@ -1,0 +1,3 @@
+By learning the optimal policy with a double deep Q-learning network (DDQN), we design ultra-broadband, biomimetic, perfect absorbers with various materials, based the structure of a moth's eye. All absorbers achieve over 90% average absorption from 400 to 1600 nm. By training a DDQN with moth-eye structures made up of chromium, we transfer the learned knowledge to other, similar materials to quickly and efficiently find the optimal parameters from the ∼1 billion possible options. The knowledge learned from previous optimisations helps the network to find the best solution for a new material in fewer steps, dramatically increasing the efficiency of finding designs with ultra-broadband absorption.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31932814

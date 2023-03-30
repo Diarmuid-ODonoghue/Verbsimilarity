@@ -1,0 +1,3 @@
+The discovery of microRNA (miRNA) in the last decade has certainly changed the understanding of gene regulation in the cell. Although a large number of algorithms with different features have been proposed, they still predict an impractical amount of false positives. Most of the proposed features are based on the structure of precursors of the miRNA only, not considering the important and relevant information contained in the mature miRNA. Such new kind of features could certainly improve the performance of the predictors of new miRNAs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31860057

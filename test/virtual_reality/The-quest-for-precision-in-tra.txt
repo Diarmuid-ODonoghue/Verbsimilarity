@@ -1,0 +1,3 @@
+Transanal total mesorectal excision (TME) is an emerging minimally invasive approach to rectal cancer, with encouraging preliminary results. However, the new surgical anatomy of the bottom-up approach complicates surgical understanding and increases the risks of inadvertent injuries to crucial anatomical structures, including nerves. Key elements to improve the safety and stimulate interest in such a complex technique might be robotics and image guidance, to enhance the level of precision. In this editorial, some of the technologies that could be used for precision TME are outlined, in light of the experience of our Institute for Image-Guided Surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26611358

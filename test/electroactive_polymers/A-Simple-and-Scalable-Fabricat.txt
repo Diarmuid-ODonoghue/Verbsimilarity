@@ -1,0 +1,3 @@
+Today, wearable electronics devices combine a large variety of functional, stretchable, and flexible technologies. However, in many cases, these devices cannot be worn under everyday conditions. Therefore, textiles are commonly considered the best substrate to accommodate electronic devices in wearable use. In this paper, we describe how to selectively pattern organic electroactive materials on textiles from a solution in an easy and scalable manner. This versatile deposition technique enables the fabrication of wearable organic electronic devices on clothes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28362384

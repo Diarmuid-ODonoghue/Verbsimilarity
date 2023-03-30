@@ -1,0 +1,3 @@
+To explain predictions of a deep residual convolutional network for characterization of lung nodule by analyzing heat maps.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31623996

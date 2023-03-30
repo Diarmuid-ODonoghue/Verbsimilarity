@@ -1,0 +1,3 @@
+Non-invasive brain stimulation has shown promising results in neurorehabilitation for motor-impaired stroke patients, by rebalancing the relative involvement of each hemisphere in movement generation. Similarly, brain-computer interfaces have been used to successfully facilitate movement-related brain activity spared by the infarct. We propose to merge both approaches by using BCI to train stroke patients to rebalance their motor-related brain activity during motor tasks, through the use of online feedback. In this pilot study, we report results showing that some healthy subjects were able to learn to spontaneously up- and/or down-regulate their ipsilateral brain activity during a single session.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26736757

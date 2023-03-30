@@ -1,0 +1,3 @@
+Current self-calibration and reconstruction methods for wave-encoded single-shot fast spin echo imaging (SSFSE) requires long computational time, especially when high accuracy is needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31322799

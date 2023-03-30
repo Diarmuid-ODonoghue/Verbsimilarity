@@ -1,0 +1,3 @@
+Postoperative mortality occurs in 1-2% of patients undergoing major inpatient surgery. The currently available prediction tools using summaries of intraoperative data are limited by their inability to reflect shifting risk associated with intraoperative physiological perturbations. We sought to compare similar benchmarks to a deep-learning algorithm predicting postoperative 30-day mortality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31558311

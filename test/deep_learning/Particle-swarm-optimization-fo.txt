@@ -1,0 +1,3 @@
+Deep brain stimulation (DBS) therapy relies on both precise neurosurgical targeting and systematic optimization of stimulation settings to achieve beneficial clinical outcomes. One recent advance to improve targeting is the development of DBS arrays (DBSAs) with electrodes segmented both along and around the DBS lead. However, increasing the number of independent electrodes creates the logistical challenge of optimizing stimulation parameters efficiently.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28068291

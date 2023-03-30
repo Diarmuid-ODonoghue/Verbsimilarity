@@ -1,0 +1,3 @@
+Surgery has traditionally been learned on patients in the operating room, which is time-consuming, can have an impact on the patient outcomes, and is of variable effectiveness. As a result, surgical training models have been developed, which are compared in this systematic review.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23741926

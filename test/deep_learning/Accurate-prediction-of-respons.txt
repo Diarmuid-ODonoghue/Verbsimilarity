@@ -1,0 +1,3 @@
+We aimed to establish and validate an artificial intelligence-based radiomics strategy for predicting personalized responses of hepatocellular carcinoma (HCC) to first transarterial chemoembolization (TACE) session by quantitatively analyzing contrast-enhanced ultrasound (CEUS) cines.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31900703

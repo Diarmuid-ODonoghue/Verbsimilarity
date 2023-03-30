@@ -1,0 +1,3 @@
+To evaluate the design characteristics of studies that evaluated the performance of artificial intelligence (AI) algorithms for the diagnostic analysis of medical images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30799571

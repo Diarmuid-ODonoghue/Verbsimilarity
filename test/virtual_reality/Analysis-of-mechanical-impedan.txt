@@ -1,0 +1,3 @@
+The dynamic characteristics of human upper extremities are usually expressed by mechanical impedance. Although many studies have discussed human impedance characteristics, there are no reports on control abilities of task-related impedance in skilled human hand movements. This paper proposes a virtual sports system using a virtual reality technique to examine human movements. The differences in movements between skilled and unskilled subjects are investigated through a series of experiments. Then, the human impedance of a skilled player is estimated and analyzed in the preliminary phase of motion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15480744

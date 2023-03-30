@@ -1,0 +1,3 @@
+PURPOSE  : Lung cancer has the highest death rate among all cancers in the USA. In this work we focus on improving the ability of computer-aided diagnosis (CAD) systems to predict the malignancy of nodules from cropped CT images of lung nodules.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28501942

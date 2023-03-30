@@ -1,0 +1,3 @@
+Independent learning with simulators might be improved if simulators could "diagnose the learner" by identifying common novice problems, thereby directing self-guided learning. Our goal was to determine if data collected by a virtual reality simulator could be used to predict the problem areas in novice trainees' laparoscopic performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20881704

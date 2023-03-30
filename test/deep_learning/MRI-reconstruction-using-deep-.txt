@@ -1,0 +1,3 @@
+To develop a deep learning-based Bayesian estimation for MRI reconstruction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32274850

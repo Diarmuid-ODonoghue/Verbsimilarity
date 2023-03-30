@@ -1,0 +1,3 @@
+Machine learning based on artificial neural networks has emerged as an efficient means to develop empirical models of complex systems. Cold atomic ensembles have become commonplace in laboratories around the world, however, many-body interactions give rise to complex dynamics that preclude precise analytic optimisation of the cooling and trapping process. Here, we implement a deep artificial neural network to optimise the magneto-optic cooling and trapping of neutral atomic ensembles. The solution identified by machine learning is radically different to the smoothly varying adiabatic solutions currently used. Despite this, the solutions outperform best known solutions producing higher optical densities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30341301

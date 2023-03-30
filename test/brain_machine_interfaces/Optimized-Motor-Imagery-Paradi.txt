@@ -1,0 +1,3 @@
+motor imagery (MI) is a mental representation of motor behavior. The MI-based brain computer interfaces (BCIs) can provide communication for the physically impaired. The performance of MI-based BCI mainly depends on the subject's ability to self-modulate electroencephalogram signals. Proper training can help naive subjects learn to modulate brain activity proficiently. However, training subjects typically involve abstract motor tasks and are time-consuming.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28113345

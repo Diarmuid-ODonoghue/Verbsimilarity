@@ -1,0 +1,3 @@
+Poor sleep quality, which is typically related to impairments in cognitive control, is pervasive among the elderly. However, the brain function mechanisms underlying the association between sleep and elderly behavior remain elusive. This study aims to assess the effects of poor sleep quality on low-frequency neural oscillations based on the wavelet phase coherence (WPCO) and wavelet amplitude (WA) of oxyhemoglobin concentration changes (Delta [HbO2]) measured through near-infrared spectroscopy (NIRS) method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29353214

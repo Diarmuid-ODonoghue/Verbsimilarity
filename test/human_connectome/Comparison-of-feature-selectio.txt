@@ -1,0 +1,3 @@
+Feature selection is a crucial step in the machine learning methods that are currently used to assist with decoding brain states from fMRI data. This step can be based on either feature discrimination or feature reliability, but there is no clear evidence indicating which method is more suitable for fMRI data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32001295

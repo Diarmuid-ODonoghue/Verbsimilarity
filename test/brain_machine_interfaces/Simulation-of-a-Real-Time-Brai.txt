@@ -1,0 +1,3 @@
+An invasive brain-computer interface (BCI) is a promising neurorehabilitation device for severely disabled patients. Although some systems have been shown to work well in restricted laboratory settings, their utility must be tested in less controlled, real-time environments. Our objective was to investigate whether a specific motor task could be reliably detected from multiunit intracortical signals from freely moving animals in a simulated, real-time setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27513737

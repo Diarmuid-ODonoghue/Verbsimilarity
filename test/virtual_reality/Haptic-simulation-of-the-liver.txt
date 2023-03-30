@@ -1,0 +1,3 @@
+During a standard procedure of liver biopsy, the motion due to respiration may be difficult to handle. The patient is often requested to hold his breath or to breathe shallowly. Ideally, this physiological behaviour should be taken into account in a virtual reality biopsy simulator. This paper presents a framework that accurately simulates respiratory motion, allowing for the fine tuning of relevant parameters in order to produce a patient-specific breathing pattern that can then be incorporated into a simulation with real-rime haptic interaction. This work has been done as part of the CRaIVE collaboration [1], which aims to build interventional radiology simulators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377194

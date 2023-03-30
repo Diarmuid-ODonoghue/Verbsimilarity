@@ -1,0 +1,3 @@
+The "severe acute respiratory syndrome coronavirus 2" (SARS-CoV-2) has spread over the four continents, causing the respiratory manifestations of Coronavirus disease-19 (COVID-19) and satisfying the epidemiological criteria for a pandemic [1]. As of April 1, 2020, more than one million COVID-19 positive cases have been identified and more than 54,000 deaths have occurred worldwide [2]. In Italy, 110,574 positive cases, 49,285 hospitalized patients and 13,155 deaths out of a population of 60,359,546 inhabitants, have been reported, respectively [3]. The highest number of deaths occurred in the northern Italian regions, i.e. Lombardy, Emilia-Romagna, Veneto and Piedmont [3].
+
+https://www.ncbi.nlm.nih.gov/pubmed/32343839

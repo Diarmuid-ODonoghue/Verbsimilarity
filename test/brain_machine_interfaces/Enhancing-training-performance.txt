@@ -1,0 +1,3 @@
+The accuracy of the classification of user intentions is essential for motor imagery (MI)-based brain-computer interface (BCI). Effective and appropriate training for users could help us produce the high reliability of mind decision making related with MI tasks. In this study, we aimed to investigate the effects of visual guidance on the classification performance of MI-based BCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26724935

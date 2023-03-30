@@ -1,0 +1,3 @@
+Oral cancer is a complex wide spread cancer, which has high severity. Using advanced technology and deep learning algorithm early detection and classification are made possible. Medical imaging technique, computer-aided diagnosis and detection can make potential changes in cancer treatment. In this research work, we have developed a deep learning algorithm for automated, computer-aided oral cancer detecting system by investigating patient hyperspectral images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30603908

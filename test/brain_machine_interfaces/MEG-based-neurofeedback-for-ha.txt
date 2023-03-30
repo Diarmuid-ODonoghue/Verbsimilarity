@@ -1,0 +1,3 @@
+Providing neurofeedback (NF) of motor-related brain activity in a biologically-relevant and intuitive way could maximize the utility of a brain-computer interface (BCI) for promoting therapeutic plasticity. We present a BCI capable of providing intuitive and direct control of a video-based grasp.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26392353

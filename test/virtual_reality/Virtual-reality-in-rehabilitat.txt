@@ -1,0 +1,3 @@
+This paper describes virtual reality and some of its potential applications in rehabilitation and therapy. Some aspects of this technology are discussed with respect to different problem areas (sensorimotor impairments, autism, learning difficulties), as well as previous research which investigated changes within some motor and motivation parameters in relation to rehabilitation of children with motor impairments. Emphasis is on the positive effects of virtual reality as a method in which rehabilitation and therapy can be offered and evaluated within a functional, purposeful and motivating context.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24696995

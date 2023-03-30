@@ -1,0 +1,3 @@
+[reaction: see text] An unsymmetrical analogue of 3,4-ethylenedioxythiophene (EDOT) has been synthesized by transetherification of 3,4-dimethoxythiophene. Electropolymerization leads to a stable electroactive polymer with electrochemical and electronic properties intermediate between those of the two symmetrical parent polymers poly(EDOT) and poly(3,4-ethylenedithiathiophene). Experimental work shows that the 2- and 5-positions possess a different reactivity, thus opening the possibility of synthesizing regioregular oligomers or polymers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11843603

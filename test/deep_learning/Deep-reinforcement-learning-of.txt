@@ -1,0 +1,3 @@
+Cell movement in the early phase of Caenorhabditis elegans development is regulated by a highly complex process in which a set of rules and connections are formulated at distinct scales. Previous efforts have demonstrated that agent-based, multi-scale modeling systems can integrate physical and biological rules and provide new avenues to study developmental systems. However, the application of these systems to model cell movement is still challenging and requires a comprehensive understanding of regulatory networks at the right scales. Recent developments in deep learning and reinforcement learning provide an unprecedented opportunity to explore cell movement using 3D time-lapse microscopy images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29701853

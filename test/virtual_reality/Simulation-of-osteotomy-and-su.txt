@@ -1,0 +1,3 @@
+A novel computer-assisted 3-D simulation for osteotomy and CAD/CAM fabrication of surgical splints consider the relative inter-bone interference and space after bone translation were developed. CT image of a patient for osteotomy was operated and simulation of surgery for deformation, segmentation, displacement of the bone was processed effectively by virtual reality haptic device PHANTOM. CAD of a bite splint before surgery and after bone displacement was done in the process of simulation. CAM of resin bite splints was done by precise Rapid Prototyping CAM machine. All fabricated splint were sufficiently functioned to determine the position of jaws.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19377179

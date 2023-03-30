@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) technology has great potential for improving the quality of life for neurologic patients. This study aimed to use PET mapping for BCI-based stimulation in a rat model with electrodes implanted in the ventroposterior medial (VPM) nucleus of the thalamus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26917709

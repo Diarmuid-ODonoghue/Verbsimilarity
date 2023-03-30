@@ -1,0 +1,3 @@
+Regulatory sequences are not solely defined by their nucleic acid sequence but also by their relative distances to genomic landmarks such as transcription start site, exon boundaries or polyadenylation site. Deep learning has become the approach of choice for modeling regulatory sequences because of its strength to learn complex sequence features. However, modeling relative distances to genomic landmarks in deep neural networks has not been addressed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29155928

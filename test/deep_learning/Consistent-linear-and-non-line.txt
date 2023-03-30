@@ -1,0 +1,3 @@
+Electrical neuromodulation via implanted electrodes is used in treating numerous neurological disorders, yet our knowledge of how different brain regions respond to varying stimulation parameters is sparse.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30904423

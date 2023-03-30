@@ -1,0 +1,3 @@
+We analyzed studies validating the effectiveness and deficiencies of simulation for training and assessment in urology. We documented simulation types (synthetic, virtual reality and animal models), participant experience level and tasks performed. The feasibility, validity, cost-effectiveness, reliability and educational impact of the simulators were also evaluated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21571338

@@ -1,0 +1,3 @@
+The calcaneus is the most fracture-prone tarsal bone and injuries to the surrounding tissue are some of the most difficult to treat. Currently there is a lack of consensus on treatment or interpretation of computed tomography (CT) images for calcaneus fractures. This study proposes a novel computer-assisted method for automated classification and detection of fracture locations in calcaneus CT images using a deep learning algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30902248

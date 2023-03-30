@@ -1,0 +1,3 @@
+Social media is an important pharmacovigilance data source for adverse drug reaction (ADR) identification. Human review of social media data is infeasible due to data quantity, thus natural language processing techniques are necessary. Social media includes informal vocabulary and irregular grammar, which challenge natural language processing methods. Our objective is to develop a scalable, deep-learning approach that exceeds state-of-the-art ADR detection performance in social media.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28339747

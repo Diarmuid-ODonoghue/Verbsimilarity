@@ -1,0 +1,3 @@
+Humans and many other animals have an enormous capacity to learn about sensory stimuli and to master new skills. However, many of the mechanisms that enable us to learn remain to be understood. One of the greatest challenges of systems neuroscience is to explain how synaptic connections change to support maximally adaptive behaviour. Here, we provide an overview of factors that determine the change in the strength of synapses, with a focus on synaptic plasticity in sensory cortices. We review the influence of neuromodulators and feedback connections in synaptic plasticity and suggest a specific framework in which these factors can interact to improve the functioning of the entire network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29449713

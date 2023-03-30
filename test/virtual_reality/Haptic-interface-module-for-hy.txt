@@ -1,0 +1,3 @@
+A fundamental element of a surgical simulator system aiming at high fidelity is the surgical instrument to be used by the simulation. The input device, as well as haptic feedback from the system should resemble the real environment. In this paper we describe all elements of the haptic interface module developed for a hysteroscopy simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377259

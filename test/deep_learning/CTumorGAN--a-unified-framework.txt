@@ -1,0 +1,3 @@
+Unlike the normal organ segmentation task, automatic tumor segmentation is a more challenging task because of the existence of similar visual characteristics between tumors and their surroundings, especially on computed tomography (CT) images with severe low contrast resolution, as well as the diversity and individual characteristics of data acquisition procedures and devices. Consequently, most of the recently proposed methods have become increasingly difficult to be applied on a different tumor dataset with good results, and moreover, some tumor segmentors usually fail to generalize beyond those datasets and modalities used in their original evaluation experiments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32222809

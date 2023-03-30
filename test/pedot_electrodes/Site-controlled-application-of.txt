@@ -1,0 +1,3 @@
+A novel patterning method for conducting polymer films was successfully demonstrated using the concept of bipolar electrochemistry. The local application of an anodic potential to poly(3-methylthiophene) (PMT) and poly(3,4-ethylenedioxythiophene) (PEDOT) on a bipolar electrode (BPE) realized local electrochemical doping and reaction depending on the supporting salt used. The potential applied on the BPE was measured and corresponded well to the patterns. The array-type driving electrode system was able to draw complex patterns in a site-controlled manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22353050

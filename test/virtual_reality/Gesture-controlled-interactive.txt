@@ -1,0 +1,3 @@
+There is a need for innovative anatomic teaching tools. This paper describes a three dimensional (3D) tool employing the Microsoft Kinect™. Using this instrument, 3D temporal bone anatomy can be manipulated with the use of hand gestures, in the absence of mouse or keyboard.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25286966

@@ -1,0 +1,3 @@
+We evaluated SpCas9 activities at 12,832 target sequences using a high-throughput approach based on a human cell library containing single-guide RNA-encoding and target sequence pairs. Deep learning-based training on this large dataset of SpCas9-induced indel frequencies led to the development of a SpCas9 activity-predicting model named DeepSpCas9. When tested against independently generated datasets (our own and those published by other groups), DeepSpCas9 showed high generalization performance. DeepSpCas9 is available at http://deepcrispr.info/DeepSpCas9.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31723604

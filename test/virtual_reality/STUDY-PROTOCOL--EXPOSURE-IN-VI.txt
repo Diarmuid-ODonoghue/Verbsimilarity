@@ -1,0 +1,3 @@
+Social Anxiety Disorder (SAD) is characterized by an intense fear of negative judgement by others. Cognitive Behavioral Therapy (CBT) is recommended for treatment, but a substantial part of individuals with SAD either do not seek treatment or drop-out. CBT with Virtual Reality (VR)-based exposure has several advantages compared to traditional exposure methods, mainly due to increased control of situational elements. The aim of the current study is to develop a CBT program containing VR-based exposure. The intervention is targeted to adult patients suffering from SAD and treatment effect will be assessed by changes in SAD symptoms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32000725

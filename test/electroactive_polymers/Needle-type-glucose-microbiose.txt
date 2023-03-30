@@ -1,0 +1,3 @@
+A fast response, needle-type glucose microbiosensor has been fabricated by a one-step electrochemical immobilisation of glucose oxidase in a polypyrrole film. The sensor shows a remarkable rejection of electroactive interferences, especially paracetamol. The maximum bias observed in the worst situation never exceeded the value of 6%. The fabrication procedure delivered very reproducible devices and the sensitivity of a newly prepared biosensor was typically 650 nA mM(-1) cm(-2). The kinetic parameters, obtained from an existing model, permitted to understand the sensor behaviour.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11220601

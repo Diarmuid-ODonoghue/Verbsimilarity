@@ -1,0 +1,3 @@
+The prognosis of esophageal cancer is relatively poor. Patients are usually diagnosed at an advanced stage when it is often too late for effective treatment. Recently, artificial intelligence (AI) using deep learning has made remarkable progress in medicine. However, there are no reports on its application for diagnosing esophageal cancer. Here, we demonstrate the diagnostic ability of AI to detect esophageal cancer including squamous cell carcinoma and adenocarcinoma.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30120958

@@ -1,0 +1,3 @@
+COVID patients in ICU present a high mortality rate and immunoprofiling reveals heterogeneous IFN-α2 production with about 20% of critically-ill patients unable to produce IFN-α2, highlighting the immune response heterogeneity and opening avenues for targeted therapies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32360285

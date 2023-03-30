@@ -1,0 +1,3 @@
+Obsession and delusion are theoretically distinct from each other in terms of reality testing. Despite such phenomenological distinction, no extant studies have examined the identification of common and distinct neural correlates of obsession and delusion by employing biologically grounded methods. Here, we investigated dimensional effects of obsession and delusion spanning across the traditional diagnostic boundaries reflected upon the resting-state functional connectivity (RSFC) using connectome-wide association studies (CWAS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31997729

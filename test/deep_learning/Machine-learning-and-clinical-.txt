@@ -1,0 +1,3 @@
+Machine learning is a sub-field of artificial intelligence, which utilises large data sets to make predictions for future events. Although most algorithms used in machine learning were developed as far back as the 1950s, the advent of big data in combination with dramatically increased computing power has spurred renewed interest in this technology over the last two decades.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32245523

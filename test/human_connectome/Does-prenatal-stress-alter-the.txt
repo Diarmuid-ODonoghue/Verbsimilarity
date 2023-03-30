@@ -1,0 +1,3 @@
+Human neurodevelopment requires the organization of neural elements into complex structural and functional networks called the connectome. Emerging data suggest that prenatal exposure to maternal stress plays a role in the wiring, or miswiring, of the developing connectome. Stress-related symptoms are common in women during pregnancy and are risk factors for neurobehavioral disorders ranging from autism spectrum disorder, attention deficit hyperactivity disorder, and addiction, to major depression and schizophrenia. This review focuses on structural and functional connectivity imaging to assess the impact of changes in women's stress-based physiology on the dynamic development of the human connectome in the fetal brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27673421

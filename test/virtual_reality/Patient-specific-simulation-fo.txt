@@ -1,0 +1,3 @@
+Recent advancements in simulation permit patient-specific rehearsal of carotid artery stenting procedures. This study evaluates the feasibility of transferring patient-specific CT data into the simulator, creating a 3D reconstruction and performing a rehearsal. The face validity of the model was assessed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20506441

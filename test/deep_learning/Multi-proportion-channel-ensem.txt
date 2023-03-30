@@ -1,0 +1,3 @@
+A novel supervised method that is based on the Multi-Proportion Channel Ensemble Model (MPC-EM) is proposed to obtain more vessel details with reduced computational complexity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31301636

@@ -1,0 +1,3 @@
+Bench-top arthroscopy training requires some form of camera visualization. Use of clinical arthroscopy equipment in a virtual reality simulation lab may be cost prohibitive for some training programs. There are creative ways to build homemade, inexpensive camera setups for basic arthroscopy skills training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30712635

@@ -1,0 +1,3 @@
+Lung nodules that are missed by radiologists as well as by computer-aided detection (CAD) systems mostly overlap with ribs and clavicles. Removing the bony structures would result in better visualization of undetectable lesions. Our purpose in this study was to develop a virtual dual-energy imaging system to separate ribs and clavicles from soft tissue in chest radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30848498

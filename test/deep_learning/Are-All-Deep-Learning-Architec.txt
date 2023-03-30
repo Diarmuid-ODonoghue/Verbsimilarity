@@ -1,0 +1,3 @@
+Little is known about optimal deep learning (DL) approaches for point-of-care ultrasound (POCUS) applications. We compared 6 popular DL architectures for POCUS cardiac image classification to determine whether an optimal DL architecture exists for future DL algorithm development in POCUS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31872477

@@ -1,0 +1,3 @@
+Artificial intelligence (AI) is a branch of computer science that deals with the development of algorithms that seek to simulate human intelligence. We provide an overview of the basic principles in AI that are essential to the understanding of AI and its application in health care. We also present a descriptive analysis of the current state of AI in various fields of medicine, especially ophthalmology. Finally, we review the potential limitations and challenges that come along with the development and implementation of this new technology that will likely play a major role in clinical medicine in the near future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30248307

@@ -1,0 +1,3 @@
+Neuronal loss and dopamine depletion alter motor signal processing between cortical motor areas, basal ganglia, and the thalamus, resulting in the motor manifestations of Parkinson's disease. Dopamine replacement therapy can reverse these manifestations with varying degrees of improvement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28597560

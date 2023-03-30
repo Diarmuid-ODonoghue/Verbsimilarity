@@ -1,0 +1,3 @@
+Motor imagination (MI) and functional electrical stimulation (FES) can activate the sensory-motor cortex through efferent and afferent pathways respectively. Motor imagination can be used as a control strategy to activate FES through a brain-computer interface as the part of a rehabilitation therapy. It is believed that precise timing between the onset of MI and FES is important for strengthening the cortico-spinal pathways but it is not known whether prolonged MI during FES influences cortical response.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25454278

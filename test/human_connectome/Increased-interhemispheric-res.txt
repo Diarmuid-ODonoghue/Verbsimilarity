@@ -1,0 +1,3 @@
+Paroxysmal kinesigenic dyskinesia (PKD) is a rare movement disorder. The underlying neural mechanisms have not been fully understood. This study aimed to examine the alteration of resting-state functional connectivity (RSFC) between interhemispheric homotopic regions in PKD using a technique called "voxel-mirrored homotopic connectivity" (VMHC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25783010

@@ -1,0 +1,3 @@
+Postoperative programming in deep brain stimulation (DBS) therapy for movement disorders can be challenging and time consuming. Providing the neurologist with tools to visualize the electrode location relative to the patient's anatomy along with models of tissue activation and statistical data can therefore be very helpful. In this study, we evaluate the consistency between neurologists in interpreting and using such information provided by our DBS programming assistance software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23647701

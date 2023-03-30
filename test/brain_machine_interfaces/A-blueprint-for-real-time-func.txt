@@ -1,0 +1,3 @@
+The surgical treatment of patients with intractable epilepsy is preceded by a pre-surgical evaluation period during which intracranial EEG recordings are performed to identify the epileptogenic network and provide a functional map of eloquent cerebral areas that need to be spared to minimize the risk of post-operative deficits. A growing body of research based on such invasive recordings indicates that cortical oscillations at various frequencies, especially in the gamma range (40 to 150 Hz), can provide efficient markers of task-related neural network activity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17971857

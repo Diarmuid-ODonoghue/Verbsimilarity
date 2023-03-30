@@ -1,0 +1,3 @@
+Common scales for clinical evaluation of post-stroke upper-limb motor recovery are often complemented with kinematic parameters extracted from movement trajectories. However, there is no a general consensus on which parameters to use. Moreover, the selected variables may be redundant and highly correlated or, conversely, may incompletely sample the kinematic information from the trajectories. Here we sought to identify a set of clinically useful variables for an exhaustive but yet economical kinematic characterization of upper limb movements performed by post-stroke hemiparetic subjects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27609062

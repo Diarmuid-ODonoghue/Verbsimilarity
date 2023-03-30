@@ -1,0 +1,3 @@
+Robotic surgery is a rapidly expanding field. Thus far training for robotic techniques has been unstructured and the requirements are variable across various regions. Several projects are currently underway to develop a robotic surgery curriculum and are in various stages of validation. We aimed to outline the structures of available curricula, their process of development, validation status and current utilization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25486264

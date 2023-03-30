@@ -1,0 +1,3 @@
+Background: During outbreaks of diseases a great amount of health threatening misinformation is produced and released. In the web-2 era much of this misinformation is disseminated via social media where information could spread easily and quickly. Monitoring social media content provides crucial insights for health managers to manage the crisis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32250961

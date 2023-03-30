@@ -1,0 +1,3 @@
+Accurately detecting and examining lung nodules early is key in diagnosing lung cancers and thus one of the best ways to prevent lung cancer deaths. Radiologists spend countless hours detecting small spherical-shaped nodules in computed tomography (CT) images. In addition, even after detecting nodule candidates, a considerable amount of effort and time is required for them to determine whether they are real nodules. The aim of this paper is to introduce a high performance nodule classification method that uses three dimensional deep convolutional neural networks (DCNNs) and an ensemble method to distinguish nodules between non-nodules.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30509191

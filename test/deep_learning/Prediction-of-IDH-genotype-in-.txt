@@ -1,0 +1,3 @@
+The aim of this study was to predict isocitrate dehydrogenase (IDH) genotypes of gliomas using an interpretable deep learning application for dynamic susceptibility contrast (DSC) perfusion MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31127834

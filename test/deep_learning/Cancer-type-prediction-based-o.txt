@@ -1,0 +1,3 @@
+With the developments of DNA sequencing technology, large amounts of sequencing data have been produced that provides unprecedented opportunities for advanced association studies between somatic mutations and cancer types/subtypes which further contributes to more accurate somatic mutation based cancer typing (SMCT). In existing SMCT methods however, the absence of high-level feature extraction is a major obstacle in improving the classification performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30367576

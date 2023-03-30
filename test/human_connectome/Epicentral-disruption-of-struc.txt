@@ -1,0 +1,3 @@
+Neurodegenerative changes observed in Alzheimer's disease (AD) have been suggested to begin at the entorhinal cortex and hippocampus and then to propagate in a stereotypical fashion. Using diffusion-weighted imaging, we test whether disruption of structural connectivity in AD is centered on these "epicenters of disease".
+
+https://www.ncbi.nlm.nih.gov/pubmed/25899584

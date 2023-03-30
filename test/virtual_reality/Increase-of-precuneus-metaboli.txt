@@ -1,0 +1,3 @@
+The prevalence of posttraumatic stress disorder (PTSD) is higher among veterans, and can lead to disastrous consequences such as suicide. Eye movement desensitization and reprocessing (EMDR) is recommended in first-line psychotherapies for PTSD. Virtual reality exposure (VRE) coupled with 18F-FDG PET imaging can highlight the activated brain regions during stress exposure. The objective of this study is to identify, after EMDR therapy, the regions of brain metabolism that evolve during the stress exposure of a war scene with symptomatic remission in a group of military veterans suffering from PTSD, and to secondarily search for predictive metabolic features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31152209

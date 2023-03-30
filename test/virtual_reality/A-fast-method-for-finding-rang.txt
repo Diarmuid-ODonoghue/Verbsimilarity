@@ -1,0 +1,3 @@
+Finding the range of motion for the human joints is a popular method for diagnosing joint diseases. By current technology, it is more trustable and easier to find the range of motion by employing computer based models of the human tissues. In this paper we propose a novel method for finding range of motion for human joints without using any collision detection algorithm. This method is based on mesh classifying in a cylindrically segmented space. The method shows to be much faster than the traditional ones and provides the accurate results. This method is illustrated on the case of finding the range of motion in the human hip joint.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18003148

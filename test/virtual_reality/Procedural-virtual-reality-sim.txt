@@ -1,0 +1,3 @@
+Simulation of procedural tasks has the potential to bridge the gap between basic skills training outside the operating room (OR) and performance of complex surgical tasks in the OR. This paper provides an overview of procedural virtual reality (VR) simulation currently available on the market and presented in scientific literature for laparoscopy (LS), flexible gastrointestinal endoscopy (FGE), and endovascular surgery (EVS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/22956001

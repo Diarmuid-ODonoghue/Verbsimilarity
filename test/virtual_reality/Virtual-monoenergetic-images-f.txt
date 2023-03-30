@@ -1,0 +1,3 @@
+This study aimed to identify the energy level of virtual monoenergetic images (VMI) that closest represents conventional images (CI) in order to demonstrate that these images provide improved image quality in terms of noise and Signal-to-noise ratio (SD/SNR) while attenuation values (HU) remain unaltered as compared to CI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31307652

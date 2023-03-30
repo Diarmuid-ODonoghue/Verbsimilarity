@@ -1,0 +1,3 @@
+Virtual reality (VR) laparoscopic simulators have been around for more than 10 years and have proven to be cost- and time-effective in laparoscopic skills training. However, most simulators are, in our experience, considered less interesting by residents and are often poorly accessible. Consequently, these devices are rarely used in actual training. In an effort to make a low-cost and more attractive simulator, a custom-made Nintendo Wii game was developed. This game could ultimately be used to train the same basic skills as VR laparoscopic simulators ought to. Before such a video game can be implemented into a surgical training program, it has to be validated according to international standards.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24061627

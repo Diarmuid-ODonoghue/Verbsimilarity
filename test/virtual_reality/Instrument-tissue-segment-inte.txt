@@ -1,0 +1,3 @@
+A virtual reality based laparoscopic surgery simulator is an important training option for laparoscopic surgeons. It has significant advantages over other training methods. Instruments-anatomy interactions are one of the main features of these simulators. In this paper we present the deformation of the uterine tube using three dimensional finite element methods with finite element software. The work examines the feasibility of incorporating the finite element (FE) model within the visual graphic model to achieve high degree of realism of instrument-tissue interactions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18002566

@@ -1,0 +1,3 @@
+Ultrasound guided central venous catheterization (CVC) is a common surgical procedure with complication rates ranging from 5 to 21 percent. Training is typically performed using manikins that do not simulate anatomical variations such as obesity and abnormal vessel positioning. The goal of this study was to develop and validate the effectiveness of a new virtual reality and force haptic based simulation platform for CVC of the right internal jugular vein.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28645855

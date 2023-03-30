@@ -1,0 +1,3 @@
+Phantom limb pain is chronic and intractable. Recently, virtual reality (VR) and motion capture technology has replicated the mirror box device of Ramachandran (Ramachandran et al. Nature 1995, 377, 489-490; Ramachandran and Rogers-Ramachandran Proc R Soc Biol Sci 1996, 263, 377-386) and led to reductions in this pain. We present results from a novel variation on this method which captures motion data directly from a patient's stump (rather than using the opposite remaining limb) and then transforms it into goal directed, virtual action enacted by an avatar in a VR environment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19191061

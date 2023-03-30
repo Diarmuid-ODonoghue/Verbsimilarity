@@ -1,0 +1,3 @@
+To assess validity and reliability of palatal superimposition of holograms of 3D digital dental models using a customized software, (Ortho Mechanics Sequential Analyzer OMSA), installed on Microsoft HoloLens device as compared to the OMSA application running on a regular computer screen.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31074156

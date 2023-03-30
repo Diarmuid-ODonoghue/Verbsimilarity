@@ -1,0 +1,3 @@
+A novel electrochemical DNA biosensor based on methylene blue (MB) and chitosan-modified carbon paste electrode (CCPE) for short DNA sequences and polymerase chain reaction (PCR) amplified real samples related to the hepatitis B virus (HBV) hybridization detection is presented. Differential pulse voltammetry (DPV) was used to investigate the surface coverage and hybridization event. The decrease in the peak current of MB, an electroactive label, was observed upon hybridization of probe with the target. Numerous factors affecting the target hybridization and indicator binding reaction are optimized to maximize the sensitivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17084111

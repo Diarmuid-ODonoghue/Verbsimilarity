@@ -1,0 +1,3 @@
+In this editorial, we briefly summarize the International Conference on Intelligent Biology and Medicine 2019 (ICIBM 2019) that was held on June 9-11, 2019 at Columbus, Ohio, USA. Then, we introduce the two research articles included in this supplement issue. These two research articles were selected after careful review of 105 articles that were submitted to the conference, and cover topics on deep learning for drug-target interaction prediction and data mining and visualization of high-order drug-drug interactions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32183782

@@ -1,0 +1,3 @@
+This paper demonstrates extremely efficient (η(P,max) = 118 lm W(-1) ) ITO-free green phosphorescent OLEDs (PHOLEDs) with multilayered, highly conductive poly(3,4-ethylenedioxythiophene): poly(styrenesulfonate) (PEDOT:PSS) films as the anode. The efficiency is obtained without any outcoupling-enhancing structures and is 44% higher than the 82 lm W(-1) of similar optimized ITO-anode PHOLEDs. Detailed simulations show that this improvement is due largely to the intrinsically enhanced outcoupling that results from a weak microcavity effect.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22786793

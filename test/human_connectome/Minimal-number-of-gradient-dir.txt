@@ -1,0 +1,3 @@
+Determination of the minimum number of gradient directions (Nmin) for robust measurement of spherical mean diffusion weighted signal (S¯).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30171997

@@ -1,0 +1,3 @@
+Walking speed, which is often reduced after stroke, can be influenced by the perception of optic flow (OF) speed. The present study aims to: 1) compare the modulation of walking speed in response to OF speed changes between persons with stroke and healthy controls and 2) investigate whether virtual environments (VE) manipulating OF speed can be used to promote volitional changes in walking speed post stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17594501

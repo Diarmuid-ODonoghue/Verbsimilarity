@@ -1,0 +1,3 @@
+We present the first tool of gene prediction, PlasGUN, for plasmid metagenomic short read data. The tool, developed based on deep learning algorithm of multiple input Convolutional Neural Network, demonstrates much better performance when tested on a benchmark dataset of artificial short reads and presents more reliable results for real plasmid metagenomic data than traditional gene prediction tools designed primarily for chromosome-derived short reads.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32091572

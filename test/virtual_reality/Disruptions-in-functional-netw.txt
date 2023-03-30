@@ -1,0 +1,3 @@
+Driving while under the influence of alcohol is a major public health problem whose neural basis is not well understood. In a recently published functional magnetic resonance imaging (fMRI) study (Meda et al., 2009), our group identified 5, independent critical driving-associated brain circuits whose inter-regional connectivity was disrupted by alcohol intoxication. However, the functional connectivity between these circuits has not yet been explored in order to determine how these networks communicate with each other during sober and alcohol-intoxicated states.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20028354

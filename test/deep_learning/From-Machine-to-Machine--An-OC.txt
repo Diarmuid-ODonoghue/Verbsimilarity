@@ -1,0 +1,3 @@
+Previous approaches using deep learning (DL) algorithms to classify glaucomatous damage on fundus photographs have been limited by the requirement for human labeling of a reference training set. We propose a new approach using quantitative spectral-domain (SD) OCT data to train a DL algorithm to quantify glaucomatous structural damage on optic disc photographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30578810

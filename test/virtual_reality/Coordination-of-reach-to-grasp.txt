@@ -1,0 +1,3 @@
+Virtual reality (VR) offers unprecedented opportunity as a scientific tool to study visuomotor interactions, training, and rehabilitation applications. However, it remains unclear if haptic-free hand-object interactions in a virtual environment (VE) may differ from those performed in the physical environment (PE). We therefore sought to establish if the coordination structure between the transport and grasp components remain similar whether a reach-to-grasp movement is performed in PE and VE.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31248426

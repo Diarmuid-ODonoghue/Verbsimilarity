@@ -1,0 +1,3 @@
+Learning the joint distributions of measurements, and in particular identification of an appropriate low-dimensional manifold, has been found to be a powerful ingredient of deep leaning approaches. Yet, such approaches have hardly been applied to single nucleotide polymorphism (SNP) data, probably due to the high number of features typically exceeding the number of studied individuals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28655145

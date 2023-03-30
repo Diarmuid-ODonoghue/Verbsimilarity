@@ -1,0 +1,3 @@
+Extracting clinical entities and their attributes is a fundamental task of natural language processing (NLP) in the medical domain. This task is typically recognized as 2 sequential subtasks in a pipeline, clinical entity or attribute recognition followed by entity-attribute relation extraction. One problem of pipeline methods is that errors from entity recognition are unavoidably passed to relation extraction. We propose a novel joint deep learning method to recognize clinical entities or attributes and extract entity-attribute relations simultaneously.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31550346

@@ -1,0 +1,3 @@
+Increasing constraints on the time and resources needed to train surgeons have led to a new emphasis on finding innovative ways to teach surgical skills outside the operating room. Virtual reality training has been proposed as a method to both instruct surgical students and evaluate the psychomotor components of minimally invasive surgery ex vivo.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15026925

@@ -1,0 +1,3 @@
+In computational neuroimaging, brain parcellation methods subdivide the brain into individual regions that can be used to build a network to study its structure and function. Using anatomical or functional connectivity, hierarchical clustering methods aim to offer a meaningful parcellation of the brain at each level of granularity. However, some of these methods have been only applied to small regions and strongly depend on the similarity measure used to merge regions. The aim of this work is to present a robust whole-brain hierarchical parcellation that preserves the global structure of the network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28947002

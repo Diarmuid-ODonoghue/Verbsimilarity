@@ -1,0 +1,3 @@
+Noise, commonly encountered on computed tomography (CT) images, can impact diagnostic accuracy. To reduce the image noise, we developed a deep-learning reconstruction (DLR) method that integrates deep convolutional neural networks into image reconstruction. In this phantom study, we compared the image noise characteristics, spatial resolution, and task-based detectability on DLR images and images reconstructed with other state-of-the art techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31818389

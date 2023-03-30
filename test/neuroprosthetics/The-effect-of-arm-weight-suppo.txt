@@ -1,0 +1,3 @@
+Compensating for the effect of gravity by providing arm-weight support (WS) is a technique often utilized in the rehabilitation of patients with neurological conditions such as stroke to facilitate the performance of arm movements during therapy. Although it has been shown that, in healthy subjects as well as in stroke survivors, the use of arm WS during the performance of reaching movements leads to a general reduction, as expected, in the level of activation of upper limb muscles, the effects of different levels of WS on the characteristics of the kinematics of motion and of the activity of upper limb muscles have not been thoroughly investigated before.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24594139

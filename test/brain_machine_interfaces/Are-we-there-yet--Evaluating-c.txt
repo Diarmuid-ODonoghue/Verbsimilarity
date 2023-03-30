@@ -1,0 +1,3 @@
+Using a commercial electroencephalography (EEG)-based brain-computer interface (BCI), the training and testing protocol for six individuals with spastic quadriplegic cerebral palsy (GMFCS and MACS IV and V) was evaluated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26699697

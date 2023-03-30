@@ -1,0 +1,3 @@
+Decoding with the important neuron subset has been widely used in brain machine interfaces (BMIs), as an effective strategy to reduce computational complexity. Previous works usually assume stationary of neuron importance, which may not be true according to recent research. We propose to conduct a mutual information evaluation to track the time-varying neuron importance over time. We found worth noting changes both in information amount and space distribution in our experiment. When the method is applied with a Kalman filter, the decoding performance achieve is better (with higher correlation coefficient) than when a fixed subset, which shows that time-varying neuron importance should be considered in adaptive algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366494

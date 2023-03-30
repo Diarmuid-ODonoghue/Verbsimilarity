@@ -1,0 +1,3 @@
+We aimed to propose a highly automatic and objective model named online transfer learning (OTL) for the differential diagnosis of benign and malignant thyroid nodules from ultrasound (US) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32011998

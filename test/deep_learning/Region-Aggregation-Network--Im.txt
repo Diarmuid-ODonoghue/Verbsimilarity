@@ -1,0 +1,3 @@
+Detection of ECG characteristic points serves as the first step in automated ECG analysis techniques. We propose a novel end-to-end deep learning scheme called Region Aggregation Network (RAN) for ECG characteristic points de- tection. A 1D Convolutional Neural Network (CNN) is adopted to automatically process ECG signals. A novel strategy of Region Aggregation is proposed to replace the conventional fully connected layer as regressor. Our work provides robust and accurate detection performance on public ECG database. The evaluation results of our method on QT database show comparable detection accuracy compared with state-of-the-art works.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30440930

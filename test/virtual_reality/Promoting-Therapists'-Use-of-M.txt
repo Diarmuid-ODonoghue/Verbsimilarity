@@ -1,0 +1,3 @@
+Therapists use motor learning strategies (MLSs) to structure practice conditions within stroke rehabilitation. Virtual reality (VR)-based rehabilitation is an MLS-oriented stroke intervention, yet little support exists to assist therapists in integrating MLSs with VR system use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27992492

@@ -1,0 +1,3 @@
+Motor imagery-based brain-computer interface (MI-BCI) systems hold promise in motor function rehabilitation and assistance for motor function impaired people. But the ability to operate an MI-BCI varies across subjects, which becomes a substantial problem for practical BCI applications beyond the laboratory.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26529439

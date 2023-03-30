@@ -1,0 +1,3 @@
+Real-time surgical tool tracking is a core component of the future intelligent operating room (OR), because it is highly instrumental to analyze and understand the surgical activities. Current methods for surgical tool tracking in videos need to be trained on data in which the spatial positions of the tools are manually annotated. Generating such training data is difficult and time-consuming. Instead, we propose to use solely binary presence annotations to train a tool tracker for laparoscopic videos.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30968356

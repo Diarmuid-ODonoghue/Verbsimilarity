@@ -1,0 +1,3 @@
+Dofetilide is an effective antiarrhythmic medication for rhythm control in atrial fibrillation, but carries a significant risk of pro-arrhythmia and requires meticulous dosing and monitoring. The cornerstone of this monitoring, measurement of the QT/QTc interval, is an imperfect surrogate for plasma concentration, efficacy, and risk of pro-arrhythmic potential.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30133452

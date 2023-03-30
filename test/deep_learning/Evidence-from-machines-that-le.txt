@@ -1,0 +1,3 @@
+We agree with Lake et al.'s trenchant analysis of deep learning systems, including that they are highly brittle and that they need vastly more examples than do people. We also agree that human cognition relies heavily on structured relational representations. However, we differ in our analysis of human cognitive processing. We argue that (1) analogical comparison processes are central to human cognition; and (2) intuitive physical knowledge is captured by qualitative representations, rather than quantitative simulations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29342692

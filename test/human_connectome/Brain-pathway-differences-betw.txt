@@ -1,0 +1,3 @@
+REM (rapid eye movement) sleep behavior disorder (RBD) is characterized by increased muscle tone and violent limb movements and is a usual symptom of the early stages of Parkinson's disease (PD). PD patients with RBD represent faster motor and cognitive dysfunction progression. However, there are limited studies on possible structural brain changes underpinning this disorder.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27853964

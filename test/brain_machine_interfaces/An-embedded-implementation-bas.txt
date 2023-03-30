@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) is a new communication pathway for users with neurological deficiencies. The implementation of a BCI system requires complex electroencephalography (EEG) signal processing including filtering, feature extraction and classification algorithms. Most of current BCI systems are implemented on personal computers. Therefore, there is a great interest in implementing BCI on embedded platforms to meet system specifications in terms of time response, cost effectiveness, power consumption, and accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29738806

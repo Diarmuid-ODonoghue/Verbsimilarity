@@ -1,0 +1,3 @@
+Brain/Computer Interaction (BCI) devices are designed to alter neural signals and, thereby, mental activity. This study was a randomized, waitlist (TAU) controlled trial of a BCI, EEG neurofeedback training (NF), in patients with chronic PTSD to explore the capacity of NF to reduce PTSD symptoms and increase affect regulation capacities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27992435

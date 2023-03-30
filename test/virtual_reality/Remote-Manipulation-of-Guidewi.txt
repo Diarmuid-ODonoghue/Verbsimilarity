@@ -1,0 +1,3 @@
+A trial of remote manipulation for micro guidewire is reported. The system had masterslave style. When an operator manipulated the virtual torque device at the master side, a machine at the distant slave side reproduced the manipulation. At the same time, the operator could feel the force feedback from the manipulation at the slave. We could experimentally realize this remote manipulating system using a virtual reality device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20663373

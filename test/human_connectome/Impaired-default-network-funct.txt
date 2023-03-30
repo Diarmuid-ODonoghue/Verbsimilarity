@@ -1,0 +1,3 @@
+To investigate default mode network (DMN) functional connectivity MRI (fcMRI) in a large cross-sectional cohort of subjects from families harboring pathogenic presenilin-1 (PSEN1), presenilin-2 (PSEN2), and amyloid precursor protein (APP) mutations participating in the Dominantly Inherited Alzheimer Network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23884042

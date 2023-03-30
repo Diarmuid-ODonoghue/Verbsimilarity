@@ -1,0 +1,3 @@
+Performing patient-specific, pre-operative cochlea CT-based measurements could be helpful to positively affect the outcome of cochlear surgery in terms of intracochlear trauma and loss of residual hearing. Therefore, we propose a method to automatically segment and measure the human cochlea in clinical ultra-high-resolution (UHR) CT images, and investigate differences in cochlea size for personalized implant planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32109685

@@ -1,0 +1,3 @@
+Antibodies play essential roles in the immune system of vertebrates and are powerful tools in research and diagnostics. While hypervariable regions of antibodies, which are responsible for binding, can be readily identified from their amino acid sequence, it remains challenging to accurately pinpoint which amino acids will be in contact with the antigen (the paratope).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29672675

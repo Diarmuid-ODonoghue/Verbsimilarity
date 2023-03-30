@@ -1,0 +1,3 @@
+A reliable model to simulate nuclear interactions is fundamental for Ion-therapy. We already showed how BLOB ("Boltzmann-Langevin One Body"), a model developed to simulate heavy ion interactions up to few hundreds of MeV/u, could simulate also 12C reactions in the same energy domain. However, its computation time is too long for any medical application. For this reason we present the possibility of emulating it with a Deep Learning algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32330813

@@ -1,0 +1,3 @@
+With the explosive growth of global data, the term Big Data describes the enormous size of dataset through the detailed analysis. The big data analytics revealed the hidden patterns and secret correlations among the values. The major challenges in Big data analysis are due to increase of volume, variety, and velocity. The capturing of images with multi-directional views initiates the image set classification which is an attractive research study in the volumetricbased medical image processing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31975670

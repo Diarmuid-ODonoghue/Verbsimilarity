@@ -1,0 +1,3 @@
+Awake surgery can be highly stressful for patients. In fact, being awake, patients could perceive that the environmental demands are taxing or exceed their adaptive abilities. We proposed the use of Virtual Reality as a functional and effective tool for a new class of clinical applications aimed at helping patients to cope with these specific stressful situations. Using coping skills that have been learnt during the virtual experience, patients can reduce their psychological stress and improve their collaboration and - in general - the outcome of the intervention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22356949

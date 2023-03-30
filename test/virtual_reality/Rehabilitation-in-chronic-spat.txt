@@ -1,0 +1,3 @@
+Rehabilitation of patients with chronic visuospatial neglect is underexplored, and little is known about neural mechanisms that can be exploited to promote recovery. In this study, we present data on resting-state functional connectivity within the dorsal attention network (DAN) in chronic neglect patients as they underwent training in a virtual reality (VR) environment that improved left-side awareness.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30427058

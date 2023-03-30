@@ -1,0 +1,3 @@
+The distributed white matter network underlying language leads to difficulties in extracting clinically meaningful summaries of neural alterations leading to language impairment. Here we determine the predictive ability of the structural connectome (SC), compared with global measures of white matter tract microstructure and clinical data, to discriminate language impaired patients with temporal lobe epilepsy (TLE) from TLE patients without language impairment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31927128

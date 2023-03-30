@@ -1,0 +1,3 @@
+Brain Computer Interface (BCI) systems based on Movement Imagination (MI) are widely used in recent decades. Separate feature extraction methods are employed in the MI data sets and classified in Virtual Reality (VR) environments for real-time applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27303595

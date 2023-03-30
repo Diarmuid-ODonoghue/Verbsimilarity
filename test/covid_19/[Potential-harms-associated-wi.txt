@@ -1,0 +1,3 @@
+Hydroxychloroquine and chloroquine are currently being evaluated as treatment against COVID-19. These drugs are associated with some potential harms, including QTc-interval prolongation, hypoglycaemia, severe skin reactions and psychiatric effects. Use of hydroxychloroquine or chloroquine should be reserved to current indications or clinical trials, as recommended by several governmental medical products agencies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32365215

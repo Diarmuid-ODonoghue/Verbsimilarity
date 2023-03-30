@@ -1,0 +1,3 @@
+The self-assembly of nanoparticles is an efficient and precise method to fabricate nanoscale devices. By manipulating iron oxide nanoparticles in suspension with an external field to form magnetically directed linear assemblies, we demonstrate the feasibility of using this structure to template the synthesis of PEDOT:PSS conducting polymer nanowires in suspension. Furthermore these conducting wires can be assembled on interdigitated electrodes to form an array of conducting nanowires.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23831765

@@ -1,0 +1,3 @@
+Optical see-through head mounted displays (OST-HMDs) offer a mixed reality (MixR) experience with unhindered procedural site visualization during procedures using high resolution radiographic imaging. This technical note describes our preliminary experience with percutaneous spine procedures utilizing OST-HMD as an alternative to traditional angiography suite monitors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29848559

@@ -1,0 +1,3 @@
+In this paper, a novel algorithm based on convolutional neural network (CNN) is proposed to detect foreign object debris (FOD) based on optical imaging sensors. It contains two modules, the improved region proposal network (RPN) and spatial transformer network (STN) based CNN classifier. In the improved RPN, some extra select rules are designed and deployed to generate high quality candidates with fewer numbers. Moreover, the efficiency of CNN detector is significantly improved by introducing STN layer. Compared to faster R-CNN and single shot multiBox detector (SSD), the proposed algorithm achieves better result for FOD detection on airfield pavement in the experiment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29494524

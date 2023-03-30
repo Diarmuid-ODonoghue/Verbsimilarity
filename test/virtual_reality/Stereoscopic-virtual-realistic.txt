@@ -1,0 +1,3 @@
+Three-dimensional (3D)-computed tomographic angiography (CTA) has been widely used for surgical simulation of intracranial aneurysms. Stereo imaging technology is progressing rapidly in recent years and stereo imaging may make more realistic surgical simulation possible. Therefore, we aimed at the establishment of a technique for stereoscopic viewing of minute volume rendering images while pursuing a low cost.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22626702

@@ -1,0 +1,3 @@
+This article explores immersive virtual reality as a potential educational strategy for nursing education and describes an immersive learning experience now being developed for nurses. This pioneering project is a virtual reality application targeting speed and accuracy of nurse response in emergency situations requiring cardiopulmonary resuscitation. Other potential uses and implications for the development of virtual reality learning programs are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21086871

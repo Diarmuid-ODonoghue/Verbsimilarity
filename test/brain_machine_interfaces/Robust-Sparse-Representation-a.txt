@@ -1,0 +1,3 @@
+EEG signals are extremely complex in comparison to other biomedical signals, thus require an efficient feature selection as well as classification approach. Traditional feature extraction and classification methods require to reshape the data into vectors that results in losing the structural information exist in the original featured matrix.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32309055

@@ -1,0 +1,3 @@
+Connectome analysis of the human brain's structural and functional architecture provides a unique opportunity to understand the organization of the brain's functional architecture. In previous studies, connectome fingerprinting using brain functional connectivity profiles as an individualized trait was able to predict an individual's neurocognitive performance from the Human Connectome Project (HCP) neurocognitive datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32351025

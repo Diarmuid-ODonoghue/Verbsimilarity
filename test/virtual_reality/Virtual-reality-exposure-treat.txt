@@ -1,0 +1,3 @@
+In this study the effects of virtual reality exposure therapy (VRET) were investigated in patients with panic disorder and agoraphobia. The level of presence in VRET was compared between using either a head-mounted display (HMD) or a computer automatic virtual environment (CAVE). Results indicate that there was no relationship between the level of experienced presence and treatment outcome. Analyses indicate that VRET in general was more effective than no treatment. No differences in effectiveness were found between VRET using an HMD or CAVE.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21685641

@@ -1,0 +1,3 @@
+The advent of high-throughput experimental techniques paved the way to genome-wide computational analysis and predictive annotation studies. When considering the joint annotation of a large set of related entities, like all proteins of a certain genome, many candidate annotations could be inconsistent, or very unlikely, given the existing knowledge. A sound predictive framework capable of accounting for this type of constraints in making predictions could substantially contribute to the quality of machine-generated annotations at a genomic scale.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31208327

@@ -1,0 +1,3 @@
+This article presents a pottery-making training system with a focus on teaching fundamental knowledge and practical techniques in a virtual-reality environment. Gesture analysis makes it possible to correct the learners actions via visual feedback. Our results demonstrate the efficacy in assisting beginners with learning the gestures used in pottery-making.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29672257

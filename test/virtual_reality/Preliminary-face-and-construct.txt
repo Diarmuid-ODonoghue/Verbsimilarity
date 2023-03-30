@@ -1,0 +1,3 @@
+The Virtual Basic Laparoscopic Skill Trainer (VBLaST) is a developing virtual-reality-based surgical skill training system that incorporates several of the tasks of the Fundamentals of Laparoscopic Surgery (FLS) training system. This study aimed to evaluate the face and construct validity of the VBLaST system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20201683

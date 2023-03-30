@@ -1,0 +1,3 @@
+Electroencephalogram (EEG) based brain-computer interfaces (BCI) in motor imagery (MI) have developed rapidly in recent years. A reliable feature extraction method is essential because of a low signal-to-noise ratio (SNR) and time-dependent covariates of EEG signals. Because of efficient application in various fields, deep learning has been adopted in EEG signal processing and has obtained competitive results compared with the traditional methods. However, designing and training an end-to-end network to fully extract potential features from EEG signals remains a challenge in MI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31849587

@@ -1,0 +1,3 @@
+We describe libmolgrid, a general-purpose library for representing three-dimensional molecules using multidimensional arrays of voxelized molecular data. libmolgrid provides functionality for sampling batches of data suited to machine learning workflows, and it also supports temporal and spatial recurrences over that data to facilitate work with convolutional and recurrent neural networks. It was designed for seamless integration with popular deep learning frameworks and features optimized performance by leveraging graphics processing units (GPUs). libmolgrid is a free and open source project (GPLv2) that aims to democratize grid-based modeling in computational chemistry.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32049525

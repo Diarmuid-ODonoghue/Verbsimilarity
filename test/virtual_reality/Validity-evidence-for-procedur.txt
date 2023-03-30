@@ -1,0 +1,3 @@
+The use of robotic surgery for minimally invasive procedures has increased considerably over the last decade. Robotic surgery has potential advantages compared to laparoscopic surgery but also requires new skills. Using virtual reality (VR) simulation to facilitate the acquisition of these new skills could potentially benefit training of robotic surgical skills and also be a crucial step in developing a robotic surgical training curriculum. The study's objective was to establish validity evidence for a simulation-based test for procedural competency for the vaginal cuff closure procedure that can be used in a future simulation-based, mastery learning training curriculum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29603003

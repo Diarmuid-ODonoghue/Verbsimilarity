@@ -1,0 +1,3 @@
+In this study, we compared how users locate physical and equivalent three-dimensional images of virtual objects in a cave automatic virtual environment (CAVE) using the hand to examine how human performance (accuracy, time, and approach) is affected by object size, location, and distance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25277024

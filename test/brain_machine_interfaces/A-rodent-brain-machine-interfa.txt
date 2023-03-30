@@ -1,0 +1,3 @@
+Most brain machine interfaces (BMI) focus on upper body function in non-injured animals, not addressing the lower limb functional needs of those with paraplegia. A need exists for a novel BMI task that engages the lower body and takes advantage of well-established rodent spinal cord injury (SCI) models to study methods to improve BMI performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29859878

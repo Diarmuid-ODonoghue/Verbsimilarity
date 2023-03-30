@@ -1,0 +1,3 @@
+With the advent of low-cost computing platforms, such as Arduino (http://www.arduino.cc) and Raspberry Pi (http://www.raspberrypi.org), it has become clear that lowering the cost barrier and shortening the learning curve, with the backing of a motivated community, would play a transformational role in the way people learn, experiment, and create imaginative solutions to outstanding problems that can benefit from embedded systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29553933

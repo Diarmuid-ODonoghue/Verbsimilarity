@@ -1,0 +1,3 @@
+To benchmark the human and machine performance of spectral-domain (SD) and swept-source (SS) optical coherence tomography (OCT) image segmentation, i.e., pixel-wise classification, for the compartments vitreous, retina, choroid, sclera.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31419240

@@ -1,0 +1,3 @@
+Parkinson's disease (PD) is an irreversible neurodegenerative disease. The diagnosis of PD based on neuroimaging is usually with low-level or deep learning features, which results in difficulties in achieving precision classification or interpreting the clinical significance. Herein, we aimed to extract high-order features by using radiomics approach and achieve acceptable diagnosis accuracy in PD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32042789

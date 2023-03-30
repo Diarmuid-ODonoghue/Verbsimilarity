@@ -1,0 +1,3 @@
+To investigate the effect of a deep learning-based denoising algorithm, PixelShine (PS), on the quality of 70 kVp pelvic arterial phase CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30523499

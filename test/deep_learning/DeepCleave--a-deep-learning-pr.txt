@@ -1,0 +1,3 @@
+Proteases are enzymes that cleave target substrate proteins by catalyzing the hydrolysis of peptide bonds between specific amino acids. While the functional proteolysis regulated by proteases plays a central role in the 'life and death' cellular processes, many of the corresponding substrates and their cleavage sites were not found yet. Availability of accurate predictors of the substrates and cleavage sites would facilitate understanding of proteases' functions and physiological roles. Deep learning is a promising approach for the development of accurate predictors of substrate cleavage events.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31566664

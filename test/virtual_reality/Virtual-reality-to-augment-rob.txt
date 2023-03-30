@@ -1,0 +1,3 @@
+Active performance is crucial for motor learning, and, together with motivation, is believed to be associated with a better rehabilitation outcome. Virtual reality (VR) is an innovative approach to engage and motivate patients during training. There is promising evidence for its efficiency in retraining upper limb function. However, there is insufficient proof for its effectiveness in gait training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29265791

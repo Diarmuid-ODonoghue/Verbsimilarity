@@ -1,0 +1,3 @@
+To develop and test a deep learning based computer-aided diagnosis (CAD) scheme of mammograms for classifying between malignant and benign masses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28436410

@@ -1,0 +1,3 @@
+Depth perception is a major issue in augmented reality (AR)-based surgical navigation. We propose an AR and virtual reality (VR) switchable visualization system with distance information, and evaluate its performance in a surgical navigation set-up.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25951494

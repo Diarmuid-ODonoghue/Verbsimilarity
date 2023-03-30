@@ -1,0 +1,3 @@
+To develop a deep learning method for prediction of three-dimensional (3D) voxel-by-voxel dose distributions of helical tomotherapy (HT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30870586

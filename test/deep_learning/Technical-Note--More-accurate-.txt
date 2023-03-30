@@ -1,0 +1,3 @@
+Manual delineation of organs-at-risk (OARs) in radiotherapy is both time-consuming and subjective. Automated and more accurate segmentation is of the utmost importance in clinical application. The purpose of this study is to further improve the segmentation accuracy and efficiency with a novel network named convolutional neural networks (CNN) Cascades.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30450825

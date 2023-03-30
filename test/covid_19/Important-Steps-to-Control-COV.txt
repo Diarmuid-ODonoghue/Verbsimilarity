@@ -1,0 +1,3 @@
+Elderly patients are having high mortality rates from COVID-19/SARS-CoV-2 infection compared to younger patients. The SARS-CoV-2 virus uses the ACE2 receptor as the entry point to the host cells. ARBs/ACEIs which are widely used in elderly patients, have been found to be associated with overexpression of ACE2.To decrease the severity of COVID-19 infection, ARB/ACEI should be switched to another class drug not known to cause a rise in ACE2 until the COVID-19 infection subsides. Specific human immunoglobulin can be tried for COVID-19 patients with critical conditions under supervision.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32292884

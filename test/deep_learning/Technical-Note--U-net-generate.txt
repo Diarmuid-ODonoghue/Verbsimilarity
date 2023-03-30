@@ -1,0 +1,3 @@
+Clinical implementation of magnetic resonance imaging (MRI)-only radiotherapy requires a method to derive synthetic CT image (S-CT) for dose calculation. This study investigated the feasibility of building a deep convolutional neural network for MRI-based S-CT generation and evaluated the dosimetric accuracy on prostate IMRT planning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30341917

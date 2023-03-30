@@ -1,0 +1,3 @@
+Translational studies on motor control and neurological disorders require detailed monitoring of sensorimotor components of natural limb movements in relevant animal models. However, available experimental tools do not provide a sufficiently rich repertoire of behavioral signals. Here, we developed a robotic platform that enables the monitoring of kinematics, interaction forces, and neurophysiological signals during user-defined upper limb tasks for monkeys.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31597123

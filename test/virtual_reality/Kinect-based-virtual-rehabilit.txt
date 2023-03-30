@@ -1,0 +1,3 @@
+To help patients with disabilities of the arm and shoulder recover the accuracy and stability of movements, a novel and simple virtual rehabilitation and evaluation system called the Kine-VRES system was developed using Microsoft Kinect.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29578471

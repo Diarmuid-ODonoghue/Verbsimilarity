@@ -1,0 +1,3 @@
+To validate a deep-learning (DL) algorithm for automated quantification of prostate cancer on positron emission tomography/computed tomography (PET/CT) and explore the potential of PET/CT measurements as prognostic biomarkers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31794112

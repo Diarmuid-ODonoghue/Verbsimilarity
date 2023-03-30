@@ -1,0 +1,3 @@
+Based on a study of 48 neurological residents using a high fidelity haptic/graphic virtual reality simulator to perform ventricular cannulation, we recorded absolute Euclidean distance from the catheter tip to the foramen of Monroe within the ventricle. The data suggest that as expected, successful first attempts to cannulate the virtual 'shifted ventricle' are much less frequent than previous assessments with normal virtual ventricular anatomy. Furthermore, the significant improvement observed by the second attempt implies that the learning curve has been affected and the process 'jump started'.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19402952

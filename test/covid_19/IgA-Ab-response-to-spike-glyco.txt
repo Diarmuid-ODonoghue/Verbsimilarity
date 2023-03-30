@@ -1,0 +1,3 @@
+Validation studies of serological antibody tests must be properly designed for clinical, epidemiological and Public Health objectives such as confirmation of suspected COVID-19 cases, certification of seroconversion after infection, and epidemiological surveillance. We evaluated the kinetics of IgM, IgA and IgG SARS-CoV-2 antibodies in COVID-19 patients with confirmed (rRT-PCR) infection. We found that the IgA response appears and grows early, peaks at week 3, and it is stronger and more persistent than the IgM response. Further longitudinal investigations of virus-specific antibodies functions and of their protective efficacy over time are needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32343948

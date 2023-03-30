@@ -1,0 +1,3 @@
+The main goal of this paper is to introduce a novel mechanical method herein terms as substrate vibration post treatment (SVPT) technique, powered by ultrasonic vibration imposed on the substrate to enhance the characteristics and functionality of spun-on thin films or thin films made by similar casting techniques, such as drop and dip coating. In this technique, the as-casted wet films are placed on a substrate vibrated by an ultrasonic transducer with controlled power and duration to improve the film characteristics, such as uniformity and nanostructure. The performance of this technique is examined on spun-on
+
+https://www.ncbi.nlm.nih.gov/pubmed/26775261

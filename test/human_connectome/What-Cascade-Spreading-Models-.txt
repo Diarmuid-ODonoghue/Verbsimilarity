@@ -1,0 +1,3 @@
+The precise relationship between functional and structural connectivity in the brain is not well understood. Research in this area has, so far, mostly remained descriptive. In this issue of Neuron, Mišić et al. (2015) forge a promising new direction by modeling the propagation of information as it relates to spatially constrained network properties. From these preliminary results a glimmer of hope in uncovering deep principles of brain organization begins to emerge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26087160

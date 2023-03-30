@@ -1,0 +1,3 @@
+Multi-articulate prostheses are capable of performing dexterous hand movements. However, clinically available control strategies fail to provide users with intuitive, independent and proportional control over multiple degrees of freedom (DOFs) in real-time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31711883

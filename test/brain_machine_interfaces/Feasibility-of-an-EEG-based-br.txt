@@ -1,0 +1,3 @@
+We tested the feasibility of deploying a commercially available EEG-based brain-computer interface (BCI) in the intensive care unit (ICU) to detect consciousness in patients with acute disorders of consciousness (DoC) or locked-in syndrome (LIS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29804044

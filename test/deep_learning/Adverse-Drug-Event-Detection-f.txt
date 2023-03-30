@@ -1,0 +1,3 @@
+Adverse drug event (ADE) detection is a vital step towards effective pharmacovigilance and prevention of future incidents caused by potentially harmful ADEs. The electronic health records (EHRs) of patients in hospitals contain valuable information regarding ADEs and hence are an important source for detecting ADE signals. However, EHR texts tend to be noisy. Yet applying off-the-shelf tools for EHR text preprocessing jeopardizes the subsequent ADE detection performance, which depends on a well tokenized text input.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30649736

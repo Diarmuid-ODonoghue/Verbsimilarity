@@ -1,0 +1,3 @@
+Virtual reality (VR) applications promise the safe, efficacious, and valid replication of scenarios encountered in modern neurosurgery, and a number of navigation- or dissection-related and endovascular simulators have been successfully deployed in the last 2 decades. Concurrently, neurosurgical training is changing, and VR simulations are expected to play a part in future training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24051876

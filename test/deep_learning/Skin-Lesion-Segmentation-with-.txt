@@ -1,0 +1,3 @@
+Malignant melanoma is one of the leading cancers around the world. It is critical to timely diagnose and treat melanoma to improve patient survival. This paper proposes a deep learning model C-UNet for skin lesion segmentation. The C-UNet incorporates the Inception-like convolutional block, the recurrent convolutional block and dilated convolutional layers. We also apply a finetune technique using Dice loss after training the model with commonly used cross-entropy loss. The conditional random field was used to further smooth predicted label maps. Experiment results show that the proposed method achieves better accuracy and more robust segmentation results than UNet.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31946471

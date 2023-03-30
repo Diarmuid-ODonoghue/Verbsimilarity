@@ -1,0 +1,3 @@
+Tracking and predicting the growth performance of plants in different environments is critical for predicting the impact of global climate change. Automated approaches for image capture and analysis have allowed for substantial increases in the throughput of quantitative growth trait measurements compared with manual assessments. Recent work has focused on adopting computer vision and machine learning approaches to improve the accuracy of automated plant phenotyping. Here we present PS-Plant, a low-cost and portable 3D plant phenotyping platform based on an imaging technique novel to plant phenotyping called photometric stereo (PS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31127811

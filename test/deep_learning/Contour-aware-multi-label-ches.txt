@@ -1,0 +1,3 @@
+Segmentation of organs from chest X-ray images is an essential task for an accurate and reliable diagnosis of lung diseases and chest organ morphometry. In this study, we investigated the benefits of augmenting state-of-the-art deep convolutional neural networks (CNNs) for image segmentation with organ contour information and evaluated the performance of such augmentation on segmentation of lung fields, heart, and clavicles from chest X-ray images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32034633

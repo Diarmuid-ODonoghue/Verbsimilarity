@@ -1,0 +1,3 @@
+Semiquantitative assessment of MRI plays a central role in musculoskeletal research; however, in the clinical setting MRI reports often tend to be subjective and qualitative. Grading schemes utilized in research are not used because they are extraordinarily time-consuming and unfeasible in clinical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30306701

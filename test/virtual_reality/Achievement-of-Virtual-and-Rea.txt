@@ -1,0 +1,3 @@
+To evaluate whether people with Duchenne muscular dystrophy (DMD) practicing a task in a virtual environment could improve performance given a similar task in a real environment, as well as distinguishing whether there is transference between performing the practice in virtual environment and then a real environment and vice versa.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29608336

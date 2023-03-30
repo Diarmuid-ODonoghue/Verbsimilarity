@@ -1,0 +1,3 @@
+Proper evaluation of the performance of artificial intelligence techniques in the analysis of digitized medical images is paramount for the adoption of such techniques by the medical community and regulatory agencies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30848813

@@ -1,0 +1,3 @@
+Accurate prediction of the effects of genetic variation is a major goal in biological research. Towards this goal, numerous machine learning models have been developed to learn information from evolutionary sequence data. The most effective method so far is a deep generative model based on the variational autoencoder (VAE) that models the distributions using a latent variable. In this study, we propose a deep autoregressive generative model named mutationTCN, which employs dilated causal convolutions and attention mechanism for the modeling of inter-residue correlations in a biological sequence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31746978

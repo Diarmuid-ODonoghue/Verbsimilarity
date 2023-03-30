@@ -1,0 +1,3 @@
+Drug combination therapy can improve drug efficacy, reduce drug dosage, and overcome drug resistance. Many studies have focused on predicting synergistic drug combinations. However, existing methods fail to consider the heterogeneous characteristics of drugs fully, and it is difficult to identify effective drug combinations. Therefore, we propose a new integrated prediction model based on deep representations by integrating information from multiple domains to accurately and effectively predict drug combinations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31438192

@@ -1,0 +1,3 @@
+Accidents or neurodegenerative diseases like amyotrophic lateral sclerosis (ALS) can lead to progressing, extensive, and complete paralysis leaving patients aware but unable to communicate (locked-in state). Brain-computer interfaces (BCI) based on electroencephalography represent an important approach to establish communication with these patients. The most common BCI for communication rely on the P300, a positive deflection arising in response to rare events. To foster broader application of BCIs for restoring lost function, also for end-users with impaired vision, we explored whether there were specific time windows during the day in which a P300 driven BCI should be preferably applied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28061886

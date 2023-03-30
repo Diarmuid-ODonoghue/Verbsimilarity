@@ -1,0 +1,3 @@
+Robotic devices show promise in restoring motor abilities to individuals with upper limb paresis or amputations. However, these systems are still limited in obtaining reliable signals from the human body to effectively control them. We propose that these robotic devices can be controlled through scalp electroencephalography (EEG), a neuroimaging technique that can capture motor commands through brain rhythms. In this work, we studied if EEG can be used to predict an individual's grip forces produced by the hand.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31476751

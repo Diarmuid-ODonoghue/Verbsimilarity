@@ -1,0 +1,3 @@
+Microelectrode recording (MER) is used to identify the subthalamic nucleus (STN) during deep brain stimulation (DBS) surgery. Automated STN detection typically involves extracting quantitative features from MERs for classifier training. This study evaluates the ability of feature selection to identify optimal feature combinations for automated STN localization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25270241

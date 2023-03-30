@@ -1,0 +1,3 @@
+This paper presents a self-contained, single-chip biosignal monitoring system with wireless programmability and telemetry interface suitable for mainstream healthcare applications. The system consists of low-noise front end amplifiers, ADC, MICS/ISM transmitter and infrared programming capability to configure the state of the chip. An on-chip packetizer ensures easy pairing with standard off-the-shelf receivers. The chip is realized in the IBM 130 nm CMOS process with an area of 2×2 mm(2). The entire system consumes 1.07 mW from a 1.2 V supply. It weighs 0.6 g including a zinc-air battery. The system has been extensively tested in in vivo biological experiments and requires minimal human interaction or calibration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24681927

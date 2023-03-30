@@ -1,0 +1,3 @@
+Noninvasive localization of certain brain functions may be mapped on a millimetre level. However, the interelectrode spacing of common clinical brain surface electrodes still remains around 10 mm. Here, we present details on development of electrodes for attaining higher quality electrocorticographic signals for use in functional brain mapping and brain-machine interface (BMI) technologies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25029330

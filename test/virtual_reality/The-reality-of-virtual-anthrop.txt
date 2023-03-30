@@ -1,0 +1,3 @@
+The use of geometric morphometry to study cranial variation has steadily grown in appeal over the past decade in biological anthropology. Publication trends suggest that the most popular methods for three-dimensional data acquisition involve landmark-based coordinate data collection using a digitizer. Newer laser scan approaches are seeing increasing use, owing to the benefits that densely sampled data offer. While both of these methods have their utility, research that investigates their compatibility is lacking. The purpose of this project is to compare, quantitatively, craniometrics collected with a digitizer against data extracted from laser scans using the same individuals and laboratory conditions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26714825

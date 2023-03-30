@@ -1,0 +1,3 @@
+Fetal heart rate (FHR) monitoring is a screening tool used by obstetricians to evaluate the fetal state. Because of the complexity and non-linearity, a visual interpretation of FHR signals using common guidelines usually results in significant subjective inter-observer and intra-observer variability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31888592

@@ -1,0 +1,3 @@
+The brain characteristics of different people are not the same. Brain computer interfaces (BCIs) should thus be customized for each individual person. In motor-imagery based synchronous BCIs, a number of parameters (referred to as hyper-parameters) including the EEG frequency bands, the channels and the time intervals from which the features are extracted should be pre-determined based on each subject's brain characteristics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26824461

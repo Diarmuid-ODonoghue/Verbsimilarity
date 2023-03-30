@@ -1,0 +1,3 @@
+Protein-protein interaction (PPI) prediction remains a central task in systems biology to achieve a better and holistic understanding of cellular and intracellular processes. Recently, an increasing number of computational methods have shifted from pair-wise prediction to network level prediction. Many of the existing network level methods predict PPIs under the assumption that the training network should be connected. However, this assumption greatly affects the prediction power and limits the application area because the current golden standard PPI networks are usually very sparse and disconnected. Therefore, how to effectively predict PPIs based on a training network that is sparse and disconnected remains a challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29566671

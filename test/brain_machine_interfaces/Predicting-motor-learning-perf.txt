@@ -1,0 +1,3 @@
+Research on the neurophysiological correlates of visuomotor integration and learning (VMIL) has largely focused on identifying learning-induced activity changes in cortical areas during motor execution. While such studies have generated valuable insights into the neural basis of VMIL, little is known about the processes that represent the current state of VMIL independently of motor execution. Here, we present empirical evidence that a subject's performance in a 3D reaching task can be predicted on a trial-to-trial basis from pre-trial electroencephalographic (EEG) data. This evidence provides novel insights into the brain states that support successful VMIL.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24594233

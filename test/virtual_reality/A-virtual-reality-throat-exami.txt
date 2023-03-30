@@ -1,0 +1,3 @@
+Computer based patient simulators can provide an alternative to inanimate clinical skills training. Here we present a virtual reality throat examination simulation capable of simulating a range of throat pathologies. The computer interface employs haptic feedback to allow students to interact naturally with the software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391336

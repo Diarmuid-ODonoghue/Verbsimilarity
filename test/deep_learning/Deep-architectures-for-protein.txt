@@ -1,0 +1,3 @@
+Residue-residue contact prediction is important for protein structure prediction and other applications. However, the accuracy of current contact predictors often barely exceeds 20% on long-range contacts, falling short of the level required for ab initio structure prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22847931

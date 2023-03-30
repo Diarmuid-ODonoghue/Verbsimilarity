@@ -1,0 +1,3 @@
+The detection of dyskalemias-hypokalemia and hyperkalemia-currently depends on laboratory tests. Since cardiac tissue is very sensitive to dyskalemia, electrocardiography (ECG) may be able to uncover clinically important dyskalemias before laboratory results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32134388

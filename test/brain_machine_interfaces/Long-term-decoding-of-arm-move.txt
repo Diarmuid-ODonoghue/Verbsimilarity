@@ -1,0 +1,3 @@
+Day to day variability and non-stationarity caused by changes in subject motivation, learning and behavior pose a challenge in using local field potentials (LFP) for practical Brain Computer Interfaces. Pattern recognition algorithms require that the features possess little to no variation from the training to test data. As such models developed on one day fail to represent the characteristics on the other day. This paper provides a solution in the form of adaptive spatial features. We propose an algorithm to capture the local spatial variability of LFP patterns and provide accurate long-term decoding. This algorithm achieved more than 95% decoding of eight movement directions two weeks after its initial training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570288

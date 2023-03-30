@@ -1,0 +1,3 @@
+To validate the Virtual Basic Laparoscopic Skill Trainer (VBLaST-PT; the peg transfer task) for concurrent validity based on its ability to differentiate between novice, intermediate, and expert groups of gynecologists, and the gynecologists' subjective preference between the physical Fundamentals of Laparoscopic Surgery (FLS) system and the virtual reality system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26216094

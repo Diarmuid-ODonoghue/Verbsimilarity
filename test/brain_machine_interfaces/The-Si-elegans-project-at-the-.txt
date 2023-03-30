@@ -1,0 +1,3 @@
+In light of recent progress in mapping neural function to behavior, we briefly and selectively review past and present endeavors to reveal and reconstruct nervous system function in Caenorhabditis elegans through simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27739402

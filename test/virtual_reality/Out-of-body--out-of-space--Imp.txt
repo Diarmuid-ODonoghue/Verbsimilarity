@@ -1,0 +1,3 @@
+A distorted body representation is a core symptom in eating disorders (EDs), though its mechanism is unclear. Allocentric lock theory, emphasising the role of reference frame processing in body image, suggests that ED patients may be (b)locked to an (allocentric) representation of their own body stored in long-term memory (e.g., my body is fat) that is not updated (modified) by the (real-time egocentric) perception-driven experience of the physical body. Employing a well-validated virtual reality-based procedure, relative to healthy controls, ED patients showed deficits in the ability to refer to and update a long-term stored (allocentric) representation with (egocentric) perceptual-driven inputs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26541204

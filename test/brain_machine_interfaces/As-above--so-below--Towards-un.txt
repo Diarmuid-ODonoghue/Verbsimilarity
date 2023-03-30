@@ -1,0 +1,3 @@
+In brain-computer interfaces (BCI), measurements of the user's brain activity are classified into commands for the computer. With EEG-based BCIs, the origins of the classified phenomena are often considered to be spatially localized in the cortical volume and mixed in the EEG. We investigate if more accurate BCIs can be obtained by reconstructing the source activities in the volume.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28816702

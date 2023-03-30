@@ -1,0 +1,3 @@
+To develop a deep neural network able to differentiate glaucoma from non-glaucoma visual fields based on visual filed (VF) test results, we collected VF tests from 3 different ophthalmic centers in mainland China.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30286740

@@ -1,0 +1,3 @@
+Benefiting from multi-energy x-ray imaging technology, material decomposition facilitates the characterization of different materials in x-ray imaging. However, the performance of material decomposition is limited by the accuracy of the decomposition model. Due to the presence of nonideal effects in x-ray imaging systems, it is difficult to explicitly build the imaging system models for material decomposition. As an alternative, this paper explores the feasibility of using machine learning approaches for material decomposition tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30508253

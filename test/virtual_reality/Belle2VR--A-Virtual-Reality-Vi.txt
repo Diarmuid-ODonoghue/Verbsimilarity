@@ -1,0 +1,3 @@
+Belle2VR is an interactive virtual-reality visualization of subatomic particle physics, designed by an interdisciplinary team as an educational tool for learning about and exploring subatomic particle collisions. This article describes the tool, discusses visualization design decisions, and outlines our process for collaborative development.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29877802

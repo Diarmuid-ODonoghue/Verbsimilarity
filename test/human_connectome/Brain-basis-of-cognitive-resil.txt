@@ -1,0 +1,3 @@
+The ultimate goal of reading is to understand written text. To accomplish this, children must first master decoding, the ability to translate printed words into sounds. Although decoding and reading comprehension are highly interdependent, some children struggle to decode but comprehend well, whereas others with good decoding skills fail to comprehend. The neural basis underlying individual differences in this discrepancy between decoding and comprehension abilities is virtually unknown.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29902208

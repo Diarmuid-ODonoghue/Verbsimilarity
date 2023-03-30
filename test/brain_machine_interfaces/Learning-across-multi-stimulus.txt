@@ -1,0 +1,3 @@
+Latest target recognition methods that are equipped with learning from the subject's calibration data, represented by the extended canonical correlation analysis (eCCA) and the ensemble task-related component analysis (eTRCA), can achieve extra high performance in the steady-state visual evoked potential (SSVEP)-based brain-computer interfaces (BCIs), however their performance deteriorate drastically if the calibration trials are insufficient. This paper develops a new scheme to learn from limited calibration data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31112937

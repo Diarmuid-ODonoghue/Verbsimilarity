@@ -1,0 +1,3 @@
+The computational fluid dynamics (CFD) approach has been frequently applied to compute the fractional flow reserve (FFR) using computed tomography angiography (CTA). This technique is efficient. We developed the DEEPVESSEL-FFR platform using the emerging deep learning technique to calculate the FFR value out of CTA images in five minutes. This study is to evaluate the DEEPVESSEL-FFR platform using the emerging deep learning technique to calculate the FFR value from CTA images as an efficient method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30800150

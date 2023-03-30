@@ -1,0 +1,3 @@
+Building and testing novel prosthetic limbs and control algorithms for functional electrical stimulation (FES) is expensive and risky. Here, we describe a virtual reality environment (VRE) to facilitate and accelerate the development of novel systems. In the VRE, subjects/patients can operate a simulated limb to interact with virtual objects. Realistic models of all relevant musculoskeletal and mechatronic components allow the development of entire prosthetic systems in VR before introducing them to the patient. The system is used both by engineers as a development tool and by clinicians to fit prosthetic devices to patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17436870

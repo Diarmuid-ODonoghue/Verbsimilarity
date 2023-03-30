@@ -1,0 +1,3 @@
+Drug discovery, which is the process of discovering new candidate medications, is very important for pharmaceutical industries. At its current stage, discovering new drugs is still a very expensive and time-consuming process, requiring Phases I, II and III for clinical trials. Recently, machine learning techniques in Artificial Intelligence (AI), especially the deep learning techniques which allow a computational model to generate multiple layers, have been widely applied and achieved state-of-the-art performance in different fields, such as speech recognition, image classification, bioinformatics, etc. One very important application of these AI techniques is in the field of drug discovery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30124147

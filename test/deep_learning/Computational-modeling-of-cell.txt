@@ -1,0 +1,3 @@
+Cellular function is closely related to the localizations of its sub-structures. It is, however, challenging to experimentally label all sub-cellular structures simultaneously in the same cell. This raises the need of building a computational model to learn the relationships among these sub-cellular structures and use reference structures to infer the localizations of other structures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30398548

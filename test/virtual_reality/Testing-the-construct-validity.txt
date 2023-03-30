@@ -1,0 +1,3 @@
+To test the construct validity of the hip diagnostics module of a virtual reality hip arthroscopy simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27993463

@@ -1,0 +1,3 @@
+We describe a novel method for data mining spectro-spatiotemporal network motifs from electrocorticographic (ECoG) data. The method utilizes wavelet feature extraction from ECoG data, generation of compact binary vectors from these features, and binary vector hierarchical clustering. The potential utility of this method in the discovery of recurring neural patterns is demonstrated in an example showing clustering of ictal and post-ictal gamma activity patterns. The method allows for the efficient and scalable retrieval and clustering of neural motifs occurring in massive amounts of neural data, such as in prolonged EEG/ECoG recordings and in brain computer interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570537

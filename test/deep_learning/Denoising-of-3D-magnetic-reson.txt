@@ -1,0 +1,3 @@
+To test if the proposed deep learning based denoising method denoising convolutional neural networks (DnCNN) with residual learning and multi-channel strategy can denoise three dimensional MR images with Rician noise robustly.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29982919

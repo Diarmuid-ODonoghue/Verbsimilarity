@@ -1,0 +1,3 @@
+Long read sequencing technologies such as Oxford Nanopore can greatly decrease the complexity of de novo genome assembly and large structural variation identification. Currently Nanopore reads have high error rates, and the errors often cluster into low-quality segments within the reads. The limited sensitivity of existing read-based error correction methods can cause large-scale mis-assemblies in the assembled genomes, motivating further innovation in this area.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31694525

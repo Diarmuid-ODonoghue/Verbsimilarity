@@ -1,0 +1,3 @@
+We introduce two Convolutional Neural Network (CNN) classifiers optimized for inferring brain states from magnetoencephalographic (MEG) measurements. Network design follows a generative model of the electromagnetic (EEG and MEG) brain signals allowing explorative analysis of neural sources informing classification. The proposed networks outperform traditional classifiers as well as more complex neural networks when decoding evoked and induced responses to different stimuli across subjects. Importantly, these models can successfully generalize to new subjects in real-time classification enabling more efficient brain-computer interfaces (BCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31059799

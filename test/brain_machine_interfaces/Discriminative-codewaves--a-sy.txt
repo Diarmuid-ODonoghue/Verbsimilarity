@@ -1,0 +1,3 @@
+Steady-state visual evoked potential (SSVEP) is a very popular approach to establishing a communication pathway in brain-computer interfaces (BCIs), without any training requirements for the user. Brain activity recorded over occipital regions, in association with stimuli flickering at distinct frequencies, is used to predict the gaze direction. High performance is achieved when the analysis of multichannel signal is guided by the driving signals. This study introduces an efficient way of identifying the attended stimulus without the need to register the driving signals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28967866

@@ -1,0 +1,3 @@
+Wearable devices have evolved as screening tools for atrial fibrillation (AF). A photoplethysmographic (PPG) AF detection algorithm was developed and applied to a convenient smartphone-based device with good accuracy. However, patients with paroxysmal AF frequently exhibit premature atrial complexes (PACs), which result in poor unmanned AF detection, mainly because of rule-based or handcrafted machine learning techniques that are limited in terms of diagnostic accuracy and reliability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31199302

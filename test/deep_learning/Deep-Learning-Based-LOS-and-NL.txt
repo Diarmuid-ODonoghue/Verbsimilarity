@@ -1,0 +1,3 @@
+In this article, the usage of deep learning (DL) in ultra-wideband (UWB) Wireless Body Area Networks (WBANs) is presented. The developed approach, using channel impulse response, allows higher efficiency in identifying the direct visibility conditions between nodes in off-body communication with comparison to the methods described in the literature. The effectiveness of the proposed deep feedforward neural network was checked on the basis of the measurement data for dynamic scenarios in an indoor environment. The obtained results clearly prove the validity of the proposed DL approach in the UWB WBANs and high (over 98.6% for most cases) efficiency for LOS and NLOS conditions classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31569456

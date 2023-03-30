@@ -1,0 +1,3 @@
+Our aim was to characterize health beliefs about the human papillomavirus (HPV) vaccine in a large set of Twitter posts (tweets). We collected a Twitter data set related to the HPV vaccine from 1 January 2014, to 31 December 2017. We proposed a deep-learning-based framework to mine health beliefs on the HPV vaccine from Twitter. Deep learning achieved high performance in terms of sensitivity, specificity, and accuracy. A retrospective analysis of health beliefs found that HPV vaccine beliefs may be evolving on Twitter.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31304374

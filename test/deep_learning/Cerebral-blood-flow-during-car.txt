@@ -1,0 +1,3 @@
+Transcranial Doppler Ultrasound (TCD) is a sensitive, real time tool for monitoring cerebral blood flow velocity (CBFV). This technique is fast, accurate, reproducible and noninvasive. In the setting of congenital heart surgery, TCD finds application in the evaluation of cerebral blood flow variations during cardiopulmonary bypass (CPB).
+
+https://www.ncbi.nlm.nih.gov/pubmed/17166253

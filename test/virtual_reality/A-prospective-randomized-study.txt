@@ -1,0 +1,3 @@
+To test whether basic skills acquired on a virtual endoscopic surgery simulator are transferable from virtual reality to physical reality in a comparable training setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15729066

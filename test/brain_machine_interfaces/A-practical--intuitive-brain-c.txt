@@ -1,0 +1,3 @@
+Previous work has shown that it is possible to build an EEG-based binary brain-computer interface system (BCI) driven purely by shifts of attention to auditory stimuli. However, previous studies used abrupt, abstract stimuli that are often perceived as harsh and unpleasant, and whose lack of inherent meaning may make the interface unintuitive and difficult for beginners. We aimed to establish whether we could transition to a system based on more natural, intuitive stimuli (spoken words 'yes' and 'no') without loss of performance, and whether the system could be used by people in the locked-in state.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24838278

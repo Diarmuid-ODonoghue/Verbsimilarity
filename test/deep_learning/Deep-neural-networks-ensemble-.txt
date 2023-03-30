@@ -1,0 +1,3 @@
+Twitter posts are now recognized as an important source of patient-generated data, providing unique insights into population health. A fundamental step toward incorporating Twitter data in pharmacoepidemiologic research is to automatically recognize medication mentions in tweets. Given that lexical searches for medication names suffer from low recall due to misspellings or ambiguity with common words, we propose a more advanced method to recognize them.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31562510

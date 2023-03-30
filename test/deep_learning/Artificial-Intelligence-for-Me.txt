@@ -1,0 +1,3 @@
+The purpose of this article is to highlight best practices for writing and reviewing articles on artificial intelligence for medical image analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30557049

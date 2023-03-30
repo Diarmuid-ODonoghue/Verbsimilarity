@@ -1,0 +1,3 @@
+Endoscopic imaging is a rapidly evolving field with a constant influx of new concepts and technologies. Since the introduction of video endoscopy and subsequently high-definition imaging as the first revolutions in gastrointestinal endoscopy, several technologies of virtual chromoendoscopy have been developed and brought to the market in the past decade, which have shaped and revolutionized for a second time our approach to endoscopic imaging. In parallel to these developments, microscopic imaging technologies, such as endomicroscopy and endocytoscopy, allow us to examine single cells within the mucosa in real time, thereby enabling histological diagnoses during ongoing endoscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32110657

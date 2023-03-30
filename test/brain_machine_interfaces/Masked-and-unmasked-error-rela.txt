@@ -1,0 +1,3 @@
+The detection of error-related potentials (ErrPs) in tasks with discrete feedback is well established in the brain-computer interface (BCI) field. However, the decoding of ErrPs in tasks with continuous feedback is still in its early stages.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29557346

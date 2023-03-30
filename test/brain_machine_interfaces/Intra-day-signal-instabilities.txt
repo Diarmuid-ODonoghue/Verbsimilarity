@@ -1,0 +1,3 @@
+Motor neural interface systems (NIS) aim to convert neural signals into motor prosthetic or assistive device control, allowing people with paralysis to regain movement or control over their immediate environment. Effector or prosthetic control can degrade if the relationship between recorded neural signals and intended motor behavior changes. Therefore, characterizing both biological and technological sources of signal variability is important for a reliable NIS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23574741

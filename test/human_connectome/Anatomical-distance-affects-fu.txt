@@ -1,0 +1,3 @@
+The efficiency of human brain depends on the integrity of both long- and short-range connections, but the long-range connections need to be "penalized" to reduce overall wiring costs. This principle, termed as the anatomical distance function (ADF), refers to the presence of an inverse relationship between anatomical distance and connectivity. A crucial developmental feature that occurs in normal adolescence is the weakening of ADF, which is characterized by a selective strengthening of long-distance connections. Schizophrenia is associated with widespread dysconnectivity that is linked to aberrant cortical development.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24282323

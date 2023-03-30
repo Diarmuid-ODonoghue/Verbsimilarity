@@ -1,0 +1,3 @@
+Several French regions where coronavirus disease (COVID-19) has been reported currently show a renewed increase in ILI cases in the general practice-based Sentinelles network. We computed the number of excess cases by region from 24 February to 8 March 2020 and found a correlation with the number of reported COVID-19 cases so far. The data suggest larger circulation of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the French population than apparent from confirmed cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32290901

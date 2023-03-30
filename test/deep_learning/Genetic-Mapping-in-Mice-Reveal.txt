@@ -1,0 +1,3 @@
+Quantitative genetic analysis of basic mouse behaviors is a powerful tool to identify novel genetic phenotypes contributing to neurobehavioral disorders. Here, we analyzed genetic contributions to single-trial, long-term social and nonsocial recognition and subsequently studied the functional impact of an identified candidate gene on behavioral development.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25802080

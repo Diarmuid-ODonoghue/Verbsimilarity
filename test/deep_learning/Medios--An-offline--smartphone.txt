@@ -1,0 +1,3 @@
+An observational study to assess the sensitivity and specificity of the Medios smartphone-based offline deep learning artificial intelligence (AI) software to detect diabetic retinopathy (DR) compared with the image diagnosis of ophthalmologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31957735

@@ -1,0 +1,3 @@
+Dysmorphology is the practice of defining the morphologic phenotype of syndromic disorders. Genomic sequencing has advanced our understanding of human variation and molecular dysmorphology has evolved in response to the science of relating embryologic developmental implications of abnormal gene signaling pathways to the resultant phenotypic presentation. Machine learning has enabled the application of deep convoluted neural networks to recognize the comparative likeness of these phenotypes relative to the causal genotype or disrupted gene pathway.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32000922

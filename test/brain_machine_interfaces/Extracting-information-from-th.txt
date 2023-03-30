@@ -1,0 +1,3 @@
+Over 90 years after its first recording, scalp electroencephalography (EEG) remains one of the most widely used techniques in human neuroscience research, in particular for the study of event-related potentials (ERPs). However, because of its low signal-to-noise ratio, extracting useful information from these signals continues to be a hard-technical challenge. Many studies focus on simple properties of the ERPs such as peaks, latencies, and slopes of signal deflections.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29277720

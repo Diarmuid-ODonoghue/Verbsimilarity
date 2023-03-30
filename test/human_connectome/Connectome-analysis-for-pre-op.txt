@@ -1,0 +1,3 @@
+Brain mapping has entered a new era focusing on complex network connectivity. Central to this is the search for the connectome or the brains 'wiring diagram'. Graph theory analysis of the connectome allows understanding of the importance of regions to network function, and the consequences of their impairment or excision. Our goal was to apply connectome analysis in patients with brain tumours to characterise overall network topology and individual patterns of connectivity alterations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27447756

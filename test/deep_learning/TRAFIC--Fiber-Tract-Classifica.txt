@@ -1,0 +1,3 @@
+We present TRAFIC, a fully automated tool for the labeling and classification of brain fiber tracts. TRAFIC classifies new fibers using a neural network trained using shape features computed from previously traced and manually corrected fiber tracts. It is independent from a DTI Atlas as it is applied to already traced fibers. This work is motivated by medical applications where the process of extracting fibers from a DTI atlas, or classifying fibers manually is time consuming and requires knowledge about brain anatomy. With this new approach we were able to classify traced fiber tracts obtaining encouraging results. In this report we will present in detail the methods used and the results achieved with our approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29780197

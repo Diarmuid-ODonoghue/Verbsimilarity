@@ -1,0 +1,3 @@
+During the SARS-CoV-2 pandemic, tracheostomy may be required for COVID-19 patients requiring long-term ventilation in addition to other conditions such as airway compromise from head and neck cancer. As an aerosol-generating procedure, tracheostomy increases the exposure of health care workers to COVID-19 infection. Performing surgical tracheostomy and tracheostomy care requires a strategy that mitigates these risks and maintains the quality of patient care.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32329926

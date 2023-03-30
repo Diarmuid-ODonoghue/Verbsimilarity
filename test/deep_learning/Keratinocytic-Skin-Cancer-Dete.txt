@@ -1,0 +1,3 @@
+Detection of cutaneous cancer on the face using deep-learning algorithms has been challenging because various anatomic structures create curves and shades that confuse the algorithm and can potentially lead to false-positive results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31799995

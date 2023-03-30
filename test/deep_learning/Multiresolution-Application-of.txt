@@ -1,0 +1,3 @@
+To develop an artificial intelligence (AI)-based model for identifying patients with lymph node (LN) metastasis based on digital evaluation of primary tumors and train the model using cystectomy specimens available from The Cancer Genome Atlas (TCGA) Project; patients from our institution were included for validation of the leave-out test cohort.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32330067

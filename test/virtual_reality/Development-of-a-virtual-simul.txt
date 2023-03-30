@@ -1,0 +1,3 @@
+To validate the content of a virtual learning object in the format of a Role Playing Game - educational simulation game about basic life support, aimed at academics and health professionals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30403269

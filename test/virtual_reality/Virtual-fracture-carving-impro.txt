@@ -1,0 +1,3 @@
+The visual overlay technique for surgical planning is difficult to apply to spatially complex fractures. Virtual reality can be applied by virtual fracture carving to adapt the visual overlay technique to three-dimensional (3D) images. In this study, we evaluated whether virtual fracture carving is a useful exercise by performing two experiments comparing trainees' understanding of a complex fracture with the application of either current preoperative techniques or the use of the Virtual-Fracture-Carving Simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23318621

@@ -1,0 +1,3 @@
+Deep learning implemented in a collaborative cloud-based platform empowers ophthalmologists in the diagnosis of congenital cataracts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30214831

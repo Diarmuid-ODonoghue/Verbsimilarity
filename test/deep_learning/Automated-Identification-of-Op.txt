@@ -1,0 +1,3 @@
+To develop a deep learning-based algorithm to automatically identify optimal portal venous phase timing (PVP-timing) so that image analysis techniques can be accurately performed on post contrast studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31151901

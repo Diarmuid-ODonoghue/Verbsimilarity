@@ -1,0 +1,3 @@
+To investigate the effective dose (E) and convolution kernel's effects on the detection of pulmonary nodules in different artificial intelligence (AI) software systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32146346

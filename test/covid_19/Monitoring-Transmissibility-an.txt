@@ -1,0 +1,3 @@
+As a global pandemic is inevitable, real-time monitoring of transmission is vital for containing the spread of COVID-19. The main objective was to report real-time effective reproduction numbers (R(t)) case fatality rate (CFR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32234343

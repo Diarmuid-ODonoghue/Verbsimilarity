@@ -1,0 +1,3 @@
+This article presents a comprehensive review of the evolution of both invasive and noninvasive imaging technologies that are part of the arsenal of spinal diagnostics and surgical therapy. The text provides not only a historical lens to the evolution of the imaging technologies that are part of routine contemporary practice but also provides a detailed sketch of emerging imaging technologies, such as endoscopic and exoscopic systems. Augmented reality, virtual reality, and mixed reality are new technologies that have enhanced the preparation of surgery and provide excellent case-specific training modules to break down each step of an operation in isolation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31739935

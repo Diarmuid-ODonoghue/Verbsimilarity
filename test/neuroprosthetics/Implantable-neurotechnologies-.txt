@@ -1,0 +1,3 @@
+A bidirectional neural interface is a device that transfers information into and out of the nervous system. This class of devices has potential to improve treatment and therapy in several patient populations. Progress in very large-scale integration has advanced the design of complex integrated circuits. System-on-chip devices are capable of recording neural electrical activity and altering natural activity with electrical stimulation. Often, these devices include wireless powering and telemetry functions. This review presents the state of the art of bidirectional circuits as applied to neuroprosthetic, neurorepair, and neurotherapeutic systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26753776

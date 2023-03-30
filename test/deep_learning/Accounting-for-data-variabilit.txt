@@ -1,0 +1,3 @@
+Sharing patient data across institutions to train generalizable deep learning models is challenging due to regulatory and technical hurdles. Distributed learning, where model weights are shared instead of patient data, presents an attractive alternative. Cyclical weight transfer (CWT) has recently been demonstrated as an effective distributed learning method for medical imaging with homogeneous data across institutions. In this study, we optimize CWT to overcome performance losses from variability in training sample sizes and label distributions across institutions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32196092

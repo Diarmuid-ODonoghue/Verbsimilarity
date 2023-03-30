@@ -1,0 +1,3 @@
+The use of optical coherence tomography (OCT) images is increasing in the medical treatment of age-related macular degeneration (AMD), and thus, the amount of data requiring analysis is increasing. Advances in machine-learning techniques may facilitate processing of large amounts of medical image data. Among deep-learning methods, convolution neural networks (CNNs) show superior image recognition ability. This study aimed to build deep-learning models that could distinguish AMD from healthy OCT scans and to distinguish AMD with and without exudative changes without using a segmentation algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31407214

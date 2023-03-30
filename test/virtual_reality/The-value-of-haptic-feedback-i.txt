@@ -1,0 +1,3 @@
+Virtual reality (VR) as surgical training tool has become a state-of-the-art technique in training and teaching skills for minimally invasive surgery (MIS). Although intuitively appealing, the true benefits of haptic (VR training) platforms are unknown. Many questions about haptic feedback in the different areas of surgical skills (training) need to be answered before adding costly haptic feedback in VR simulation for MIS training. This study was designed to review the current status and value of haptic feedback in conventional and robot-assisted MIS and training by using virtual reality simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19118414

@@ -1,0 +1,3 @@
+Bone marrow aspiration and biopsy remain the gold standard for the diagnosis of hematological diseases despite the development of flow cytometry (FCM) and molecular and gene analyses. However, the interpretation of the results is laborious and operator dependent. Furthermore, the obtained results exhibit inter- and intravariations among specialists. Therefore, it is important to develop a more objective and automated analysis system. Several deep learning models have been developed and applied in medical image analysis but not in the field of hematological histology, especially for bone marrow smear applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32267237

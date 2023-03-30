@@ -1,0 +1,3 @@
+Over the past few decades, there have been many studies of aspects of brain-computer interface (BCI). Of particular interests are event-related potential (ERP)-based BCI spellers that aim at helping mental typewriting. Nowadays, audiovisual unimodal stimuli based BCI systems have attracted much attention from researchers, and most of the existing studies of audiovisual BCIs were based on semantic incongruent stimuli paradigm. However, no related studies had reported that whether there is difference of system performance or participant comfort between BCI based on semantic congruent paradigm and that based on semantic incongruent paradigm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28743262

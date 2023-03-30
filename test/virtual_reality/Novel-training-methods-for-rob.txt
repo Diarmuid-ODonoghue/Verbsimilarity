@@ -1,0 +1,3 @@
+The objectives of this review are to summarize the current training modalities and assessment tools used in urological robotic surgery and to propose principles to guide the formation of a comprehensive robotics curriculum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25097322

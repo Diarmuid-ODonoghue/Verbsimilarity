@@ -1,0 +1,3 @@
+To develop and test a novel method for automatic quantification of hepatic steatosis in histologic images based on the deep learning scheme designed to predict the fat ratio directly, which aims to improve accuracy in diagnosis of non-alcoholic fatty liver disease (NAFLD) with objective assessment of the severity of hepatic steatosis instead of subjective visual estimation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31744039

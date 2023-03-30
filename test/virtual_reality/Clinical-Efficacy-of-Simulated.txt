@@ -1,0 +1,3 @@
+To evaluate the efficacy of the virtual reality training simulator Eyesi to prepare surgeons for performing pars plana vitrectomies and its potential to predict the surgeons' performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26964040

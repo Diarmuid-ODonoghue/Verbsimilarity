@@ -1,0 +1,3 @@
+Spatial neglect affects perception along different dimensions. However, there is limited availability of 3-dimensional (3D) methods that fully map out a patient's volume of deficit, although this could guide clinical management.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21746873

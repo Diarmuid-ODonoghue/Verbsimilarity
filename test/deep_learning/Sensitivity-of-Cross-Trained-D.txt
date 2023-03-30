@@ -1,0 +1,3 @@
+Automatic segmentation of vascular network is a critical step in quantitatively characterizing vessel remodeling in retinal images and other tissues. We proposed a deep learning architecture consists of 14 layers to extract blood vessels in fundoscopy images for the popular standard datasets DRIVE and STARE. Experimental results show that our CNN characterized by superior identifying for the foreground vessel regions. It produces results with sensitivity higher by 10% than other methods when trained by the same data set and more than 1% with cross training (trained on DRIVE, tested with STARE and vice versa). Further, our results have better accuracy $> 0 .95$% compared to state of the art algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30440967

@@ -1,0 +1,3 @@
+Deep learning methods (DLMs) have recently been proposed to generate pseudo-CT (pCT) for magnetic resonance imaging (MRI) based dose planning. This study aims to evaluate and compare DLMs (U-Net and generative adversarial network [GAN]) using various loss functions (L2, single-scale perceptual loss [PL], multiscale PL, weighted multiscale PL) and a patch-based method (PBM).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31505245

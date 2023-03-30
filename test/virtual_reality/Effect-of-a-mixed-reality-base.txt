@@ -1,0 +1,3 @@
+Virtual and mixed reality systems have been suggested to promote motor recovery after stroke. Basing on the existing evidence on motor learning, we have developed a portable and low-cost mixed reality tabletop system that transforms a conventional table in a virtual environment for upper limb rehabilitation. The system allows intensive and customized training of a wide range of arm, hand, and finger movements and enables interaction with tangible objects, while providing audiovisual feedback of the participants' performance in gamified tasks. This study evaluates the clinical effectiveness and the acceptance of an experimental intervention with the system in chronic stroke survivors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27169462

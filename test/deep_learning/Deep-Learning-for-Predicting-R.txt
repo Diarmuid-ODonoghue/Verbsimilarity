@@ -1,0 +1,3 @@
+We evaluate how deep learning can be applied to extract novel information such as refractive error from retinal fundus imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30025129

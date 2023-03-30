@@ -1,0 +1,3 @@
+This study aimed to use the Patient Reported Information Multidimensional Exploration (PRIME) framework, a novel ensemble of machine-learning and deep-learning algorithms, to extract, analyze, and correlate self-reported information from Online Cancer Support Groups (OCSG) by patients (and partners of patients) with low intermediate-risk prostate cancer (PCa) undergoing radical prostatectomy (RP), external beam radiotherapy (EBRT), and active surveillance (AS), and to investigate its efficacy in quality-of-life (QoL) and emotion measures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29468607

@@ -1,0 +1,3 @@
+With the development of artificial intelligence (AI) technology centered on deep-learning, the computer has evolved to a point where it can read a given text and answer a question based on the context of the text. Such a specific task is known as the task of machine comprehension. Existing machine comprehension tasks mostly use datasets of general texts, such as news articles or elementary school-level storybooks. However, no attempt has been made to determine whether an up-to-date deep learning-based machine comprehension model can also process scientific literature containing expert-level knowledge, especially in the biomedical domain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29305341

@@ -1,0 +1,3 @@
+Neuroimaging analysis is currently crucial for an early assessment of glioblastoma, to help improving treatment and tumor follow-up. To this end, multiple functional and morphological MRI sequences are usually employed, requiring the development of automated tools capable to extract the relevant information from these sources. In this work we present ONCOhabitats (https://www.oncohabitats.upv.es): an online open access system for glioblastoma analysis based on MRI data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31160012

@@ -1,0 +1,3 @@
+Use of virtual reality tool is interesting for the evaluation of Attention Deficit/Hyperactivity Disorder (ADHD) patients. The virtual environment offers the opportunity to administer controlled task like the typical neuropsychological tools, but in an environment much more like standard classroom. Previous studies showed that a virtual classroom was able to distinguish performances of children with and without ADHD, but the evolution of performances over time has not been explored. The aim of this work was to study time on task effects on performances of ADHD children compared to controls in a virtual classroom (VC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/22269913

@@ -1,0 +1,3 @@
+We aim to develop and evaluate an affective brain-computer music interface (aBCMI) for modulating the affective states of its users.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27396478

@@ -1,0 +1,3 @@
+Virtual reality (VR)-based surgical simulation is an expanding and rapidly advancing modality which aims to serve the increasing demand to acquire surgical skills outside the live operating room. Haptic, or "force-feedback" technology in VR simulation is a rapidly developing field, however the role of haptics in surgical education and its efficacy is unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31564519

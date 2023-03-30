@@ -1,0 +1,3 @@
+Lake et al. underrate both the promise and the limitations of contemporary deep learning techniques. The promise lies in combining those techniques with broad multisensory training as experienced by infants and children. The limitations lie in the need for such systems to possess functional subsystems that generate, monitor, and switch goals and strategies in the absence of human intervention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29342687

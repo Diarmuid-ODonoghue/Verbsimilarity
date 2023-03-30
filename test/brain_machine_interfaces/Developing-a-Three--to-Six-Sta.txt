@@ -1,0 +1,3 @@
+We develop an electroencephalography (EEG)-based noninvasive brain-computer interface (BCI) system having short training time (15 min) that can be applied for high-performance control of robotic prosthetic systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30130168

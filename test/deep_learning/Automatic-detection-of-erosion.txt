@@ -1,0 +1,3 @@
+Although erosions and ulcerations are the most common small-bowel abnormalities found on wireless capsule endoscopy (WCE), a computer-aided detection method has not been established. We aimed to develop an artificial intelligence system with deep learning to automatically detect erosions and ulcerations in WCE images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30670179

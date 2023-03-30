@@ -1,0 +1,3 @@
+Cardiac imaging plays an important role in the diagnosis of cardiovascular disease (CVD). Until now, its role has been limited to visual and quantitative assessment of cardiac structure and function. However, with the advent of big data and machine learning, new opportunities are emerging to build artificial intelligence tools that will directly assist the clinician in the diagnosis of CVDs. This paper presents a thorough review of recent works in this field and provide the reader with a detailed presentation of the machine learning methods that can be further exploited to enable more automated, precise and early diagnosis of most CVDs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32039241

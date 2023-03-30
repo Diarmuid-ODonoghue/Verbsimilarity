@@ -1,0 +1,3 @@
+Virtual screening pipelines are one of the most popular used tools in structure-based drug discovery, since they can can reduce both time and cost associated with experimental assays. Recent advances in deep learning methodologies have shown that these outperform classical scoring functions at discriminating binder protein-ligand complexes. Here, we present BindScope, a web application for large-scale active-inactive classification of compounds based on deep convolutional neural networks. Performance is on a pair with current state-of-the-art pipelines. Users can screen on the order of hundreds of compounds at once and interactively visualize the results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30169549

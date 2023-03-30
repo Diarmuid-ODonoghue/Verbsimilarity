@@ -1,0 +1,3 @@
+The advent of the Global War on Terrorism (GWOT) underscored the need to improve the U.S. disaster response paradigm. Existing systems involve numerous agencies spread across disparate functional and geographic jurisdictions. The current architecture remains vulnerable to sophisticated terrorist strikes. To address these vulnerabilities, we must continuously adapt and improve our Homeland Security architecture. Virtual Reality (VR) technologies will help model those changes and integrate technologies. This paper provides a broad overview of the strategic threats, together with a detailed examination of how specific VR technologies could be used to ensure successful disaster responses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15718795

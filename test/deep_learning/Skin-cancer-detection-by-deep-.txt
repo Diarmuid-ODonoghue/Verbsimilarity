@@ -1,0 +1,3 @@
+Skin cancer (SC), especially melanoma, is a growing public health burden. Experimental studies have indicated a potential diagnostic role for deep learning (DL) algorithms in identifying SC at varying sensitivities. Previously, it was demonstrated that diagnostics by dermoscopy are improved by applying an additional sonification (data to sound waves conversion) layer on DL algorithms. The aim of the study was to determine the impact of image quality on accuracy of diagnosis by sonification employing a rudimentary skin magnifier with polarized light (SMP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31101596

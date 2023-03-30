@@ -1,0 +1,3 @@
+In this study, we explore the feasibility of a novel framework for MR-based attenuation correction for PET/MR imaging based on deep learning via convolutional neural networks, which enables fully automated and robust estimation of a pseudo CT image based on ultrashort echo time (UTE), fat, and water images obtained by a rapid MR acquisition.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29763997

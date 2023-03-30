@@ -1,0 +1,3 @@
+Restoring or replacing function in paralyzed individuals will one day be achieved through the use of brain-machine interfaces. Regaining hand function is a major goal for paralyzed patients. Two competing prerequisites for the widespread adoption of any hand neuroprosthesis are accurate control over the fine details of movement, and minimized invasiveness. Here, we explore the interplay between these two goals by comparing our ability to decode hand movements with subdural and epidural field potentials (EFPs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27900947

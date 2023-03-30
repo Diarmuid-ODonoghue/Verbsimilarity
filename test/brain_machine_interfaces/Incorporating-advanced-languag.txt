@@ -1,0 +1,3 @@
+The P300 speller is a common brain-computer interface (BCI) application designed to communicate language by detecting event related potentials in a subject's electroencephalogram signal. Information about the structure of natural language can be valuable for BCI communication, but attempts to use this information have thus far been limited to rudimentary n-gram models. While more sophisticated language models are prevalent in natural language processing literature, current BCI analysis methods based on dynamic programming cannot handle their complexity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26061188

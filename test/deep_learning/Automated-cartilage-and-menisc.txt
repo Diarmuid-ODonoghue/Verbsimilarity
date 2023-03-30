@@ -1,0 +1,3 @@
+Fully automatic tissue segmentation is an essential step to translate quantitative MRI techniques to clinical setting. The goal of this study was to develop a novel approach based on the generative adversarial networks for fully automatic segmentation of knee cartilage and meniscus.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31793071

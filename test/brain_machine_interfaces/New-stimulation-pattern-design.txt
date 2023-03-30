@@ -1,0 +1,3 @@
+We propose a new stimulation pattern design for the P300-based matrix speller aimed at increasing the minimum target-to-target interval (TTI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23612883

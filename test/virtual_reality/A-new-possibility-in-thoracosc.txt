@@ -1,0 +1,3 @@
+The aims of this study were to develop virtual reality simulation software for video-assisted thoracic surgery (VATS) lobectomy, to explore the opinions of thoracic surgeons concerning the VATS lobectomy simulator and to test the validity of the simulator metrics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26162895

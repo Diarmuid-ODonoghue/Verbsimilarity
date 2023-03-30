@@ -1,0 +1,3 @@
+We propose an adaptive classification method for the Brain Computer Interfaces (BCI) which uses Interaction Error Potentials (IErrPs) as a reinforcement signal and adapts the classifier parameters when an error is detected. We analyze the quality of the proposed approach in relation to the misclassification of the IErrPs. In addition we compare static versus adaptive classification performance using artificial and MEG data. We show that the proposed adaptive framework significantly improves the static classification methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21696919

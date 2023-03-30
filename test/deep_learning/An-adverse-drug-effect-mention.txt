@@ -1,0 +1,3 @@
+Automatic extraction of adverse drug effect (ADE) mentions from biomedical texts is a challenging research problem that has attracted significant attention from the pharmacovigilance and biomedical text mining communities. Indeed, deep learning based methods have recently been employed to solve this issue with great success. However, they fail to effectively identify the boundary of mentions. In this paper, we propose a weighted online recurrent extreme learning machine (WOR-ELM) based method to overcome this drawback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31200909

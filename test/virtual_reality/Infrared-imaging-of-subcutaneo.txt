@@ -1,0 +1,3 @@
+Imaging of subcutaneous veins is important in many applications, such as gaining venous access and vascular surgery. Despite a long history of medical infrared (IR) photography and imaging, this technique is not widely used for this purpose. Here we revisited and explored the capability of near-IR imaging to visualize subcutaneous structures, with a focus on diagnostics of superficial veins.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14755425

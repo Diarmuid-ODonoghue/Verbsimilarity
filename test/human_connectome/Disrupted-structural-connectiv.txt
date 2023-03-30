@@ -1,0 +1,3 @@
+Structural connectivity is a promising methodology to detect patterns of neural network dysfunction in neurodegenerative diseases. This approach has not been tested in progressive supranuclear palsy (PSP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31229940

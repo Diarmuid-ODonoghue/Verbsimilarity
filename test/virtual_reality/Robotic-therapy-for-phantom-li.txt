@@ -1,0 +1,3 @@
+The system described in this paper combines virtual reality with haptic feedback to increase the level of immersion and invoke the sense of agency in patients with phantom limb pain with the aim of reducing perceived pain. This paper presents three case studies of an on-going clinical study. The initial results suggest an increased sense of embodiment of the virtual limb promotes a decrease in perceived levels of pain. The results strengthen the view that the cortical map does not fully "disappear" yet lays dormant.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28813955

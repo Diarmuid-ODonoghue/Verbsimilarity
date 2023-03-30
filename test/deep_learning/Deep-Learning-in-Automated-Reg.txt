@@ -1,0 +1,3 @@
+The purpose of this study was to develop a deep-learning framework for the diagnosis of chronic otitis media (COM) based on temporal bone computed tomography (CT) scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31567561

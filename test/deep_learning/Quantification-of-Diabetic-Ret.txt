@@ -1,0 +1,3 @@
+To quantitatively evaluate diabetic retinopathy (DR) lesions using the authors' validated machine learning algorithms and provide physicians with an automated and precise method to follow the progression of DR and outcome of interventions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32084282

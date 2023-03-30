@@ -1,0 +1,3 @@
+Immune cell infiltration in tumor is an emerging prognostic biomarker in breast cancer. The gold standard for quantification of immune cells in tissue sections is visual assessment through a microscope, which is subjective and semi-quantitative. In this study, we propose and evaluate an approach based on antibody-guided annotation and deep learning to quantify immune cell-rich areas in hematoxylin and eosin (H&E) stained samples.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27688929

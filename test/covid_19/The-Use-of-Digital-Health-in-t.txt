@@ -1,0 +1,3 @@
+Digital health is uniquely positioned to enhance the way we detect and manage infectious diseases. This commentary explores the potential of implementing digital technologies that can be used at different stages of the COVID-19 outbreak, including data-driven disease surveillance, screening, triage, diagnosis, and monitoring. Methods that could potentially reduce the exposure of healthcare providers to the virus are also discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32340107

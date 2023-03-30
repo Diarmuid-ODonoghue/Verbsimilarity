@@ -1,0 +1,3 @@
+Intrinsically conducting polymers, such as polypyrrole (PPy), have been utilized for drug delivery purposes as drug release rates can be tuned by electrical stimulation. Electrical stimulation can be used to switch the redox state of PPy, subsequently changing the electrostatic charge and volume of the polymer. Most literature to date has focused on the delivery of charged bioactives. This study aimed to prepare a PPy film formulation where the release rate of the uncharged drug progesterone could be electrically tuned.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23442078

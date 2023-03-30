@@ -1,0 +1,3 @@
+Although both recorded lectures and serious games have been used to pretrain health professionals before simulation training on cardiopulmonary resuscitation, they have never been compared.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28731928

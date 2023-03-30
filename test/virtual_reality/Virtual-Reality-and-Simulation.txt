@@ -1,0 +1,3 @@
+The traditional system of clinical education in emergency medicine relies on practicing diagnostic, therapeutic, and procedural skills on live patients. The ethical, financial, and practical weaknesses of this system are well recognized, but the alternatives that have been explored to date have shown even greater flaws. However, ongoing progress in the area of virtual reality and computer-enhanced simulation is now providing educational applications that show tremendous promise in overcoming most of the deficiencies associated with live-patient training. It will be important for academic emergency physicians to become more involved with this technology to ensure that our educational system benefits optimally.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11772675

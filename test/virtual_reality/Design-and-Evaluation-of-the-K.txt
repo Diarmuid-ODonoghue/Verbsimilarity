@@ -1,0 +1,3 @@
+Children with severe disabilities are sometimes unable to access powered mobility training. Thus, we developed the Kinect-Wheelchair Interface Controlled (KWIC) smart wheelchair trainer that converts a manual wheelchair into a powered wheelchair. The KWIC Trainer uses computer vision to create a virtual tether with adaptive shared-control between the wheelchair and a therapist during training. It also includes a mixed-reality video game system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26427746

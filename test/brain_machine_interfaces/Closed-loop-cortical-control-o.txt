@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) are a promising technology for the restoration of function to people with paralysis, especially for controlling coordinated reaching. Typical BCI studies decode Cartesian endpoint velocities as commands, but human arm movements might be better controlled in a joint-based coordinate frame, which may match underlying movement encoding in the motor cortex. A better understanding of BCI controlled reaching by people with paralysis may lead to performance improvements in brain-controlled assistive devices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30523839

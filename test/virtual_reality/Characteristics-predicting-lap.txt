@@ -1,0 +1,3 @@
+We introduced laparoscopic simulator training for medical students in 2007. This study was designed to identify factors that predict the laparoscopic skill of medical students, to identify intergenerational differences in abilities, and to estimate the variability of results in each training group. Our ultimate goal was to determine the optimal educational program for teaching laparoscopic surgery to medical students.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28639038

@@ -1,0 +1,3 @@
+This paper presents the application of virtual reality and haptics to the simulation of cellular micromanipulation for research, training and automation purposes. A collocated graphic/haptic working volume provides a realistic visual and force feedback to guide the user in performing a cell injection procedure. A preliminary experiment shows promising results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377229

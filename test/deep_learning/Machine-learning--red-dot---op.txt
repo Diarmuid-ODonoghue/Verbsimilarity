@@ -1,0 +1,3 @@
+To develop a machine learning-based model for the binary classification of chest radiography abnormalities, to serve as a retrospective tool in guiding clinician reporting prioritisation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29898829

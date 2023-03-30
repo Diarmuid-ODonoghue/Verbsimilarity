@@ -1,0 +1,3 @@
+Mental health service managers must take into account multiple factors when making decisions about the best way to deliver care to clients across increasingly larger service areas. This task is made more difficult by the lack of evidence and tools historically available to inform these decisions. In recent decades, the increasing availability of epidemiological and service use data for mental illness has solved the problem of evidence, but there still exists a challenge to make these data easily accessible and understandable for managers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30470679

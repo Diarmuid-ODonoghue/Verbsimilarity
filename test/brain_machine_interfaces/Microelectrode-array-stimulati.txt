@@ -1,0 +1,3 @@
+Functional brain mapping via cortical microstimulation is a widely used clinical and experimental tool. However, data are traditionally collected point by point, making the technique very time consuming. Moreover, even in skilled hands, consistent penetration depths are difficult to achieve. Finally, the effects of microstimulation are assessed behaviorally, with no attempt to capture the activity of the local cortical circuits being stimulated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26820903

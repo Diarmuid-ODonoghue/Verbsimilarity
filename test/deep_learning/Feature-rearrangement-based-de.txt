@@ -1,0 +1,3 @@
+Heart Failure is a clinical syndrome commonly caused by any structural or functional impairment. Fast and accurate mortality prediction for Heart Failure is essential to improve the health care of patients and prevent them from death. However, due to the imbalance problem and poor feature representation in Heart Failure data, mortality prediction of Heart Failure is difficult with some simple models. To handle these problems, this study is focused on proposing a fast and accurate Heart Failure mortality prediction framework.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32062185

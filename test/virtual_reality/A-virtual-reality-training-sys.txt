@@ -1,0 +1,3 @@
+Surgical training systems based on virtual-reality (VR) simulation techniques offer a cost-effective and efficient alternative to traditional training methods. This paper describes a VR system for training arthroscopic knee surgery. Virtual models used in this system are constructed from the Visual Human Project dataset. Our system simulates soft tissue deformation with topological change in real-time using finite-element analysis. To offer realistic tactile feedback, we build a tailor-made force feedback hardware.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15217267

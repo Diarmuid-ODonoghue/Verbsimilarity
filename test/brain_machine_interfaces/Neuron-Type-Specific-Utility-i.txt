@@ -1,0 +1,3 @@
+Firing rates of single cortical neurons can be volitionally modulated through biofeedback (i.e. operant conditioning), and this information can be transformed to control external devices (i.e. brain-machine interfaces; BMIs). However, not all neurons respond to operant conditioning in BMI implementation. Establishing criteria that predict neuron utility will assist translation of BMI research to clinical applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28899231

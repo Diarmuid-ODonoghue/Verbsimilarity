@@ -1,0 +1,3 @@
+In light of the recent success of artificial intelligence (AI) in computer vision applications, many researchers and physicians expect that AI would be able to assist in many tasks in digital pathology. Although opportunities are both manifest and tangible, there are clearly many challenges that need to be overcome in order to exploit the AI potentials in computational pathology. In this paper, we strive to provide a realistic account of all challenges and opportunities of adopting AI algorithms in digital pathology from both engineering and pathology perspectives.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30607305

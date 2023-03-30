@@ -1,0 +1,3 @@
+Augmented reality (AR), mixed reality (MR), and virtual reality devices are enabling technologies that may facilitate effective communication in healthcare between those with information and knowledge (clinician/specialist; expert; educator) and those seeking understanding and insight (patient/family; non-expert; learner). Investigators initiated an exploratory program to enable the study of AR/MR use-cases in acute care clinical and instructional settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29383074

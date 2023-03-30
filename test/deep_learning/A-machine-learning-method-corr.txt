@@ -1,0 +1,3 @@
+Pulse feeling , representing the tactile arterial palpation of the heartbeat, has been widely used in traditional Chinese medicine (TCM) to diagnose various diseases. The quantitative relationship between the pulse wave and health conditions however has not been investigated in modern medicine. In this paper, we explored the correlation between pulse pressure wave (PPW), rather than the pulse key features in TCM, and pregnancy by using deep learning technology. This computational approach shows that the accuracy of pregnancy detection by the PPW is 84% with an area under the curve (AUC) of 91%. Our study is a proof of concept of pulse diagnosis and will also motivate further sophisticated investigations on pulse waves.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31709770

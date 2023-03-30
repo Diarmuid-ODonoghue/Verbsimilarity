@@ -1,0 +1,3 @@
+Volumetric assessment of meningiomas represents a valuable tool for treatment planning and evaluation of tumor growth as it enables a more precise assessment of tumor size than conventional diameter methods. This study established a dedicated meningioma deep learning model based on routine magnetic resonance imaging (MRI) data and evaluated its performance for automated tumor segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32060575

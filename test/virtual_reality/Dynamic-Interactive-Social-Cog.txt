@@ -1,0 +1,3 @@
+Problems in social functioning (e.g., unemployment, social isolation), are common in people with a psychotic disorder. Social cognition is a treatment target to improve social functioning, as it is a proximal predictor of social functioning. Social Cognition Training (SCT) improves social cognition, but may not generalize (enduringly) to social functioning, perhaps due to insufficient opportunity to practice in daily-life social situations. Using virtual reality (VR) for SCT could address this problem, as VR is customizable, accessible, and interactive. We will test the effect of a VR SCT, 'DiSCoVR', on social cognition and social functioning in a randomized controlled trial (RCT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31488103

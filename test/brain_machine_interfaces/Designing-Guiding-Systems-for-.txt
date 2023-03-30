@@ -1,0 +1,3 @@
+Brain-Computer Interface (BCI) community has focused the majority of its research efforts on signal processing and machine learning, mostly neglecting the human in the loop. Guiding users on how to use a BCI is crucial in order to teach them to produce stable brain patterns. In this work, we explore the instructions and feedback for BCIs in order to provide a systematic taxonomy to describe the BCI guiding systems. The purpose of our work is to give necessary clues to the researchers and designers in Human-Computer Interaction (HCI) in making the fusion between BCIs and HCI more fruitful but also to better understand the possibilities BCIs can provide to them.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28824400

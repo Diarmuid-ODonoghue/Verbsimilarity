@@ -1,0 +1,3 @@
+Retinopathy of prematurity (ROP) is a leading cause of childhood blindness worldwide. The decision to treat is primarily based on the presence of plus disease, defined as dilation and tortuosity of retinal vessels. However, clinical diagnosis of plus disease is highly subjective and variable.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29801159

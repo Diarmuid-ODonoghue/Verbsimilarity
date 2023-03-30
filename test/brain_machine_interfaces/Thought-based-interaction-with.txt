@@ -1,0 +1,3 @@
+Operating a brain-computer interface (BCI) is a skill that individuals must learn. A recent study demonstrated that successful skill acquisition enables human individuals to control telepresence robotic devices in three-dimensional physical space using the non-invasive electroencephalogram (EEG). Although the results are very promising, there is room for improvement in the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23953939

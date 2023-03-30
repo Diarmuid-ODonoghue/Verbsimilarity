@@ -1,0 +1,3 @@
+Safe realistic training and unbiased quantitative assessment of technical skills are required for laparoscopy. Virtual reality (VR) simulators may be useful tools for training and assessing basic and advanced surgical skills and procedures. This study aimed to investigate the construct validity of the LapSimGyn VR simulator, and to determine the learning curves of gynecologists with different levels of experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16823649

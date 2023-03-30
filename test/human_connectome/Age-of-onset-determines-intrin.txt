@@ -1,0 +1,3 @@
+Friedreich ataxia (FRDA) is the commonest hereditary ataxia in Caucasians. Most patients are homozygous for expanded GAA triplet repeats in the first intron of the frataxin (FXN) gene, involved in mitochondrial iron metabolism. Here, we used magnetoencephalography (MEG) to characterize the main determinants of FRDA-related changes in intrinsic functional brain architecture.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31854120

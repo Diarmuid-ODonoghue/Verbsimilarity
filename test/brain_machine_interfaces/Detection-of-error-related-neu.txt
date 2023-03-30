@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) can translate the neuronal activity underlying a user's movement intention into movements of an artificial effector. In spite of continuous improvements, errors in movement decoding are still a major problem of current BMI systems. If the difference between the decoded and intended movements becomes noticeable, it may lead to an execution error. Outcome errors, where subjects fail to reach a certain movement goal, are also present during online BMI operation. Detecting such errors can be beneficial for BMI operation: (i) errors can be corrected online after being detected and (ii) adaptive BMI decoding algorithm can be updated to make fewer errors in the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23383315

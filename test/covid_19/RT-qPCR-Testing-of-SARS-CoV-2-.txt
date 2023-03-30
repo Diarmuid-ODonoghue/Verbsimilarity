@@ -1,0 +1,3 @@
+Testing for the presence of coronavirus is an essential diagnostic tool for monitoring and managing the current COVID-19 pandemic. The only reliable test in current use for testing acute infection targets the genome of SARS-CoV-2, and the most widely used method is quantitative fluorescence-based reverse transcription polymerase chain reaction (RT-qPCR). Despite its ubiquity, there is a significant amount of uncertainty about how this test works, potential throughput and reliability. This has resulted in widespread misrepresentation of the problems faced using this test during the current COVID-19 epidemic. This primer provides simple, straightforward and impartial information about RT-qPCR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32344568

@@ -1,0 +1,3 @@
+Needles are frequently required for routine medical procedures. Children with severe hemophilia require intensive intravenous (IV) therapy to treat and prevent life-threatening bleeding and undergo hundreds of IV procedures. Fear of needle-related procedures may lead to avoidance of future health care and poor clinical outcomes. Virtual reality (VR) is a promising distraction technique during procedures, but barriers to commercially available VR platforms for pediatric health care purposes have prevented widespread use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30626567

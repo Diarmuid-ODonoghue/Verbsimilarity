@@ -1,0 +1,3 @@
+Previous research has separated spatial patterns of intra- and interregional intrinsic brain connectivity, as evaluated by regional homogeneity (ReHo) and functional connectivity (FC), respectively, in prodromal Alzheimer's disease (AD). Moreover, the intra- and interregional intrinsic brain connectivities have been demonstrated to have a significant relationship with each other.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30343307

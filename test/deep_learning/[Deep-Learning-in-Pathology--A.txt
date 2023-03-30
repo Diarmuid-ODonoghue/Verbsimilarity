@@ -1,0 +1,3 @@
+Deep Learning erfährt in den zurückliegenden Jahren eine immer größer werdende Aufmerksamkeit und wird für zahlreiche Fragestellungen genutzt. Da Bildanalyse eine der Stärken von Deep Learning ist, liegt der Schluss nahe, auch pathologische Fragestellungen hiermit zu bearbeiten. Ziel dieser Arbeit ist es, aus der allgemeinen Pathologie mögliche Deep-Learning-Ansätze zu identifizieren, die in der Ophthalmopathologie genutzt werden könnten. Zudem soll anhand der Daten eines Jahres der Anteil der potenziell interessanten Präparate für Deep Learning sowie der notwendige Aufwand abgeschätzt werden.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32289848

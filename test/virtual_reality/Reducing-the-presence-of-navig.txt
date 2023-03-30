@@ -1,0 +1,3 @@
+Many researchers have assumed that navigational costs, as opposed to the visual stimuli per se, produce several large-magnitude distance illusions-in spite of the absence of experimental data. We used virtual reality to remove the presence of realistic falling costs, while leaving the visual information otherwise intact. This resulted in removal of the distance illusions proposed to have evolved in response to falling costs. These data hold important implications in vision research and ecological psychology, as well as in applied settings such as aviation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20616118

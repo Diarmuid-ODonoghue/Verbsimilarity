@@ -1,0 +1,3 @@
+Patients' hospital length of stay (LOS) as a surgical outcome is important indicator of quality of care. We used EMR data to build artificial neural network models to better understand the impact of cold weather on outcome of first surgeries in a day in comparison to a matched cohort receiving surgical treatment in warm days. We found that LOS for first-in-a-day cardiac and orthopedic surgical cases are longer in very cold days.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31438342

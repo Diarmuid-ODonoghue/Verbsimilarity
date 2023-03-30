@@ -1,0 +1,3 @@
+We aim to perform generation of angiograms for various vascular structures as a mean of data augmentation in learning tasks. The task is to enhance the realism of vessels images generated from an anatomically realistic cardiorespiratory simulator to make them look like real angiographies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31286396

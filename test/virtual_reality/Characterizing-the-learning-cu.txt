@@ -1,0 +1,3 @@
+Mastering laparoscopic surgical skills requires considerable time and effort. The Virtual Basic Laparoscopic Skill Trainer (VBLaST-PT(©)) is being developed as a computerized version of the peg transfer task of the Fundamentals of Laparoscopic Surgery (FLS) system using virtual reality technology. We assessed the learning curve of trainees on the VBLaST-PT(©) using the cumulative summation (CUSUM) method and compared them with those on the FLS to establish convergent validity for the VBLaST-PT(©).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23572217

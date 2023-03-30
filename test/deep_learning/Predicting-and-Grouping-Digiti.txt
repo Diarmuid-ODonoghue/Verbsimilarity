@@ -1,0 +1,3 @@
+To create an system to aid in the analysis of art history by classifying and grouping digitized paintings based on stylistic features automatically learned without prior knowledge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30034259

@@ -1,0 +1,3 @@
+The focal length of available optical see-through (OST) head-mounted displays (HMDs) is at least 2 m; therefore, during manual tasks, the user eye cannot keep in focus both the virtual and real content at the same time. Another perceptual limitation is related to the vergence-accommodation conflict, the latter being present in binocular vision only. This paper investigates the effect of incorrect focus cues on the user performance, visual comfort, and workload during the execution of augmented reality (AR)-guided manual task with one of the most advanced OST HMD, the Microsoft HoloLens.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31059421

@@ -1,0 +1,3 @@
+To develop a software package for automated classification of anterior chamber angle of the eye by using ultrasound biomicroscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31448182

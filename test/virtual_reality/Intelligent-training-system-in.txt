@@ -1,0 +1,3 @@
+Computer simulators play an important role in medical education. We have extended our simulator EchoComJ with an intelligent training system (ITS) to support trainees adjusting echocardiographic standard views. EchoComJ is an augmented reality application that combines real three-dimensional ultrasound data with a virtual heart model enabling one to simulate an echocardiographic examination. The ITS analyzes the image planes according to their position, orientation and the visualization of anatomical landmarks using fuzzy rules. An adaptive feedback is provided that colors the specific anatomic landmarks within the contours of the virtual model based on the quality of the image plane.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15145712

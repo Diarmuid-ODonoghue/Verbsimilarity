@@ -1,0 +1,3 @@
+This article presents a new processing method to design brain-computer interfaces (BCIs). It shows how to use the perturbations of the communication between different cortical areas due to a cognitive task. For this, the network of the cerebral connections is built from correlations between cortical areas at specific frequencies and is analyzed using graph theory. This allows us to describe the topological organisation of the networks using quantitative measures. This method is applied to an auditive steady-state evoked potentials experiment (dichotic binaural listening) and compared to a more classical method based on spectral filtering.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18002507

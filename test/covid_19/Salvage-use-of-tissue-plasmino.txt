@@ -1,0 +1,3 @@
+COVID-19 threatens to quickly overwhelm our existing critical care infrastructure in the USA. Systemic tissue plasminogen activator (tPA) has been previously demonstrated to improve PaO2/FiO2 (mmHg) when given to critically ill patients with acute respiratory distress syndrome (ARDS). It is unclear to what extent tPA may impact population-based survival during the current US COVID-19 pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32312290

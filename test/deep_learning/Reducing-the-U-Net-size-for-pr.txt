@@ -1,0 +1,3 @@
+Convolutional neural networks (CNNs) offer human experts-like performance and in the same time they are faster and more consistent in their prediction. However, most of the proposed CNNs require an expensive state-of-the-art hardware which substantially limits their use in practical scenarios and commercial systems, especially for clinical, biomedical and other applications that require on-the-fly analysis. In this paper, we investigate the possibility of making CNNs lighter by parametrizing the architecture and decreasing the number of trainable weights of a popular CNN: U-Net.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31416558

@@ -1,0 +1,3 @@
+Whole genome sequences of SARS-CoV-2 obtained from two patients, a Chinese tourist visiting Rome and an Italian, were compared with sequences from Europe and elsewhere. In a phylogenetic tree, the Italian patient's sequence clustered with sequences from Germany while the tourist's sequence clustered with other European sequences. Some additional European sequences in the tree segregated outside the two clusters containing the patients' sequences. This suggests multiple SARS-CoV-2 introductions in Europe or virus evolution during circulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32265007

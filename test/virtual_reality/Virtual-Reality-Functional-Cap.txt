@@ -1,0 +1,3 @@
+Assessment of functional capacity is an intrinsic part of determining the functional relevance of response to treatment of cognitive impairment in schizophrenia. Existing methods are highly and consistently correlated with performance on neuropsychological tests, but most current assessments of functional capacity are still paper and pencil simulations. We developed a computerized virtual reality assessment that contains all of the components of a shopping trip.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25083416

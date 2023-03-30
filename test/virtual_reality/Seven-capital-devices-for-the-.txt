@@ -1,0 +1,3 @@
+Stroke is the leading cause of long-term disability for adults in industrialized societies. Rehabilitation's efforts are tended to avoid long-term impairments, but, actually, the rehabilitative outcomes are still poor. Novel tools based on new technologies have been developed to improve the motor recovery. In this paper, we have taken into account seven promising technologies that can improve rehabilitation of patients with stroke in the early future: (1) robotic devices for lower and upper limb recovery, (2) brain computer interfaces, (3) noninvasive brain stimulators, (4) neuroprostheses, (5) wearable devices for quantitative human movement analysis, (6) virtual reality, and (7) tablet-pc used for neurorehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23304640

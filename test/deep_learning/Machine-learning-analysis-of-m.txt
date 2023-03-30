@@ -1,0 +1,3 @@
+Flow cytometry, with its high throughput nature, combined with the ability to measure an increasing number of cell parameters at once can surpass the throughput of prevalent genomic and metagenomic approaches in the study of microbiomes. Novel computational approaches to analyze flow cytometry data will result in greater insights and actionability as compared to traditional tools used in the analysis of microbiomes. This paper is a demonstration of the fruitfulness of machine learning in analyzing microbial flow cytometry data generated in anaerobic microbiome perturbation experiments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30220912

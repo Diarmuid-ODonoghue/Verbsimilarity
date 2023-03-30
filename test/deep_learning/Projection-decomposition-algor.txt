@@ -1,0 +1,3 @@
+Dual-energy computed tomography (DECT) has been widely used to improve identification of substances from different spectral information. Decomposition of the mixed test samples into two materials relies on a well-calibrated material decomposition function.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29562585

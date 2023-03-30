@@ -1,0 +1,3 @@
+Automated image analysis can make quantification of FISH signals in histological sections more efficient and reproducible. Current detection-based methods, however, often fail to accurately quantify densely clustered FISH signals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31046998

@@ -1,0 +1,3 @@
+Major depressive disorder (MDD) is known to be characterized by altered brain functional connectivity (FC) patterns. However, whether and how the features of dynamic FC would change in patients with MDD are unclear. In this study, we aimed to characterize dynamic FC in MDD using a large multi-site sample and a novel dynamic network-based approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31953148

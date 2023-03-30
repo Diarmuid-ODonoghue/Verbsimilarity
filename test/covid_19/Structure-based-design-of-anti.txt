@@ -1,0 +1,3 @@
+SARS-CoV-2 is the etiological agent responsible for the global COVID-19 outbreak. The main protease (Mpro) of SARS-CoV-2 is a key enzyme that plays a pivotal role in mediating viral replication and transcription. We designed and synthesized two lead compounds (11a and 11b) targeting Mpro Both exhibited excellent inhibitory activity and potent anti-SARS-CoV-2 infection activity. The X-ray crystal structures of SARS-CoV-2 Mpro in complex with 11a or 11b, both determined at 1.5 Å resolution, showed that the aldehyde groups of 11a and 11b are covalently bound to Cys145 of Mpro Both compounds showed good PK properties in vivo, and 11a also exhibited low toxicity, suggesting that these compounds are promising drug candidates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32321856

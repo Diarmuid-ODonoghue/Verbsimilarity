@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) are devices that enable severely disabled people to communicate and interact with their environments using their brain waves. Most studies investigating BCI in humans have used scalp EEG as the source of electrical signals and focused on motor control of prostheses or computer cursors on a screen. The authors hypothesize that the use of brain signals obtained directly from the cortical surface will more effectively control a communication/spelling task compared to scalp EEG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20921326

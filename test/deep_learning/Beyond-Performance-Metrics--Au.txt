@@ -1,0 +1,3 @@
+To validate the efficacy of a fully automatic, deep learning-based segmentation algorithm beyond conventional performance metrics by measuring the primary outcome of a clinical trial for macular telangiectasia type 2 (MacTel2).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32019699

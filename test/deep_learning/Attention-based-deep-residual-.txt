@@ -1,0 +1,3 @@
+Electronic medical records (EMRs) contain a variety of valuable medical concepts and relations. The ability to recognize relations between medical concepts described in EMRs enables the automatic processing of clinical texts, resulting in an improved quality of health-related data analysis. Driven by the 2010 i2b2/VA Challenge Evaluation, the relation recognition problem in EMRs has been studied by many researchers to address this important aspect of EMR information extraction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30961580

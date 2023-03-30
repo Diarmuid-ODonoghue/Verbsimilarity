@@ -1,0 +1,3 @@
+We develop a framework for the analysis of synergy and redundancy in the pattern of information flow between subsystems of a complex network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27875123

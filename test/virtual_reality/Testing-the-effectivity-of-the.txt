@@ -1,0 +1,3 @@
+Informal caregivers for people with dementia (hereafter: caregivers) often feel (over)burdened by the care for a loved one with dementia, and this can have various deleterious effects on both caregivers and patients. Support for caregivers is urgently needed, and for this reason, a dementia simulator (Into D'mentia) was developed in which caregivers experience what it is like to have dementia. The simulator attempts to heighten caregivers' empathy and understanding for the patient and, in turn, diminish their own caregiver burden. The current study evaluates whether the simulator is effective on a number of outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28827242

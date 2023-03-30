@@ -1,0 +1,3 @@
+To demonstrate naturalistic motor control speed, coordinated grasp, and carryover from trained to novel objects by an individual with tetraplegia using a brain-computer interface (BCI)-controlled neuroprosthetic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30902630

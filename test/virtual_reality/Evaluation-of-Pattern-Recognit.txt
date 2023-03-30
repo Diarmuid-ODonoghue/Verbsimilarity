@@ -1,0 +1,3 @@
+The motivation of this paper is to examine the effectiveness of state-of-the-art and newly proposed motion capture pattern recognition methods in the task of head gesture classifications. The head gestures are designed for a user interface that utilizes a virtual reality helmet equipped with an.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31817991

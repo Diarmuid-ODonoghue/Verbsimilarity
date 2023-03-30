@@ -1,0 +1,3 @@
+Drivers' fatigue contributes to traffic accidents, so drivers must maintain adequate alertness. The effectiveness of audio alarms in maintaining driving performance and characteristics of alarms was studied in a virtural reality-based driving environment. Response time to the car's drifting was measured under seven conditions: with no warnings and with continuous warning tones (500 Hz, 1750 Hz, and 3000 Hz), and with tone bursts at 500 Hz, 1750 Hz, and 3000 Hz. Analyses showed the audio warning signals significantly improved driving. Further, the tones' spectral characteristics significantly influenced the effectiveness of the warning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19725318

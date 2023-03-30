@@ -1,0 +1,3 @@
+Determination of genome-wide DNA methylation is significant for both basic research and drug development. As a key epigenetic modification, this biochemical process can modulate gene expression to influence the cell differentiation which can possibly lead to cancer. Due to the involuted biochemical mechanism of DNA methylation, obtaining a precise prediction is a considerably tough challenge. Existing approaches have yielded good predictions, but the methods either need to combine plenty of features and prerequisites or deal with only hypermethylation and hypomethylation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30967120

@@ -1,0 +1,3 @@
+To predict urinary continence recovery after robot-assisted radical prostatectomy (RARP) using a deep learning (DL) model, which was then used to evaluate surgeon's historical patient outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30811828

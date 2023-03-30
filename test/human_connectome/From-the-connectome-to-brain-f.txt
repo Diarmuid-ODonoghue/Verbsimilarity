@@ -1,0 +1,3 @@
+In this Historical Perspective, we ask what information is needed beyond connectivity diagrams to understand the function of nervous systems. Informed by invertebrate circuits whose connectivities are known, we highlight the importance of neuronal dynamics and neuromodulation, and the existence of parallel circuits. The vertebrate retina has these features in common with invertebrate circuits, suggesting that they are general across animals. Comparisons across these systems suggest approaches to study the functional organization of large circuits based on existing knowledge of small circuits.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23866325

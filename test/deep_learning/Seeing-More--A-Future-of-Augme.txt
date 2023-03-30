@@ -1,0 +1,3 @@
+Microscope images are information rich. In this issue of Cell, Christiansen et al. show that label-free images of cells can be used to predict fluorescent labels representing cell type, state, and organelle distribution using a deep-learning framework. This paves the way for computationally multiplexed assays derived from inexpensive label-free microscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29677507

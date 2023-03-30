@@ -1,0 +1,3 @@
+The objective of this work is to develop a preoperative reconstruction plate design system for unilateral pelvic and acetabular fracture reduction and internal fixation surgery, using computer graphics and augmented reality (AR) techniques, in order to respect the patient-specific morphology and to reduce surgical invasiveness, as well as to simplify the surgical procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22752350

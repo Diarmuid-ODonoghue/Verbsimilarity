@@ -1,0 +1,3 @@
+An accurate grasp of COVID-19 situation is considered highly important. The website we launched provides graphs of COVID-19 cases and deaths per one million population over time including trajectory analysis, and one can easily grasp the COVID-19 trend and adequately compare the situation between countries through this interactive graph system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32339228

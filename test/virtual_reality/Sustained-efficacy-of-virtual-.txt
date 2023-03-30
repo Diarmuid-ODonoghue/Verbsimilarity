@@ -1,0 +1,3 @@
+The current study tested whether the effectiveness of distraction using virtual reality (VR) technology in reducing cold pressor pain would maintain over the course of 8 weekly exposures. Twenty-eight adults, 18 to 23 years of age, underwent 1 baseline cold pressor trial and 1 VR distraction trial in randomized order each week. VR distraction led to significant increases in pain threshold and pain tolerance and significant decreases in pain intensity, time spent thinking about pain, and self-reported anxiety, relative to baseline. Repeated exposure did not appear to affect the benefits of VR. Implications for the long-term use of VR distraction as a nonpharmacological analgesic are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19231295

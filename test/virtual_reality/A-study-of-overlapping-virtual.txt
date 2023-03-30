@@ -1,0 +1,3 @@
+Augmented reality (AR) is anticipated for use in medical practice. However, virtual objects cannot be overlaid exactly on real objects using theoretical data. Therefore, this study is intended to determine the correction method to overlay a virtual object with real object accurately. Experimental results confirmed that differences of perceived depth position between real and virtual objects can be made negligible (within 1 mm on average) by correcting sizes of virtual objects such that they can be seen identically to the real object.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15544265

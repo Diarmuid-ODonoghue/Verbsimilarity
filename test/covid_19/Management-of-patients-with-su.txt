@@ -1,0 +1,3 @@
+From December 2019, a novel coronavirus disease named COVID-19 was reported in China. Within 3 months, the World Health Organization defined COVID-19 as a pandemic, with more than 370,000 cases and 16,000 deaths worldwide. In consideration of the crucial role of diagnostic testing during COVID-19, the aim of this technical note was to provide a complete synthesis of approaches implemented for the management of suspected or confirmed COVID-19 patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32340912

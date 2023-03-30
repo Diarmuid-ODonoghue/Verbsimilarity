@@ -1,0 +1,3 @@
+Patients undergoing general anesthesia may awaken and become aware of the surgical procedure. Due to neuromuscular blocking agents, patients could be conscious yet unable to move. Using brain-computer interface (BCI) technology, it may be possible to detect movement attempts from the EEG. However, it is unknown how an anesthetic influences the brain response to motor tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26859192

@@ -1,0 +1,3 @@
+This study aims to establish a model to analyze clinical experience of TCM veteran doctors. We propose an ensemble learning based framework to analyze clinical records with ICD-10 labels information for effective diagnosis and acupoints recommendation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26504897

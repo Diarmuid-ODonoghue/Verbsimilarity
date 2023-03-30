@@ -1,0 +1,3 @@
+We report the results of a preliminary study testing the effect of participants' mood rating on visual motor performance using a haptic device to manipulate a cartoonish human body. Our results suggest that moods involving high arousal (e.g. happiness) produce larger movements whereas mood involving low arousal (e.g. sadness) produce slower speed of performance. Our results are used for the development of a new haptic virtual reality application that we briefly present here. This application is intended to create a more interactive and motivational environment to treat body image issues and for emotional communication.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23792848

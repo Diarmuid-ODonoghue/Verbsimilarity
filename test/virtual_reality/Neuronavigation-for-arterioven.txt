@@ -1,0 +1,3 @@
+Neuronavigational devices have traditionally used preoperative imaging with limited possibilities for adjustment to brain shift and intraoperative manipulation of the surgical lesions. We have used an intraoperative imaging and navigation system that uses navigation on intraoperatively acquired three-dimensional ultrasound data, as well as preoperatively acquired magnetic resonance imaging scans and magnetic resonance angiograms. The usefulness of this system for arteriovenous malformation (AVM) surgery was evaluated prospectively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17415173

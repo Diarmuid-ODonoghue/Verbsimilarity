@@ -1,0 +1,3 @@
+The aim of this study was to compare the accuracy of simulated mandibular osteotomies performed with cutting guides and two different intraoperative navigation systems based on simple (sAR) and navigated (nAR) augmented reality technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30914226

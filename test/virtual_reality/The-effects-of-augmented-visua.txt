@@ -1,0 +1,3 @@
+Patients with Parkinson's disease often suffer from reduced mobility due to impaired postural control. Balance exercises form an integral part of rehabilitative therapy but the effectiveness of existing interventions is limited. Recent technological advances allow for providing enhanced visual feedback in the context of computer games, which provide an attractive alternative to conventional therapy. The objective of this randomized clinical trial is to investigate whether a training program capitalizing on virtual-reality-based visual feedback is more effective than an equally-dosed conventional training in improving standing balance performance in patients with Parkinson's disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24093506

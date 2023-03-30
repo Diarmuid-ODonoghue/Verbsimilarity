@@ -1,0 +1,3 @@
+Lower-limb, powered robotics systems such as exoskeletons and orthoses have emerged as novel robotic interventions to assist or rehabilitate people with walking disabilities. These devices are generally controlled by certain physical maneuvers, for example pressing buttons or shifting body weight. Although effective, these control schemes are not what humans naturally use. The usability and clinical relevance of these robotics systems could be further enhanced by brain-machine interfaces (BMIs). A number of preliminary studies have been published on this topic, but a systematic understanding of the experimental design, tasks, and performance of BMI-exoskeleton systems for restoration of gait is lacking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29345632

@@ -1,0 +1,3 @@
+Current Chinese medicine has an urgent demand for convenient medical services. When facing a large number of patients, understanding patients' questions automatically and precisely is useful. Different from the high professional medical text, patients' questions contain only a small amount of descriptions regarding the symptoms, and the questions are slightly professional and colloquial.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29705197

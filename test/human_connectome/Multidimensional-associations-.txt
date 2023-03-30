@@ -1,0 +1,3 @@
+Temporal lobe epilepsy (TLE) is known to affect large-scale structural networks and cognitive function in multiple domains. The study of complex relations between structural network organization and cognition requires comprehensive analytical methods and a shift towards multivariate techniques. Here, we sought to identify multidimensional associations between cognitive performance and structural network topology in TLE.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32151761

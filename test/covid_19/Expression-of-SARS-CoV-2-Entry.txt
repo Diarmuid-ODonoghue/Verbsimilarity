@@ -1,0 +1,3 @@
+Patients with inflammatory bowel disease (IBD) have intestinal inflammation and are treated with immune-modulating medications. In the face of the coronavirus disease-19 pandemic, we do not know whether patients with IBD will be more susceptible to infection or disease. We hypothesized that the viral entry molecules angiotensin I converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2) are expressed in the intestine. We further hypothesized that their expression could be affected by inflammation or medication usage.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32333601

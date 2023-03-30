@@ -1,0 +1,3 @@
+Accurate implementation of real-time non-invasive brain-machine/computer interfaces (BMI/BCI) requires handling physiological and nonphysiological artifacts associated with the measurement modalities. For example, scalp electroencephalographic (EEG) measurements are often considered prone to excessive motion artifacts and other types of artifacts that contaminate the EEG recordings. Although the magnitude of such artifacts heavily depends on the task and the setup, complete minimization or isolation of such artifacts is generally not possible.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31220818

@@ -1,0 +1,3 @@
+Although substantial progress has been made in mapping the connections of the brain, less is known about how this organization translates into brain function. In particular, the massive interconnectivity of the brain has made it difficult to specifically examine data transmission between two nodes of the connectome, a central component of the 'neural code.' Here, we investigated the propagation of multiple streams of asynchronous neuronal activity across an isolated in vitro 'connectome unit.'
+
+https://www.ncbi.nlm.nih.gov/pubmed/28140365

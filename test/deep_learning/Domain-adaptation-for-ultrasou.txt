@@ -1,0 +1,3 @@
+Automatic and precise delineating of the tongue surface in real-time frames is a challenging task because of the noisy nature of ultrasound images and rapid changes of the tongue. Deep convolutional neural networks have been shown to be successful in medical image analysis tasks such as tongue contour extraction. However, they are typically weak for the same task on different domains. Domain adaptation is an alternative solution for this difficulty by transferring and fine-tuning models on different datasets. In this study, the problem of transfer learning for tongue contour extraction was investigated on different ultrasound datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31795723

@@ -1,0 +1,3 @@
+Stereoscopic video recordings of operative microscopy during neuroanatomic dissections are an important component of surgical training and research in well-financed medical schools and teaching hospitals. However, the high cost of the latest operative microscopes with integrated video recording equipment can be a limiting factor in their worldwide use. The aim of the present work is to provide a simple low-cost 3-dimensional (3D) stereoscopic operative microscope recording system that can be used even in economically and resource-limited locations. This is achieved by using readily available smartphones, smartphone accessories, and computer software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30776517

@@ -1,0 +1,3 @@
+Most previous studies adopted single traditional time series models to predict incidences of malaria. A single model cannot effectively capture all the properties of the data structure. However, a stacking architecture can solve this problem by combining distinct algorithms and models. This study compares the performance of traditional time series models and deep learning algorithms in malaria case prediction and explores the application value of stacking methods in the field of infectious disease prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31877185

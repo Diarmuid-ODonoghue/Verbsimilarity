@@ -1,0 +1,3 @@
+Several surgical adverse events (SAEs) have been associated with Deep Brain Stimulation (DBS) of the subthalamic nucleus (STN) in Parkinson's Disease (PD) patients, leading to certain confusion about the risk/benefit ratio of this technique, and giving rise to the need of more and more extensive control studies over longer periods. The aim of this article is to identify and quantify the factors associated with the most frequent AEs from STN DBS in PD-diagnosed patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24752724

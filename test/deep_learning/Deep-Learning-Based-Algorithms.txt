@@ -1,0 +1,3 @@
+Diagnostic performance of deep learning-based algorithms in screening patients with diabetes for diabetic retinopathy (DR). The algorithms were compared with the current gold standard of classification by human specialists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31014679

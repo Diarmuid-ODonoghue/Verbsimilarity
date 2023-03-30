@@ -1,0 +1,3 @@
+Deep characterization of molecular function of genetic variants in the human genome is becoming increasingly important for understanding genetic associations to disease and for learning to read the regulatory code of the genome. In this paper, I discuss how recent advances in both quantitative genetics and molecular biology have contributed to understanding functional effects of genetic variants, lessons learned from eQTL studies, and future challenges in this field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26430152

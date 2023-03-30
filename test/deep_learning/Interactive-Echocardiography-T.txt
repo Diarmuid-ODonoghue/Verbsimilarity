@@ -1,0 +1,3 @@
+Interactive echocardiography translation is an efficient educational function to master cardiac anatomy. It strengthens the student's understanding by pixel-level translation between echocardiography and theoretically sketch images. Previous research studies split it into two aspects of image segmentation and synthesis. This split makes it hard to achieve pixel-level corresponding translation. Besides, it is also challenging to leverage deep-learning-based methods in each phase where a handful of annotations are available.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32256680

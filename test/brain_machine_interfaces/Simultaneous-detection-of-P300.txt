@@ -1,0 +1,3 @@
+We study the feasibility of a hybrid Brain-Computer Interface (BCI) combining simultaneous visual oddball and Steady-State Visually Evoked Potential (SSVEP) paradigms, where both types of stimuli are superimposed on a computer screen. Potentially, such a combination could result in a system being able to operate faster than a purely P300-based BCI and encode more targets than a purely SSVEP-based BCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25815815

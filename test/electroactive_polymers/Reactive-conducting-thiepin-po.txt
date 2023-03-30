@@ -1,0 +1,3 @@
+We report the design and synthesis of annulated thiepins designed to undergo bent-to-planar transformation driven by aromatization under electrochemical control. Thiepins are conjugated seven-membered ring systems with a thioether in the macrocycle. We synthesized thermally stable thiepins that are electropolymerizable to give rise to thiepin-containing electroactive polymers. Extended thiepin systems undergo sulfur extrusion with oxidation, and this feature has utility in peroxide sensing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19911841

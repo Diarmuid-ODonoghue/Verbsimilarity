@@ -1,0 +1,3 @@
+To design and validate a desktop virtual reality (VR) system, for presentation and assessment of volumetric data, based on commercially off-the-shelf hardware as an alternative to a fully immersive CAVE-like I-Space VR system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25041997

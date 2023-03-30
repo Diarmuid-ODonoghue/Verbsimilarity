@@ -1,0 +1,3 @@
+We develop a fast learning algorithm combining symbolic dynamics and brain-inspired hyperdimensional computing for both seizure onset detection and identification of ictogenic (seizure generating) brain regions from intracranial electroencephalography (iEEG).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31144620

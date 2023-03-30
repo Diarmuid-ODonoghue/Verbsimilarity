@@ -1,0 +1,3 @@
+Understanding the shortcomings of child-pedestrians in evaluating traffic situations may contribute to producing intervention techniques that may increase their awareness to potential hazards as well as inform and inspire designers of autonomous vehicle and infrastructure systems to deal with the complications of crossing pedestrians.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32199554

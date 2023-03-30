@@ -1,0 +1,3 @@
+Experimental and computational analyses of cerebellar function indicate that excitatory synapses onto deep nucleus neurons are likely to be a critical site of plasticity during motor learning. In this issue of Neuron, Pugh and Raman report that unconventional stimulus protocols can drive synaptic plasticity in the deep cerebellar nuclei.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16815325

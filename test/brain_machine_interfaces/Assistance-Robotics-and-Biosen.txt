@@ -1,0 +1,3 @@
+This Special Issue is focused on breakthrough developments in the field of biosensors and current scientific progress in biomedical signal processing. The papers address innovative solutions in assistance robotics based on bioelectrical signals, including: Affordable biosensor technology, affordable assistive-robotics devices, new techniques in myoelectric control and advances in brain⁻machine interfacing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30336595

@@ -1,0 +1,3 @@
+The STRoke Interactive Virtual thErapy (STRIVE) intervention provides community-dwelling stroke survivors access to individualised, remotely supervised progressive exercise training via an online platform. This trial aims to determine the clinical efficacy of the STRIVE intervention and its effect on brain activity in community-dwelling stroke survivors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29317414

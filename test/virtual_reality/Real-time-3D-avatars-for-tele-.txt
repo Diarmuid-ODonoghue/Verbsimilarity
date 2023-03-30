@@ -1,0 +1,3 @@
+We present work in progress on a tele-immersion system for telerehabilitation using real-time stereo vision and virtual environments. Stereo reconstruction is used to capture user's 3D avatar in real time and project it into a shared virtual environment, enabling a patient and therapist to interact remotely. Captured data can also be used to analyze the movement and provide feedback to the patient as we present in a preliminary study of stepping-in-place task. Such tele-presence system could in the future allow patients to interact remotely with remote physical therapist and virtual environment while objectively tracking their performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21335807

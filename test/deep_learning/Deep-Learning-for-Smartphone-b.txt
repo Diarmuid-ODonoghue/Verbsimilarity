@@ -1,0 +1,3 @@
+This work investigates the possibility of automated malaria parasite detection in thick blood smears with smartphones.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31545747

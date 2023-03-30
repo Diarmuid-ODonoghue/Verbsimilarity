@@ -1,0 +1,3 @@
+Simulation is the most effective and safe way to train laparoscopic surgeons in an era of limited work hours, lack of funding, and increasing malpractice costs. However, the costs associated with the use of virtual reality simulators are significant, and although very technically sophisticated they still lack tactile feedback. We are proposing a physical reality simulator, the LTS 2000, as a reliable and effective alternative to virtual reality. This study was carried out to establish how reliably the simulator was able to differentiate between different levels of laparoscopic experience and to analyze the detection of skills improvement after simulation and clinical training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15984696

@@ -1,0 +1,3 @@
+Sequence analysis is arguably a foundation of modern biology. Classic approaches to sequence analysis are based on sequence alignment, which is limited when dealing with large-scale sequence data. A dozen of alignment-free approaches have been developed to provide computationally efficient alternatives to alignment-based approaches. However, existing methods define sequence similarity based on various heuristics and can only provide rough approximations to alignment distances.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30346493

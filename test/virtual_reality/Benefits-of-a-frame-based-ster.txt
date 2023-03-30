@@ -1,0 +1,3 @@
+Frame-based stereotactic surgical planning systems (SSPSs) have been used for deep brain stimulation and radioneurosurgery. Here, we evaluated the feasibility, safety and efficacy of using a SSPS to aid spontaneous intracerebral haematoma (ICH) treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24026775

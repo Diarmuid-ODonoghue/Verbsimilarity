@@ -1,0 +1,3 @@
+Considerable evidence in the learning sciences demonstrates the importance of engagement in online learning environments. The purpose of this work was to demonstrate feasibility and to develop and collect initial validity evidence for a computer-generated dynamic engagement score based on student interactions in an online learning environment, in this case virtual patients used for clinical education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30223825

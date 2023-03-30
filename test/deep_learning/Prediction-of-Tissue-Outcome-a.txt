@@ -1,0 +1,3 @@
+Treatment options for patients with acute ischemic stroke depend on the volume of salvageable tissue. This volume assessment is currently based on fixed thresholds and single imagine modalities, limiting accuracy. We wish to develop and validate a predictive model capable of automatically identifying and combining acute imaging features to accurately predict final lesion volume.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29720437

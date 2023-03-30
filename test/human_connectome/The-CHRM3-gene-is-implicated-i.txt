@@ -1,0 +1,3 @@
+The genetic influences in human brain structure and function and impaired functional connectivities are the hallmarks of the schizophrenic brain. To explore how common genetic variants affect the connectivities in schizophrenia, we applied genome-wide association studies assaying the abnormal neural connectivities in schizophrenia as quantitative traits.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26959877

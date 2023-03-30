@@ -1,0 +1,3 @@
+Assistive technologies aim to increase quality of life, reduce dependence on care giver and on the long term care system. Several studies have demonstrated the effectiveness in the use of assistive technology for environment control and communication systems. The progress of brain-computer interfaces (BCI) research together with exoskeleton enable a person with motor impairment to interact with new elements in the environment. This paper aims to evaluate the environment control interface (ECI) developed under the AIDE project conditions, a multimodal interface able to analyze and extract relevant information from the environments as well as from the identification of residual abilities, behaviors, and intentions of the user.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30646915

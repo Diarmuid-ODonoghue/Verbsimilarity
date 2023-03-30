@@ -1,0 +1,3 @@
+In the case of multispecimen study to locate cancer regions, such as in thyroidectomy and prostatectomy, a significant labor-intensive processing is required at a high cost. Pathology diagnosis is usually done by a pathologist observing tissue-stained glass slide under a microscope.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31865531

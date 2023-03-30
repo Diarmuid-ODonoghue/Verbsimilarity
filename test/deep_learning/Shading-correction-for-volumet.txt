@@ -1,0 +1,3 @@
+Shading artifact may lead to CT number inaccuracy, image contrast loss and spatial non-uniformity (SNU), which is considered as one of the fundamental limitations for volumetric CT (VCT) application. To correct the shading artifact, a novel approach is proposed using deep learning and an adaptive filter (AF).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31448210

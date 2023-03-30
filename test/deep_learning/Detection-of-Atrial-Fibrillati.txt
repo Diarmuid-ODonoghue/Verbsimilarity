@@ -1,0 +1,3 @@
+Continuous photoplethysmography (PPG) monitoring with a wearable device may aid the early detection of atrial fibrillation (AF).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348254

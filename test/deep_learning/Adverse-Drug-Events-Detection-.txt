@@ -1,0 +1,3 @@
+Adverse drug events (ADEs) occur in approximately 2-5% of hospitalized patients, often resulting in poor outcomes or even death. Extraction of ADEs from clinical narratives can accelerate and automate pharmacovigilance. Using state-of-the-art deep-learning neural networks to jointly model concept and relation extraction, we achieved the highest integrated task score in the 2018 Medication and Adverse Drug Event (MADE) 1.0 challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30649738

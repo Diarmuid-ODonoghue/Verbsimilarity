@@ -1,0 +1,3 @@
+Although distinctive structural abnormalities occur in patients with schizophrenia, detecting schizophrenia with magnetic resonance imaging (MRI) remains challenging. This study aimed to detect schizophrenia in structural MRI data sets using a trained deep learning algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32116837

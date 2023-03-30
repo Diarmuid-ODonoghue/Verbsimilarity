@@ -1,0 +1,3 @@
+Advances in image analysis and computational techniques have facilitated automatic detection of critical features in histopathology images. Detection of nuclei is critical for squamous epithelium cervical intraepithelial neoplasia (CIN) classification into normal, CIN1, CIN2, and CIN3 grades.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29619277

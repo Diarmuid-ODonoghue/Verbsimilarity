@@ -1,0 +1,3 @@
+As the novel coronavirus disease (COVID-19) is widely spreading across the United States, there is a concern about the overloading of the nation's health care capacity. The expansion of telehealth services is expected to deliver timely care for the initial screening of symptomatic patients while minimizing exposure in health care facilities, to protect health care providers and other patients. However, it is currently unknown whether US hospitals have the telehealth capacity to meet the increasing demand and needs of patients during this pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32250963

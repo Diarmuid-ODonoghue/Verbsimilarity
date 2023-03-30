@@ -1,0 +1,3 @@
+Detection and sorting (classification) of action potentials from extracellular recordings are two important pre-processing steps for brain-computer interfaces (BCIs) and some neuroscientific studies. Traditional approaches perform these two steps serially, but using shapes of action potential waveforms during detection, i.e. combining the two steps, may lead to better performance, especially during high noise. We propose a hidden Markov model (HMM) based method for combined detecting and sorting of spikes, with the aim of improving the final decoding accuracy of BCIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30523823

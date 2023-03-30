@@ -1,0 +1,3 @@
+To test whether paired-play will induce longer path length and ranges of movement of the center of pressure (COP), which reflects on balance performance and stability, compared to solo-play and to test the difference in the path length and ranges of movement of the COP while playing the virtual reality (VR) game with the dominant hand compared to playing it with the nondominant hand.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28628386

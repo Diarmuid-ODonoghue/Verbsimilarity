@@ -1,0 +1,3 @@
+A highly stretchable neural interface of concurrent robust electrical and mechanical properties is developed with a conducting polymer film as the sole conductor for both the electrodes and the leads. This neural interface offers the benefits of conducting polymer electrodes in a demanding stretchable format, including low electrode impedance and high chargeinjection capacity, due to the large electroactive surface area of the electrode.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24150828

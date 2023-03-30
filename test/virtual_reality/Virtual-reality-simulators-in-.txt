@@ -1,0 +1,3 @@
+There is increasing pressure to develop virtual reality surgical simulation that can be used in surgical training. However, little is known of the attitudes of the surgical community toward such simulation, and which aspects of simulation are most important.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16274695

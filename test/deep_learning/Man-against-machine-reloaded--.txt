@@ -1,0 +1,3 @@
+Convolutional neural networks (CNNs) efficiently differentiate skin lesions by image analysis. Studies comparing a market-approved CNN in a broad range of diagnoses to dermatologists working under less artificial conditions are lacking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31912788

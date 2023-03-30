@@ -1,0 +1,3 @@
+Real-time simulation of organ deformation is one of the biggest challenges in virtual surgery, due to the conflicting requirements of real-time interactivity and simulation realism. In this paper we propose a method to overcome this challenge by introducing a multi-resolution modelling technique.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17619246

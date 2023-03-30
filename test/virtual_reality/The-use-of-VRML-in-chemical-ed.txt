@@ -1,0 +1,3 @@
+The Virtual Reality Modelling Language can be used for molecular modelling. The language provides some significant advantages in the area of chemical education; it can be used to communicate 3D concepts not normally covered by existing modelling packages, the data can be distributed to a large number of students over the web, and the viewers are free to students. The strengths and weakness of VRML in various aspects of molecular modelling are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9783258

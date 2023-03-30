@@ -1,0 +1,3 @@
+This study examined the relationship for 180 undergraduate students enrolled in a first-year university calculus course between attitudes toward mathematics and approaches to learning mathematics using the Mathematics Attitude Scale and the Approaches to Learning Mathematics Questionnaire, respectively. Regression analyses indicated that scores for the Mathematics Attitude Scale were negatively related to scores for the Surface Approach and accounted for 10.4% of the variance and scores for the Mathematics Attitude Scale were positively related to scores for the Deep Approach to learning mathematics and accounted for 31.7% of the variance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17037652

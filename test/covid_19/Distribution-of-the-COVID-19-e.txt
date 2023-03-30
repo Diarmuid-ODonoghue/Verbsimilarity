@@ -1,0 +1,3 @@
+The ongoing new coronavirus pneumonia (Corona Virus Disease 2019, COVID-19) outbreak is spreading in China, but it has not yet reached its peak. Five million people emigrated from Wuhan before lockdown, potentially representing a source of virus infection. Determining case distribution and its correlation with population emigration from Wuhan in the early stage of the epidemic is of great importance for early warning and for the prevention of future outbreaks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32118644

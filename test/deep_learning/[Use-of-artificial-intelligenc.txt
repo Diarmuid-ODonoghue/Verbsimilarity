@@ -1,0 +1,3 @@
+In the reconstruction of three-dimensional image data, artifacts that interfere with the appraisal often occur as a result of trying to minimize the dose or due to missing data. Used iterative reconstruction methods are time-consuming and have disadvantages.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31897503

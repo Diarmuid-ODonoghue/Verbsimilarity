@@ -1,0 +1,3 @@
+Asymptomatic transmission of the coronavirus disease 2019 is an important topic. A recent study in China showed that transmissibility of the asymptomatic cases is comparable to that of symptomatic cases. Here, we discuss that the conclusion may depend on how we interpret the data. To the best of our knowledge, this is the first time the relative transmissibility of asymptomatic COVID-19 infections is quantified.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315808

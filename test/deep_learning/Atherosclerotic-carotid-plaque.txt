@@ -1,0 +1,3 @@
+Atherosclerotic carotid plaques (ACPs) constitute the main etiological factor in about 15% of strokes. ACPs can be detected on routine dental panoramic radiographs. As these are one of the most commonly performed dental images, they can be used as a source of available data for computerized methods of automatic detection of ACPs in order to significantly increase their timely diagnosis. The aim of this study was to present the potential of applying deep learning methodology to detect ACPs on routine panoramic radiographs with the ultimate goal of preventing strokes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31134222

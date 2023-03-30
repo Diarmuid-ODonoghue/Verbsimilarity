@@ -1,0 +1,3 @@
+The speed of brain-computer interfaces (BCI), based on event-related potentials (ERP), is inherently limited by the commonly used one-stimulus paradigm. In this paper, we introduce a novel paradigm that can increase the spelling speed by a factor of 2, thereby extending the one-stimulus paradigm to a two-stimulus paradigm. Two different stimuli (a face and a symbol) are presented at the same time, superimposed on different characters and ERPs are classified using a multi-class classifier. Here, we present the proof-of-principle that is achieved with healthy participants.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25080406

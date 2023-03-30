@@ -1,0 +1,3 @@
+Advanced technology such as virtual reality or immersive environments increases the complexities and challenges therapists can impose on their patients. In this study, four patients with mild traumatic brain injury utilized a Computer Assisted Rehabilitation Environment (CAREN) in place of traditional vestibular physical therapy. Patients visited the CAREN twice weekly for 6 weeks. Therapy sessions included a variety of applications that tasked the cognitive and physical capabilities of individual patients. After the 6 weeks, all patients showed improvement on balance, gait and visual measures. Virtual reality based therapy is an engaging and effective tool to treat patients with deficiencies related to a prior brain injury.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23367330

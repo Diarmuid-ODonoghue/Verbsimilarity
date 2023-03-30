@@ -1,0 +1,3 @@
+Radiotherapy continues to be delivered uniformly without consideration of individual tumor characteristics. To advance toward more precise treatments in radiotherapy, we queried the lung computed tomography (CT)-derived feature space to identify radiation sensitivity parameters that can predict treatment failure and hence guide the individualization of radiotherapy dose.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31448366

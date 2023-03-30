@@ -1,0 +1,3 @@
+To evaluate the effectiveness of haptic virtual reality (VR) simulator training using microcomputed tomography (micro-CT) tooth models on minimizing procedural errors in endodontic access preparation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21623838

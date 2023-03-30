@@ -1,0 +1,3 @@
+Purpose state: The aim of this preliminary study was to test a data glove, CyberTouch™, combined with a virtual reality (VR) environment, for using in therapeutic training of reaching movements after spinal cord injury (SCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26181226

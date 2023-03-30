@@ -1,0 +1,3 @@
+The aim of the current study was to develop a computer-assisted detection system based on a deep convolutional neural network (CNN) algorithm and to evaluate the potential usefulness and accuracy of this system for the diagnosis and prediction of periodontally compromised teeth (PCT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29770240

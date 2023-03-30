@@ -1,0 +1,3 @@
+To assess the use of hyper-accuracy three-dimensional (HA3D™; MEDICS, Moncalieri, Turin, Italy) reconstruction based on multiparametric magnetic resonance imaging (mpMRI) and superimposed imaging during augmented-reality robot-assisted radical prostatectomy (AR-RARP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30246936

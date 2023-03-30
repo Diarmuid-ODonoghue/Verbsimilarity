@@ -1,0 +1,3 @@
+Phantom limb pain (PLP) is a chronic condition that can greatly diminish quality of life. Control over the phantom limb and exercise of such control have been hypothesised to reverse maladaptive brain changes correlated to PLP. Preliminary investigations have shown that decoding motor volition using myoelectric pattern recognition, while providing real-time feedback via virtual and augmented reality (VR-AR), facilitates phantom motor execution (PME) and reduces PLP. Here we present the study protocol for an international (seven countries), multicentre (nine clinics), double-blind, randomised controlled clinical trial to assess the effectiveness of PME in alleviating PLP.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30012784

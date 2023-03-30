@@ -1,0 +1,3 @@
+Skull-stripping is the procedure of removing non-brain tissue from anatomical MRI data. This procedure can be useful for calculating brain volume and for improving the quality of other image processing steps. Developing new skull-stripping algorithms and evaluating their performance requires gold standard data from a variety of different scanners and acquisition methods. We complement existing repositories with manually corrected brain masks for 125 T1-weighted anatomical scans from the Nathan Kline Institute Enhanced Rockland Sample Neurofeedback Study.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27782853

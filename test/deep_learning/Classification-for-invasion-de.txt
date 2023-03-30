@@ -1,0 +1,3 @@
+Cancer invasion depth is a critical factor affecting the choice of treatment in patients with superficial squamous cell carcinoma (SCC). However, the diagnosis of invasion depth is currently subjective and liable to interobserver variability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31077698

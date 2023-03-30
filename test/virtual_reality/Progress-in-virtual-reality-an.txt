@@ -1,0 +1,3 @@
+The past, present, and future industry prospects of virtual reality (VR) and augmented reality (AR) are presented. The future of VR/AR technology based on holographic display is predicted by analogy with the VR/AR based on binocular vision display and light field display. The investigations on holographic display that can be used in VR/AR are reviewed. The breakthroughs of holographic display are promising in VR/AR with high resolution. The challenges faced by VR/AR based on holographic display are analyzed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30873963

@@ -1,0 +1,3 @@
+Super-enhancers (SEs) are clusters of transcriptional active enhancers, which dictate the expression of genes defining cell identity and play an important role in the development and progression of tumors and other diseases. Many key cancer oncogenes are driven by super-enhancers, and the mutations associated with common diseases such as Alzheimer's disease are significantly enriched with super-enhancers. Super-enhancers have shown great potential for the identification of key oncogenes and the discovery of disease-associated mutational sites.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31874597

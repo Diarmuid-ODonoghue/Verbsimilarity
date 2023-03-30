@@ -1,0 +1,3 @@
+Triage is important in identifying high-risk patients amongst many less urgent patients as emergency department (ED) overcrowding has become a national crisis recently. This study aims to validate that a Deep-learning-based Triage and Acuity Score (DTAS) identifies high-risk patients more accurately than existing triage and acuity scores using a large national dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30321231

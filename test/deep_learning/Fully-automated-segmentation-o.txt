@@ -1,0 +1,3 @@
+Deep vein thrombosis (DVT) is a disease caused by abnormal blood clots in deep veins. Accurate segmentation of DVT is important to facilitate the diagnosis and treatment. In the current study, we proposed a fully automatic method of DVT delineation based on deep learning (DL) and contrast enhanced magnetic resonance imaging (CE-MRI) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31281832

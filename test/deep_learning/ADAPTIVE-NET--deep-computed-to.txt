@@ -1,0 +1,3 @@
+Recently, the paradigm of computed tomography (CT) reconstruction has shifted as the deep learning technique evolves. In this study, we proposed a new convolutional neural network (called ADAPTIVE-NET) to perform CT image reconstruction directly from a sinogram by integrating the analytical domain transformation knowledge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32190567

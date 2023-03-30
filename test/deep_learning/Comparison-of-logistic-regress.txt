@@ -1,0 +1,3 @@
+We sought to test the performance of three strategies for binary classification (logistic regression, support vector machines, and deep learning) for the problem of predicting successful episodic memory encoding using direct brain recordings obtained from human stereo EEG subjects. We also sought to test the impact of applying t-distributed stochastic neighbor embedding (tSNE) for unsupervised dimensionality reduction, as well as testing the effect of reducing input features to a core set of memory relevant brain areas. This work builds upon published efforts to develop a closed-loop stimulation device to improve memory performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30211695

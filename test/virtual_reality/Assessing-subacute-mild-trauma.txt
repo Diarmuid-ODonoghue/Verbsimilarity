@@ -1,0 +1,3 @@
+Balance impairment is a common sensorimotor symptom in mild traumatic brain injury (mTBI). We designed an affordable, portable virtual reality (VR)-based balance screening device (Virtual Environment TBI Screen [VETS]), which will be validated relative to the Neurocom Sensory Organization Test (SOT) to determine if it can replace commonly used postural assessments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27718642

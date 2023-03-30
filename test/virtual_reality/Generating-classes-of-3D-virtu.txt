@@ -1,0 +1,3 @@
+Simulation and modeling represent promising tools for several application domains from engineering to forensic science and medicine. Advances in 3D imaging technology convey paradigms such as augmented reality (AR) and mixed reality inside promising simulation tools for the training industry.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19088649

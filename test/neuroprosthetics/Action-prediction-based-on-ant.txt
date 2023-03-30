@@ -1,0 +1,3 @@
+The ability of an automobile to infer the driver's upcoming actions directly from neural signals could enrich the interaction of the car with its driver. Intelligent vehicles fitted with an on-board brain-computer interface able to decode the driver's intentions can use this information to improve the driving experience. In this study we investigate the neural signatures of anticipation of specific actions, namely braking and accelerating.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26401885

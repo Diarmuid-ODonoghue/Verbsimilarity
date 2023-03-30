@@ -1,0 +1,3 @@
+The function space of deep-learning machines is investigated by studying growth in the entropy of functions of a given error with respect to a reference function, realized by a deep-learning machine. Using physics-inspired methods we study both sparsely and densely connected architectures to discover a layerwise convergence of candidate functions, marked by a corresponding reduction in entropy when approaching the reference function, gain insight into the importance of having a large number of layers, and observe phase transitions as the error increases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29956949

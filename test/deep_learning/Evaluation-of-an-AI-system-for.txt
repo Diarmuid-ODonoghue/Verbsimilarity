@@ -1,0 +1,3 @@
+To evaluate the performance of a deep learning based Artificial Intelligence (AI) software for detection of glaucoma from stereoscopic optic disc photographs, and to compare this performance to the performance of a large cohort of ophthalmologists and optometrists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31267086

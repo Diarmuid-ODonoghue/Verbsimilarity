@@ -1,0 +1,3 @@
+Deep learning convolutional neural networks (CNNs) have shown a performance at the level of dermatologists in the diagnosis of melanoma. Accordingly, further exploring the potential limitations of CNN technology before broadly applying it is of special interest.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31411641

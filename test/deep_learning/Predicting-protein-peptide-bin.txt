@@ -1,0 +1,3 @@
+Interactions between proteins and peptides influence biological functions. Predicting such bio-molecular interactions can lead to faster disease prevention and help in drug discovery. Experimental methods for determining protein-peptide binding sites are costly and time-consuming. Therefore, computational methods have become prevalent. However, existing models show extremely low detection rates of actual peptide binding sites in proteins. To address this problem, we employed a two-stage technique - first, we extracted the relevant features from protein sequences and transformed them into images applying a novel method and then, we applied a convolutional neural network to identify the peptide binding sites in proteins.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32298689

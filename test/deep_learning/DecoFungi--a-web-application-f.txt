@@ -1,0 +1,3 @@
+Fungi have diverse biotechnological applications in, among others, agriculture, bioenergy generation, or remediation of polluted soil and water. In this context, culture media based on color change in response to degradation of dyes are particularly relevant; but measuring dye decolorisation of fungal strains mainly relies on a visual and semiquantitative classification of color intensity changes. Such a classification is a subjective, time-consuming and difficult to reproduce process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29482515

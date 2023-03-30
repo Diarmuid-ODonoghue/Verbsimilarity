@@ -1,0 +1,3 @@
+In the epidemiological investigation of an infectious disease, investigating, classifying, tracking, and managing contacts by identifying the patient's route are important for preventing further transmission of the disease. However, omissions and errors in previous activities can occur when the investigation is performed through only a proxy interview with the patient. To overcome these limitations, methods that can objectively verify the patient's claims (medical facility records, Global Positioning System, card transactions, and closed-circuit television) were used for the recent ongoing coronavirus disease 2019 contact investigations in South Korea.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32149043

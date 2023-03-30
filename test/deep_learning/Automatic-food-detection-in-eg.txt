@@ -1,0 +1,3 @@
+To develop an artificial intelligence (AI)-based algorithm which can automatically detect food items from images acquired by an egocentric wearable camera for dietary assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29576027

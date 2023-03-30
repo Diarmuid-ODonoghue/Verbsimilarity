@@ -1,0 +1,3 @@
+Traditional drug discovery and development are often time-consuming and high risk. Repurposing/repositioning of approved drugs offers a relatively low-cost and high-efficiency approach toward rapid development of efficacious treatments. The emergence of large-scale, heterogeneous biological networks has offered unprecedented opportunities for developing in silico drug repositioning approaches. However, capturing highly non-linear, heterogeneous network structures by most existing approaches for drug repositioning has been challenging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31116390

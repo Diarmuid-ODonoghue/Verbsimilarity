@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) provide a non-muscular communication channel for patients with impairments of the motor system. A significant number of BCI users is unable to obtain voluntary control of a BCI-system in proper time. This makes methods that can be used to determine the aptitude of a user necessary.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23565083

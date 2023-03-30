@@ -1,0 +1,3 @@
+To investigate whether shifts in head position, measured via an Oculus Rift head-mounted display (HMD), is a valid measure of whole-body postural stability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30917062

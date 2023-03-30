@@ -1,0 +1,3 @@
+Resistance co-occurrence within first-line anti-tuberculosis (TB) drugs is a common phenomenon. Existing methods based on genetic data analysis of Mycobacterium tuberculosis (MTB) have been able to predict resistance of MTB to individual drugs, but have not considered the resistance co-occurrence and cannot capture latent structure of genomic data that corresponds to lineages.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30689732

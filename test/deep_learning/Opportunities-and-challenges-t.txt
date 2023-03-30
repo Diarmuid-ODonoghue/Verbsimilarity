@@ -1,0 +1,3 @@
+This article is a summary of the quantitative imaging subgroup of the 2017 AAPM Practical Big Data Workshop (PBDW-2017) on progress and challenges in big data applied to cancer treatment and research supplemented by a draft white paper following an American Association of Physicists in Medicine FOREM meeting on Imaging Genomics in 2014.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30248184

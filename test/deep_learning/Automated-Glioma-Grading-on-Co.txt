@@ -1,0 +1,3 @@
+Gliomas are the most common primary tumor of the brain and are classified into grades I-IV of the World Health Organization (WHO), based on their invasively histological appearance. Gliomas grading plays an important role to determine the treatment plan and prognosis prediction. In this study we propose two novel methods for automatic, non-invasively distinguishing low-grade (Grades II and III) glioma (LGG) and high-grade (grade IV) glioma (HGG) on conventional MRI images by using deep convolutional neural networks (CNNs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32277478

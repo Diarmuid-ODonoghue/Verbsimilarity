@@ -1,0 +1,3 @@
+Deep brain stimulation of the subthalamic nucleus (STN DBS) is an increasingly common treatment for Parkinson's disease. Qualitative reviews have concluded that diminished verbal fluency is common after STN DBS, but that changes in global cognitive abilities, attention, executive functions, and memory are only inconsistently observed and, when present, often nominal or transient. We did a quantitative meta-analysis to improve understanding of the variability and clinical significance of cognitive dysfunction after STN DBS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16781988

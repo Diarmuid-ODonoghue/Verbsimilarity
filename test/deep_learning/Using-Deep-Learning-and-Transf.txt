@@ -1,0 +1,3 @@
+We sought to construct and evaluate a deep learning (DL) model to diagnose early glaucoma from spectral-domain optical coherence tomography (OCT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30316669

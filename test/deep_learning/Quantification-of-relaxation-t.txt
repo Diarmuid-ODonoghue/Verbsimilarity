@@ -1,0 +1,3 @@
+MRF is a new quantitative MR imaging technique, which can provide rapid and simultaneous measurement of multiple tissue properties. Compared to the fast speed for data acquisition, the post-processing to extract tissue properties with MRF is relatively slow and often requires a large memory for the storage of both image dataset and MRF dictionary. In this study, a convolutional neural network was developed, which can provide rapid estimation of multiple tissue properties in 0.1 sec. The T1 and T2 values obtained in white matter and gray matter are also in a good agreement with the results from pattern matching.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29681776

@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) can help patients who have lost control over most muscles but are still conscious and able to communicate or interact with the environment. One of the most popular types of BCI is the P300-based BCI. With this BCI, users are asked to count the number of appearances of target stimuli in an experiment. To date, the majority of visual P300-based BCI systems developed have used the same character or picture as the target for every stimulus presentation, which can bore users. Consequently, users attention may decrease or be negatively affected by adjacent stimuli.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28224970

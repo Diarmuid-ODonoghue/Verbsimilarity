@@ -1,0 +1,3 @@
+We study the dynamics of a flexible foil immersed in a fluid and moving close to a rigid wall. Lubrication theory allows us to derive equations of motion for the foil and thus examine the passive settling and the active swimming of a foil. This also allows us to partly answer the long-standing question in cartoon physics--can carpets fly? Our analysis suggests a region in parameter space where one may realize this dream and move the virtual towards reality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18233292

@@ -1,0 +1,3 @@
+EPID dosimetry in the Unity MR-Linac system allows for reconstruction of absolute dose distributions within the patient geometry. Dose reconstruction is accurate for the parts of the beam arriving at the EPID through the MRI central unattenuated region, free of gradient coils, resulting in a maximum field size of ~10 × 22 cm2 at isocentre. The purpose of this study is to develop a Deep Learning-based method to improve the accuracy of 2D EPID reconstructed dose distributions outside this central region, accounting for the effects of the extra attenuation and scatter.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32135486

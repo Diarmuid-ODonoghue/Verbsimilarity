@@ -1,0 +1,3 @@
+The performance of neuroprostheses, including cochlear and retinal implants, is currently constrained by the spatial resolution of electrical stimulation. Optogenetics has improved the spatial control of neurons in vivo but lacks the fast-temporal dynamics required for auditory and retinal signalling. The objective of this study is to demonstrate that combining optical and electrical stimulation in vitro could address some of the limitations associated with each of the stimulus modes when used independently.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31923907

@@ -1,0 +1,3 @@
+The current virtual reality and haptic technologies being researched for potential use in high-fidelity simulations in anesthesiology are attempting to overcome a number of limitations, such as low resolution, low visual acuity, and lack of robust haptics-graphics collocation. A new prototype device invented by the authors, known as ImmersiveTouch, addresses how to overcome these technologic limitations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17574194

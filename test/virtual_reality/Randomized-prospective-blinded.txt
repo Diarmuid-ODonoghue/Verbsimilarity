@@ -1,0 +1,3 @@
+Surgical simulation has emerged in the last decade as a potential tool for aiding acquisition of technical skills, including anesthesia protocols, trauma management, cardiac catheterization and laparoscopy. We evaluate and validate the use of a computer based ureteroscopy simulator (URO Mentor, Simbionix Ltd., Lod, Israel) in the acquisition of basic ureteroscopic skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12394678

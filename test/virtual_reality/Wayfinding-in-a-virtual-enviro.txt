@@ -1,0 +1,3 @@
+Individuals with intellectual disabilities (ID), such as those with Down syndrome (DS), sometimes get lost, even when walking familiar routes. Among the spatial cognition models addressing the dynamic construction of spatial representations, the theoretical framework of Siegel and White (1975) remains a reference. The aim of this work is to use virtual reality technology to (a) elucidate the spatial deficits associated with ID in reference to the Siegel and White framework and (b) to evaluate the effectiveness of 3 wayfinding assistive procedures (signified landmarks, arrows, and elevated views).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31343239

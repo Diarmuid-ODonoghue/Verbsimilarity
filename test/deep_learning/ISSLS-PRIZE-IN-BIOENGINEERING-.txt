@@ -1,0 +1,3 @@
+Investigation of the automation of radiological features from magnetic resonance images (MRIs) of the lumbar spine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28168339

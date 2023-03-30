@@ -1,0 +1,3 @@
+In the face of rapidly changing data, a range of case fatality ratio estimates for coronavirus disease 2019 (COVID-19) have been produced that differ substantially in magnitude. We aimed to provide robust estimates, accounting for censoring and ascertainment biases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32240634

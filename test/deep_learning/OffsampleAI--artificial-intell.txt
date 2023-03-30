@@ -1,0 +1,3 @@
+Imaging mass spectrometry (imaging MS) is an enabling technology for spatial metabolomics of tissue sections with rapidly growing areas of applications in biology and medicine. However, imaging MS data is polluted with off-sample ions caused by sample preparation, particularly by the MALDI (matrix-assisted laser desorption/ionization) matrix application. Off-sample ion images confound and hinder statistical analysis, metabolite identification and downstream analysis with no automated solutions available.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32245392

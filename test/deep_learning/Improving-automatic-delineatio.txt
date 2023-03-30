@@ -1,0 +1,3 @@
+Adequate head and neck (HN) organ-at-risk (OAR) delineation is crucial for HN radiotherapy and for investigating the relationships between radiation dose to OARs and radiation-induced side effects. The automatic contouring algorithms that are currently in clinical use, such as atlas-based contouring (ABAS), leave room for improvement. The aim of this study was to use a comprehensive evaluation methodology to investigate the performance of HN OAR auto-contouring when using deep learning contouring (DLC), compared to ABAS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31653573

@@ -1,0 +1,3 @@
+One of the major challenges facing psychiatry is how to incorporate biological measures in the classification of mental health disorders. Many of these disorders affect brain development and its connectivity. In this study, we propose a novel method for assessing brain networks based on the combination of a graph theory measure (eigenvector centrality) and a one-class support vector machine (OC-SVM).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28635541

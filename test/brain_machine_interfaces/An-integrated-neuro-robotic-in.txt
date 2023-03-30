@@ -1,0 +1,3 @@
+Stroke remains a leading cause of disability, limiting independent ambulation in survivors, and consequently affecting quality of life (QOL). Recent technological advances in neural interfacing with robotic rehabilitation devices are promising in the context of gait rehabilitation. Here, the X1, NASA's powered robotic lower limb exoskeleton, is introduced as a potential diagnostic, assistive, and therapeutic tool for stroke rehabilitation. Additionally, the feasibility of decoding lower limb joint kinematics and kinetics during walking with the X1 from scalp electroencephalographic (EEG) signals--the first step towards the development of a brain-machine interface (BMI) system to the X1 exoskeleton--is demonstrated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570865

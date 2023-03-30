@@ -1,0 +1,3 @@
+This article methodically reviews the literature on deep learning (DL) for natural language processing (NLP) in the clinical domain, providing quantitative analysis to answer 3 research questions concerning methods, scope, and context of current research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31794016

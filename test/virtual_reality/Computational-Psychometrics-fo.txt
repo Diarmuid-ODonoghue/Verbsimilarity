@@ -1,0 +1,3 @@
+Disasters can be very stressful events. However, computational models of stress require data that might be very difficult to collect during disasters. Moreover, personal experiences are not repeatable, so it is not possible to collect bottom-up information when building a coherent model. To overcome these problems, we propose the use of computational models and virtual reality integration to recreate disaster situations, while examining possible dynamics in order to understand human behavior and relative consequences. By providing realistic parameters associated with disaster situations, computational scientists can work more closely with emergency responders to improve the quality of interventions in the future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28861026

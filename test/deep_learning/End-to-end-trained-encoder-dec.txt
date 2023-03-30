@@ -1,0 +1,3 @@
+Non-invasive fetal electrocardiography has the potential to provide vital information for evaluating the health status of the fetus. However, the low signal-to-noise ratio of the fetal electrocardiogram (ECG) impedes the applicability of the method in clinical practice. Quality improvement of the fetal ECG is of great importance for providing accurate information to enable support in medical decision-making. In this paper we propose the use of artificial intelligence for the task of one-channel fetal ECG enhancement as a post-processing step after maternal ECG suppression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31918422

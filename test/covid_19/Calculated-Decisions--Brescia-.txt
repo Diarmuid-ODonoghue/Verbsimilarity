@@ -1,0 +1,3 @@
+The Brescia-COVID respiratory severity scale/algorithm is a stepwise management approach to COVID-19 patients based on clinical severity. The BCRSS was rapidly developed in Brescia, Italy, during that nation's COVID-19 crisis. The scale has not been validated or tested in other populations. The BCRSS uses patient examination features along with the need for escalating levels of respiratory support (NIV, intubation, proning) to suggest treatment recommendations. The scale simplifies the clinical summary of a patient's status, and allows clinicians to compare patients to one another and to track the trend of a patient's level of respiratory severity over time.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32297727

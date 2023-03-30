@@ -1,0 +1,3 @@
+There are several different commercially available virtual-reality robotic simulators, but very little comparative data. We compared the face and content validity of 3 robotic surgery simulators and their pricing and availability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29618918

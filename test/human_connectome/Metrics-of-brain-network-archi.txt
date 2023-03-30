@@ -1,0 +1,3 @@
+Epilepsy is associated with alterations in the structural framework of the cerebral network. The aim of this study was to measure the potential of global metrics of network architecture derived from resting state functional MRI to capture the impact of epilepsy on the developing brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28003958

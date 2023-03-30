@@ -1,0 +1,3 @@
+The need for information regarding functional alterations in patients with brain gliomas is increasing, but little is known about the functional consequences of focal brain tumors throughout the entire brain. Using resting-state functional MR imaging (rs-fMRI), this study assessed functional connectivity in patients with supratentorial brain gliomas with possible alterations in long-distance connectivity and network topology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26635295

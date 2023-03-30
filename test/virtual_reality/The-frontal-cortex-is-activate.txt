@@ -1,0 +1,3 @@
+To date, several training and evaluation systems for endoscopic surgery have been developed, such as virtual-reality simulators and box trainers. However, despite current advances in these objective assessments, no functional brain studies during learning of endoscopic surgical skills have been carried out. In the present study, we investigated cortical activation using near-infrared spectroscopy (NIRS) during endoscopic surgical tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19172351

@@ -1,0 +1,3 @@
+Biomedical event extraction is one of the most frontier domains in biomedical research. The two main subtasks of biomedical event extraction are trigger identification and arguments detection which can both be considered as classification problems. However, traditional state-of-the-art methods are based on support vector machine (SVM) with massive manually designed one-hot represented features, which require enormous work but lack semantic relation among words.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29297321

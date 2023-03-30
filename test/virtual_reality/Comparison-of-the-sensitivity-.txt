@@ -1,0 +1,3 @@
+The recent focus on quality of care and patient safety has been accompanied by increased interest in standardizing the training for laparoscopic surgeons. Studies have shown that laparoscopic simulators can be used to train surgical skills. Therefore, we designed an experiment to compare the effectiveness of two popular training systems. One system was based on a physical model, whereas the other used a virtual reality model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16132320

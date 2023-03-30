@@ -1,0 +1,3 @@
+Serious video-games are innovative tools used to train the motor skills of subjects affected by neurological disorders. They are often developed to train a specific type of patients and the rules of the game are standardly defined. A system that allows the therapist to design highly patient-oriented video-games, without specific informatics skills, is proposed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28398175

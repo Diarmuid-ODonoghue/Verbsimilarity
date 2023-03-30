@@ -1,0 +1,3 @@
+Delayed enhancement imaging is an essential component of cardiac MRI, which is used widely for the evaluation of myocardial scar and viability. The selection of an optimal inversion time (TI) or null point (TINP ) to suppress the background myocardial signal is required. The purpose of this study was to assess the feasibility of automated selection of TINP using a convolutional neural network (CNN). We hypothesized that a CNN may use spatial and temporal imaging characteristics from an inversion-recovery scout to select TINP , without the aid of a human observer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30714197

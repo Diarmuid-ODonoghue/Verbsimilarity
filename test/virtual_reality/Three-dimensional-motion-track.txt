@@ -1,0 +1,3 @@
+Feedback is an essential part of training in upper gastrointestinal endoscopy. Virtual reality simulators provide limited feedback, focusing only on visual recognition with no feedback on the procedural part of training. Motion tracking identifies patterns of movement, and this study aimed to explore the correlation between skill level and operator movement using an objective automated tool.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25826273

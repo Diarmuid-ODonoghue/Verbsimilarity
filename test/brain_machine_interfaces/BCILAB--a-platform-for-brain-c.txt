@@ -1,0 +1,3 @@
+The past two decades have seen dramatic progress in our ability to model brain signals recorded by electroencephalography, functional near-infrared spectroscopy, etc., and to derive real-time estimates of user cognitive state, response, or intent for a variety of purposes: to restore communication by the severely disabled, to effect brain-actuated control and, more recently, to augment human-computer interaction. Continuing these advances, largely achieved through increases in computational power and methods, requires software tools to streamline the creation, testing, evaluation and deployment of new data analysis methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23985960

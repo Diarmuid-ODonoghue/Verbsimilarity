@@ -1,0 +1,3 @@
+Registration is one of the key technical components in an image-guided navigation system. A large number of 2D/3D registration algorithms have been previously proposed, but have not been able to transition into clinical practice. The authors identify the primary reason for the lack of adoption with the prerequisite for a sufficiently accurate initial transformation, mean target registration error of about 10 mm or less. In this paper, the authors present two interactive initialization approaches that provide the desired accuracy for x-ray/MR and x-ray/CT registration in the operating room setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24320522

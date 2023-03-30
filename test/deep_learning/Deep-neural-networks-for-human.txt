@@ -1,0 +1,3 @@
+MicroRNAs (miRNAs) play important roles in a variety of biological processes by regulating gene expression at the post-transcriptional level. So, the discovery of new miRNAs has become a popular task in biological research. Since the experimental identification of miRNAs is time-consuming, many computational tools have been developed to identify miRNA precursor (pre-miRNA). Most of these computation methods are based on traditional machine learning methods and their performance depends heavily on the selected features which are usually determined by domain experts. To develop easily implemented methods with better performance, we investigated different deep learning architectures for the pre-miRNAs identification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31931701

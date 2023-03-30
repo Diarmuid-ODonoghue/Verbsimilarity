@@ -1,0 +1,3 @@
+The methods of machine learning and artificial intelligence are slowly but surely being introduced in everyday medical practice. In the future, they will support us in diagnosis and therapy and thus improve treatment for the benefit of the individual patient. It is therefore important to deal with this topic and to develop a basic understanding of it.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31811324

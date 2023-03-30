@@ -1,0 +1,3 @@
+To explore and develop three-dimension (3D) virtual reality (VR) liver model and convert computed tomography data into a fully 3D VR environment for display, measure and manipulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20137395

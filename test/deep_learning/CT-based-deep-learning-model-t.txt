@@ -1,0 +1,3 @@
+To evaluate the deep learning models for differentiating invasive pulmonary adenocarcinomas (IACs) among subsolid nodules (SSNs) considered for resection in a retrospective diagnostic cohort in comparison with a size-based logistic model and expert radiologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32055949

@@ -1,0 +1,3 @@
+To develop a new intelligent system based on deep learning for automatically optical coherence tomography (OCT) images categorization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30619661

@@ -1,0 +1,3 @@
+This study describes the analysis of hand preshaping using Linear Discriminant Analysis (LDA) to predict hand formation during reaching and grasping tasks of the hemiparetic hand, following a series of upper extremity motor intervention treatments. The purpose of this study is to use classification of hand posture as an additional tool for evaluating the effectiveness of therapies for upper extremity rehabilitation such as virtual reality (VR) therapy and conventional physical therapy. Classification error for discriminating between two objects during hand preshaping is obtained for the hemiparetic and unimpaired hands pre and post training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366943

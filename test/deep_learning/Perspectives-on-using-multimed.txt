@@ -1,0 +1,3 @@
+In 1999, the Faculty of Health Sciences at Linköping University, Sweden, started up a process of replacing text-based problem-based learning (PBL) scenarios with web-based multimedia-enhanced scenarios. This article brings together three studies of the results of this process and the experience gained from 10 years of implementation work.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20795808

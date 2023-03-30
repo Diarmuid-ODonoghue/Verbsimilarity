@@ -1,0 +1,3 @@
+This study was designed to test the ability of a portable computer driven, head mounted visual field testing system to perform automated perimetry on patients at their bedside and to compare these results with the "gold standard" for bedside examinations, confrontation visual fields.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11004108

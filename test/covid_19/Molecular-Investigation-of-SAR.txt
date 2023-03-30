@@ -1,0 +1,3 @@
+A new Coronavirus strain, named SARS-CoV-2, suddenly emerged in early December 2019. SARS-CoV-2 resulted in being dramatically infectious, with thousands of people infected. In this scenario, and without effective vaccines available, the importance of an immediate tool to support patients and against viral diffusion becomes evident. In this study, we exploit the molecular docking approach to analyze the affinity between different viral proteins and several inhibitors, originally developed for other viral infections. Our data show that, in some cases, a relevant binding can be detected. These findings support the hypothesis to develop new antiviral agents against COVID-19, on the basis of already established therapies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32295237

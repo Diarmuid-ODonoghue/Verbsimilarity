@@ -1,0 +1,3 @@
+Neuropsychological tests (NPTs) are important tools for informing diagnoses of cognitive impairment (CI). However, interpreting NPTs requires specialists and is thus time-consuming. To streamline the application of NPTs in clinical settings, we developed and evaluated the accuracy of a machine learning algorithm using multi-center NPT data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31752864

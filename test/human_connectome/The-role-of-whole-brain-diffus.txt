@@ -1,0 +1,3 @@
+To investigate whether diffusion MRI can be used to study cortical segregation based on a contrast related to neurite density, thus providing a complementary tool to myelin-based MRI techniques used for myeloarchitecture.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28921634

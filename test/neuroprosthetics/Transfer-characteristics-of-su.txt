@@ -1,0 +1,3 @@
+The subretinal Alpha IMS visual implant is a CE-approved medical device for restoration of visual functions in blind patients with end-stage outer retina degeneration. We present a method to test the function of the implant objectively in vivo using standard electroretinographic equipment and to assess the devices' parameter range for an optimal perception.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27510912

@@ -1,0 +1,3 @@
+An endoscopic system is needed that presents informative images irrespective of the surgical situation and the number of degrees of freedom in endoscopic manipulation. This goal may be achieved with a virtual reality view for a region of interest from an arbitrary viewpoint. An endoscopic pseudo-viewpoint alternation system for this purpose was developed and tested.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24950746

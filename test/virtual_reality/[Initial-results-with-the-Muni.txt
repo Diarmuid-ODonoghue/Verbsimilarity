@@ -1,0 +1,3 @@
+In orthopaedics more than 50 different clinical knee joint evaluation tests exist that have to be trained in orthopaedic education. Often it is not possible to obtain sufficient practical training in a clinical environment. The training can be improved by Virtual Reality technology. In the frame of the Munich Knee Joint Simulation project an artificial leg with anatomical properties is attached by a force-torque sensor to an industrial robot. The recorded forces and torques are the input for a simple biomechanical model of the human knee joint. The robot is controlled in such way that the user gets the feeling he moves a real leg. The leg is embedded in a realistic environment with a couch and a patient on it.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12465279

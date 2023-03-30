@@ -1,0 +1,3 @@
+Dynamic functional network connectivity (dFNC) analyzes time evolution of coherent activity in the brain. In this technique dynamic changes are considered for the whole brain. This paper proposes an information theory framework to measure information flowing among subsets of functional networks call functional domains.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28442296

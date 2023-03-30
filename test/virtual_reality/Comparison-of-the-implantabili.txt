@@ -1,0 +1,3 @@
+To develop a procedure using a virtual reality (VR) environment that permitted us to simulate the preoperative fitting of an electronic implantable hearing device (IHD) and assess its implantability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15513547

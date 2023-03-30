@@ -1,0 +1,3 @@
+We demonstrate image signal transmission for wireless intra-brain communication. As a preliminary experiment, transmission characteristics of the brain phantom were measured. The baseband output signal from an implantable complementary metal-oxide-semiconductor (CMOS) image sensor is transmitted through the phantom. The image was successfully reproduced from the received signal.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23367299

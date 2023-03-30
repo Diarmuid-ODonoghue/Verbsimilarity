@@ -1,0 +1,3 @@
+The reaching of objects is usually practiced by CP children in conventional or Virtual Reality-based therapies to enhance motor skill performance. Recently, Kinesio Taping® method has been studied to increase mechanical stability and improve functional movement of the upper limb; however, its influence on CP children´s upper limb motion has been rarely quantified due to lack of sensory measurement. Therefore, in this paper, we evaluate the biomechanical and functional effects of applying shoulder Kinesio Taping® on CP children in the reaching-transporting of virtual objects, by using a low-cost tracking device, exact robust differentiation of data and a simple nonlinear biomechanical dynamic model of the trunk and arm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30829542

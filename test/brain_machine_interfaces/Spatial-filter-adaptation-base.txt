@@ -1,0 +1,3 @@
+To address the nonstationarity issue in EEG-based brain computer interface (BCI), the computational model trained using the training data needs to adapt to the data from the test sessions. In this paper, we propose a novel adaptation approach based on the divergence framework. Cross-session changes can be taken into consideration by searching the discriminative subspaces for test data on the manifold of orthogonal matrices in a semi-supervised manner. Subsequently, the feature space becomes more consistent across sessions and classifiers performance can be enhanced. Experimental results show that the proposed adaptation method yields improvements in classification performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570337

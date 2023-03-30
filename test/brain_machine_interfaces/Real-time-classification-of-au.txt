@@ -1,0 +1,3 @@
+Recent research has characterized the anatomical and functional basis of speech perception in the human auditory cortex. These advances have made it possible to decode speech information from activity in brain regions like the superior temporal gyrus, but no published work has demonstrated this ability in real-time, which is necessary for neuroprosthetic brain-computer interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29378977

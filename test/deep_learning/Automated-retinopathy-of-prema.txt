@@ -1,0 +1,3 @@
+Retinopathy of prematurity (ROP) is the leading cause of childhood blindness worldwide. Automated ROP detection system is urgent and it appears to be a safe, reliable, and cost-effective complement to human experts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30166272

@@ -1,0 +1,3 @@
+Recent research has shown that machine learning techniques can accurately predict activity classes from accelerometer data in adolescents and adults. The purpose of this study is to develop and test machine learning models for predicting activity type in preschool-aged children.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25088983

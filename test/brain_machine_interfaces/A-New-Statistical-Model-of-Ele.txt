@@ -1,0 +1,3 @@
+A characteristic of neurological signal processing is high levels of noise from subcellular ion channels up to whole-brain processes. In this paper, we propose a new model of electroencephalogram (EEG) background periodograms, based on a family of functions which we call generalized van der Ziel-McWhorter (GVZM) power spectral densities (PSDs). To the best of our knowledge, the GVZM PSD function is the only EEG noise model that has relatively few parameters, matches recorded EEG PSD's with high accuracy from 0 to over 30 Hz, and has approximately 1/fθ behavior in the midfrequencies without infinities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28113207

@@ -1,0 +1,3 @@
+To evaluate accuracy of virtual-non-contrast images (VNC) compared to true-unenhanced-images (TNC) for evaluation of liver attenuation acquired using spectral-detector CT (SDCT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31825655

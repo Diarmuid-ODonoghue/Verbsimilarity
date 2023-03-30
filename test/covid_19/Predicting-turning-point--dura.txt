@@ -1,0 +1,3 @@
+In this paper, we employed a segmented Poisson model to analyze the available daily new cases data of the COVID-19 outbreaks in the six Western countries of the Group of Seven, namely, Canada, France, Germany, Italy, UK and USA. We incorporated the governments' interventions (stay-at-home advises/orders, lockdowns, quarantines and social distancing) against COVID-19 into consideration. Our analysis allowed us to make a statistical prediction on the turning point (the time that the daily new cases peak), the duration (the period that the outbreak lasts) and the attack rate (the percentage of the total population that will be infected over the course of the outbreak) for these countries.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32313405

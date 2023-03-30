@@ -1,0 +1,3 @@
+This study estimated the diagnostic performance of a deep learning system for detection of Sjögren's syndrome (SjS) on CT, and compared it with the performance of radiologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31075042

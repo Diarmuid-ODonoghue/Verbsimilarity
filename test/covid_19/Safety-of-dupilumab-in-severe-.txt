@@ -1,0 +1,3 @@
+Dupilumab is a fully human monoclonal antibody against the alfa subunit of interleukin (IL)-4 receptor that blocks signalling from both IL-4 and IL-13, which are key type 2 cytokines in the pathophysiology of atopic dermatitis (AD). It shows good efficacy with a rapid response and good safety with few side effects. In a paper of Deleuran et al. the authors showed long term safety and efficacy of dupilumab; they reported viral upper respiratory tract infection, cough and influenza in about 2% of patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32330323

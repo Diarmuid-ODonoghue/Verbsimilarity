@@ -1,0 +1,3 @@
+To improve respiratory gating accuracy and treatment throughput, we developed a fluoroscopic markerless tumor tracking algorithm based on a deep neural network (DNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30928062

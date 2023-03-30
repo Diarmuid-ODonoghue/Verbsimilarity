@@ -1,0 +1,3 @@
+Early diagnosis of schizophrenia could improve the outcomes and limit the negative effects of untreated illness. Although participants with schizophrenia show aberrant functional connectivity in brain networks, these between-group differences have a limited diagnostic utility. Novel methods of magnetic resonance imaging (MRI) analyses, such as machine learning (ML), may help bring neuroimaging from the bench to the bedside. Here, we used ML to differentiate participants with a first episode of schizophrenia-spectrum disorder (FES) from healthy controls based on resting-state functional connectivity (rsFC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27451917

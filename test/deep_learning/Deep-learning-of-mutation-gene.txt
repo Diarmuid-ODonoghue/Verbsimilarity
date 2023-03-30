@@ -1,0 +1,3 @@
+Molecular biomarkers that can predict drug efficacy in cancer patients are crucial components for the advancement of precision medicine. However, identifying these molecular biomarkers remains a laborious and challenging task. Next-generation sequencing of patients and preclinical models have increasingly led to the identification of novel gene-mutation-drug relations, and these results have been reported and published in the scientific literature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29368597

@@ -1,0 +1,3 @@
+The challenges faced by the Global South during the coronavirus disease (COVID-19) pandemic are compounded by the presence of informal settlements, which are typically densely populated and lacking in formalized sanitation infrastructure. Social distancing measures in informal settlements may be difficult to implement due to the density and layout of settlements. This study measures the distance between dwellings in informal settlements in Cape Town to identify the risk of COVID-19 transmission.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32250283

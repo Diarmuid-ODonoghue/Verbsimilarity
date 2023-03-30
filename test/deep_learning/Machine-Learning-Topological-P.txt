@@ -1,0 +1,3 @@
+We report an experimental demonstration of a machine learning approach to identify exotic topological phases, with a focus on the three-dimensional chiral topological insulators. We show that the convolutional neural networks-a class of deep feed-forward artificial neural networks with widespread applications in machine learning-can be trained to successfully identify different topological phases protected by chiral symmetry from experimental raw data generated with a solid-state quantum simulator. Our results explicitly showcase the exceptional power of machine learning in the experimental detection of topological phases, which paves a way to study rich topological phenomena with the machine learning toolbox.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31283312

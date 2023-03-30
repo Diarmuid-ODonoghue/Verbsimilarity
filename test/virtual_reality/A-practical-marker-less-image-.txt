@@ -1,0 +1,3 @@
+Image registration lies in the core of augmented reality (AR), which aligns the virtual scene with the reality. In AR surgical navigation, the performance of image registration is vital to the surgical outcome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30825070

@@ -1,0 +1,3 @@
+Biomarker computation using deep-learning often relies on a two-step process, where the deep learning algorithm segments the region of interest and then the biomarker is measured. We propose an alternative paradigm, where the biomarker is estimated directly using a regression network. We showcase this image-to-biomarker paradigm using two biomarkers: the estimation of bone mineral density (BMD) and the estimation of lung percentage of emphysema from CT scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30122802

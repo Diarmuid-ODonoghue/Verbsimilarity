@@ -1,0 +1,3 @@
+We aimed to demonstrate that supervised machine learning (ML) models can better predict postoperative complications after total shoulder arthroplasty (TSA) than comorbidity indices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31383411

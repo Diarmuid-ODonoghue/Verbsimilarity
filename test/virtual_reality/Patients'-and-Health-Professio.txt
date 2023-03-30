@@ -1,0 +1,3 @@
+In recent years, virtual reality (VR) therapy systems for upper limb training after stroke have been increasingly used in clinical practice. Therapy systems employing VR technology can enhance the intensity of training and can also boost patients' motivation by adding a playful element to therapy. However, reports on user experiences are still scarce.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29593910

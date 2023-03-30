@@ -1,0 +1,3 @@
+Identification of virulence factors (VFs) is critical to the elucidation of bacterial pathogenesis and prevention of related infectious diseases. Current computational methods for VF prediction focus on binary classification or involve only several class(es) of VFs with sufficient samples. However, thousands of VF classes are present in real-world scenarios, and many of them only have a very limited number of samples available.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32251507

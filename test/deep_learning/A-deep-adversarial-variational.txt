@@ -1,0 +1,3 @@
+Single-cell RNA sequencing (scRNA-seq) is an emerging technology that can assess the function of an individual cell and cell-to-cell variability at the single cell level in an unbiased manner. Dimensionality reduction is an essential first step in downstream analysis of the scRNA-seq data. However, the scRNA-seq data are challenging for traditional methods due to their high dimensional measurements as well as an abundance of dropout events (that is, zero expression measurements).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32085701

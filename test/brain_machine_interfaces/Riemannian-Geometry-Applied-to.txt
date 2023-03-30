@@ -1,0 +1,3 @@
+During mechanical ventilation, patient-ventilator disharmony is frequently observed and may result in increased breathing effort, compromising the patient's comfort and recovery. This circumstance requires clinical intervention and becomes challenging when verbal communication is difficult. In this study, we propose a brain-computer interface (BCI) to automatically and noninvasively detect patient-ventilator disharmony from electroencephalographic (EEG) signals: a brain-ventilator interface (BVI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28129143

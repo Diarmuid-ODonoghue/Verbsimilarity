@@ -1,0 +1,3 @@
+Astronauts' orientation preferences tend to correlate with their susceptibility to space motion sickness (SMS). Orientation preferences appear universally, since variable sensory cue priorities are used between individuals. However, SMS susceptibility changes after proper training, while orientation preferences seem to be intrinsic proclivities. The present study was conducted to investigate whether orientation preferences change if susceptibility is reduced after repeated exposure to a virtual reality (VR) stimulus environment that induces SMS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28923138

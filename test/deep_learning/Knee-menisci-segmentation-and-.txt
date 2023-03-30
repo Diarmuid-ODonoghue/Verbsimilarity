@@ -1,0 +1,3 @@
+To develop a deep learning-based method for knee menisci segmentation in 3D ultrashort echo time (UTE) cones MR imaging, and to automatically determine MR relaxation times, namely the T1, T1ρ , and T 2 ∗  parameters, which can be used to assess knee osteoarthritis (OA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31535731

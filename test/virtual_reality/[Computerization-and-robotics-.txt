@@ -1,0 +1,3 @@
+The article gives the outlines of all principles used in computing included the non-electrical and analog computers and the artifical intelligence followed by citing examples as well. The principles and medical utilization of virtual reality are also mentioned. There are discussed: surgical planning, image guided surgery, robotic surgery, telepresence and telesurgery, and telemedicine implemented partially via Internet.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9411345

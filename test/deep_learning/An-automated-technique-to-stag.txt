@@ -1,0 +1,3 @@
+Automated methods to evaluate growth of hand and wrist bones on radiographs and magnetic resonance imaging have been developed. They can be applied to estimate age in children and subadults. Automated methods require the software to (1) recognise the region of interest in the image(s), (2) evaluate the degree of development and (3) correlate this to the age of the subject based on a reference population. For age estimation based on third molars an automated method for step (1) has been presented for 3D magnetic resonance imaging and is currently being optimised (Unterpirker et al. 2015).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29384736

@@ -1,0 +1,3 @@
+Communication with patients suffering from locked-in syndrome and other forms of paralysis is an unsolved challenge. Movement restoration for patients with chronic stroke or other brain damage also remains a therapeutic problem and available treatments do not offer significant improvements. This review considers recent research in brain-computer interfaces (BCIs) as promising solutions to these challenges.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18989104

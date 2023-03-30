@@ -1,0 +1,3 @@
+Due to extreme shortages of personal protective equipment caused by the COVID-19 pandemic, many healthcare workers will be forced to recycle protective masks intended for disposal after a single use. We propose investigating the use of ultraviolet germicidal irradiation to sterilize masks of SARS-CoV-2 for safer re-use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32279694

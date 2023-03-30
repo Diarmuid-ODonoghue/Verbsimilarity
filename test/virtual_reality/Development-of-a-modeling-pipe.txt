@@ -1,0 +1,3 @@
+Severe mitral valve regurgitation can either be treated by a replacement or a repair of the valve. The latter is recommended due to lower perioperative mortality and better long-term survival. On the other hand, recurrence rates after mitral valve repair are high compared to those after replacements and the repair intervention can cause induced mitral valve stenosis. So far, there are no methods to predict the hemodynamic outcome of a chosen treatment or to compare different treatment options in advance. To overcome this, diastolic mitral valve hemodynamics are simulated using computational fluid dynamics after different virtual treatments of the valve.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30008058

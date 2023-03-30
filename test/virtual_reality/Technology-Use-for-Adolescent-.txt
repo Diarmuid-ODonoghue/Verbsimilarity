@@ -1,0 +1,3 @@
+As avid users of technology, adolescents are a key demographic to engage when designing and developing technology applications for health. There are multiple opportunities for improving adolescent health, from promoting preventive behaviors to providing guidance for adolescents with chronic illness in supporting treatment adherence and transition to adult health care systems. This article will provide a brief overview of current technologies and then highlight new technologies being used specifically for adolescent health, such as artificial intelligence, virtual and augmented reality, and machine learning. Because there is paucity of evidence in this field, we will make recommendations for future research.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32358210

@@ -1,0 +1,3 @@
+To investigate the natural history of persistent pulmonary pure ground-glass nodules (pGGNs) with deep learning-assisted nodule segmentation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31485837

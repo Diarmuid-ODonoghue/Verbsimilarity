@@ -1,0 +1,3 @@
+The introduction of digital pathology is changing the practice of diagnostic anatomic pathology. Digital pathology offers numerous advantages over using a physical slide on a physical microscope, including more discriminative tools to render a more precise diagnostic report. The development of these tools is being facilitated by public challenges related to specific diagnostic tasks within anatomic pathology. To date, 24 public challenges related to pathology tasks have been published. This article discusses these public challenges and briefly reviews the underlying characteristics of public challenges and why they are helpful to the development of digital tools.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32318315

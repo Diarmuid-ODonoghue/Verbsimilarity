@@ -1,0 +1,3 @@
+Anhedonia is central to multiple psychiatric disorders and causes substantial disability. A dimensional conceptualization posits that anhedonia severity is related to a transdiagnostic continuum of reward deficits in specific neural networks. Previous functional connectivity studies related to anhedonia have focused on case-control comparisons in specific disorders, using region-specific seed-based analyses. Here, the authors explore the entire functional connectome in relation to reward responsivity across a population of adults with heterogeneous psychopathology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28135847

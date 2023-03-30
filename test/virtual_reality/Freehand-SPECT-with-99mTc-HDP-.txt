@@ -1,0 +1,3 @@
+To assess the feasibility of using freehand Single Photon Emission Computed Tomography (freehandSPECT) for the identification of technetium-99m-hydroxydiphosphonate (99mTc-HDP) positive bone lesions and to evaluate the possibility of using these imaging data-sets for augmented- and virtual-reality based navigation approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31133492

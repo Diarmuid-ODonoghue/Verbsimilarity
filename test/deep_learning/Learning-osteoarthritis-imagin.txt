@@ -1,0 +1,3 @@
+To learn bone shape features from spherical bone map of knee MRI images using established convolutional neural networks (CNN) and use these features to diagnose and predict osteoarthritis (OA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32243657

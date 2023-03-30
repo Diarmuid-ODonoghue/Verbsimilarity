@@ -1,0 +1,3 @@
+A new compliant electrode-based on silver nanowire-polymer composite has been developed. The composite electrode has low sheet resistance (as low as 10 Ω/sq), remains conductive (10(2) -10(3) Ω/sq) at strains as high as 140%, and can support Joule heating. The combination of the composite and a bistable electroactive polymer produces electrically-induced, large-strain actuation and relaxation, reversibly without the need of mechanical programming.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22302290

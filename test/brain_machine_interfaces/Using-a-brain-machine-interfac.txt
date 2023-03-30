@@ -1,0 +1,3 @@
+As a consequence of the increase of cerebro-vascular accidents, the number of people suffering from motor disabilities is raising. Exoskeletons, Functional Electrical Stimulation (FES) devices and Brain-Machine Interfaces (BMIs) could be combined for rehabilitation purposes in order to improve therapy outcomes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26476869

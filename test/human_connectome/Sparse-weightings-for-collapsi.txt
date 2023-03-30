@@ -1,0 +1,3 @@
+Source-reconstructed magneto- and electroencephalography (M/EEG) are promising tools for investigating the human functional connectome. To reduce data, decrease noise, and obtain results directly comparable to magnetic resonance imaging (MRI), M/EEG source data can be collapsed into a cortical parcellation. For most collapsing approaches, however, it remains unclear if collapsed parcel time series accurately represent the coherent source dynamics within each parcel.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24509129

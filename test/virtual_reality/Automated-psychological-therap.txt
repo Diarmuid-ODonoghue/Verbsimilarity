@@ -1,0 +1,3 @@
+Engaging, interactive, and automated virtual reality (VR) treatments might help solve the unmet needs of individuals with mental health disorders. We tested the efficacy of an automated cognitive intervention for fear of heights guided by an avatar virtual coach (animated using motion and voice capture of an actor) in VR and delivered with the latest consumer equipment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30007519

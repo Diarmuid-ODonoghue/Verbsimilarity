@@ -1,0 +1,3 @@
+Historically, the Cox proportional hazard regression model has been the mainstay for survival analyses in oncologic research. The Cox proportional hazard regression model generally is used based on an assumption of linear association. However, it is likely that, in reality, there are many clinicopathologic features that exhibit a nonlinear association in biomedicine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30582927

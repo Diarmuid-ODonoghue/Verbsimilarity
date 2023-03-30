@@ -1,0 +1,3 @@
+The present investigation, with a virtual reality set-up, aimed to study attentional orienting within a three-dimensional visual world. Near and far stimuli were used. Half of the subjects were provided with a virtual representation of their body, whereas half were not. Results showed a different distribution of attentional resources in the two conditions, suggesting a dissociation between attentional systems controlling the proximal and the distal visual space. In particular, attention was focused close to the subject's body when a virtual representation of it was present, whereas attention was focused away from the body when a virtual representation of the body was not present.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11167054

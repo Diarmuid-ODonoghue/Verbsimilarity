@@ -1,0 +1,3 @@
+In this study, a robust method is developed for frequency-specific electroencephalogram (EEG) phase extraction using the analytic representation of the EEG. Based on recent theoretical findings in this area, it is shown that some of the phase variations-previously associated to the brain response-are systematic side-effects of the methods used for EEG phase calculation, especially during low analytical amplitude segments of the EEG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28140332

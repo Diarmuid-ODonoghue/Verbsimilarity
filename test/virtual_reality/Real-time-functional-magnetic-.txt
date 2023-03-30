@@ -1,0 +1,3 @@
+This chapter proposes a prospective view on using a real-time functional magnetic imaging (rt-fMRI) brain-computer interface (BCI) application as a new treatment for pedophilia. Neurofeedback mediated by interactive virtual stimuli is presented as the key process in this new BCI application. Results on the diagnostic discriminant power of virtual characters depicting sexual stimuli relevant to pedophilia are given. Finally, practical and ethical implications are briefly addressed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21763528

@@ -1,0 +1,3 @@
+We evaluated the use of a part-task simulator with 3D and haptic feedback as a training tool for a common neurosurgical procedure--placement of thoracic pedicle screws.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21471846

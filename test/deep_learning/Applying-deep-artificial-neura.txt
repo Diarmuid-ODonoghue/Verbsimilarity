@@ -1,0 +1,3 @@
+Maxillofacial prosthetic rehabilitation replaces missing structures to recover the function and aesthetics relating to facial defects or injuries. Deep learning is rapidly expanding with respect to applications in medical fields. In this study, we apply the artificial neural network (ANN)-based deep learning approach to coloration support for fabricating maxillofacial prostheses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31554602

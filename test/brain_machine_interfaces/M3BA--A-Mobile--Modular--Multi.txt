@@ -1,0 +1,3 @@
+For the further development of the fields of telemedicine, neurotechnology, and brain-computer interfaces, advances in hybrid multimodal signal acquisition and processing technology are invaluable. Currently, there are no commonly available hybrid devices combining bioelectrical and biooptical neurophysiological measurements [here electroencephalography (EEG) and functional near-infrared spectroscopy (NIRS)]. Our objective was to design such an instrument in a miniaturized, customizable, and wireless form.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28113241

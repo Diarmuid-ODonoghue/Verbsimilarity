@@ -1,0 +1,3 @@
+Intensity modulated radiation therapy (IMRT) is commonly employed for treating head and neck (H&N) cancer with uniform tumor dose and conformal critical organ sparing. Accurate delineation of organs-at-risk (OARs) on H&N CT images is thus essential to treatment quality. Manual contouring used in current clinical practice is tedious, time-consuming, and can produce inconsistent results. Existing automated segmentation methods are challenged by the substantial inter-patient anatomical variation and low CT soft tissue contrast. To overcome the challenges, we developed a novel automated H&N OARs segmentation method that combines a fully convolutional neural network (FCNN) with a shape representation model (SRM).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30136285

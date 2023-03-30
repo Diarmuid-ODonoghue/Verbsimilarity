@@ -1,0 +1,3 @@
+Performing foot motor imagery is accompanied by a peri-imagery ERD and a post-imagery beta ERS (beta rebound). Our aim was to study whether the post-imagery beta rebound is a suitable feature for a simple "brain switch". Such a brain switch is a specifically designed brain-computer interface (BCI) with the aim to detect only one predefined brain state (e.g. EEG pattern) in ongoing brain activity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19028138

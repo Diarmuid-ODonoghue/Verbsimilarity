@@ -1,0 +1,3 @@
+A newly emerged Human Coronavirus (HCoV) is reported two months ago in Wuhan, China (COVID-19). Until today >2700 deaths from the 80,000 confirmed cases reported mainly in China and 40 other countries. Human to human transmission is confirmed for COVID-19 by China a month ago. Based on the World Health Organization (WHO) reports, SARS HCoV is responsible for >8000 cases with confirmed 774 deaths. Additionally, MERS HCoV is responsible for 858 deaths out of about 2500 reported cases. The current study aims to test anti-HCV drugs against COVID-19 RNA dependent RNA polymerase (RdRp).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32119961

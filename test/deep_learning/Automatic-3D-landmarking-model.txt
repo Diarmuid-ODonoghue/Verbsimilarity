@@ -1,0 +1,3 @@
+Manual landmarking is a time consuming and highly professional work. Although some algorithm-based landmarking methods have been proposed, they lack flexibility and may be susceptible to data diversity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32065718

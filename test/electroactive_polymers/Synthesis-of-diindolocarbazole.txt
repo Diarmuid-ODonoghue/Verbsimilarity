@@ -1,0 +1,3 @@
+[structure: see text] New and facile synthesis of symmetric diindolocarbazoles was developed using the copper-catalyzed Ullmann reaction. The key step is a double-intramolecular cyclization reaction realized on N-alkyl-3,6-dibromo-2,7-bis(2'aminophenyl)carbazole derivatives which offers the desired symmetric ladder oligo(p-aniline)s. Depending upon the nature of the side- and/or end-groups, well-defined thin films and/or semiladder polymers could be obtained. These electroactive ladder oligomers may have great potential in organic electronics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15355065

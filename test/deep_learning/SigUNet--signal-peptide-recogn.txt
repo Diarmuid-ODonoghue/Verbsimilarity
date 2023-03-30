@@ -1,0 +1,3 @@
+Signal peptides play an important role in protein sorting, which is the mechanism whereby proteins are transported to their destination. Recognition of signal peptides is an important first step in determining the active locations and functions of proteins. Many computational methods have been proposed to facilitate signal peptide recognition. In recent years, the development of deep learning methods has seen significant advances in many research fields. However, most existing models for signal peptide recognition use one-hidden-layer neural networks or hidden Markov models, which are relatively simple in comparison with the deep neural networks that are used in other fields.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31861981

@@ -1,0 +1,3 @@
+Zhou et al. (Nature) and Hoffmann et al. (Cell) identify ACE2 as a SARS-CoV-2 receptor, and the latter show its entry mechanism depends on cellular serine protease TMPRSS2. These results may explain proinflammatory cytokine release via the associated angiotestin II pathway and a possible therapeutic target via the IL-6-STAT3 axis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32325025

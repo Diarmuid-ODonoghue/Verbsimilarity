@@ -1,0 +1,3 @@
+An accurate and rapid anatomical localization of implanted subdural electrodes is essential in the invasive diagnostic process for epilepsy surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23512592

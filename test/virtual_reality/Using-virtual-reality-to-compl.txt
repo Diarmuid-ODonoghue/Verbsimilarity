@@ -1,0 +1,3 @@
+The use of digital three-dimensional (3D) models to aid learning and teaching in anatomy education has become common place over the last decade. More recently, virtual reality (VR) has been explored by a number of universities as a means of further engaging students with virtual models. This paper describes the development and evaluation of a pilot VR anatomy resource at the University of Dundee. Students were exposed to a collection of 3D anatomical models in VR to evaluate the potential usefulness and adoption of this technology for anatomy education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31057001

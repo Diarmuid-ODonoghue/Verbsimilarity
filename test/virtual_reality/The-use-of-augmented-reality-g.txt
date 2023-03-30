@@ -1,0 +1,3 @@
+The aim of this study was to investigate the feasibility of using augmented reality (AR) glasses in central line simulation by novice operators and compare its efficacy to standard central line simulation/teaching.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29785148

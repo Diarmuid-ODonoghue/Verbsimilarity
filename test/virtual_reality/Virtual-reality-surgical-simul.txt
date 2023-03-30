@@ -1,0 +1,3 @@
+Large-scale flight simulation was pioneered in the 1940s to help meet the training requirements and demand for pilots in World War II. Flight simulators have been effective for training, evaluating, and certifying military and commercial pilots. Accurate scenarios have been developed that allow pilots in training to gain experience without the risk and expense of learning while in flight. The research in aviation simulation suggests a transfer effectiveness ratio of 0.48. This means that 1 hour in the simulator saves a half hour in the air. Because of the successful use of flight simulation as a training technique, computer-based simulators are now used in a variety of domains.
+
+https://www.ncbi.nlm.nih.gov/pubmed/8956738

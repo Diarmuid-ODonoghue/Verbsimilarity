@@ -1,0 +1,3 @@
+Digital subtraction angiography (DSA) is a powerful technique for diagnosing cardiovascular disease. In order to avoid image artifacts caused by patient movement during imaging, we take deep learning-based methods to generate DSA image from single live image without the mask image.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31367806

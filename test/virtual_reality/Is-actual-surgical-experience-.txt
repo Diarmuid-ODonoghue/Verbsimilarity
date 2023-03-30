@@ -1,0 +1,3 @@
+A virtual reality simulator developed for orthopaedic and trauma surgical training has been introduced. However, it is unclear whether the experiences of actual surgery are reflected in virtual reality simulation surgery (VRSS) using a simulator. The aim of this study is to investigate whether the results in VRSS differ between a trauma expert and a trauma novice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31187262

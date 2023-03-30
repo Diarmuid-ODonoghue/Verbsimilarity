@@ -1,0 +1,3 @@
+Although DNA sequence plays a crucial role in establishing the unique epigenome of a cell type, little is known about the sequence determinants that lead to the unique epigenomes of different cell types produced during cell differentiation. To fill this gap, we employed two types of deep convolutional neural networks (CNNs) constructed for each of differentially related cell types and for each of histone marks measured in the cells, to learn the sequence determinants of various histone modification patterns in each cell type.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31510916

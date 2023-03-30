@@ -1,0 +1,3 @@
+This paper presents an interactive method for the intuitive exploration of airflow within the human nose. Employing the computational power of modern graphics hardware allows for computing the movement of large numbers of particles through the flow domain. By using tetrahedral grids, we preserve the precision of the numerical flow simulation even for irregular flow domains. For rendering, we employ billboard-based visualization methods, which result in a high visual quality at little computational cost and highly interactive frame rates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377313

@@ -1,0 +1,3 @@
+The global outbreak caused by the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has been declared a pandemic by the WHO. As the number of imported SARS-CoV-2 cases is on the rise in Brazil, we use incidence and historical air travel data to estimate the most important routes of importation into the country.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32211799

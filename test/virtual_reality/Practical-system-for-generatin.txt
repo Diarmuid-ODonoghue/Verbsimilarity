@@ -1,0 +1,3 @@
+We propose a practical system that can effectively mix the depth data of real and virtual objects by using a Z buffer and can quickly generate digital mixed reality video holograms by using multiple graphic processing units (GPUs). In an experiment, we verify that real objects and virtual objects can be merged naturally in free viewing angles, and the occlusion problem is well handled. Furthermore, we demonstrate that the proposed system can generate mixed reality video holograms at 7.6 frames per second. Finally, the system performance is objectively verified by users' subjective evaluations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27409312

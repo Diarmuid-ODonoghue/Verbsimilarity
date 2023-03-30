@@ -1,0 +1,3 @@
+Resisting biomolecule adsorption onto the surface of brain-implanted microelectrodes is a key issue for in vivo monitoring of neurochemicals. Herein, we demonstrate that an ultrathin cell-membrane-mimic film of ethylenedioxythiophene tailored with zwitterionic phosphorylcholine (EDOT-PC) electropolymerized onto the surface of a carbon fiber microelectrode (CFE) not only resists protein adsorption but also maintains the sensitivity and time response for in vivo monitoring of dopamine (DA). As a consequence, the as-prepared PEDOT-PC/CFEs could be used as a new reliable platform for tracking DA in vivo and would help understand the physiological and pathological functions of DA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28771899

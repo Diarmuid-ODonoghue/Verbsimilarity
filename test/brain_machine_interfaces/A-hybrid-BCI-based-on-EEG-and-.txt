@@ -1,0 +1,3 @@
+In order to increase the number of states classified by a brain-computer interface (BCI), we utilized a motor imagery task where subjects imagined both force and speed of hand clenching.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25834118

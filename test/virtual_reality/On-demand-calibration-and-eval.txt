@@ -1,0 +1,3 @@
+Common camera calibration methods employed in current laparoscopic augmented reality systems require the acquisition of multiple images of an entire checkerboard pattern from various poses. This lengthy procedure prevents performing laparoscope calibration in the operating room (OR). The purpose of this work was to develop a fast calibration method for electromagnetically (EM) tracked laparoscopes, such that the calibration can be performed in the OR on demand.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27250853

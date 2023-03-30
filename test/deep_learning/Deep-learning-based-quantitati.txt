@@ -1,0 +1,3 @@
+Admission computed tomography (CT) is a widely used diagnostic tool for patients with pelvic fractures. In this pilot study, we hypothesized that pelvic hematoma volumes derived using a rapid automated deep learning-based quantitative visualization and measurement algorithm predict interventions and outcomes including (a) need for angioembolization (AE), pelvic packing (PP), or massive transfusion (MT), and (b) in-hospital mortality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32107356

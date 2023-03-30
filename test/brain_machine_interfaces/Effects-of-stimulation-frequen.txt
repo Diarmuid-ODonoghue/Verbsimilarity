@@ -1,0 +1,3 @@
+A visual stimulator plays a vital part in brain-computer interfaces (BCIs) based on steady-state visual evoked potential (SSVEP). The properties of visual stimulation, such as frequency, color, and waveform, will influence SSVEP-based BCI performance to some extent. Recently, the computer monitor serves as a visual stimulator that is widespread in SSVEP-based BCIs because of its great flexibility in generating visual stimuli. However, stimulation properties based on a computer monitor have received very little attention. For a better comprehension of SSVEPs, this study explored the stimulation effects of waveforms and frequencies, when evoking SSVEPs through a computer monitor.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31220820

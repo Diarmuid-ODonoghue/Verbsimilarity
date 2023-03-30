@@ -1,0 +1,3 @@
+Despite intense brain-computer interface (BCI) research for >2 decades, BCIs have hardly been established at patients' homes. The current study aimed at demonstrating expert independent BCI home use by a patient in the locked-in state and the effect it has on quality of life.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25721543

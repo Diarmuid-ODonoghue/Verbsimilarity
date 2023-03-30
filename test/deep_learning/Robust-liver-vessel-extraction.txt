@@ -1,0 +1,3 @@
+Liver vessel extraction from CT images is essential in liver surgical planning. Liver vessel segmentation is difficult due to the complex vessel structures, and even expert manual annotations contain unlabeled vessels. This paper presents an automatic liver vessel extraction method using deep convolutional network and studies the impact of incomplete data annotation on segmentation accuracy evaluation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30144657

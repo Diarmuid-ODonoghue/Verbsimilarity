@@ -1,0 +1,3 @@
+We developed a high-speed two-photon optical ribbon imaging system, which combines galvo-mirrors for an arbitrary curve scan on a lateral plane and a tunable acoustic gradient-index lens for a 100 kHz-1 MHz axial scan. The system provides micrometer/millisecond spatiotemporal resolutions, which enable continuous readout of functional dynamics from small and densely packed neurons in a living adult Drosophila brain. Compared to sparse sampling techniques, the ribbon imaging modality avoids motion artifacts. Combined with a Drosophila anatomical connectome database, which is the most complete among all model animals, this technique paves the way toward establishing whole-brain functional connectome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31259918

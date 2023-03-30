@@ -1,0 +1,3 @@
+Structural pathology in the hippocampus is well-documented in schizophrenia, but brain functional changes have not been consistently found. We used spatial navigation in a virtual reality environment, a task that is known to produce robust hippocampal activation in healthy subjects, to examine task-related activations and de-activations in the disorder.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26924620

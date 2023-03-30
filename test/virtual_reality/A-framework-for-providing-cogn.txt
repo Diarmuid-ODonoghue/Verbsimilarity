@@ -1,0 +1,3 @@
+Providing cognitive feedback in a virtual reality simulator during training is essential for subjects to correct and learn proper techniques. In this work, we have developed a framework to identify key skills and cognitive knowledge required to perform a task and methods to provide to the user. The framework was verified by implementing a test case scenario with the peg transfer task of the FLS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732538

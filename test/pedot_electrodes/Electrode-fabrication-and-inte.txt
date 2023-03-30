@@ -1,0 +1,3 @@
+Non-invasive imaging techniques are undoubtedly the ideal methods for continuous monitoring of neural activity. One such method, fast neural electrical impedance tomography (EIT) has been developed over the past decade in order to image neural action potentials with non-penetrating electrode arrays.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30444215

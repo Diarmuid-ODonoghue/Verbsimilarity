@@ -1,0 +1,3 @@
+To validate concurrent utility of within-scanner encoding and delayed recognition-memory paradigms to ascertain hippocampal activations during task-based memory fMRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29859335

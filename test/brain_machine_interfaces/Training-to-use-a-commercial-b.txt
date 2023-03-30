@@ -1,0 +1,3 @@
+This case study describes how an individual with spastic quadriplegic cerebral palsy was trained over a period of four weeks to use a commercial electroencephalography (EEG)-based brain-computer interface (BCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25270615

@@ -1,0 +1,3 @@
+A lightweight convolutional (deep) neural networks (CNNs) based modulation format identification (MFI) scheme in 2D Stokes planes for polarization domain multiplexing (PDM) fiber communication system is proposed and demonstrated. Influences of the learning rate of CNN is discussed. Experimental verifications are performed for the PDM system at a symbol rate of 28GBaud. Six modulation formats are identified with a trained CNN from images of received signals. They are PDM-BPSK, PDM-QPSK, PDM-8PSK, PDM-16QAM, PDM-32QAM, and PDM-64QAM. By taking advantage of computer vision, the results show that the proposed scheme can significantly improve the identification performance over the existing techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30184850

@@ -1,0 +1,3 @@
+Particle detection is a key procedure in particle field characterization with digital holography. Due to various background noises, spurious small particles might be generated and real small particles might be lost during particle detection. Therefore, accurate small particle detection remains a challenge in the research of energy and combustion. A deep learning method based on modified fully convolutional networks is proposed to detect small opaque particles (e.g., coal particles) on extended focus images. The model is tested by several experiments and proved to have good small particle detection accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31873518

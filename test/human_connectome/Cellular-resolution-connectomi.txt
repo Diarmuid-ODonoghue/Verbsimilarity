@@ -1,0 +1,3 @@
+Neuronal networks are high-dimensional graphs that are packed into three-dimensional nervous tissue at extremely high density. Comprehensively mapping these networks is therefore a major challenge. Although recent developments in volume electron microscopy imaging have made data acquisition feasible for circuits comprising a few hundreds to a few thousands of neurons, data analysis is massively lagging behind. The aim of this perspective is to summarize and quantify the challenges for data analysis in cellular-resolution connectomics and describe current solutions involving online crowd-sourcing and machine-learning approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23722209

@@ -1,0 +1,3 @@
+This work proposes principled strategies for self-adaptations in EEG-based Brain-computer interfaces (BCIs) as a way out of the bandwidth bottleneck resulting from the considerable mismatch between the low-bandwidth interface and the bandwidth-hungry application, and a way to enable fluent and intuitive interaction in embodiment systems. The main focus is laid upon inferring the hidden target goals of users while navigating in a remote environment as a basis for possible adaptations.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28294109

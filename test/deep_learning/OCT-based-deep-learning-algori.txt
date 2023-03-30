@@ -1,0 +1,3 @@
+Intravitreal injections with anti-vascular endothelial growth factor (anti-VEGF) medications have become the standard of care for their respective indications. Optical coherence tomography (OCT) scans of the central retina provide detailed anatomical data and are widely used by clinicians in the decision-making process of anti-VEGF indication. In recent years, significant progress has been made in artificial intelligence and computer vision research. We trained a deep convolutional artificial neural network to predict treatment indication based on central retinal OCT scans without human intervention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29127485

@@ -1,0 +1,3 @@
+This work describes a system for identifying event mentions in bio-molecular research abstracts that are either speculative (e.g. analysis of IkappaBalpha phosphorylation, where it is not specified whether phosphorylation did or did not occur) or negated (e.g. inhibition of IkappaBalpha phosphorylation, where phosphorylation did not occur). The data comes from a standard dataset created for the BioNLP 2009 Shared Task. The system uses a machine-learning approach, where the features used for classification are a combination of shallow features derived from the words of the sentences and more complex features based on the semantic outputs produced by a deep parser.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22595089

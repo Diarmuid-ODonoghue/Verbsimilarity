@@ -1,0 +1,3 @@
+The prediction of off-target mutations in CRISPR-Cas9 is a hot topic due to its relevance to gene editing research. Existing prediction methods have been developed; however, most of them just calculated scores based on mismatches to the guide sequence in CRISPR-Cas9. Therefore, the existing prediction methods are unable to scale and improve their performance with the rapid expansion of experimental data in CRISPR-Cas9. Moreover, the existing methods still cannot satisfy enough precision in off-target predictions for gene editing at the clinical level.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30423072

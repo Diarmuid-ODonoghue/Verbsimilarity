@@ -1,0 +1,3 @@
+We need to understand and quantify the dominant variables that govern the SARS-CoV-2 outbreak, rather than relying exclusively on confirmed cases and their geospatial spread.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32161107

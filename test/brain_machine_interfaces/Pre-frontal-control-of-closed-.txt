@@ -1,0 +1,3 @@
+There is great interest in closed-loop neurostimulators that sense and respond to a patient's brain state. Such systems may have value for neurological and psychiatric illnesses where symptoms have high intraday variability. Animal models of closed-loop stimulators would aid preclinical testing. We therefore sought to demonstrate that rodents can directly control a closed-loop limbic neurostimulator via a brain-computer interface (BCI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/24608127

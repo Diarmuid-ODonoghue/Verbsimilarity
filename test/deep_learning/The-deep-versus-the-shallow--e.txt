@@ -1,0 +1,3 @@
+This study concerned the role of gestures that accompany discourse in deep learning processes. We assumed that co-speech gestures favor the construction of a complete mental representation of the discourse content, and we tested the predictions that a discourse accompanied by gestures, as compared with a discourse not accompanied by gestures, should result in better recollection of conceptual information, a greater number of discourse-based inferences drawn from the information explicitly stated in the discourse, and poorer recognition of verbatim of the discourse. The results of three experiments confirmed these predictions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21635357

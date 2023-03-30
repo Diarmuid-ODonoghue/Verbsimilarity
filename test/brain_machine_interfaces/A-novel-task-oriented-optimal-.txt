@@ -1,0 +1,3 @@
+The number of items of a P300-based brain-computer interface (BCI) should be adjustable in accordance with the requirements of the specific tasks. To address this issue, we propose a novel task-oriented optimal approach aimed at increasing the performance of general P300 BCIs with different numbers of items.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25080373

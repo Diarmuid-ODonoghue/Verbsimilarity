@@ -1,0 +1,3 @@
+The authors used a decision tree classifier to reduce neuropsychological, behavioral and laboratory measures to a subset of measures that best predicted whether an individual with alcohol use disorder (AUD) seeks treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31388665

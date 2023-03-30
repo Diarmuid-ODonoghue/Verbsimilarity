@@ -1,0 +1,3 @@
+The early shortage of novel coronavirus disease (COVID-19) tests in the United States led many hospitals to first screen for common respiratory pathogens, and only if this screen was negative to proceed with COVID-19 testing. We report a case of a 56-year-old woman with severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) coinfection with group A Streptococcus. The initial testing strategy resulted in delays in both diagnosis and implementation of appropriate precautions. Underlined is the importance of testing for both SARS-CoV-2 and other common respiratory pathogens during the current pandemic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32314699

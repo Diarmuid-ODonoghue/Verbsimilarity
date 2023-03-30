@@ -1,0 +1,3 @@
+To assess the performance of a deep learning classifier for differentiation of glaucomatous optic neuropathy (GON) from compressive optic neuropathy (CON) based on ganglion cell-inner plexiform layer (GCIPL) and retinal nerve fibre layer (RNFL) spectral-domain optical coherence tomography (SD-OCT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32098860

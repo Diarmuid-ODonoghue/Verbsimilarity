@@ -1,0 +1,3 @@
+Classification of histologic subgroups has significant prognostic value for lung adenocarcinoma patients who undergo surgical resection. However, clinical histopathology assessment is generally performed on only a small portion of the overall tumor from biopsy or surgery. Our objective is to identify a noninvasive quantitative imaging biomarker (QIB) for the classification of histologic subgroups in lung adenocarcinoma patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32086583

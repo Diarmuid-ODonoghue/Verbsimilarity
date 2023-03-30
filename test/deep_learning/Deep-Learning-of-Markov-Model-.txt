@@ -1,0 +1,3 @@
+In this technical article, we are proposing ideas, that we have been developing on how machine learning and deep learning techniques can potentially assist obstetricians/gynecologists in better clinical decision-making, using infertile women in their treatment options in combination with mathematical modeling in pregnant women as examples.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31939200

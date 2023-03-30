@@ -1,0 +1,3 @@
+Brain machine interfaces (BMIs) have the potential to restore movement to people with paralysis. However, a clinically-viable BMI must enable consistently accurate control over time spans ranging from years to decades, which has not yet been demonstrated. Most BMIs that use single-unit spikes as inputs will experience degraded performance over time without frequent decoder re-training. Two other signals, local field potentials (LFPs) and multi-unit spikes (MSPs), may offer greater reliability over long periods and better performance stability than single-unit spikes. Here, we demonstrate that LFPs can be used in a biomimetic BMI to control a computer cursor.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23918061

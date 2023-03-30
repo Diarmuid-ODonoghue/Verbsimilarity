@@ -1,0 +1,3 @@
+Advances in technology are providing new forms of human-computer interaction. The current study examined one form of human-computer interaction, augmented reality (AR), whereby subjects train in the real-world workspace with virtual objects projected by the computer. Motor performances were compared with those obtained while subjects used a traditional human-computer interaction, that is, a personal computer (PC) with a mouse.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26138411

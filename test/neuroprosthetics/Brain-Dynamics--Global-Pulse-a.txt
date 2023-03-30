@@ -1,0 +1,3 @@
+A major challenge in systems-level neuroscience is to understand the dynamic formation and succession of brain states. A new study has extracted reproducible brain states from mouse resting-state fMRI data, revealing interactions between occurrences of these states and the phase of global signal fluctuations and alterations of the states in a mouse model of autism.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31336086

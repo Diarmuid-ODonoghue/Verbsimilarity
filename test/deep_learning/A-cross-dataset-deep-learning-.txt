@@ -1,0 +1,3 @@
+Fall detection is an important problem for vulnerable sectors of the population such as elderly people, who frequently live alone. Note that a fall can be very dangerous for them if they cannot ask for help. Hence, in those situations, an automatic system that detected and informed to emergency services about the fall and subject identity could help to save lives. This way, they would know not only when but also who to help. Thus, our objective is to develop a new approach, based on deep learning, for fall detection and people identification that can be used in different datasets without any fine-tuning of the model parameters.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31881399

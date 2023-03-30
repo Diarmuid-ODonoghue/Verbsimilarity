@@ -1,0 +1,3 @@
+Despite recent groundbreaking findings on the genetic causes of amyotrophic lateral sclerosis (ALS), and improvements on neuroimaging techniques for ALS diagnosis have been reported, the main clinical intervention in ALS remains palliative care. Brain-computer interfaces (BCIs) have been proposed as a channel of communication and control for ALS patients. The present metanalysis was performed to test the evidence of BCI effectiveness in ALS, and to investigate whether the promising aims emerged from the first studies have been reached.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25449558

@@ -1,0 +1,3 @@
+Virtual reality exposure therapy is slowly becoming a viable option for therapists. For virtual reality systems to be used in the daily practice of therapists, their usability needs to be taken into consideration. This paper describes the current state-of-the-art in interfaces for these systems, and describes several proposals for improving the design of these systems. An exploratory evaluation is performed to assess the merits of aspects of the proposed user interface.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458134

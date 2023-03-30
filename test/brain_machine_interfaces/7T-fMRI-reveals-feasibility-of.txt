@@ -1,0 +1,3 @@
+There is a growing interest in brain-computer interfaces (BCI) based on invasive technologies. fMRI is exceptionally suited for selecting implant sites since BOLD signals has been shown to correlate well spatially with electric potentials recorded from the brain surface. Previous studies show that it is possible to decode covertly directed visuospatial attention using fMRI. In the present study we increase the relevance of the fMRI analysis for surface-electrodes by only allowing voxels at the surface of the brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23773675

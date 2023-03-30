@@ -1,0 +1,3 @@
+Correct knowledge of the effective connectivity at the synaptic level in humans is a key prerequisite for increasing our understanding of the operation of the human central nervous system. Unfortunately, none of the current ambitious collaborative neuroscience projects pay enough attention to this topic and are thus unable to completely relate the microlevel properties of the system to its emergent macrolevel behaviors. In this review article, the problem of effective connectivity at the synaptic level in humans is explained, existing and possible computational approaches to fill explanatory gaps are reviewed, and the requisite characteristics of these approaches are considered.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25128317

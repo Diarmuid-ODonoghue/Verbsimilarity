@@ -1,0 +1,3 @@
+This work promotes the use of computer-generated imagery -as visual illusions- to speed up motor learning in rehabilitation. In support of this, we adhere the principles of experience-dependent neuroplasticity and the positive impact of virtual reality (VR) thereof. Specifically, post-stroke patients will undergo motor therapy with a surrogate virtual limb that fakes the paralyzed limb. Along these lines, their motor intentions will match the visual evidence, which fosters physiological, functional and structural changes over time, for recovery of lost function in an injured brain. How we make up such an illusion using computer graphics, is central to this paper.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27046556

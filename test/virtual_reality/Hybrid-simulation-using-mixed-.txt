@@ -1,0 +1,3 @@
+Ultrasound (US) imaging offers advantages over other imaging modalities and has become the most widespread modality for many diagnostic and interventional procedures. However, traditional 2D US requires a long training period, especially to learn how to manipulate the probe. A hybrid interactive system based on mixed reality was designed, implemented and tested for hand-eye coordination training in diagnostic and interventional US.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25213270

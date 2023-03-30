@@ -1,0 +1,3 @@
+The authors sought to identify a brain-based predictor of cocaine abstinence by using connectome-based predictive modeling (CPM), a recently developed machine learning approach. CPM is a predictive tool and a method of identifying networks that underlie specific behaviors ("neural fingerprints").
+
+https://www.ncbi.nlm.nih.gov/pubmed/30606049

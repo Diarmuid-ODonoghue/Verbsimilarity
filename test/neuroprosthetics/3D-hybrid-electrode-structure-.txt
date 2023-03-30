@@ -1,0 +1,3 @@
+Implantable interfaces are essential components of vestibular neural prostheses. They interface the biological system with electrical stimulation that is used to restore transfer of vestibular information. Regarding the anatomical situation special 3D structures are required. In this paper, the design and the manufacturing process of a novel 3D hybrid microelectrode structure as interface to the human vestibular system are described. Photolithography techniques, assembling technology and rapid prototyping are used for manufacturing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22254499

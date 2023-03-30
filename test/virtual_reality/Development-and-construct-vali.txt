@@ -1,0 +1,3 @@
+The first aim of this study was the development of performance metrics in a virtual reality simulation for interventional procedure in a real case of multivessel coronary disease. A second aim was to assess the construct validity of these metrics by comparing the performance of interventional cardiologists with different levels of experience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19755243

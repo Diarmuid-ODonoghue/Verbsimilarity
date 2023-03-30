@@ -1,0 +1,3 @@
+We investigated whether visual augmentation (3D, real-time, color visualization) of a procedural simulator improved performance during training in the supraclavicular approach to the subclavian vein, not as widely known or used as its infraclavicular counterpart.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29200069

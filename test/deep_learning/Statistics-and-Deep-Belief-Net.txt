@@ -1,0 +1,3 @@
+Cardiovascular predictions are related to patients' quality of life and health. Therefore, a risk prediction model for cardiovascular conditions is needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28875051

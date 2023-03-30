@@ -1,0 +1,3 @@
+Major depressive disorder (MDD) is one of the most prevalent and debilitating psychiatric disorders. Cognitive complaints are commonly reported in MDD and cognitive impairment is a criterion item for MDD diagnosis. As cognitive processes are increasingly understood as the consequences of distributed interactions between brain regions, a network-based approach may provide novel information about the neurobiological basis of cognitive deficits in MDD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30594024

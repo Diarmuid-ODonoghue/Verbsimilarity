@@ -1,0 +1,3 @@
+Emergency admissions are a major source of healthcare spending. We aimed to derive, validate, and compare conventional and machine learning models for prediction of the first emergency admission. Machine learning methods are capable of capturing complex interactions that are likely to be present when predicting less specific outcomes, such as this one.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30458006

@@ -1,0 +1,3 @@
+The aim of the study was to extract anthropometric measures from CT by deep learning and to evaluate their prognostic value in patients with non-small-cell lung cancer (NSCLC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32055950

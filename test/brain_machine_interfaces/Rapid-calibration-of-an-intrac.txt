@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) can enable individuals with tetraplegia to communicate and control external devices. Though much progress has been made in improving the speed and robustness of neural control provided by intracortical BCIs, little research has been devoted to minimizing the amount of time spent on decoder calibration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29363625

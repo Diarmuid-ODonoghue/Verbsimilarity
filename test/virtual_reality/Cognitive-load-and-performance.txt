@@ -1,0 +1,3 @@
+Virtual reality simulators combined with head-mounted displays enable highly immersive virtual reality (VR) for surgical skills training, potentially bridging the gap between the simulation environment and real-life operating room conditions. However, the increased complexity of the learning situation in immersive VR could potentially induce high cognitive load thereby inhibiting performance and learning. This study aims to compare cognitive load and performance in immersive VR and conventional VR simulation training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31172325

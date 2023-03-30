@@ -1,0 +1,3 @@
+Although the detection of SARS-CoV-2 viral load in respiratory specimens has been widely used to diagnose coronavirus disease-19 (COVID-19), it is undeniable that serum SARS-CoV-2 nucleic acid (RNAaemia) could be detected in a fraction of COVID-19 patients. However, it is not clear whether testing for RNAaemia is correlated with the occurrence of cytokine storms or with the specific class of patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32301997

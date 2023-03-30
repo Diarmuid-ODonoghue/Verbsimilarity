@@ -1,0 +1,3 @@
+Deep learning has made spectacular achievements in analysing natural images, but it faces challenges for medical applications partly due to inadequate images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31227682

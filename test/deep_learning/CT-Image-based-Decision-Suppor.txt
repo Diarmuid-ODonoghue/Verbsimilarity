@@ -1,0 +1,3 @@
+This study aimed to provide decision support for the human expert, to categorize liver metastases into their primary cancer sites. Currently, once a liver metastasis is detected, the process of finding the primary site is challenging, time-consuming, and requires multiple examinations. The proposed system can support the human expert in localizing the search for the cancer source by prioritizing the examinations to probable cancer sites.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28778512

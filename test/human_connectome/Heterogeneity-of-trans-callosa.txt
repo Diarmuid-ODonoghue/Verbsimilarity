@@ -1,0 +1,3 @@
+The corpus callosum (CC) is the primary structure supporting interhemispheric connectivity in the brain. Partial or complete surgical callosotomy may be performed for the palliation of intractable epilepsy. A variety of disconnection syndromes are recognised after injury to or division of the CC however their mechanisms are poorly understood and their occurrence difficult to predict. We use novel high resolution structural connectivity analyses to demonstrate reasons for this poor predictability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27547729

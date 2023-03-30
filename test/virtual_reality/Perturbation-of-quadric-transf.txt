@@ -1,0 +1,3 @@
+Non-planar screens are increasingly used in mobile projectors and virtual reality environments. When the screen is modeled as a second order polynomial, a quadric transfer method can be employed to compensate for image distortion. This method uses the quadric matrix that models 3D surface information of a quadric screen. However, if the shape of the screen changes or the screen is moved, the 3D shape of the screen must be measured again to update the quadric matrix. We propose a new method of compensating for image distortion resulting from variation of the quadric screen. The proposed method is simpler and faster than remeasuring the 3D screen matrix.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21934986

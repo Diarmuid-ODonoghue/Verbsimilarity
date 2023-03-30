@@ -1,0 +1,3 @@
+Increased computational power and improved visualization hardware have generated more opportunities for virtual reality (VR) applications in healthcare. In this study, we test the feasibility of a VR-assisted surgical navigation system for robotic-assisted radical prostatectomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31509508

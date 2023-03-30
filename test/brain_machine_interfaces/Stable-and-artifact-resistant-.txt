@@ -1,0 +1,3 @@
+The key criterion for reliability of brain-computer interface (BCI) devices is their stability and robustness in natural environments in the presence of spurious signals and artifacts.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25341256

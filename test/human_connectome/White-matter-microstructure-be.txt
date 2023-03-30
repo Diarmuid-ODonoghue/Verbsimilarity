@@ -1,0 +1,3 @@
+Response conflict involves selectively attending to relevant information and suppressing distracting, irrelevant information. The medial frontal cortex (MFC) is considered to be involved in response conflict. However, it remains unclear which white matter connectivity is associated with response conflict. This study aimed to delineate the neural connectivity of response conflict in healthy subjects and investigate the association between white matter microstructure and performance of a response conflict task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26516610

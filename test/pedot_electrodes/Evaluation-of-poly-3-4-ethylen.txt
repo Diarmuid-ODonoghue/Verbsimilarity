@@ -1,0 +1,3 @@
+The dorsal root ganglion is an attractive target for implanting neural electrode arrays that restore sensory function or provide therapy via stimulation. However, penetrating microelectrodes designed for these applications are small and deliver low currents. For long-term performance of microstimulation devices, novel coating materials are needed in part to decrease impedance values at the electrode-tissue interface and to increase charge storage capacity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25485675

@@ -1,0 +1,3 @@
+Three-dimensional (3D) photogrammetry is a method of image-based modeling in which data points in digital images, taken from offset viewpoints, are analyzed to generate a 3D model. This modeling technique has been widely used in the context of geomorphology and artificial imagery, but has yet to be used within the realm of anatomic pathology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29846102

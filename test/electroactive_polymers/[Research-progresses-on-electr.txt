@@ -1,0 +1,3 @@
+Electroactive and/or electrically conductive polymers have shown potential applications in the culture of excitable cells and as the electroactive scaffolds for neuronal or cardiac tissue engineering. The biocompatibility of the conductive polymer can be improved by covalently grafting or blending with oligo- or polypeptides. The new progresses in this area on two types of conductive polymers, polypyrrole and polyaniline (PANi) are reviewed in this paper. The studies of oligopeptide-modified PANi and electrospun PANi/gelatin nanofibers are highlighted.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17260480

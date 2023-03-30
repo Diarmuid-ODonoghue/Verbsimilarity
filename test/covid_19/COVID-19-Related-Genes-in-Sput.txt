@@ -1,0 +1,3 @@
+Coronavirus disease 2019 (COVID-19) is caused by SARS-coronavirus 2 (SARS-CoV-2). Angiotensin converting enzyme 2 (ACE2) and transmembrane protease serine 2 (TMPRSS2) mediate viral infection of host cells. We reasoned that differences in ACE2 or TMPRSS2 gene expression in sputum cells among asthma patients may identify subgroups at risk for COVID19 morbidity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348692

@@ -1,0 +1,3 @@
+De novo drug design aims to generate novel chemical compounds with desirable chemical and pharmacological properties from scratch using computer-based methods. Recently, deep generative neural networks have become a very active research frontier in de novo drug discovery, both in theoretical and in experimental evidence, shedding light on a promising new direction of automatic molecular generation and optimization. In this review, we discussed recent development of deep learning models for molecular generation and summarized them as four different generative architectures with four different optimization strategies. We also discussed future directions of deep generative models for de novo drug design.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30698019

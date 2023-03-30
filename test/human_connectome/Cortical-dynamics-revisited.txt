@@ -1,0 +1,3 @@
+Recent discoveries on the organisation of the cortical connectome together with novel data on the dynamics of neuronal interactions require an extension of classical concepts on information processing in the cerebral cortex. These new insights justify considering the brain as a complex, self-organised system with nonlinear dynamics in which principles of distributed, parallel processing coexist with serial operations within highly interconnected networks. The observed dynamics suggest that cortical networks are capable of providing an extremely high-dimensional state space in which a large amount of evolutionary and ontogenetically acquired information can coexist and be accessible to rapid parallel search.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24139950

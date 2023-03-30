@@ -1,0 +1,3 @@
+A diagnostic need often arises to estimate bone age from X-ray images of the hand of a subject during the growth period. Together with measured physical height, such information may be used as indicators for the height growth prognosis of the subject. We present a way to apply the deep learning technique to medical image analysis using hand bone age estimation as an example.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29503757

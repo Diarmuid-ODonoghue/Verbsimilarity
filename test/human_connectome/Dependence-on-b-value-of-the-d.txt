@@ -1,0 +1,3 @@
+The dependence of the direction-averaged diffusion-weighted imaging (DWI) signal in brain was studied as a function of b-value in order to help elucidate the relationship between diffusion weighting and brain microstructure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27989904

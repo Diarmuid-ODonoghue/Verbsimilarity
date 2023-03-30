@@ -1,0 +1,3 @@
+A brain-computer interface (BCI) equips humans with the ability to control computers and technical devices mentally. However, the enormous data and the existing irrelevant features of the electrocorticogram signal limit the performance of the classifier. To address these problems, a novel signal processing framework for a binary motor imagery-based BCI system (MI-BCI) is proposed in this paper.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30101753

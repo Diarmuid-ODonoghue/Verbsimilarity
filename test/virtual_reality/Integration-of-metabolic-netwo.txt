@@ -1,0 +1,3 @@
+Metabolic networks combine metabolism and regulation. These complex networks are difficult to understand and visualize due to the amount and diverse types of information that need to be represented. For example, pathway information gives indications of interactions. Experimental data, such as transcriptomics, proteomics and metabolomics data, give snapshots of the system state. Stereoscopic virtual environments provide a true three-dimensional representation of metabolic networks, which can be intuitively manipulated, and may help to manage the data complexity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16020466

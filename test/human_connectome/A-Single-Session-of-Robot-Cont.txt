@@ -1,0 +1,3 @@
+Passive robot-generated arm movements in conjunction with proprioceptive decision making and feedback modulate functional connectivity (FC) in sensory motor networks and improve sensorimotor adaptation in normal individuals. This proof-of-principle study investigates whether these effects can be observed in stroke patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30595082

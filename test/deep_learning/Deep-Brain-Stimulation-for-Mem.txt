@@ -1,0 +1,3 @@
+In the coming years the number of patients with cognitive disorders, such as Alzheimer disease and traumatic brain injury, is expected to dramatically increase, leading to an ever-increasing societal cost. Unfortunately, few medical and pharmacologic treatments have shown tangible benefit in the treatment of these diseases. Deep brain stimulation (DBS) is an established surgical technique to address multiple conditions, including Parkinson disease and essential tremor. Data from patients being treated with DBS, as well as those being monitored for seizures with depth electrodes, have suggested improvement in memory with electrical neuromodulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30654156

@@ -1,0 +1,3 @@
+The advent of Virtual Reality technologies presents new opportunities for enhancing current surgical practice. Studies suggest that current techniques in endoscopic surgery are prone to disturbance of a surgeon's visual-motor axis, influencing performance, ergonomics and iatrogenic injury rates. The Microsoft® HoloLens is a novel head-mounted display that has not been explored within surgical innovation research. This study aims to evaluate the HoloLens as a potential alternative to conventional monitors in endoscopic surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31214807

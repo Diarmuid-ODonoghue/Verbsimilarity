@@ -1,0 +1,3 @@
+Epigenetic modification has an effect on gene expression under the environmental alteration, but it does not change corresponding genome sequence. DNA methylation (DNAm) is one of the important epigenetic mechanisms. DNAm variations could be used as epigenetic markers to predict and account for the change of many human phenotypic traits, such as cancer, diabetes, and high blood pressure. In this study, we built deep neural network (DNN) regression models to account for interindividual variation in triglyceride concentrations measured at different visits of peripheral blood samples using epigenome-wide DNAm profiles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30263040

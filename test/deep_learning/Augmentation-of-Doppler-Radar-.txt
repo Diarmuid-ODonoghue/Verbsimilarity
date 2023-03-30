@@ -1,0 +1,3 @@
+Human motion analysis can be applied to the diagnosis of musculoskeletal diseases, rehabilitation therapies, fall detection, and estimation of energy expenditure. To analyze human motion with micro-Doppler signatures measured by radar, a deep learning algorithm is one of the most effective approaches. Because deep learning requires a large data set, the high cost involved in measuring large amounts of human data is an intrinsic problem. The objective of this study is to augment human motion micro-Doppler data employing generative adversarial networks (GANs) to improve the accuracy of human motion classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31777679

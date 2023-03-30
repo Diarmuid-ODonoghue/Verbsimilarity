@@ -1,0 +1,3 @@
+Evidence that artificial intelligence (AI) is useful for predicting risk factors for hypertension and its management is emerging. However, we are far from harnessing the innovative AI tools to predict these risk factors for hypertension and applying them to personalized management. This review summarizes recent advances in the computer science and medical field, illustrating the innovative AI approach for potential prediction of early stages of hypertension. Additionally, we review ongoing research and future implications of AI in hypertension management and clinical trials, with an eye towards personalized medicine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29980865

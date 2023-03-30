@@ -1,0 +1,3 @@
+Deep learning (DL), a class of approaches involving self-learned discriminative features, is increasingly being applied to digital pathology (DP) images for tasks such as disease identification and segmentation of tissue primitives (eg, nuclei, glands, lymphocytes). One application of DP is in telepathology, which involves digitally transmitting DP slides over the Internet for secondary diagnosis by an expert at a remote location. Unfortunately, the places benefiting most from telepathology often have poor Internet quality, resulting in prohibitive transmission times of DP images. Image compression may help, but the degree to which image compression affects performance of DL algorithms has been largely unexplored.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32155093

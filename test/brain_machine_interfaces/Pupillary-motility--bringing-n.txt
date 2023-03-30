@@ -1,0 +1,3 @@
+Modern pupillometry has expanded the study and utility of pupil responses in many new domains, including psychiatry, particularly for understanding aspects of cognitive and emotional information processing. Here, we review the applications of pupillometry in psychiatry for understanding patients' information processing styles, predicting treatment, and augmenting function. In the past year pupillometry has been shown to be useful in specifying cognitive/affective occurrences during experimental tasks and informing clinical diagnoses. Such studies demonstrate the potential of pupillary motility to be used in clinical psychiatry much as it has been in neurology for the past century.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23780801

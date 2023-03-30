@@ -1,0 +1,3 @@
+Considering the importance and the near-future development of noninvasive brain-machine interface (BMI) systems, this paper presents a comprehensive theoretical-experimental survey on the classification and evolutionary methods for BMI-based systems in which EEG signals are used.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28718779

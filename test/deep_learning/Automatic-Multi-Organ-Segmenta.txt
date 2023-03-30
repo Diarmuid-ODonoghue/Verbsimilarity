@@ -1,0 +1,3 @@
+Dual-energy computed tomography (DECT) has shown great potential in many clinical applications. By incorporating the information from two different energy spectra, DECT provides higher contrast and reveals more material differences of tissues compared to conventional single-energy CT (SECT). Recent research shows that automatic multi-organ segmentation of DECT data can improve DECT clinical applications. However, most segmentation methods are designed for SECT, while DECT has been significantly less pronounced in research. Therefore, a novel approach is required that is able to take full advantage of the extra information provided by DECT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31816095

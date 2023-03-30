@@ -1,0 +1,3 @@
+The latest generation of virtual and mixed reality hardware has rekindled interest in virtual reality GIS (VRGIS) and augmented reality GIS (ARGIS) applications in health, and opened up new and exciting opportunities and possibilities for using these technologies in the personal and public health arenas. From smart urban planning and emergency training to Pokémon Go, this article offers a snapshot of some of the most remarkable VRGIS and ARGIS solutions for tackling public and environmental health problems, and bringing about safer and healthier living options to individuals and communities. The article also covers the main technical foundations and issues underpinning these solutions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28219378

@@ -1,0 +1,3 @@
+Natural Orifice Transluminal Endoscopic Surgery (NOTES) provides an emerging surgical technique which usually needs a long learning curve for surgeons. Virtual reality (VR) medical simulators with vision and haptic feedback can usually offer an efficient and cost-effective alternative without risk to the traditional training approaches. Under this motivation, we developed the first virtual reality simulator for transvaginal cholecystectomy in NOTES (VTEST™).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26980236

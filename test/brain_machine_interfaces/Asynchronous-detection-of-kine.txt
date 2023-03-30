@@ -1,0 +1,3 @@
+Attention is known to modulate the plasticity of the motor cortex, and plasticity is crucial for recovery in motor rehabilitation. This study addresses the possibility of using an EEG-based brain-computer interface (BCI) to detect kinesthetic attention to movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26735705

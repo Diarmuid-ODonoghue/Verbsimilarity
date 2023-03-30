@@ -1,0 +1,3 @@
+Contemporary clinical assessment of vocal fold adduction and abduction is qualitative and subjective. Herein is described a novel computer vision tool for automated quantitative tracking of vocal fold motion from videolaryngoscopy. The potential of this software as a diagnostic aid in unilateral vocal fold paralysis is demonstrated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32356903

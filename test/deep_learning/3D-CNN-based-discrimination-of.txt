@@ -1,0 +1,3 @@
+This study reports a framework to discriminate patients with schizophrenia and normal healthy control subjects, based on magnetic resonance imaging (MRI) of the brain. Resting-state functional MRI data from a total of 144 subjects (72 patients with schizophrenia and 72 healthy controls) was obtained from a publicly available dataset using a three-dimensional convolution neural network 3D-CNN based deep learning classification framework and ICA based features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31521248

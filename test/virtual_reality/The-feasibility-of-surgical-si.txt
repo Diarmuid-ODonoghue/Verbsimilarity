@@ -1,0 +1,3 @@
+The purpose of this work was to evaluate the feasibility of tagging (highlighting) surgical sites using volumetric CT virtual reality of the paranasal sinuses in the planning for endoscopic sinus surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10433279

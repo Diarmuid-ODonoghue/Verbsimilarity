@@ -1,0 +1,3 @@
+In this chapter a detailed description of the fabrication and testing of an aptasensor for influenza A virus detection is given. The sensor chip is an all-polymer chip fabricated with screen-printed poly(3,4-ethylenedioxythiophene) polystyrene sulfonate (PEDOT:PSS) electrodes. Chip substrates are made by CO2 laser cutting of Poly(methyl methacrylate) (PMMA) sheets. Influenza A virus specific aptamers are immobilized onto the electrodes by UV cross-linking. Impedance based measurements at a single frequency, measured over time, are used to detect the virus in a buffer solution.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28299681

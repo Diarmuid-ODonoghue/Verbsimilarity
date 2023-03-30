@@ -1,0 +1,3 @@
+In precision medicine, next-generation sequencing and novel preclinical reports have led to an increasingly large amount of results, published in the scientific literature. However, identifying novel treatments or predicting a drug response in, for example, cancer patients, from the huge amount of papers available remains a laborious and challenging work. This task can be considered a text mining problem that requires reading a lot of academic documents for identifying a small set of papers describing specific relations between key terms. Due to the infeasibility of the manual curation of these relations, computational methods that can automatically identify them from the available literature are urgently needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32091584

@@ -1,0 +1,3 @@
+Stress management is related to public healthcare and quality of life; an accurate stress classification method is necessary for the design of stress monitoring systems. Therefore, the goal of this study was to design a novel stress classification model using a deep learning method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29181238

@@ -1,0 +1,3 @@
+Sparse-view CT has the advantages of accelerated data collection and reduced radiation dose, but data missing arising from the data collection process causes serious streaking artifact and noise in the images reconstructed using the traditional filtering back projection algorithm (FBP). To solve this problem, we propose a multi-scale wavelet residual network (MWResNet) to restore sparse-view CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31852651

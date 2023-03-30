@@ -1,0 +1,3 @@
+Determine if ipsilesional primary motor cortex (M1) in stroke patients processes online visuomotor discordance in gain between finger movement and observed feedback in virtual reality (VR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/22672345

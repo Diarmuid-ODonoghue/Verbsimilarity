@@ -1,0 +1,3 @@
+To develop a software for virtual reality (VR) simulation of X-ray images based on perspective projections through a patient model derived from data from a CT examination and to evaluate the accuracy in the projection geometry obtained by the software.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15140822

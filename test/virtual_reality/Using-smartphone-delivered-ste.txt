@@ -1,0 +1,3 @@
+Many surgical specialties are increasingly looking towards robot-assisted surgeries to improve patient outcome. Surgeons conducting robot-assisted operations require real-time surgical view. Ophthalmic robots can lead to novel vitreoretinal treatments, such as cannulating retinal vessels or even gene delivery to targeted retinal cells. This study investigates the feasibility of smartphone-delivered stereoscopic vision for microsurgical use.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30755728

@@ -1,0 +1,3 @@
+Increased spatial QRS-T angle has been shown to predict appropriate implantable cardioverter defibrilIator (ICD) therapy in patients with left ventricular systolic dysfunction (LVSD). We performed a retrospective cohort study in patients with left ventricular ejection fraction (LVEF) 31-40% to assess the relationship between the spatial QRS-T angle and other advanced ECG (A-ECG) as well as echocardiographic metadata, with all-cause mortality or ICD implantation for secondary prevention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28358801

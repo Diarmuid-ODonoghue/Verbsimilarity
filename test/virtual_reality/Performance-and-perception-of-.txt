@@ -1,0 +1,3 @@
+The benefit of haptic feedback in laparoscopic virtual reality simulators (VRS) is ambiguous. A previous study found 32% faster acquisition of skills with the combination of 3 D and haptic feedback compared to 2 D only. This study aimed to validate perception and effect on performance of haptic feedback by experienced surgeons in the previously tested VRS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30663462

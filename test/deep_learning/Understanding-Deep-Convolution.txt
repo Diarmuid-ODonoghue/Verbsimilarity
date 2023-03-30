@@ -1,0 +1,3 @@
+Deep convolutional networks provide state-of-the-art classifications and regressions results over many high-dimensional problems. We review their architecture, which scatters data with a cascade of linear filter weights and nonlinearities. A mathematical framework is introduced to analyse their properties. Computations of invariants involve multiscale contractions with wavelets, the linearization of hierarchical symmetries and sparse separations. Applications are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26953183

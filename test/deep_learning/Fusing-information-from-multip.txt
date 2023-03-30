@@ -1,0 +1,3 @@
+For many years, deep convolutional neural networks have achieved state-of-the-art results on a wide variety of computer vision tasks. 3D human pose estimation makes no exception and results on public benchmarks are impressive. However, specialized domains, such as operating rooms, pose additional challenges. Clinical settings include severe occlusions, clutter and difficult lighting conditions. Privacy concerns of patients and staff make it necessary to use unidentifiable data. In this work, we aim to bring robust human pose estimation to the clinical domain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31388959

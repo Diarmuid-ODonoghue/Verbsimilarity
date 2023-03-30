@@ -1,0 +1,3 @@
+Two experiments are reported on virtual reality illusion in free-flying honeybees. In the first experiment, subjects are trained on a simultaneous discrimination between two colored targets, one of which contains a sucrose reward. The ability to be influenced by a virtual reality illusion was assessed during an extinction test in which the training stimuli were a mirage of those used during acquisition. The results indicate that the bees consistently attempt to land on the previously rewarded color despite the fact that it is not there. In a second experiment, bees were unable to discriminate between two simultaneously presented, identically colored targets--one of which was real, the other a mirage.
+
+https://www.ncbi.nlm.nih.gov/pubmed/8848488

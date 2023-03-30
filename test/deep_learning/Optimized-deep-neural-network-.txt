@@ -1,0 +1,3 @@
+Automatic detection of epileptic seizures based on deep learning methods received much attention last year. However, the potential of deep neural networks in seizure detection has not been fully exploited in terms of the optimal design of the model architecture and the detection power of the time-series brain data. In this work, a deep neural network architecture is introduced to learn the temporal dependencies in Electroencephalogram (EEG) data for robust detection of epileptic seizures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30472579

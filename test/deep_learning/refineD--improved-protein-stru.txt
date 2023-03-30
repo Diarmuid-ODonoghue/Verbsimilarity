@@ -1,0 +1,3 @@
+Protein structure refinement aims to bring moderately accurate template-based protein models closer to the native state through conformational sampling. However, guiding the sampling towards the native state by effectively using restraints remains a major issue in structure refinement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30759180

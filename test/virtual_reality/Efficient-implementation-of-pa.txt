@@ -1,0 +1,3 @@
+Patient-specific simulated rehearsal (PsR) is a technological advance within the domain of endovascular virtual reality (VR) simulation. It allows incorporation of patient-specific computed tomography Digital Imaging and Communications in Medicine (CT DICOM) data into the simulation and subsequent rehearsal of real patient cases. This study aimed to evaluate whether a part-task rehearsal (PTr) of a carotid artery stenting procedure (CAS) on a VR simulator is as effective as a full-task (FTr) preoperative run through.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21612950

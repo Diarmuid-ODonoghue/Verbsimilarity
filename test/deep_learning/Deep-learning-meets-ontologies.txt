@@ -1,0 +1,3 @@
+Automatic identification of term variants or acceptable alternative free-text terms for gene and protein names from the millions of biomedical publications is a challenging task. Ontologies, such as the Cardiovascular Disease Ontology (CVDO), capture domain knowledge in a computational form and can provide context for gene/protein names as written in the literature. This study investigates: 1) if word embeddings from Deep Learning algorithms can provide a list of term variants for a given gene/protein of interest; and 2) if biological knowledge from the CVDO can improve such a list without modifying the word embeddings created.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29650041

@@ -1,0 +1,3 @@
+To validate the performance of a commercially available, CE-certified deep learning (DL) system, RetCAD v.1.3.0 (Thirona, Nijmegen, The Netherlands), for the joint automatic detection of diabetic retinopathy (DR) and age-related macular degeneration (AMD) in colour fundus (CF) images on a dataset with mixed presence of eye diseases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31773912

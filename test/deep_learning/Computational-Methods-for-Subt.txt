@@ -1,0 +1,3 @@
+With the rapid development of deep sequencing technologies, many programs are generating multi-platform genomic profiles (e.g., somatic mutation, DNA methylation, and gene expression) for a large number of tumors. This activity has provided unique opportunities and challenges to stratify tumors and decipher tumor heterogeneity. In this chapter, we summarize several computational methods to address the challenge of tumor stratification with different types of genomic data. We further introduce their applications in emerging large-scale genomic data to show their effectiveness in deciphering tumor heterogeneity and clinical relevance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30378077

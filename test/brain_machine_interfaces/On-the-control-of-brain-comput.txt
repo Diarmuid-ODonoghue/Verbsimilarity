@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) have been proposed as a potential assistive device for individuals with cerebral palsy (CP) to assist with their communication needs. However, it is unclear how well-suited BCIs are to individuals with CP. Therefore, this study aims to investigate to what extent these users are able to gain control of BCIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23684128

@@ -1,0 +1,3 @@
+We estimated that 45.4% of US adults are at increased risk for complications from coronavirus disease because of cardiovascular disease, diabetes, respiratory disease, hypertension, or cancer. Rates increased by age, from 19.8% for persons 18-29 years of age to 80.7% for persons >80 years of age, and varied by state, race/ethnicity, health insurance status, and employment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32324118

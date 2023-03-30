@@ -1,0 +1,3 @@
+A virtual reality system for the training of the lumbar puncture intervention is presented. We use a haptic device with six degrees of freedom (6DOF) to feedback forces that resist needle insertion and rotation. An improved haptic volume rendering approach is used to calculate the forces and an evaluation component has been developed to rate the success of virtual lumbar punctures to trace the training process of the user and to give feedback about failures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391268

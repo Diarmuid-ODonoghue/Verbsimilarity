@@ -1,0 +1,3 @@
+To develop an accurate and fast deformable image registration (DIR) method for four-dimensional computed tomography (4D-CT) lung images. Deep learning-based methods have the potential to quickly predict the deformation vector field (DVF) in a few forward predictions. We have developed an unsupervised deep learning method for 4D-CT lung DIR with excellent performances in terms of registration accuracies, robustness, and computational speed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32017141

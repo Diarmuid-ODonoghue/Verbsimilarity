@@ -1,0 +1,3 @@
+We summarize fundamental concepts and research supporting Virtual Scanning, a Russian system of health assessment and treatment, which uses computer modeling of brain function to analyze color cognition and so identify and evaluate specific influences from all parts of the nervous system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17388771

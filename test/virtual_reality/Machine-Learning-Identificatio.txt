@@ -1,0 +1,3 @@
+Despite advances in the assessment of technical skills in surgery, a clear understanding of the composites of technical expertise is lacking. Surgical simulation allows for the quantitation of psychomotor skills, generating data sets that can be analyzed using machine learning algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31373651

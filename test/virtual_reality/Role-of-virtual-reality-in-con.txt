@@ -1,0 +1,3 @@
+New platforms for patient imaging present opportunities for improved surgical planning in complex congenital heart disease (CHD). Virtual reality (VR) allows for interactive manipulation of high-resolution representations of patient-specific imaging data, as a supplement to traditional 2D visualizations and 3D printed heart models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29399969

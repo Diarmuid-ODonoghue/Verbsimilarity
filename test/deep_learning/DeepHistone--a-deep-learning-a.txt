@@ -1,0 +1,3 @@
+Quantitative detection of histone modifications has emerged in the recent years as a major means for understanding such biological processes as chromosome packaging, transcriptional activation, and DNA damage. However, high-throughput experimental techniques such as ChIP-seq are usually expensive and time-consuming, prohibiting the establishment of a histone modification landscape for hundreds of cell types across dozens of histone markers. These disadvantages have been appealing for computational methods to complement experimental approaches towards large-scale analysis of histone modifications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30967126

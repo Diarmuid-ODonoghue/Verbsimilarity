@@ -1,0 +1,3 @@
+Brain monitors tracking quantitative brain activities from electroencephalogram (EEG) to predict hypnotic levels have been proposed as a labor-saving alternative to behavioral assessments. Expensive clinical trials are required to validate any newly developed processed EEG monitor for every drug and combinations of drugs due to drug-specific EEG patterns. There is a need for an alternative, efficient, and economical method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32287128

@@ -1,0 +1,3 @@
+Automated virtual reality exposure therapies (VRETs) are self-help treatments conducted by oneself and supported by a virtual therapist embodied visually and/or with audio feedback. This simulates many of the nonspecific relational elements and common factors present in face-to-face therapy and may be a means of improving adherence to and efficacy of self-guided treatments. However, little is known about alliance toward the virtual therapist, despite alliance being an important predictor of treatment outcome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32207690

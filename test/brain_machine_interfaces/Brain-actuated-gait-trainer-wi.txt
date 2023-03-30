@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) have been proposed in closed-loop applications for neuromodulation and neurorehabilitation. This study describes the impact of different feedback modalities on the performance of an EEG-based BMI that decodes motor imagery (MI) of leg flexion and extension.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28696340

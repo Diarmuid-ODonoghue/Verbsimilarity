@@ -1,0 +1,3 @@
+Recent researches about games for post-stroke rehabilitation have been increasing, focusing in upper limb, lower limb and balance situations, and showing good experiences and results. With this in mind, this paper presents Motion Rehab AVE 3D, a serious game for post-stroke rehabilitation of patients with mild stroke. The aim is offer a new technology in order to assist the traditional therapy and motivate the patient to execute his/her rehabilitation program, under health professional supervision.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28946996

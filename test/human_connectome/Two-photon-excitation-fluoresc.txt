@@ -1,0 +1,3 @@
+Two-photon excitation fluorescence microscopy has become widely used in various life science fields in this decade. In the field of neuroscience in particular, in vivo two-photon microscopy has provided vital information on neural activity and brain function. In the current era of connectomics, visualization of the morphology and activity of numerous neurons in ever larger regions of the living brain are required within short periods. Based on this viewpoint, we discuss the fundamentals, advantages and potential of two-photon excitation fluorescence microscopy for the investigation of neural circuit functions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25540030

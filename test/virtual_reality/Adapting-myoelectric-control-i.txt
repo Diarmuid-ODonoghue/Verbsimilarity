@@ -1,0 +1,3 @@
+Pattern recognition technology allows for more intuitive control of myoelectric prostheses. However, the need to collect electromyographic data to initially train the pattern recognition system, and to re-train it during prosthesis use, adds complexity that can make using such a system difficult. Although experienced clinicians may be able to guide users to ensure successful data collection methods, they may not always be available when a user needs to (re)train their device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30651109

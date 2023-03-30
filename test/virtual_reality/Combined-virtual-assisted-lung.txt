@@ -1,0 +1,3 @@
+Virtual assisted lung mapping (VAL-MAP) is a bronchoscopic lung marking technique developed to assist in navigational lung resection. It can be used for nodule localization and segmental identification. This article presents our initial experience of thoracoscopic pulmonary segmentectomy using combined VAL-MAP and computed tomography (CT)-guided localization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30037641

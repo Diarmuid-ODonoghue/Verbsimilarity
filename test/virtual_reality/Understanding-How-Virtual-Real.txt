@@ -1,0 +1,3 @@
+Regular mindfulness practice has been demonstrated to be beneficial for mental health, but mindfulness can be challenging to adopt, with environmental and personal distractors often cited as challenges. Virtual reality (VR) may address these challenges by providing an immersive environment for practicing mindfulness and by supporting the user to orient attention to the present moment within a tailored virtual setting. However, there is currently a limited understanding of the ways in which VR can support or hinder mindfulness practice. Such an understanding is required to design effective VR apps while ensuring that VR-supported mindfulness is acceptable to end users.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32186519

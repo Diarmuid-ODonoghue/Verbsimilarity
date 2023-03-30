@@ -1,0 +1,3 @@
+The benefit of deep brain stimulation (DBS) for Parkinson disease (PD) may depend on connectivity between the stimulation site and other brain regions, but which regions and whether connectivity can predict outcome in patients remain unknown. Here, we identify the structural and functional connectivity profile of effective DBS to the subthalamic nucleus (STN) and test its ability to predict outcome in an independent cohort.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28586141

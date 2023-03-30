@@ -1,0 +1,3 @@
+Learning deep representations of clinical events based on their distributions in electronic health records has been shown to allow for subsequent training of higher-performing predictive models compared to the use of shallow, count-based representations. The predictive performance may be further improved by utilizing multiple representations of the same events, which can be obtained by, for instance, manipulating the representation learning procedure. The question, however, remains how to make best use of a set of diverse representations of clinical events - modeled in an ensemble of semantic spaces - for the purpose of predictive modeling.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27459846

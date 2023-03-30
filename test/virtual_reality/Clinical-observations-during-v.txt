@@ -1,0 +1,3 @@
+Virtual environments offer a new method of providing exposure therapy to patients with specific phobias. Although the stimuli (three-dimensional computer simulations) is new, the method of systematically desensitizing the patient to phobic stimuli until habituation occurs is a concept that was formally introduced by Joseph Wolpe over 40 years ago. Our article discusses some of the clinical observations that have been made during nearly 500 virtual reality exposure therapy sessions with patients and research participants who have come to our center in the past 15 months with a fear of flying or driving.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19178253

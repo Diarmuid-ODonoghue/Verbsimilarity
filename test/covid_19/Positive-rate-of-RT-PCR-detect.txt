@@ -1,0 +1,3 @@
+There's an outbreak of a novel coronavirus (SARS-CoV-2) infection since December 2019, first in China, and currently with more than 80 thousand confirmed infection globally in 29 countries till March 2, 2020. Identification, isolation and caring for patients early are essential to limit human-to-human transmission including reducing secondary infections among close contacts and health care workers, preventing transmission amplification events. The RT-PCR detection of viral nucleic acid test (NAT) was one of the most quickly established laboratory diagnosis method in a novel viral pandemic, just as in this COVID-19 outbreak.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32156607

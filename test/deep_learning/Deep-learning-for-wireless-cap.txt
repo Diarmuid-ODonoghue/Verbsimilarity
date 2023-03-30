@@ -1,0 +1,3 @@
+Deep learning is an innovative algorithm based on neural networks. Wireless capsule endoscopy (WCE) is considered the criterion standard for detecting small-bowel diseases. Manual examination of WCE is time consuming and can benefit from automatic detection using artificial intelligence (AI). We aimed to perform a systematic review of current literature pertaining to deep learning implementation in WCE.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32334015

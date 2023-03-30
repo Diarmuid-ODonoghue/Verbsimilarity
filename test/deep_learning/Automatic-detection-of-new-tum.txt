@@ -1,0 +1,3 @@
+Radiological longitudinal follow-up of liver tumors in CT scans is the standard of care for disease progression assessment and for liver tumor therapy. Finding new tumors in the follow-up scan is essential to determine malignancy, to evaluate the total tumor burden, and to determine treatment efficacy. Since new tumors are typically small, they may be missed by examining radiologists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28856515

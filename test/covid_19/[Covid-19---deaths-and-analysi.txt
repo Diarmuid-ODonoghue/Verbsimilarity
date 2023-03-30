@@ -1,0 +1,3 @@
+Mortality from Covid-19 is monitored in detail and compared between countries with different strategies against the virus. There is, however, often a lack of understanding of what is required in terms of measures and interpretation to enable correct comparisons. The number of deaths from Covid-19 is affected by the testing strategy and many other things that differ between countries. Therefore, today, the most reliable source for monitoring and comparing mortality from Covid-19 is total mortality. In Sweden, there is good correspondence of Covid-19 deaths and total mortality, with a tendency to a higher total mortality indicating some under-reporting of Covid-19 mortality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32365212

@@ -1,0 +1,3 @@
+Sleep spindles have been implicated in memory consolidation and synaptic plasticity during NREM sleep. Detection accuracy and latency in automatic spindle detection are critical for real-time applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30790769

@@ -1,0 +1,3 @@
+Cardiovascular magnetic resonance (CMR) myocardial native T1 mapping allows assessment of interstitial diffuse fibrosis. In this technique, the global and regional T1 are measured manually by drawing region of interest in motion-corrected T1 maps. The manual analysis contributes to an already lengthy CMR analysis workflow and impacts measurements reproducibility. In this study, we propose an automated method for combined myocardium segmentation, alignment, and T1 calculation for myocardial T1 mapping.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30636630

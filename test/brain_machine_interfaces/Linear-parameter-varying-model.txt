@@ -1,0 +1,3 @@
+Functional near-infrared spectroscopy (fNIRS) is an emerging non-invasive brain imaging technique that measures brain activities by using near-infrared light of 650-950 nm wavelength. The major advantages of fNIRS are its low cost, portability, and good temporal resolution as a plausible solution to real-time imaging. Recent research has shown the great potential of fNIRS as a tool for brain-computer interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23893789

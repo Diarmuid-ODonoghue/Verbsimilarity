@@ -1,0 +1,3 @@
+Wearable biosensors have become increasingly popular in healthcare due to their capabilities for low cost and long term biosignal monitoring. This paper presents a novel two-stage technique to offer biometric identification using these biosensors through Deep Belief Networks and Restricted Boltzman Machines. Our identification approach improves robustness in current monitoring procedures within clinical, e-health and fitness environments using Photoplethysmography (PPG) signals through deep learning classification models. The approach is tested on TROIKA dataset using 10-fold cross validation and achieved an accuracy of 96.1%.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28269713

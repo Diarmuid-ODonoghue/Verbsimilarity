@@ -1,0 +1,3 @@
+Modern prosthetic hands are typically controlled using skin surface electromyographic signals (EMG) from remaining muscles in the residual limb. However, surface electrode performance is limited by changes in skin impedance over time, day-to-day variations in electrode placement, and relative motion between the electrodes and underlying muscles during movement: these limitations require frequent retraining of controllers. In the presented study, we used chronically implanted intramuscular electrodes to minimize these effects and thus create a more robust prosthetic controller.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31752886

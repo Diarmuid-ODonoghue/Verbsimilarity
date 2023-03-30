@@ -1,0 +1,3 @@
+The purpose of this study was to compare the image quality of coronary computed tomography angiography (CTA) subjected to deep learning-based image restoration (DLR) method with images subjected to hybrid iterative reconstruction (IR).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30963270

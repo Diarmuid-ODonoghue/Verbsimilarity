@@ -1,0 +1,3 @@
+Motor imagery (MI) with real-time neurofeedback could be a viable approach, e.g., in rehabilitation of cerebral stroke. Magnetoencephalography (MEG) noninvasively measures electric brain activity at high temporal resolution and is well-suited for recording oscillatory brain signals. MI is known to modulate 10- and 20-Hz oscillations in the somatomotor system. In order to provide accurate feedback to the subject, the most relevant MI-related features should be extracted from MEG data. In this study, we evaluated several MEG signal features for discriminating between left- and right-hand MI and between MI and rest.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27992574

@@ -1,0 +1,3 @@
+This quasi-experimental study, with a control group and experimental group, compares the effectiveness of virtual reality simulators on developing phlebotomy skills of nursing students with the effectiveness of traditional methods of teaching. Performance of actual phlebotomy on a live client was assessed after training, using a standardized form. Findings showed that students who were exposed to the virtual reality simulator performed better in the following performance metrics: pain factor, hematoma formation, and number of reinsertions. This study confirms that the use of the virtual reality-based system to supplement the traditional method may be the optimal program for training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24006114

@@ -1,0 +1,3 @@
+To investigate the EEG-derived functional connectivity at rest (FCR) patterns of fatigued Multiple Sclerosis (MS) patients in order to find good parameters for a future EEG-Neurofeedback intervention to reduce their fatigue symptoms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28340429

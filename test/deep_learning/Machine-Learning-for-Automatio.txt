@@ -1,0 +1,3 @@
+The aim of this study was to enhance multispecialty CT and MRI protocol assignment quality and efficiency through development, testing, and proposed workflow design of a natural language processing (NLP)-based machine learning classifier.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32278847

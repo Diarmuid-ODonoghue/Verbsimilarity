@@ -1,0 +1,3 @@
+In this paper, we aim to investigate the effect of computer-aided triage system, which is implemented for the health checkup of lung lesions involving tens of thousands of chest X-rays (CXRs) that are required for diagnosis. Therefore, high accuracy of diagnosis by an automated system can reduce the radiologist's workload on scrutinizing the medical images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29792208

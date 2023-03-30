@@ -1,0 +1,3 @@
+To allow fast and high-quality reconstruction of clinical accelerated multi-coil MR data by learning a variational network that combines the mathematical structure of variational models with deep learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29115689

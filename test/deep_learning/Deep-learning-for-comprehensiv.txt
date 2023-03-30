@@ -1,0 +1,3 @@
+Increasing utilization of long-term outpatient ambulatory electrocardiographic (ECG) monitoring continues to drive the need for improved ECG interpretation algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32354454

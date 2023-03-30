@@ -1,0 +1,3 @@
+A new unsupervised learning method was developed to correct metal artifacts in MRI using 2 distorted images obtained with dual-polarity readout gradients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31403219

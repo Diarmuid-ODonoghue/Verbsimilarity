@@ -1,0 +1,3 @@
+The aim of this review was to summarize major topics in artificial intelligence (AI), including their applications and limitations in surgery. This paper reviews the key capabilities of AI to help surgeons understand and critically evaluate new AI applications and to contribute to new developments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29389679

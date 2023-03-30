@@ -1,0 +1,3 @@
+This project involves the development of a three-dimensional surgical simulator called interactive virtual dissection, which is designed to teach surgeons the visuospatial skills required to navigate through a transpetrosal approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12590673

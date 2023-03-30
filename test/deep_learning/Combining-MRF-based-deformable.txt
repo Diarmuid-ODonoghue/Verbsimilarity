@@ -1,0 +1,3 @@
+Deep convolutional neural networks in their various forms are currently achieving or outperforming state-of-the-art results on several medical imaging tasks. We aim to make these developments available to the so far unsolved task of accurate correspondence finding-especially with regard to image registration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30430361

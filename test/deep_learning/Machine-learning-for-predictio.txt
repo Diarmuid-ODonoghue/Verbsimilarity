@@ -1,0 +1,3 @@
+To predict the neoadjuvant chemoradiation therapy (CRT) response in patients with locally advanced rectal cancer (LARC) using radiomics and deep learning based on pre-treatment MRI and a mid-radiation follow-up MRI taken 3-4 weeks after the start of CRT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31059768

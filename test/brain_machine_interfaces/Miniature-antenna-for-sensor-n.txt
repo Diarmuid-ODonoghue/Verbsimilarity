@@ -1,0 +1,3 @@
+This paper proposes a novel miniaturized antenna for sensor network with focus on placement on human head. The antenna is within the volume of 3.5×3.5×1.5 mm(3). It provides directive gain in the direction outward the body.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25571359

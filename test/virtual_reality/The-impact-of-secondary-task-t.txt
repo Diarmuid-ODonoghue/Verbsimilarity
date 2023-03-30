@@ -1,0 +1,3 @@
+Interest in the measurement of cognitive load (CL) in simulation-based education has grown in recent years. In this paper we present two pilot experiments comparing the sensitivity of two reaction time based secondary task measures of CL. The results suggest that simple reaction time measures are sensitive enough to detect changes in CL experienced by novice learners in the initial stages of simulation-based surgical skills training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24732535

@@ -1,0 +1,3 @@
+The coronavirus disease (COVID-19) pandemic has revealed many areas of public health preparedness that are lacking, especially in lower- and middle-income countries. Digital interventions provide many opportunities for strengthening health systems and could be vital resources in the current public health emergency. We provide several use cases for infection control, home-based diagnosis and screening, empowerment through information, public health surveillance and epidemiology, and leveraging crowd-sourced data. A thoughtful, concerted effort-leveraging existing experience and robust enterprise-grade technologies-can have a substantive impact on the immediate and distal consequences of COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32297868

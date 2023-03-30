@@ -1,0 +1,3 @@
+Here we report on a validation study on brain-machine interfaces (BMIs) performed during the December 2007 ESA parabolic flight campaign. We investigated the feasibility of using BMIs for space applications by performing tests in microgravity. Brain signals were recorded with noninvasive electroencephalography before (calibration sessions) and during the parabolic flights on two subjects with prior BMI experience. The results of our experiments show that an experienced BMI user can achieve stable performance in all gravity conditions examined and, hence, demonstrate the feasibility of operating noninvasive BMIs in space.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19608000

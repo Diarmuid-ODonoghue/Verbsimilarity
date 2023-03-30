@@ -1,0 +1,3 @@
+In molecular applications, virtual reality (VR) and immersive virtual environments have generally been used and valued for the visual and interactive experience - to enhance intuition and communicate excitement - rather than as part of the actual research process. In contrast, this work develops a software infrastructure for research use and illustrates such use on a specific case.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19222844

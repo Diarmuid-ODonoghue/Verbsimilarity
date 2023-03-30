@@ -1,0 +1,3 @@
+Estimation of the spectral tilt of the glottal source has several applications in speech analysis and modification. However, direct estimation of the tilt from telephone speech is challenging due to vocal tract resonances and distortion caused by speech compression. In this study, a deep neural network is used for the tilt estimation from telephone speech by training the network with tilt estimates computed by glottal inverse filtering. An objective evaluation shows that the proposed technique gives more accurate estimates for the spectral tilt than previously used techniques that estimate the tilt directly from telephone speech without glottal inverse filtering.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28464691

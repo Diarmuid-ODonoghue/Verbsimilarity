@@ -1,0 +1,3 @@
+Input signals of an EEG based brain computer interface (BCI) system are naturally non-stationary, have poor signal to noise ratio, depend on physical or mental tasks and are contaminated with various artifacts such as external electromagnetic waves, electromyogram and electrooculogram. All these disadvantages have motivated researchers to substantially improve speed and accuracy of all components of the communication system between brain and a BCI output device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24751647

@@ -1,0 +1,3 @@
+Predicting the effects of genetic variants on splicing is highly relevant for human genetics. We describe the framework MMSplice (modular modeling of splicing) with which we built the winning model of the CAGI5 exon skipping prediction challenge. The MMSplice modules are neural networks scoring exon, intron, and splice sites, trained on distinct large-scale genomics datasets. These modules are combined to predict effects of variants on exon skipping, splice site choice, splicing efficiency, and pathogenicity, with matched or higher performance than state-of-the-art. Our models, available in the repository Kipoi, apply to variants including indels directly from VCF files.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30823901

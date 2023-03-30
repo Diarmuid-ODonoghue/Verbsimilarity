@@ -1,0 +1,3 @@
+Recent developments in serial-section electron microscopy allow the efficient generation of very large image data sets but analyzing such data poses challenges for software tools. Here we introduce Volume Annotation and Segmentation Tool (VAST), a freely available utility program for generating and editing annotations and segmentations of large volumetric image (voxel) data sets. It provides a simple yet powerful user interface for real-time exploration and analysis of large data sets even in the Petabyte range.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30386216

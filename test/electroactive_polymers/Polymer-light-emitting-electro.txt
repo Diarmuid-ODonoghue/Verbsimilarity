@@ -1,0 +1,3 @@
+A device configuration for light emission from electroactive polymers is described. In these light-emitting electrochemical cells, a p-n junction diode is created in situ through simultaneous p-type and n-type electrochemical doping on opposite sides of a thin film of conjugated polymer that contains added electrolyte to provide the necessary counterions for doping. Light-emitting devices based on conjugated polymers have been fabricated that operate by the proposed electrochemical oxidation-reduction mechanism. Blue, green, and orange emission have been obtained with turn-on voltages close to the band gap of the emissive material.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17755530

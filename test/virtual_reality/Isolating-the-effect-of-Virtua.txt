@@ -1,0 +1,3 @@
+The isolated effect of Virtual Reality Based Exposure Therapy (VRBET) for agoraphobia was analyzed through a comparative trial involving the first 10 agoraphobic participants. The participants were randomly assigned to two groups: VREBT only and VREBT combined with cognitive therapy. All the required Virtual Environments (VE) were created with an inexpensive Game Level Editor (GLE). Outcome measures supported the immersive effect of the VEs. Questionnaires, behavioral tests and physiological measures indicated a positive effect of VRBET alone. The addition of cognitive therapy to VREBT did not appear to generate any significant differences. Consequences for future research and practice are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21685640

@@ -1,0 +1,3 @@
+This paper aims to provide a theoretical clarification of the health informatics field by conducting a quantitative review analysis of the health informatics literature. And this paper aims to map scientific networks; to uncover the explicit and hidden patterns, knowledge structures, and sub-structures in scientific networks; to track the flow and burst of scientific topics; and to discover what effects they have on the scientific growth of health informatics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31131140

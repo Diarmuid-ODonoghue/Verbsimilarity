@@ -1,0 +1,3 @@
+Structure-based drug discovery methods exploit protein structural information to design small molecules binding to given protein pockets. This work proposes a purely data driven, structure-based approach for imaging ligands as spatial fields in target protein pockets. We use an end-to-end deep learning framework trained on experimental protein-ligand complexes with the intention of mimicking a chemist's intuition at manually placing atoms when designing a new compound. We show that these models can generate spatial images of ligand chemical properties like occupancy, aromaticity and donor-acceptor matching the protein pocket.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29982392

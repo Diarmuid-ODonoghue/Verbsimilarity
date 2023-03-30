@@ -1,0 +1,3 @@
+The novel coronavirus disease 2019 (COVID-19) outbreak started in Wuhan, Hubei, China since Dec 2019 and cases of infection have been continuously reported in various countries. It is now clear that the SARS-COV-2 coronavirus is transmissible from human to human. Nucleic acid detection is considered as the gold standard for the diagnosis of COVID-19. In this case report, we describe our experience in detection of SARS-COV-2 from a confirmed patient using nucleic acid test of bronchoalveolar-lavage fluid (BALF) samples but not nasopharyngeal swabs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32354369

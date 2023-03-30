@@ -1,0 +1,3 @@
+In this pilot study, we applied deep convolutional neural networks (CNNs) to detect caries lesions in Near-Infrared-Light Transillumination (NILT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31821853

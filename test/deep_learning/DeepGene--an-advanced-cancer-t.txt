@@ -1,0 +1,3 @@
+With the developments of DNA sequencing technology, large amounts of sequencing data have become available in recent years and provide unprecedented opportunities for advanced association studies between somatic point mutations and cancer types/subtypes, which may contribute to more accurate somatic point mutation based cancer classification (SMCC). However in existing SMCC methods, issues like high data sparsity, small volume of sample size, and the application of simple linear classifiers, are major obstacles in improving the classification performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28155641

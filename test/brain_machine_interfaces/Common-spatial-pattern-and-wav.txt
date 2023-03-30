@@ -1,0 +1,3 @@
+Recently, hybrid brain-computer interfaces (BCIs) combining more than one modality have been investigated with the aim of boosting the performance of the existing single-modal BCIs in terms of accuracy and information transfer rate (ITR). Previously, we introduced a novel hybrid BCI in which EEG and fTCD modalities are used simultaneously to measure electrical brain activity and cerebral blood velocity during motor imagery (MI) tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30946880

@@ -1,0 +1,3 @@
+Recent advances in machine learning have made significant contributions to drug discovery. Deep neural networks in particular have been demonstrated to provide significant boosts in predictive power when inferring the properties and activities of small-molecule compounds (Ma, J. et al. J. Chem. Inf.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28470045

@@ -1,0 +1,3 @@
+Manual contouring of gross tumor volumes (GTV) is a crucial and time-consuming process in rectum cancer radiotherapy. This study aims to develop a simple deep learning-based autosegmentation algorithm to segment rectal tumors on T2-weighted MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29663417

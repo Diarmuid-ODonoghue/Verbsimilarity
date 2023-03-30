@@ -1,0 +1,3 @@
+We propose micro single-photon emission computed tomography/computed tomography imaging of the hNIS (human sodium/iodide symporter) to noninvasively quantify adeno-associated virus 9 (AAV9)-mediated gene expression in a murine model of peripheral artery disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31296047

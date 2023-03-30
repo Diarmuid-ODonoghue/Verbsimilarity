@@ -1,0 +1,3 @@
+Supplementary motor area (SMA) syndrome is a constellation of temporary symptoms that may occur following tumors of the frontal lobe. Affected patients develop akinesia and mutism but often recover within weeks to months. With our own case examples and with correlations to fiber tracking validated by gross anatomical dissection as ground truth, we describe a white matter pathway through which recovery may occur.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29541539

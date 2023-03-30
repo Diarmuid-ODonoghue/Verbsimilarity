@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) have been investigated for more than 20 years. Many BCIs use noninvasive electroencephalography as a measurement technique and the P300 event-related potential as an input signal (P300 BCI). Since the first experiment with a P300 BCI system in 1988 by Farwell and Donchin, not only data processing has improved but also stimuli presentation has been varied and a plethora of applications was developed and refined. Nowadays, these applications are facing the challenge of being transferred from the research laboratory into real-life situations to serve motor-impaired people in their homes as assistive technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21867792

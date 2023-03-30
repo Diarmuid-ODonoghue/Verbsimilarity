@@ -1,0 +1,3 @@
+Detection of motor imagery of hand/arm has been extensively studied for stroke rehabilitation. This paper firstly investigates the detection of motor imagery of swallow (MI-SW) and motor imagery of tongue protrusion (MI-Ton) in an attempt to find a novel solution for post-stroke dysphagia rehabilitation. Detection of MI-SW from a simple yet relevant modality such as MI-Ton is then investigated, motivated by the similarity in activation patterns between tongue movements and swallowing and there being fewer movement artifacts in performing tongue movements compared to swallowing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24836742

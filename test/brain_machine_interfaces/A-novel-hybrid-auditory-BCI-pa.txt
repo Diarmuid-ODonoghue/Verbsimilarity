@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) is a technology that provides an alternative way of communication by translating brain activities into digital commands. Due to the incapability of using the vision-dependent BCI for patients who have visual impairment, auditory stimuli have been used to substitute the conventional visual stimuli.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28109832

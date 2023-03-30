@@ -1,0 +1,3 @@
+Good old online backpropagation for plain multilayer perceptrons yields a very low 0.35% error rate on the MNIST handwritten digits benchmark. All we need to achieve this best result so far are many hidden layers, many neurons per layer, numerous deformed training images to avoid overfitting, and graphics cards to greatly speed up learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20858131

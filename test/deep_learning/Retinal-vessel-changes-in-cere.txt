@@ -1,0 +1,3 @@
+The retina is growingly recognized as a window into cerebrovascular and systemic vascular conditions. The utility of noninvasive retinal vessel biomarkers in cerebrovascular risk assessment has expanded due to advances in retinal imaging techniques and machine learning-based digital analysis. The purpose of this review is to underscore the latest evidence linking retinal vascular abnormalities with stroke and vascular-related cognitive disorders; to highlight modern developments in retinal vascular imaging modalities and software-based vasculopathy quantification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31789703

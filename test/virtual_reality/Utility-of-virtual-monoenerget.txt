@@ -1,0 +1,3 @@
+To evaluate the ability of the retrospectively generated virtual monoenergetic images (VMIs) from a dual-layer detector-based spectral computed tomography (SDCT) to augment aortic enhancement for the evaluation of aortic anatomy and pathology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30212800

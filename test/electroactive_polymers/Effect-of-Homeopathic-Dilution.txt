@@ -1,0 +1,3 @@
+We report the effects of nanoparticles in homeopathic preparations of copper salts on the electrical properties of polymer film. Previous work showed that the incorporation of metal-derived homeopathic medicines increases the dielectric constant and alternating current (AC) conductivity of an electroactive polymer film that is commonly used as a capacitor in the electronic industry.We report here the effect of dilution of one homeopathic medicine, Cuprum arsenicosum (CuAs), at 200C potency on the electrical properties of the polymer film of poly(vinylidene fluoride-co-hexafluoropropylene).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29767830

@@ -1,0 +1,3 @@
+Electrocorticography (ECoG) based studies generally analyze features from specific frequency bands selected by manual evaluation of spectral power. However, the definition of these features can vary across subjects, cortical areas, tasks and across time for a given subject. We propose an autoencoder based approach for summarizing ECoG data with 'template spectrograms', i.e. informative time-frequency (t-f) patterns, and demonstrate their efficacy in two contexts: brain-computer interfaces (BCIs) and functional brain mapping.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30524070

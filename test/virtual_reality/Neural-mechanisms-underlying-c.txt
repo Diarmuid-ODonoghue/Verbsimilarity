@@ -1,0 +1,3 @@
+We investigated the neural correlates of workload buildup in a fine visuomotor task called the boundary avoidance task (BAT). The BAT has been known to induce naturally occurring failures of human-machine coupling in high performance aircraft that can potentially lead to a crash-these failures are termed pilot induced oscillations (PIOs).
+
+https://www.ncbi.nlm.nih.gov/pubmed/27705959

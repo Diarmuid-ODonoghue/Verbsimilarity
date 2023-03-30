@@ -1,0 +1,3 @@
+Celiac disease (CD) prevalence and diagnosis have increased substantially in recent years. The current gold standard for CD confirmation is visual examination of duodenal mucosal biopsies. An accurate computer-aided biopsy analysis system using deep learning can help pathologists diagnose CD more efficiently.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30984467

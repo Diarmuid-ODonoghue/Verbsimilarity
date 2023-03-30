@@ -1,0 +1,3 @@
+Recent research suggests the brain can learn almost any brain-computer interface (BCI) configuration; however, contrasting behavioral evidence from structural learning theory argues that previous experience facilitates, or impedes, future learning. A study by Sadtler and colleagues (Nature 512: 423-426, 2014) used BCI to demonstrate that neural network structural characteristics constrain learning, a finding that might also provide insight into how the brain responds to and recovers after injury.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25810487

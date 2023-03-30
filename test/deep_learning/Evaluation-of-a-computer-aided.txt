@@ -1,0 +1,3 @@
+To automatically measure the Cobb angle and diagnose scoliosis on chest X-rays, a computer-aided method was proposed and the reliability and accuracy were evaluated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31446493

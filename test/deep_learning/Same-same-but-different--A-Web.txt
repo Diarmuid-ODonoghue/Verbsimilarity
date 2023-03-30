@@ -1,0 +1,3 @@
+The microscopic review of hematoxylin-eosin-stained images of focal cortical dysplasia type IIb and cortical tuber of tuberous sclerosis complex remains challenging. Both entities are distinct subtypes of human malformations of cortical development that share histopathological features consisting of neuronal dyslamination with dysmorphic neurons and balloon cells. We trained a convolutional neural network (CNN) to classify both entities and visualize the results. Additionally, we propose a new Web-based deep learning application as proof of concept of how deep learning could enter the pathologic routine.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32080846

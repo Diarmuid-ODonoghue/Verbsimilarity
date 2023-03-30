@@ -1,0 +1,3 @@
+This study sought to develop a method that supports a more evidence-based approach to evaluating multiple design options in virtual reality (VR), combining subjective insights gathered using traditional approaches and objective feedback gathered using the VR platform. Additionally, this study sought to understand how objective data garnered from the VR platform could be used to compliment traditional evaluation strategies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31113251

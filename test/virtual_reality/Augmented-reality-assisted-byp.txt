@@ -1,0 +1,3 @@
+The overlay of virtual images on the surgical field, defined as augmented reality, has been used for image guidance during various neurosurgical procedures. Although this technology could conceivably address certain inherent problems of extracranial-to-intracranial bypass procedures, this potential has not been explored to date. We evaluate the usefulness of an augmented reality-based setup, which could help in harvesting donor vessels through their precise localization in real-time, in performing tailored craniotomies, and in identifying preoperatively selected recipient vessels for the purpose of anastomosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25527874

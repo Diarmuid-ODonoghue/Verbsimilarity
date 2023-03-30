@@ -1,0 +1,3 @@
+The extraction and identification of single-unit activities in intracortically recorded electric signals have a key role in basic neuroscience, but also in applied fields, like in the development of high-accuracy brain-computer interfaces. The purpose of this paper is to present our current results on the detection, classification and prediction of neural activities based on multichannel action potential recordings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31561235

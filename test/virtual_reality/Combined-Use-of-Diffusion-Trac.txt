@@ -1,0 +1,3 @@
+Intramedullary spinal cord neoplasms (ISCN) pose significant management challenges. Advances in magnetic resonance imaging (MRI) (such as diffusion tensor imaging, DTI) have been utilized to determine the infiltrative nature and resectability of ISCN. However, this has not been applied to intraoperative decision making.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30892657

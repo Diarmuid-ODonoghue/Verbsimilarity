@@ -1,0 +1,3 @@
+Optical diagnosis of diminutive colorectal polyps has been recently proposed as an alternative to histopathologic diagnosis. Recent developments in imaging techniques, new classification systems, and the use of artificial intelligence have allowed for increased viability of optical diagnosis. This review provides an up-to-date overview of optical diagnosis recommendations, classifications, outcomes, and recent developments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30746593

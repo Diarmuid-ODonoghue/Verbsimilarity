@@ -1,0 +1,3 @@
+Peg transfer is one of five tasks in the Fundamentals of Laparoscopic Surgery (FLS), program. This paper reports the development and validation of a Virtual Basic Laparoscopic Skill Trainer-Peg Transfer (VBLaST-PT(©) ) simulator for automatic real-time scoring and objective quantification of performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24030904

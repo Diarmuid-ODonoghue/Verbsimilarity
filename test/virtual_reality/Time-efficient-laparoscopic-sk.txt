@@ -1,0 +1,3 @@
+Computer-based, virtual-reality laparoscopic surgical simulators have several advantages over traditional video trainers. One of these advantages is that performance can be evaluated using unique computer-derived metrics, which can be digitally archived for analysis at a time convenient to instructors. This study sought to determine whether the computer-derived metrics for a unique hybrid simulator correlated with laparoscopic surgical skill.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18347859

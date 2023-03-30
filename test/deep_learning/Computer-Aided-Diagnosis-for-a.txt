@@ -1,0 +1,3 @@
+Atrial fibrillation (AF) is the most common cardiac arrhythmia in clinical practice, having been recognized as a true cardiovascular epidemic. In this paper, a new methodology for Computer Aided Diagnosis of AF based on a special kind of artificial adaptive systems has been developed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32146212

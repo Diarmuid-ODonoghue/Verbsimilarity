@@ -1,0 +1,3 @@
+The Subjective Visual Vertical (SVV) test and the closely related Rod and Disk Test (RDT) are measures of perceived verticality measured in static and dynamic visual backgrounds. However, the equipment used for these tests is variable across clinics and is often too expensive or too primitive to be appropriate for widespread use. Commercial virtual reality technology, which is now widely available, may provide a more suitable alternative for collecting these measures in clinical populations. This study was designed to investigate verticality perception in symptomatic patients using a modified RDT paradigm administered through a head-mounted display (HMD).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31107362

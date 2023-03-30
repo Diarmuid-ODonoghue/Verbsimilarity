@@ -1,0 +1,3 @@
+We describe an early-stage prototype of a new wireless electrophysiological sensor system, called NeuroDot, which can measure neuroelectric potentials and fields at the scalp in a new modality called Electric Field Encephalography (EFEG). We aim to establish the physical validity of the EFEG modality, and examine some of its properties and relative merits compared to EEG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29749347

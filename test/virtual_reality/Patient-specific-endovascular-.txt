@@ -1,0 +1,3 @@
+The ability to perform patient-specific simulated rehearsal of complex endovascular interventions is a technological advance with potential benefits to patient outcomes. This study aimed to evaluate whether patient-specific rehearsal of a carotid artery stenting (CAS) procedure has an influence on tool selection and the use of fluoroscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21276738

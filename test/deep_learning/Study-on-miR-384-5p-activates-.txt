@@ -1,0 +1,3 @@
+Any ailment in our organs can be visualized by using different modality signals and images. Hospitals are encountering a massive influx of large multimodality patient data to be analysed accurately and with context understanding. The deep learning techniques, like convolution neural networks (CNN), long short-term memory (LSTM), autoencoders, deep generative models and deep belief networks have already been applied to efficiently analyse possible large collections of data. Application of these methods to medical signals and images can aid the clinicians in clinical decision making.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31813493

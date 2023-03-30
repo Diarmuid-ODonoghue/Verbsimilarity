@@ -1,0 +1,3 @@
+In this contribution, we present a fully automatic approach, that is based on two convolution neural networks (CNN) together with a spine tracing algorithm utilizing a population optimization algorithm. Based on the evaluation of 130 CT scans including heavily distorted and complicated cases, it turned out that this new combination enables fast and robust detection with almost 90% of correctly determined spinal centerlines with computing time of fewer than 20 seconds.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31946384

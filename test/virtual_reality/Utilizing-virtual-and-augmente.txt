@@ -1,0 +1,3 @@
+Neurosurgery has undergone a technological revolution over the past several decades, from trephination to image-guided navigation. Advancements in virtual reality (VR) and augmented reality (AR) represent some of the newest modalities being integrated into neurosurgical practice and resident education. In this review, we present a historical perspective of the development of VR and AR technologies, analyze its current uses, and discuss its emerging applications in the field of neurosurgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28137372

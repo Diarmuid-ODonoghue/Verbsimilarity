@@ -1,0 +1,3 @@
+There is growing evidence that training on virtual reality simulators leads to improved performance in the animate and human operating room. However, they are expensive, have a limited availability, and involve complex systems. Portable simulators are significantly cheaper, more user-friendly, and are flexible systems that are more suited to a surgical trainee's busy schedule. The use of portable surgical simulators to train skills and reduce errors has never been evaluated in prospective, randomized clinical settings. The objective of this study was to determine if training on the portable Integrated Laparoscopic Simulator leads to improved performance of core laparoscopic skills.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23404485

@@ -1,0 +1,3 @@
+Limited restoration of function is known to occur spontaneously after an ischemic injury to the primary motor cortex. Evidence suggests that Pre-Motor Areas (PMAs) may "take over" control of the disrupted functions. However, little is known about functional reorganizations in PMAs. Forelimb movements in mice can be driven by two cortical regions, Caudal and Rostral Forelimb Areas (CFA and RFA), generally accepted as primary motor and pre-motor cortex, respectively. Here, we examined longitudinal changes in functional coupling between the two RFAs following unilateral photothrombotic stroke in CFA (mm from Bregma: +0.5 anterior, +1.25 lateral).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26752066

@@ -1,0 +1,3 @@
+Numerous models have been developed to describe the mechanical behavior of soft tissue in virtual reality medical environments. Very high credibility must be established before clinicians trust these simulations for diagnostic or treatment. Validating models to obtain the right compromise between accuracy and computational efficiency for the targeted medical application is a long, costly and time-consuming task. We have developed a freely available open-source framework for helping scientists in the difficult problem of evaluating and comparing biomechanical models in a more systematic and automatic manner.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22356970

@@ -1,0 +1,3 @@
+Deep Neural Networks (DNN), in particular, Convolutional Neural Networks (CNN), has recently achieved state-of-art results for the task of Drug-Drug Interaction (DDI) extraction. Most CNN architectures incorporate a pooling layer to reduce the dimensionality of the convolution layer output, preserving relevant features and removing irrelevant details. All the previous CNN based systems for DDI extraction used max-pooling layers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29897318

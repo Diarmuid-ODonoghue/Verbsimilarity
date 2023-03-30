@@ -1,0 +1,3 @@
+Conventional transbronchial needle aspiration (TBNA) can be learned using high-fidelity virtual-reality platforms and low-fidelity models comprised of molded silicone or excised animal airways.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20616534

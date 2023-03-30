@@ -1,0 +1,3 @@
+Protein structure can be described by backbone torsion angles: rotational angles about the N-Cα bond (φ) and the Cα-C bond (ψ) or the angle between Cαi-1-Cαi-Cαi + 1 (θ) and the rotational angle about the Cαi-Cαi + 1 bond (τ). Thus, their accurate prediction is useful for structure prediction and model refinement. Early methods predicted torsion angles in a few discrete bins whereas most recent methods have focused on prediction of angles in real, continuous values. Real value prediction, however, is unable to provide the information on probabilities of predicted angles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29390958

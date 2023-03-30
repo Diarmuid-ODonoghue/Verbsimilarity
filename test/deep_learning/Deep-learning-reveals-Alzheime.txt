@@ -1,0 +1,3 @@
+Early diagnosis of Alzheimer's disease (AD) and its onset in subjects affected by mild cognitive impairment (MCI) based on structural MRI features is one of the most important open issues in neuroimaging. Accordingly, a scientific challenge has been promoted, on the international Kaggle platform, to assess the performance of different classification methods for prediction of MCI and its conversion to AD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29287745

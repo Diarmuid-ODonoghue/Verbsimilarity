@@ -1,0 +1,3 @@
+Flexible bronchoscopy represents a clinically well-established invasive diagnostic tool. Virtual bronchoscopies, calculated from thin-slice CT sections, allow astonishing immitations of reality although principal differences exist between both technologies: the fact that colour representation is artificial and concommitant interventions are impossible limits the clinical use of virtual bronchoscopy. However, its value increases when calculations can be attained within minutes due to technological advancements, and when virtually any chest CT is suitable for further postprocessing. Indications, findings and the clinical role of virtual bronchoscopy are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11322072

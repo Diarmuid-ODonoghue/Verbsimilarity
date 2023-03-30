@@ -1,0 +1,3 @@
+Phages and plasmids are the major components of mobile genetic elements, and fragments from such elements generally co-exist with chromosome-derived fragments in sequenced metagenomic data. However, there is a lack of efficient methods that can simultaneously identify phages and plasmids in metagenomic data, and the existing tools identifying either phages or plasmids have not yet presented satisfactory performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31220250

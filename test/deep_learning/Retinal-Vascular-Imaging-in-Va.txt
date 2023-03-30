@@ -1,0 +1,3 @@
+Vascular cognitive disorders are heterogeneous and increasingly recognized entities with intricate correlation to neurodegenerative conditions. Retinal vascular analysis is a noninvasive approach to study cerebrovascular pathology, with promise to assist particularly during early disease phases. In this article, we have systematically summarized the current understanding, potential applications, and inevitable limitations of retinal vascular imaging in patients with vascular cognitive impairment. In addition, future directions in the field with support from automated technology using deep learning methods and their existing challenges are emphasized.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30262988

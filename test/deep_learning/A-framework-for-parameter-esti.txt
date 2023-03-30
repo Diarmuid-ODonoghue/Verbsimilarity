@@ -1,0 +1,3 @@
+Kernel deep stacking networks (KDSNs) are a novel method for supervised learning in biomedical research. Belonging to the class of deep learning techniques, KDSNs are based on artificial neural network architectures that involve multiple nonlinear transformations of the input data. Unlike traditional artificial neural networks, KDSNs do not rely on backpropagation algorithms but on an efficient fitting procedure that is based on a series of kernel ridge regression models with closed-form solutions. Although being computationally advantageous, KDSN modeling remains a challenging task, as it requires the specification of a large number of tuning parameters.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27431035

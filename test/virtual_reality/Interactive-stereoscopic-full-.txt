@@ -1,0 +1,3 @@
+Only recently, advanced direct volume visualization techniques have been widely used due to the availability of low cost hardware accelerators; such techniques have a great potential of use for many applications of the virtual reality in medicine. We proposed and implemented a low cost system for interactive and stereoscopic 3D visualization of the full color visible human dataset. Potential use of the proposed system includes anatomical atlases and surgical simulators. A prototype of the proposed system is rendering full color volumes with 256 x 152 x 470 in real time (15-20 Hz) with stereoscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11322132

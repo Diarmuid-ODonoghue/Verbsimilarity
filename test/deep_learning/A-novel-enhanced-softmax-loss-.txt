@@ -1,0 +1,3 @@
+In deep learning, the sigmoid function is unsuccessfully used for the multiclass classification of the brain tumour due to its limit of binary classification. This study aims to increase the classification accuracy by reducing the risk of overfitting problem and supports multi-class classification. The proposed system consists of a convolutional neural network with modified softmax loss function and regularization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31734325

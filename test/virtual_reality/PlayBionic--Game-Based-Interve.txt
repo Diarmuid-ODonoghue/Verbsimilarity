@@ -1,0 +1,3 @@
+Prosthetic motor rehabilitation usually relies on the highly repetitive training of movements. Patients might drop out of training because the rehabilitation process is long and often discouraging. Game-based interventions provide a potentially useful alternative to standard myoelectric (electromyographic [EMG]) training and can increase engagement with training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30503232

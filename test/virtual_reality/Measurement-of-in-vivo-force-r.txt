@@ -1,0 +1,3 @@
+The lack of data on in-vivo material properties of soft tissues has been a significant impediment in the development of virtual reality based surgical simulators that can provide the user with realistic visual and haptic feedback. As a first step towards characterizing the mechanical behavior of organs, this work presents in-vivo force response of the liver and lower esophagus of pigs when subjected to ramp and hold, and sinusoidal indentations delivered using a haptic feedback device, Phantom, employed as a mechanical stimulator. The results show that pulse significantly affects the reaction forces and that the lower esophagus is 2 to 2.5 times stiffer than the liver.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458143

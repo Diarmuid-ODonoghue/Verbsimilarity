@@ -1,0 +1,3 @@
+The impact on the Italian national healthcare service of the COVID-19 pandemic has already been reported (1). To date, measures have been taken to adapt our healthcare systems (2). The number of patients infected in Italy since 20 February 2020 has closely followed an exponential trend, challenging our universal-coverage public healthcare system especially in terms of the availability of intensive care unit (ICU) beds, healthcare providers, and blood products (1,2).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32348586

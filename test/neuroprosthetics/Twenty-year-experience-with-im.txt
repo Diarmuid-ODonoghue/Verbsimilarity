@@ -1,0 +1,3 @@
+The long-term durability and safety of implanted devices is of great importance in the field of motor neuroprosthetics, where systems may possibly be utilized in excess of 50 years by some individuals. Neuroprosthetic systems have now been implanted in the upper extremity of spinal cord injured individuals for more than 20 years. The experience with these systems shows a high level of durability of the implanted components, particularly the stimulating electrodes and leads.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19965280

@@ -1,0 +1,3 @@
+The correct localization of proteins in cell compartments is a key issue for their function. Particularly, mitochondrial proteins are physiologically active in different compartments and their aberrant localization contributes to the pathogenesis of human mitochondrial pathologies. Many computational methods exist to assign protein sequences to subcellular compartments such as nucleus, cytoplasm and organelles. However, a substantial lack of experimental evidence in public sequence databases hampered so far a finer grain discrimination, including also intra-organelle compartments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31218353

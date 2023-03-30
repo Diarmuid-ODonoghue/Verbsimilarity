@@ -1,0 +1,3 @@
+The purpose of this study was to develop a deep learning classification approach to distinguish cancerous from noncancerous regions within optical coherence tomography (OCT) images of breast tissue for potential use in an intraoperative setting for margin assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31324579

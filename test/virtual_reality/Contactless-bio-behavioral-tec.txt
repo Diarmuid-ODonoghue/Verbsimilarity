@@ -1,0 +1,3 @@
+The use of biosensors in human experimental research has become one of the most reliable methods to objectively quantify participants' behavioral, psychological and physiological measures. Modern bio-behavioral technologies can be integrated in Virtual Reality platforms, for a contactless assessment of affective states. This manuscript proposes a paradigm to deeper reach accuracy in assessment and diagnostics of rehabilitation processes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23792863

@@ -1,0 +1,3 @@
+Lack of efficient calibration and task guidance in motor imagery (MI) based brain-computer interface (BCI) would result in the failure of communication or control, especially in patients, such as a stroke with motor impairment and intact sensation, locked-in state amyotrophic lateral sclerosis, in which the sources of data for calibration may worsen the subsequent decoding. In addition, enhancing the proprioceptive experience in MI might improve the BCI performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25461477

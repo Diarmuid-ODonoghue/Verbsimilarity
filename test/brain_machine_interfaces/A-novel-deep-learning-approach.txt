@@ -1,0 +1,3 @@
+Signal classification is an important issue in brain computer interface (BCI) systems. Deep learning approaches have been used successfully in many recent studies to learn features and classify different types of data. However, the number of studies that employ these approaches on BCI applications is very limited. In this study we aim to use deep learning methods to improve classification performance of EEG motor imagery signals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27900952

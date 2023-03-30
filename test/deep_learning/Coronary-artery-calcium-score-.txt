@@ -1,0 +1,3 @@
+To investigate the impact of a deep-learning algorithm on the quantification of coronary artery calcium score (CACS) and the stratification of cardiac risk.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31718789

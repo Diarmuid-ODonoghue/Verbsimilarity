@@ -1,0 +1,3 @@
+Many serious concerns exist in the long-term stability of brain-machine interfaces (BMIs) based on spike signals (single unit activity, SUA; multi unit activity, MUA). Some studies showed local field potentials (LFPs) could offer a stable decoding performance. However, the decoding stability of LFPs was examined only when high quality spike signals were recorded. Here we aim to examine the long-term decoding stability of LFPs over a larger time scale when the quality of spike signals was from good to poor or even no spike was recorded.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24809544

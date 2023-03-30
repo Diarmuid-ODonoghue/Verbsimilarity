@@ -1,0 +1,3 @@
+2D and 3D virtual reality platforms are used for designing individualized training environments for post-stroke rehabilitation. Virtual environments (VEs) are viewed using media like head mounted displays (HMDs) and large screen projection systems (SPS) which can influence the quality of perception of the environment. We estimated if there were differences in arm pointing kinematics when subjects with and without stroke viewed a 3D VE through two different media: HMD and SPS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21718542

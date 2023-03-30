@@ -1,0 +1,3 @@
+Natural language processing (NLP) can be used for automatic flagging of radiology reports. We assessed deep learning models for classifying non-English head CT reports.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32335686

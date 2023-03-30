@@ -1,0 +1,3 @@
+The dorsal attention network (DAN) is an important mediator of goal-directed attentional processing. Multiple cortical areas, such as the frontal eye fields, intraparietal sulcus, superior parietal lobule, and visual cortex, have been linked in this processing. However, knowledge of network connectivity has been devoid of structural specificity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31536682

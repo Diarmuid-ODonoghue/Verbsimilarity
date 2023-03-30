@@ -1,0 +1,3 @@
+Electroencephalography (EEG) monitors brain activity during sleep and is used to identify sleep disorders. In sleep medicine, clinicians interpret raw EEG signals in so-called sleep stages, which are assigned by experts to every 30s window of signal. For diagnosis, they also rely on shorter prototypical micro-architecture events which exhibit variable durations and shapes, such as spindles, K-complexes or arousals. Annotating such events is traditionally performed by a trained sleep expert, making the process time consuming, tedious and subject to inter-scorer variability. To automate this procedure, various methods have been developed, yet these are event-specific and rely on the extraction of hand-crafted features.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30946878

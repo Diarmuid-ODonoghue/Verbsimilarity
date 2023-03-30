@@ -1,0 +1,3 @@
+Accurate tumor segmentation is a requirement for magnetic resonance (MR)-based radiotherapy. Lack of large expert annotated MR datasets makes training deep learning models difficult. Therefore, a cross-modality (MR-CT) deep learning segmentation approach that augments training data using pseudo MR images produced by transforming expert-segmented CT images was developed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31274206

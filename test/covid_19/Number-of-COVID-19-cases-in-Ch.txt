@@ -1,0 +1,3 @@
+Realizamos una prospectiva básica, con datos al 21/03/2020 de la evolución del número de casos COVID-19 diarios en Chile con datos del Ministerio de Salud. Asumiendo un crecimiento aritmético en la segunda variación de los datos, se presenta un modelo de ajuste cúbico que estima en más de 100 mil casos a 120 días y que es consistente con los datos registrados a la fecha. Además, se interviene un modelo de casos totales exponencial, para representar en él (mediante un parámetro) el esfuerzo diario por rebajar una elevada primera tasa de crecimiento diario. Este modelo se simula con distinto escenarios numéricos de factibilidad y prevalencia futura deseada.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32225133

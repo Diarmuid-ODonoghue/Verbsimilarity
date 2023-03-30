@@ -1,0 +1,3 @@
+We have developed a framework for the visual integration and exploration of multi-scale biomedical data, which includes anatomical and molecular components. We have also created a Java-based software system that integrates molecular information, such as gene expression data, into a three-dimensional digital atlas of the male adult human anatomy. Our atlas is structured according to the Terminologia Anatomica. The underlying data-indexing mechanism uses open standards and semantic ontology-processing tools to establish the associations between heterogeneous data types. The software system makes an extensive use of virtual reality visualization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391362

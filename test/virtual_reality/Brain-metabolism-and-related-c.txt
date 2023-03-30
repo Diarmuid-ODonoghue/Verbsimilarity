@@ -1,0 +1,3 @@
+The aim of this pilot study is to investigate the impact of virtual reality exposure therapy (VRET) on brain metabolism and connectivity. Eighteen patients with acrophobia were assessed by an 18F-FDG PET scan sensitized by virtual exposure before treatment, and nine of them were assessed again after eight sessions of VRET. Statistical Parametric Mapping was used to study the correlations between metabolism and pretherapeutic clinical scores and to compare metabolism before and after VRET (p voxel < 0.005, corrected for cluster volume). Metabolic connectivity was evaluated through interregional correlation analysis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30276498

@@ -1,0 +1,3 @@
+In people with psychoses, Self-Reflectiveness may rely on the right ventrolateral prefrontal cortex (VLPFC). We used functional magnetic resonance imaging (fMRI) and a novel virtual reality paradigm to evaluate the role of the VLPFC for Self-Reflectiveness in 25 first-episode of schizophrenia (FES) participants and 24 controls. Participants first viewed 20 characters each paired with a unique object/location, and later completed source memory judgements during fMRI scanning. Self-Reflectiveness, measured with the Beck Cognitive Insight Scale, was significantly and positively correlated to activation in bilateral VLPFC in FES, but not in controls, providing further evidence that the VLPFC supports Self-Reflectiveness in FES.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26004692

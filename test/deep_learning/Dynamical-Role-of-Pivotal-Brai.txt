@@ -1,0 +1,3 @@
+The release of a broad, longitudinal anatomical dataset by the Parkinson's Progression Markers Initiative promoted a surge of machine-learning studies aimed at predicting disease onset and progression. However, the excessive number of features used in these models often conceals their relationship to the Parkinsonian symptomatology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32019067

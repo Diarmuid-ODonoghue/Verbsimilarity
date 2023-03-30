@@ -1,0 +1,3 @@
+Screening and early diagnosis of mitral regurgitation (MR) are crucial for preventing irreversible progression of MR. In this study, we developed and validated an artificial intelligence (AI) algorithm for detecting MR using electrocardiography (ECG).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32146201

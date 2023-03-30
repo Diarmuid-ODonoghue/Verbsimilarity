@@ -1,0 +1,3 @@
+The Oxford Nanopore sequencing enables to directly detect methylation states of bases in DNA from reads without extra laboratory techniques. Novel computational methods are required to improve the accuracy and robustness of DNA methylation state prediction using Nanopore reads.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30994904

@@ -1,0 +1,3 @@
+Social media exhibit rich yet distinct temporal dynamics which cover a wide range of different scales. In order to study this complex dynamics, two fundamental questions revolve around (1) the signatures of social dynamics at different time scales, and (2) the way in which these signatures interact and form higher-level meanings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25830775

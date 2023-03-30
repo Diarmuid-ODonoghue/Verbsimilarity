@@ -1,0 +1,3 @@
+Narrow-band imaging (NBI) can be used to determine whether colorectal polyps are adenomatous or hyperplastic. We investigated whether an artificial intelligence (AI) system can increase the accuracy of characterizations of polyps by endoscopists of different skill levels.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32119927

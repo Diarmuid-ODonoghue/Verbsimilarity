@@ -1,0 +1,3 @@
+Approximately 20% of traumatic cervical spinal cord injuries result in tetraplegia. Neuroprosthetics are being developed to manage this condition and thus improve the lives of patients. We aimed to test the feasibility of a semi-invasive technique that uses brain signals to drive an exoskeleton.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31587955

@@ -1,0 +1,3 @@
+Steady-state visual evoked potential (SSVEP)-based brain-computer interface (BCI) has been widely investigated because of its easy system configuration, high information transfer rate (ITR) and little user training. However, due to the limitations of brain responses and the refresh rate of a monitor, the available stimulation frequencies for practical BCI application are generally restricted.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28091397

@@ -1,0 +1,3 @@
+Introduce and validate a novel, fast, and fully automated deep learning pipeline (FatSegNet) to accurately identify, segment, and quantify visceral and subcutaneous adipose tissue (VAT and SAT) within a consistent, anatomically defined abdominal region on Dixon MRI scans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31631409

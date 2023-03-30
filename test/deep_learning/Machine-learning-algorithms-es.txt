@@ -1,0 +1,3 @@
+To assess the utility of machine learning algorithms on estimating prognosis and guiding therapy in a large cohort of patients with adult congenital heart disease (ACHD) or pulmonary hypertension at a single, tertiary centre.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30689812

@@ -1,0 +1,3 @@
+The pandemic of coronavirus disease (COVID-19), a disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is causing substantial morbidity and mortality. Older age and presence of diabetes mellitus, hypertension, and obesity significantly increases the risk for hospitalization and death in COVID-19 patients. In this Perspective, informed by the studies on SARS-CoV-2, Middle East respiratory syndrome (MERS-CoV), and the current literature on SARS-CoV-2, we discuss potential mechanisms by which diabetes modulates the host-viral interactions and host-immune responses. We hope to highlight gaps in knowledge that require further studies pertinent to COVID-19 in patients with diabetes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32228322

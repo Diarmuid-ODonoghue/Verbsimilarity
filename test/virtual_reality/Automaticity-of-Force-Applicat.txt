@@ -1,0 +1,3 @@
+The Fitts and Posner model of motor learning hypothesized that with deliberate practice, learners progress through stages to an autonomous phase of motor ability. To test this model, we assessed the automaticity of neurosurgeons, senior residents, and junior residents when operating on 2 identical tumors using the NeuroVR virtual reality simulation platform.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28684100

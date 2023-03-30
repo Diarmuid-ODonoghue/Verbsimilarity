@@ -1,0 +1,3 @@
+We ran a simulation comparing 3 methods to calculate case-fatality risk for coronavirus disease using parameters described in previous studies. Case-fatality risk calculated from these methods all are biased at the early stage of the epidemic. When comparing real-time case-fatality risk, the current trajectory of the epidemic should be considered.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32315282

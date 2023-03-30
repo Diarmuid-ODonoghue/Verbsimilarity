@@ -1,0 +1,3 @@
+To improve understanding of the male pelvic anatomy pertinent to urological surgery we performed computer generated, 3-dimensional reconstruction of the male pelvis from the Visible Human data set.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9474171

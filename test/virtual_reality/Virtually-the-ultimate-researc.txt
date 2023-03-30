@@ -1,0 +1,3 @@
+Virtual reality (VR) can serve as a viable platform for psychological research. The real world with many uncontrolled variables can be masked to immerse participants in complex interactive environments that are under full experimental control. However, as any other laboratory setting, these simulations are not perceived equally to reality and they also afford different behaviour. We need a better understanding of these differences, which are often related to parameters of the technical setup, to support valid interpretations of experimental results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29696639

@@ -1,0 +1,3 @@
+Using facile diazonium chemistry, sulfonate groups have been covalently attached to single wall carbon nanotubes. The resulting sulfonated tubes form a stable aqueous dispersion in the presence of pyrrole monomer. Subsequent electropolymerisation results in a conductive, electroactive polypyrrole doped with sulfonated tubes being formed at unusually low potentials. The potential of this material as a host matrix for biomolecules has been demonstrated by entrapping horse-radish peroxidase directly in the polypyrrole during composite formation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18330162

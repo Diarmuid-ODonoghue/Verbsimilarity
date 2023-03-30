@@ -1,0 +1,3 @@
+Recent advances in machine learning have given rise to deep learning, which uses hierarchical layers to build models, offering the ability to advance value-based healthcare by better predicting patient outcomes and costs of a given treatment. The purpose of this study is to compare the performance of 2 common deep learning models, traditional multilayer perceptron (MLP), and the newer dense neural network (DenseNet), in predicting outcomes for primary total hip arthroplasty (THA) and total knee arthroplasty (TKA) as a foundation for future musculoskeletal studies seeking to utilize machine learning.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31230954

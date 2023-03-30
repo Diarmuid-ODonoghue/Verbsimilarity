@@ -1,0 +1,3 @@
+Due to the low contrast, blurry boundaries, and large amount of shadows in breast ultrasound (BUS) images, automatic tumor segmentation remains a challenging task. Deep learning provides a solution to this problem, since it can effectively extract representative features from lesions and the background in BUS images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30374980

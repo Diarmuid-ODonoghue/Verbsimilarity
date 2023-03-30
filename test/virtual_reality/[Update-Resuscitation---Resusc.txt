@@ -1,0 +1,3 @@
+Die Zukunft der Notfallmedizin wird wesentlich durch technische Innovationen bestimmt werden: Neben einer virtuellen Lernumgebung im Rahmen der Ausbildung wird vor allem die Erkennung des Herz-Kreislauf-Stillstandes in Zukunft zunehmend digitalisiert werden. Der größte Meilenstein aber wird die individualisierte Reanimation sein – möglicherweise bestimmt schon bald der Computer stärker den Ablauf der Reanimation als standardisierte Algorithmen.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32316038

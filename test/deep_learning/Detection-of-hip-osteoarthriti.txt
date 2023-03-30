@@ -1,0 +1,3 @@
+The incidence of osteoarthritis is gradually increasing in public due to aging and increase in obesity. Various imaging methods are used in the diagnosis of hip osteoarthritis, and plain pelvic radiography is the first preferred imaging method in the diagnosis of hip osteoarthritis. In this study, we aimed to develop a computer-aided diagnosis method that will help physicians for the diagnosis of hip osteoarthritis by interpreting plain pelvic radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32248444

@@ -1,0 +1,3 @@
+Large-scale connectomics requires dense staining of neuronal tissue blocks for electron microscopy (EM). Here we report a large-volume dense en-bloc EM staining protocol that overcomes the staining gradients, which so far substantially limited the reconstructable volumes in three-dimensional (3D) EM. Our protocol provides densely reconstructable tissue blocks from mouse neocortex sized at least 1 mm in diameter. By relaxing the constraints on precise topographic sample targeting, it makes the correlated functional and structural analysis of neuronal circuits realistic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26235643

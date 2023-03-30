@@ -1,0 +1,3 @@
+We present a novel framework combining convolutional neural networks (CNN) and graph search methods (termed as CNN-GS) for the automatic segmentation of nine layer boundaries on retinal optical coherence tomography (OCT) images. CNN-GS first utilizes a CNN to extract features of specific retinal layer boundaries and train a corresponding classifier to delineate a pilot estimate of the eight layers. Next, a graph search method uses the probability maps created from the CNN to find the final boundaries. We validated our proposed method on 60 volumes (2915 B-scans) from 20 human eyes with non-exudative age-related macular degeneration (AMD), which attested to effectiveness of our proposed technique.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28663902

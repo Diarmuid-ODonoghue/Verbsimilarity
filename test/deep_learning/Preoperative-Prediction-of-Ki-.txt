@@ -1,0 +1,3 @@
+Ki-67 is one of the most important biomarkers of breast cancer traditionally measured invasively via immunohistochemistry. In this study, deep learning based radiomics models were established for preoperative prediction of Ki-67 status using multiparametric magnetic resonance imaging (mp-MRI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32278690

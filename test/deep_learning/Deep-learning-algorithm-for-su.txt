@@ -1,0 +1,3 @@
+Pneumothorax is the most common and potentially life-threatening complication arising from percutaneous lung biopsy. We evaluated the performance of a deep learning algorithm for detection of post-biopsy pneumothorax in chest radiographs (CRs), in consecutive cohorts reflecting actual clinical situation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32162001

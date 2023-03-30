@@ -1,0 +1,3 @@
+Epidemiologic estimates are now available for a variety of parameters related to major depression epidemiology (incidence, prevalence, etc.). These estimates are potentially useful for policy and planning purposes, but it is first necessary that they be synthesized into a coherent picture of the epidemiology of the condition. Several attempts to do so have been made using mathematical modeling procedures. However, this information is not easy to communicate to users of epidemiological data (clinicians, administrators, policy makers).
+
+https://www.ncbi.nlm.nih.gov/pubmed/17559663

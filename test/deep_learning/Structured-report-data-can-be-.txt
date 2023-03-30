@@ -1,0 +1,3 @@
+Data used for training of deep learning networks usually needs large amounts of accurate labels. These labels are usually extracted from reports using natural language processing or by time-consuming manual review. The aim of this study was therefore to develop and evaluate a workflow for using data from structured reports as labels to be used in a deep learning application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31549305

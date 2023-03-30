@@ -1,0 +1,3 @@
+Generative adversarial networks (GANs) are deep learning models aimed at generating fake realistic looking images. These novel models made a great impact on the computer vision field. Our study aims to review the literature on GANs applications in radiology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32035758

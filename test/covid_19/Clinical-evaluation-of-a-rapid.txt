@@ -1,0 +1,3 @@
+Since December 2019, there had been an outbreak of COVID-19 in Wuhan, China. At present, diagnosis COVID-19 were based on real-time RT-PCR, which have to be performed in biosafe laboratory and is unsatisfactory for suspect case screening. Therefore, there is an urgent need for rapid diagnostic test for COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32355546

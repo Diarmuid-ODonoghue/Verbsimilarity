@@ -1,0 +1,3 @@
+To evaluate the functional connectivity (FC) and resting-state networks (RSNs) in patients under anesthesia operated for resection of intracerebral lesions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31491572

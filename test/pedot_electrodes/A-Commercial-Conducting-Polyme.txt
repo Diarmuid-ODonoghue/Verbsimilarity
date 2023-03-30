@@ -1,0 +1,3 @@
+This work describes silicon nanoparticle-based lithium-ion battery negative electrodes where multiple nonactive electrode additives (usually carbon black and an inert polymer binder) are replaced with a single conductive binder, in this case, the conducting polymer
+
+https://www.ncbi.nlm.nih.gov/pubmed/26937766

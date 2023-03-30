@@ -1,0 +1,3 @@
+Adapting classifiers for the purpose of brain signal decoding is a major challenge in brain-computer-interface (BCI) research. In a previous study we showed in principle that hidden Markov models (HMM) are a suitable alternative to the well-studied static classifiers. However, since we investigated a rather straightforward task, advantages from modeling of the signal could not be assessed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26859831

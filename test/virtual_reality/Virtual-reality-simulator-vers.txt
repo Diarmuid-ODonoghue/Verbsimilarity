@@ -1,0 +1,3 @@
+To evaluate the effectiveness of virtual reality simulator (VRS) training compared to box-trainer training (BT) for learning outcomes in minimally invasive surgery (MIS) techniques.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30529216

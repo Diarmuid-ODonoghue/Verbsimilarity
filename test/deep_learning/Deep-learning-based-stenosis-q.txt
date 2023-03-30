@@ -1,0 +1,3 @@
+Coronary computed tomography angiography (CTA) allows quantification of stenosis. However, such quantitative analysis is not part of clinical routine. We evaluated the feasibility of utilizing deep learning for quantifying coronary artery disease from CTA.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31762536

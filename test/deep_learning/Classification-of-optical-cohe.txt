@@ -1,0 +1,3 @@
+Classification of optical coherence tomography (OCT) images can be achieved with high accuracy using classical convolution neural networks (CNN), a commonly used deep learning network for computer-aided diagnosis. Classical CNN has often been criticized for suppressing positional relations in a pooling layer. Therefore, because capsule networks can learn positional information from images, we attempted application of a capsule network to OCT images to overcome that shortcoming. This study is our attempt to improve classification accuracy by replacing CNN with a capsule network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32192460

@@ -1,0 +1,3 @@
+Serial electrocardiography aims to contribute to electrocardiogram (ECG) diagnosis by comparing the ECG under consideration with a previously made ECG in the same individual. Here, we present a novel algorithm to construct dedicated deep-learning neural networks (NNs) that are specialized in detecting newly emerging or aggravating existing cardiac pathology in serial ECGs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30755195

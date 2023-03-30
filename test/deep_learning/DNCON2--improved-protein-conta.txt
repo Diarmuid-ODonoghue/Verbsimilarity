@@ -1,0 +1,3 @@
+Significant improvements in the prediction of protein residue-residue contacts are observed in the recent years. These contacts, predicted using a variety of coevolution-based and machine learning methods, are the key contributors to the recent progress in ab initio protein structure prediction, as demonstrated in the recent CASP experiments. Continuing the development of new methods to reliably predict contact maps is essential to further improve ab initio structure prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29228185

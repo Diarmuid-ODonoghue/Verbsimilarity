@@ -1,0 +1,3 @@
+The preoperative planning of partial nephrectomy can be facilitated by the ability to view the tumor and surrounding tissue in three-dimensional (3D) virtual reality (VR). A technique to convert Digital Imaging and Communications in Medicine computed tomography scan data into a fully 3D VR environment was developed. The model can be transferred to a personal computer, allowing the surgeon to view the 3D model in the operating room.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16230126

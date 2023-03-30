@@ -1,0 +1,3 @@
+Segmentation of three-dimensional (3D) electron microscopy (EM) image stacks is an arduous and tedious task. Deep convolutional neural networks (CNNs) work well to automate the segmentation; however, they require a large training dataset, which is a major impediment. In order to solve this issue, especially for sparse segmentation, we used a CNN with a minimal training dataset. We segmented a Cerebellar Purkinje cell from an image stack of a mouse Cerebellum cortex in less than two working days, which is much shorter than that of the conventional method. We concluded that we can reduce the total labor time for the sparse segmentation by reducing the training dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31220299

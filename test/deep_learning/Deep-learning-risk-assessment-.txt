@@ -1,0 +1,3 @@
+To develop and evaluate deep learning (DL) risk assessment models for predicting the progression of radiographic medial joint space loss using baseline knee X-rays.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32035934

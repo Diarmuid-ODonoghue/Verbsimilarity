@@ -1,0 +1,3 @@
+Patients with anorexia nervosa (AN) have a persistent distorted experience of the size of their body. Previously we found that the Rubber Hand Illusion improves hand size estimation in this group. Here we investigated whether a Full Body Illusion (FBI) affects body size estimation of body parts more emotionally salient than the hand. In the FBI, analogue to the RHI, participants experience ownership over an entire virtual body in VR after synchronous visuo-tactile stimulation of the actual and virtual body.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27711234

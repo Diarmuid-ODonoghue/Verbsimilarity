@@ -1,0 +1,3 @@
+This study describes our experience with using a virtual reality simulator, CricSim, to enhance the training of combat medics to perform a cricothyroidotomy (surgical airway) while in Iraq. Over a six month period, 65 medics used the simulator as part of a Combat Medic Advanced Skills Training class while in Iraq and were asked to evaluate it. Students self-assessed comfort level with the procedure improved dramatically from baseline (p<5.6 x 10(-17)). The CricSim was rated highly on realism but only moderately on ease of use. The use of this simulator in a far forward setting was feasible, enhanced training, and provided necessary end-user feedback for future development of this training platform.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18391252

@@ -1,0 +1,3 @@
+Both simulation and high-fidelity simulation involving manikins, clinical training suites, wards, computer programs and theatres have established themselves in medical undergraduate and postgraduate education. Popular among students, they have been shown to be effective learning tools. Contrasted with this is the potential risk to patients and their proxy associated with learning 'at the bedside', which can pose a real challenge in medical and palliative settings. The need for education and training methods that do not expose the patient to preventable communication blunders from less experienced practitioners is a priority.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30254018

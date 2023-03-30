@@ -1,0 +1,3 @@
+The use of projector-based augmented reality (AR) in surgery may enable surgeons to directly view anatomical models and surgical data from the patient's surface (skin). It has the advantages of a consistent viewing focus on the patient, an extended field of view and augmented interaction. This paper presents an AR guidance mechanism with a projector-camera system to provide the surgeon with direct visual feedback for supervision of robotic needle insertion in radiofrequency (RF) ablation treatment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23649730

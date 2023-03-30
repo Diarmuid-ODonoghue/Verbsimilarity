@@ -1,0 +1,3 @@
+Dielectric damage occurring in vivo to neural electrodes, leading to conductive material exposure and impedance reduction over time, limits the functional lifetime and clinical viability of neuroprosthetics. We used silicon micromachined Utah Electrode Arrays (UEAs) with iridium oxide (IrOx) tip metallization and parylene C dielectric encapsulation to understand the factors affecting device resilience and drive improvements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29017900

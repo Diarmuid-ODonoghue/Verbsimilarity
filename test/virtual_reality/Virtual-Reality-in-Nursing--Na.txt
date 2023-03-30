@@ -1,0 +1,3 @@
+A virtual reality (VR) based training simulator developed for nasogastric tube (NGT) placement is presented. It leverages the advantages of VR technology - safety, flexibility, interactivity and quantitative assessment - to speed up the learning curve of NGT placement. The simulator demonstrates the potential of VR for nurse education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29295381

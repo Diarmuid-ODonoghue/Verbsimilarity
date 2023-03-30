@@ -1,0 +1,3 @@
+The study of phenomes or phenomics has been a central part of biology. The field of automatic phenotype acquisition technologies based on images has seen an important advance in the last years. As with other high-throughput technologies, it addresses a common set of problems, including data acquisition and analysis. In this review, we give an overview of the main systems developed to acquire images. We give an in-depth analysis of image processing with its major issues and the algorithms that are being used or emerging as useful to obtain data out of images in an automatic fashion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29048559

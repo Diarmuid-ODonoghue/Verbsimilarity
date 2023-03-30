@@ -1,0 +1,3 @@
+Real-time functional magnetic resonance imaging based brain-computer interfacing (fMRI neurofeedback) has shown encouraging outcomes in the treatment of psychiatric and behavioural disorders. However, its use in the treatment of eating disorders is very limited. Here, we give a brief overview of how to design and implement fMRI neurofeedback intervention for the treatment of eating disorders, considering the basic and essential components. We also attempt to develop potential adaptations of fMRI neurofeedback intervention for the treatment of anorexia nervosa, bulimia nervosa and binge eating disorder.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29627003

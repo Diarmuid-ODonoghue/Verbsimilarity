@@ -1,0 +1,3 @@
+Our brains distinguish between stimuli that are close enough to interact with our bodies and those that are further away by generating a multisensory representation of space near the self, termed peripersonal space. Recent findings show that variability in neuronal response to audio-tactile stimuli predicts the location of the peripersonal space boundary at the individual level.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26833067

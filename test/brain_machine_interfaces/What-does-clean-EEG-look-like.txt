@@ -1,0 +1,3 @@
+Lack of a clear analytical metric for identifying artifact free, clean electroencephalographic (EEG) signals inhibits robust comparison of different artifact removal methods and lowers confidence in the results of EEG analysis. An algorithm is presented for identifying clean EEG epochs by thresholding statistical properties of the EEG. Thresholds are trained on EEG datasets from both healthy subjects and stroke / spinal cord injury patient populations via differential evolution (DE).
+
+https://www.ncbi.nlm.nih.gov/pubmed/23366795

@@ -1,0 +1,3 @@
+Virtual surgical training systems are of growing value. Current prototypes for endonasal sinus surgery simulation are very expensive or lack running stability. No reliable system is available to a notable number of users yet. The purpose of this work was to develop a dependable simulator running on standard PC hardware including a detailed anatomic model, realistic tools and handling, stereoscopic view, and force feedback.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20013851

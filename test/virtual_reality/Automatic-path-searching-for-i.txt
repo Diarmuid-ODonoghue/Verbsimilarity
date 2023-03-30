@@ -1,0 +1,3 @@
+This article proposes the use of a disembodied autonomous actor for navigation support within complex virtual medical objects reconstructed from Computed Tomography or Magnetic Resonance Imaging. Such objects are often maze-like, and users risk getting lost within them during Virtual Reality sessions. Therefore, users need paths for guided fly-throughs when performing non-invasive diagnostic tasks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15354302

@@ -1,0 +1,3 @@
+Needle phobias are common in children and adults worldwide. One effective intervention for this phobia is exposure therapy where a participant is gradually exposed to increasing levels of the fear-evoking stimulus while differential reinforcement is applied. This intervention, however, may be difficult to implement with some medical procedures as it may be difficult to obtain unfettered access to medical facilities and equipment for the purposes of exposure. Virtual reality may overcome these obstacles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31192520

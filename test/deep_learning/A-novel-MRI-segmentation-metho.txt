@@ -1,0 +1,3 @@
+The purpose of this study was to expedite the contouring process for MRI-guided adaptive radiotherapy (MR-IGART), a convolutional neural network (CNN) deep-learning (DL) model is proposed to accurately segment the liver, kidneys, stomach, bowel and duodenum in 3D MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30269345

@@ -1,0 +1,3 @@
+Develop a high-performing algorithm to detect mesial temporal lobe (mTL) epileptiform discharges on intracranial electrode recordings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31760212

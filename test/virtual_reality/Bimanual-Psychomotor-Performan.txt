@@ -1,0 +1,3 @@
+Current selection methods for neurosurgical residents fail to include objective measurements of bimanual psychomotor performance. Advancements in computer-based simulation provide opportunities to assess cognitive and psychomotor skills in surgically naive populations during complex simulated neurosurgical tasks in risk-free environments. This pilot study was designed to answer 3 questions: (1) What are the differences in bimanual psychomotor performance among neurosurgical residency applicants using NeuroTouch? (2) Are there exceptionally skilled medical students in the applicant cohort? and (3) Is there an influence of previous surgical exposure on surgical performance?
+
+https://www.ncbi.nlm.nih.gov/pubmed/27395397

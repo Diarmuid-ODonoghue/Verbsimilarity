@@ -1,0 +1,3 @@
+Fraudulent milk adulteration is a dangerous practice in the dairy industry that is harmful to consumers since milk is one of the most consumed food products. Milk quality can be assessed by Fourier Transformed Infrared Spectroscopy (FTIR), a simple and fast method for obtaining its compositional information. The spectral data produced by this technique can be explored using machine learning methods, such as neural networks and decision trees, in order to create models that represent the characteristics of pure and adulterated milk samples.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31320927

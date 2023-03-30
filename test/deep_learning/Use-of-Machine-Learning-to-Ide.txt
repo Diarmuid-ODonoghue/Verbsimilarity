@@ -1,0 +1,3 @@
+The aims of this study were to assess follow-up recommendations in radiology reports, develop and assess traditional machine learning (TML) and deep learning (DL) models in identifying follow-up, and benchmark them against a natural language processing (NLP) system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30600162

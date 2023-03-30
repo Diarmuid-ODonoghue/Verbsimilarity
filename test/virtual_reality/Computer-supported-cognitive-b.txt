@@ -1,0 +1,3 @@
+This article reviews the empirical literature pertaining to the use of computer-supported cognitive-behavioral treatment of anxiety disorders, including palmtop computers, virtual reality exposure therapy, and personal computer software programs. The advantages and disadvantages unique to each type of technology are described. The review concludes with a discussion of ethical issues, barriers to the use of technology by clinicians, and suggestions for a process by which scientists and practitioners can conceptualize how technology can advance our understanding of anxiety and our dissemination of effective treatments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/14981790

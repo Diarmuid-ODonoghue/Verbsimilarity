@@ -1,0 +1,3 @@
+People who survive severe brain damage may eventually develop a prolonged consciousness disorder. Others can regain full consciousness but remain unable to speak or move because of the severity of the lesions, as for those with locked-in syndrome (LIS). Brain-computer interface techniques can be useful to disentangle these states by detecting neurophysiological correlates of conscious processing of information to enable communication with these individuals after the diagnosis.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30978530

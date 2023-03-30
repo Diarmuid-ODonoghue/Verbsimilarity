@@ -1,0 +1,3 @@
+Combining visual and auditory stimuli in event-related potential (ERP)-based spellers gained more attention in recent years. Few of these studies notice the difference of ERP components and system efficiency caused by the shifting of visual and auditory onset. Here, we aim to study the effect of temporal congruity of auditory and visual stimuli onset on bimodal brain-computer interface (BCI) speller.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26841382

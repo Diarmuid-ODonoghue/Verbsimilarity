@@ -1,0 +1,3 @@
+With the advancement of computational approaches and abundance of biomedical data, a broad range of neurodegenerative disease models have been developed. In this review, we argue that computational models can be both relevant and useful in neurodegenerative disease research and although the current established models have limitations in clinical practice, artificial intelligence has the potential to overcome deficiencies encountered by these models, which in turn can improve our understanding of disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32073441

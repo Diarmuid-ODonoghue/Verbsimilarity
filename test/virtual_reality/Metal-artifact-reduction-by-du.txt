@@ -1,0 +1,3 @@
+The aim of the study was to investigate the performance and diagnostic value of metal artifact reduction in virtual monoenergetic images generated from dual-layer computed tomography (DLCT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28668408

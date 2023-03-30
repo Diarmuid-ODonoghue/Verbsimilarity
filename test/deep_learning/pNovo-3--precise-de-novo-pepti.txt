@@ -1,0 +1,3 @@
+De novo peptide sequencing based on tandem mass spectrometry data is the key technology of shotgun proteomics for identifying peptides without any database and assembling unknown proteins. However, owing to the low ion coverage in tandem mass spectra, the order of certain consecutive amino acids cannot be determined if all of their supporting fragment ions are missing, which results in the low precision of de novo sequencing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31510687

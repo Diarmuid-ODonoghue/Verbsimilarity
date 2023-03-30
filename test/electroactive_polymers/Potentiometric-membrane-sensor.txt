@@ -1,0 +1,3 @@
+The construction and general performance characteristics of a novel potentiometric PVC membrane sensor based on pethidine-phosphomolybdate as electroactive material for the determination of pethidine are described. This sensor exhibits fast, stable and near-Nernstain response 55.24 +/- 0.1, over the concentration range 1.10(-2)-1.10(-5)M for pethidine-phosphomolybdate over pH 2-7. No interferences are caused by many organic, inorganic cations, alkaloids and amino acids. The sensor proved useful for determining pethidine in pure forms, pharmaceutical injections and monitoring the content uniformity assay of ampoules. The designed sensor also show good accuracy for the determination of pethidine in biological fluids.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18154000

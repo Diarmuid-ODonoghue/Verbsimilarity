@@ -1,0 +1,3 @@
+Both the valence and arousal components of affect are important considerations when managing mental healthcare because they are associated with affective and physiological responses. Research on arousal and valence analysis, which uses images, texts, and physiological signals that employ deep learning, is actively underway; research investigating how to improve the recognition rate is needed. The goal of this research was to design a deep learning framework and model to classify arousal and valence, indicating positive and negative degrees of emotion as high or low.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30443419

@@ -1,0 +1,3 @@
+Brain-machine interfaces (BMIs) allow direct translation of electric, magnetic or metabolic brain signals into control commands of external devices such as robots, prostheses or exoskeletons. However, non-stationarity of brain signals and susceptibility to biological or environmental artifacts impede reliable control and safety of BMIs, particularly in daily life environments. Here we introduce and tested a novel hybrid brain-neural computer interaction (BNCI) system fusing electroencephalography (EEG) and electrooculography (EOG) to enhance reliability and safety of continuous hand exoskeleton-driven grasping motions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25510922

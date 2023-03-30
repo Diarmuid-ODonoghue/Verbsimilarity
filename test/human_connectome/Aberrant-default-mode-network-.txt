@@ -1,0 +1,3 @@
+Melancholic depression is a relatively homogenous subtype of major depressive disorders (MDD). The condition has several endogenous symptoms and represents strong biological components. However, its specific neurobiological mechanisms remain unknown. Previous neuroimaging findings indicated that default mode network (DMN) is closely related to MDD. The present study examined the network homogeneity (NH) of the DMN in patients with melancholic MDD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27989405

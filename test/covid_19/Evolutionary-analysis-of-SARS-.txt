@@ -1,0 +1,3 @@
+SARS-CoV-2 is a new coronavirus that has spread globally, infecting more than 150000 people, and being declared pandemic by the WHO. We provide here bio-informatic, evolutionary analysis of 351 available sequences of its genome with the aim of mapping genome structural variations and the patterns of selection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32283146

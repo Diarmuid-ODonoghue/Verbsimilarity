@@ -1,0 +1,3 @@
+Surgical training methods are evolving with the technological advancements, including the application of virtual reality (VR) and augmented reality. However, 28 to 40% of novice residents are not confident in performing a major surgical procedure. VR surgery, an immersive VR (iVR) experience, was developed using Oculus Rift and Leap Motion devices (Leap Motion, Inc, San Francisco, CA) to address this challenge. Our iVR is a multisensory, holistic surgical training application that demonstrates a maxillofacial surgical technique, the Le Fort I osteotomy. The main objective of the present study was to evaluate the effect of using VR surgery on the self-confidence and knowledge of surgical residents.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29104028

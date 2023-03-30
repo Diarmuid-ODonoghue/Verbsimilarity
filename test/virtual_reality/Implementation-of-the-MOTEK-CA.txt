@@ -1,0 +1,3 @@
+Virtual reality exposure therapy (VRET) is becoming a more and more popular treatment method for patients suffering from anxiety disorders. One of the VRET methods, wchich could be used for this group of patients is MOTEK CAREN system, however, so far no studies have been published on its implementation in psychiatric disorders.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27663820

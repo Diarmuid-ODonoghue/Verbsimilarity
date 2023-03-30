@@ -1,0 +1,3 @@
+The segmentation of organs from a CT scan is a time-consuming task, which is one hindrance for adaptive radiation therapy. Through deep learning, it is possible to automatically delineate organs. Metrics like dice score do not necessarily represent the impact for clinical practice. Therefore, a clinical evaluation of the deep neural network is needed to verify the segmentation quality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31869676

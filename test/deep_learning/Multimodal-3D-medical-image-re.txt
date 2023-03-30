@@ -1,0 +1,3 @@
+Nonlinear multimodal image registration, for example, the fusion of computed tomography (CT) and magnetic resonance imaging (MRI), fundamentally depends on a definition of image similarity. Previous methods that derived modality-invariant representations focused on either global statistical grayscale relations or local structural similarity, both of which are prone to local optima. In contrast to most learning-based methods that rely on strong supervision of aligned multimodal image pairs, we aim to overcome this limitation for further practical use cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31741286

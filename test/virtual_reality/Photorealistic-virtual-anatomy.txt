@@ -1,0 +1,3 @@
+Virtual reality based learning of human anatomy is feasible when a database of 3D organ models is available for the learner to explore, visualize, and dissect in virtual space interactively. In this article, we present our latest work on photorealistic virtual anatomy applications based on the Chinese Visible Human (CVH) data. We have focused on the development of state-of-the-art virtual environments that feature interactive photo-realistic visualization and dissection of virtual anatomical models constructed from ultra-high resolution CVH datasets. We also outline our latest progress in applying these highly accurate virtual and functional organ models to generate realistic look and feel to advanced surgical simulators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16506219

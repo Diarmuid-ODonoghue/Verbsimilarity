@@ -1,0 +1,3 @@
+Virtual reality (VR) is an innovative tool for sensorimotor rehabilitation increasingly being employed in clinical and community settings. Despite the growing interest in VR, few studies have determined the validity of movements made in VR environments with respect to real physical environments. The goal of this study was to compare movements done in physical and virtual environments in adults with motor deficits to those in healthy individuals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15679937

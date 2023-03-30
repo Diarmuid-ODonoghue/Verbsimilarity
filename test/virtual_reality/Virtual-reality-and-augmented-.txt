@@ -1,0 +1,3 @@
+Recently, virtual reality (VR) and augmented reality (AR) have received increasing attention, with the development of VR/AR devices such as head-mounted displays, haptic devices, and AR glasses. Medicine is considered to be one of the most effective applications of VR/AR. In this article, we describe a systematic literature review conducted to investigate the state-of-the-art VR/AR technology relevant to plastic surgery. The 35 studies that were ultimately selected were categorized into 3 representative topics: VR/AR-based preoperative planning, navigation, and training. In addition, future trends of VR/AR technology associated with plastic surgery and related fields are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28573091

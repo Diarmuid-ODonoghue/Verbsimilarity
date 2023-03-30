@@ -1,0 +1,3 @@
+A reliable, real time localization functionality is crutial for actively controlled capsule endoscopy robots, which are an emerging, minimally invasive diagnostic and therapeutic technology for the gastrointestinal (GI) tract. In this study, we extend the success of deep learning approaches from various research fields to the problem of sensor fusion for endoscopic capsule robots. We propose a multi-sensor fusion based localization approach which combines endoscopic camera information and magnetic sensor based localization information. The results performed on real pig stomach dataset show that our method achieves sub-millimeter precision for both translational and rotational movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29250590

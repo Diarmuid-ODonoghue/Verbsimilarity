@@ -1,0 +1,3 @@
+Correlation based measures have widely been used to characterize brain connectivity. In this paper, a new approach based on singular spectrum analysis is proposed to characterize brain connectivity. It is obtained by deriving the common basis vector of two or more trajectory matrices associated with functional brain responses. This approach has the advantage illustrating the existence of joint variations of the functional brain responses and to characterize the correlation structure. The performance of the method are illustrated on both simulated autoregressive data and real fMRI data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23367097

@@ -1,0 +1,3 @@
+Outcome after cardiac arrest is dependent on the quality of chest compressions (CC). A great number of devices have been developed to provide guidance during CPR. The present study evaluates a new CPR feedback system (Mini-VREM: Mini-Virtual Reality Enhanced Mannequin) designed to improve CC during training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23238423

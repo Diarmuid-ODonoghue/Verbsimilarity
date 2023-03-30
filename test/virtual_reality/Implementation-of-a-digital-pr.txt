@@ -1,0 +1,3 @@
+To describe the implementation of a digital tool for preparation validation and evaluate it as an aid in students' self-assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28504847

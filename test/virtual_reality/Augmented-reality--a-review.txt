@@ -1,0 +1,3 @@
+Augmented reality is a technology that overlays digital information on objects or places in the real world for the purpose of enhancing the user experience. It is not virtual reality, that is, the technology that creates a totally digital or computer created environment. Augmented reality, with its ability to combine reality and digital information, is being studied and implemented in medicine, marketing, museums, fashion, and numerous other areas. This article presents an overview of augmented reality, discussing what it is, how it works, its current implementations, and its potential impact on libraries.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22559183

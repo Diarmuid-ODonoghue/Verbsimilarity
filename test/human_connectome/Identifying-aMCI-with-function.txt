@@ -1,0 +1,3 @@
+To investigate the subtle functional connectivity alterations of aMCI based on AAL atlas with 1024 regions (AAL_1024 atlas).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29729253

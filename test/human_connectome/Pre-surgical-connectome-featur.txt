@@ -1,0 +1,3 @@
+Gliomas are the most common type of malignant brain tumor. Clinical outcomes depend on many factors including tumor molecular characteristics. Mutation of the isocitrate dehydrogenase (IDH) gene confers significant benefits in terms of survival and quality of life. Preoperative determination of IDH genotype can facilitate surgical planning, allow for novel clinical trial designs, and assist clinical counseling surrounding the individual patient's disease.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31741712

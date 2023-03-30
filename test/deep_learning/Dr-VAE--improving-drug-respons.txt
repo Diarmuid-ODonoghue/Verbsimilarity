@@ -1,0 +1,3 @@
+Individualized drug response prediction is a fundamental part of personalized medicine for cancer. Great effort has been made to discover biomarkers or to develop machine learning methods for accurate drug response prediction in cancers. Incorporating prior knowledge of biological systems into these methods is a promising avenue to improve prediction performance. High-throughput cell line assays of drug-induced transcriptomic perturbation effects are a prior knowledge that has not been fully incorporated into a drug response prediction model yet.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30850846

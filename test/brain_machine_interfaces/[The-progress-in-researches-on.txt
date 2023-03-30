@@ -1,0 +1,3 @@
+An important application of the direct brain-machine interfaces are providing an outlet for severely paralyzed individuals to communicate with the world. According to different type of microelectrodes, brain-machine interfaces are divided into indirect-BMI and direct-BMI. Direct-BMI are intracortical recording devices designed to capture the action potentials of many individual neurons, especially those that code for movement or its intent. A key problem in research of BMI is how to enhance biocompatibility for direct-BMI. This review introduces some new microelectrodes of direct brain-machine interface which all have higher biocompatibility.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18232506

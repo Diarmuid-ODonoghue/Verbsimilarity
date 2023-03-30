@@ -1,0 +1,3 @@
+Electrocorticography (ECoG) electrodes implanted on the surface of the brain have recently emerged as a potential signal platform for brain-computer interface (BCI) systems. While clinical ECoG electrodes are currently implanted beneath the dura, epidural electrodes could reduce the invasiveness and the potential impact of a surgical site infection. Subdural electrodes, on the other hand, while slightly more invasive, may have better signals for BCI application. Because of this balance between risk and benefit between the two electrode positions, the effect of the dura on signal quality must be determined in order to define the optimal implementation for an ECoG BCI system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24654268

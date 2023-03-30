@@ -1,0 +1,3 @@
+Medicine and surgery are turning toward simulation to improve on limited patient interaction during residency training. Many simulators today use virtual reality with augmented haptic feedback with little to no physical elements. In a collaborative effort, the University of Florida Department of Neurosurgery and the Center for Safety, Simulation & Advanced Learning Technologies created a novel "mixed" physical and virtual simulator to mimic the ventriculostomy procedure. The simulator contains all the physical components encountered for the procedure with superimposed 3-D virtual elements for the neuroanatomical structures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25050577

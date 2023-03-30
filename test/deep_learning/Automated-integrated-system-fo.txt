@@ -1,0 +1,3 @@
+Mapping the architecture of the brain is essential for identifying the neural computations that affect behavior. Traditionally in histology, stained objects in tissue slices are hand-marked under a microscope in a manually intensive, time-consuming process. An integrated hardware and software system is needed to automate image acquisition, image processing, and object detection. Such a system would enable high throughput tissue analysis to rapidly map an entire brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31437805

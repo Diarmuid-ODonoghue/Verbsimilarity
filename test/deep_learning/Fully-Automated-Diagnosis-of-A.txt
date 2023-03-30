@@ -1,0 +1,3 @@
+To investigate the feasibility of using a deep learning-based approach to detect an anterior cruciate ligament (ACL) tear within the knee joint at MRI by using arthroscopy as the reference standard.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32076658

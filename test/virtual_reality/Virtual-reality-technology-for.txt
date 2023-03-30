@@ -1,0 +1,3 @@
+Neurosurgery represents one of the most challenging and delicate of any surgical procedure. Skull base tumors in particular oftentimes present as a very technically difficult procedures in the setting of neurosurgical teaching. Virtual reality technology is one of the most promising surgical planning tools. It can perform fast three-dimensional (3D) reconstruction of computed tomography (CT), magnetic resonance imaging (MRI) and other imaging data sets under conditions of virtual reality (VR). Surgical simulation can more intuitively understand the anatomical relationship of the surgical area in significantly greater detail.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31900135

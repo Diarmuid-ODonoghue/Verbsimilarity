@@ -1,0 +1,3 @@
+Deep learning convolutional neural networks (CNNs) show great potential for melanoma diagnosis. Melanoma thickness at diagnosis among others depends on melanoma localisation and subtype (e.g. advanced thickness in acrolentiginous or nodular melanomas). The question whether CNN may counterbalance physicians' diagnostic difficulties in these melanomas has not been addressed. We aimed to investigate the diagnostic performance of a CNN with approval for the European market across different melanoma localisations and subtypes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31972395

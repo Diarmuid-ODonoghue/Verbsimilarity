@@ -1,0 +1,3 @@
+Recent advances in computer vision have made accurate, fast and robust measurement of animal behavior a reality. In the past years powerful tools specifically designed to aid the measurement of behavior have come to fruition. Here we discuss how capturing the postures of animals-pose estimation - has been rapidly advancing with new deep learning methods. While challenges still remain, we envision that the fast-paced development of new deep learning tools will rapidly change the landscape of realizable real-world neuroscience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31791006

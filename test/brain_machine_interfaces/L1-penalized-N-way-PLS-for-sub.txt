@@ -1,0 +1,3 @@
+Recently, the N-way partial least squares (NPLS) approach was reported as an effective tool for neuronal signal decoding and brain-computer interface (BCI) system calibration. This method simultaneously analyzes data in several domains. It combines the projection of a data tensor to a low dimensional space with linear regression. In this paper the L1-Penalized NPLS is proposed for sparse BCI system calibration, allowing uniting the projection technique with an effective selection of subset of features. The L1-Penalized NPLS was applied for the binary self-paced BCI system calibration, providing selection of electrodes subset. Our BCI system is designed for animal research, in particular for research in non-human primates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22832155

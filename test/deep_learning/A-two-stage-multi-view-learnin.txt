@@ -1,0 +1,3 @@
+With the fast development of artificial intelligence techniques, we proposed a novel two-stage multi-view learning framework for the contrast-enhanced ultrasound (CEUS) based computer-aided diagnosis for liver tumors, which adopted only three typical CEUS images selected from the arterial phase, portal venous phase and late phase.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29630528

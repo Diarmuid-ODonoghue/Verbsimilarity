@@ -1,0 +1,3 @@
+We have applied a computational strategy, using a combination of virtual screening, docking and molecular dynamics techniques, aimed at identifying possible lead compounds for the non-covalent inhibition of the main protease 3CLpro of the SARS-CoV2 Coronavirus. Based on the X-ray structure (PDB code: 6LU7), ligands were generated using a multimodal structure-based design and then docked to the monomer in the active state. Docking calculations show that ligand-binding is strikingly similar in SARS-CoV and SARS-CoV2 main proteases. The most potent docked ligands are found to share a common binding pattern with aromatic moieties connected by rotatable bonds in a pseudo-linear arrangement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32313296

@@ -1,0 +1,3 @@
+Since the beginning of the COVID-19 epidemic in Italy, the Italian Government implemented several restrictive measures to contain the spread of the infection. Data shows that, among these measures, the lockdown implemented as of 9 March had a positive impact, in particular  the central and southern regions of Italy, while other actions appeared to be less effective. When the true prevalence of a disease is unknown, it is possible estimate it, based on mortality data and the assumptive case-fatality rate of the disease. Given these assumptions, the estimated period-prevalence of COVID-19 in Italy varies from 0.35% in Sicity to 13.3% in Lombardy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32275287

@@ -1,0 +1,3 @@
+Carotid artery stenting (CAS) is a technically demanding procedure with a risk of periprocedural stroke. A scoring system based on anatomic criteria has been developed to facilitate patient selection for CAS. Advancements in simulation science also enable case evaluation through patient-specific virtual reality (VR) rehearsal on an endovascular simulator. This study aimed to validate the anatomic scoring system for CAS using the patient-specific VR technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22743018

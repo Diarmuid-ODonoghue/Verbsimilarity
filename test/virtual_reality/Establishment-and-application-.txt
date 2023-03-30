@@ -1,0 +1,3 @@
+Early diagnosis and accurate staging are important to improve the cure rate and prognosis for pancreatic cancer. This study was performed to develop an automatic and accurate imaging processing technique system, allowing this system to read computed tomography (CT) images correctly and make diagnosis of pancreatic cancer faster.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31856050

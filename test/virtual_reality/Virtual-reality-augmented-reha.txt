@@ -1,0 +1,3 @@
+Recent evidence indicates that intensive massed practice may be necessary to modify neural organization and effect recovery of motor skills in patients following stroke. Virtual reality (VR) technology has the capability of creating an interactive, motivating environment in which practice intensity and feedback can be manipulated to create individualized treatments to retrain movement.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12201804

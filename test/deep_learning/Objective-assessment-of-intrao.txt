@@ -1,0 +1,3 @@
+Objective assessment of intraoperative technical skill is necessary for technology to improve patient care through surgical training. Our objective in this study was to develop and validate deep learning techniques for technical skill assessment using videos of the surgical field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30977091

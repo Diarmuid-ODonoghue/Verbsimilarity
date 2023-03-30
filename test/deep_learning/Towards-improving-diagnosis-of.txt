@@ -1,0 +1,3 @@
+The emergence of the deep convolutional neural network (CNN) greatly improves the quality of computer-aided supporting systems. However, due to the challenges of generating reliable and timely results, clinical adoption of computer-aided diagnosis systems is still limited. Recent informatics research indicates that machine learning algorithms need to be combined with sufficient clinical expertise in order to achieve an optimal result.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30066649

@@ -1,0 +1,3 @@
+There is increasing interest in the use of virtual-reality simulators in general surgery residency training. Many simulators lack a benchmark against which trainees can measure competence and skill.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18813977

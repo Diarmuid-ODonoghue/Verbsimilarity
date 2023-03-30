@@ -1,0 +1,3 @@
+Computerized smartglasses are being developed as an assistive technology for daily activities in children and adults with autism spectrum disorder (ASD). While smartglasses may be able to help with educational and behavioral needs, their usability and acceptability in children with ASD is largely unknown. There have been reports of negative social perceptions surrounding smartglasses use in mainstream populations, a concern given that assistive technologies may already carry their own stigma. Children with ASD may also have a range of additional behavioral, developmental, and social challenges when asked to use this emerging technology in school and home settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29301738

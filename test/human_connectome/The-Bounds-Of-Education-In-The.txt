@@ -1,0 +1,3 @@
+Inter-individual heterogeneity is evident in aging; education level is known to contribute for this heterogeneity. Using a cross-sectional study design and network inference applied to resting-state fMRI data, we show that aging was associated with decreased functional connectivity in a large cortical network. On the other hand, education level, as measured by years of formal education, produced an opposite effect on the long-term. These results demonstrate the increased brain efficiency in individuals with higher education level that may mitigate the impact of age on brain functional connectivity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26245669

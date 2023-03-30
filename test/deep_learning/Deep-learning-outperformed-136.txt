@@ -1,0 +1,3 @@
+Recent studies have successfully demonstrated the use of deep-learning algorithms for dermatologist-level classification of suspicious lesions by the use of excessive proprietary image databases and limited numbers of dermatologists. For the first time, the performance of a deep-learning algorithm trained by open-source images exclusively is compared to a large number of dermatologists covering all levels within the clinical hierarchy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30981091

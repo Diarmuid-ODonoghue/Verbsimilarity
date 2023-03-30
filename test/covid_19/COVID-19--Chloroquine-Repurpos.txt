@@ -1,0 +1,3 @@
+The desperate need to find drugs for COVID-19 has indicated repurposing strategies as our quickest way to obtain efficacious medicines. One of the options under investigation is the old antimalarial drug, chloroquine, and its analog, hydroxychloroquine. Developed as synthetic succedanea of cinchona alkaloids, these chiral antimalarials are currently in use as the racemate. Besides the ethical concern related to accelerated large-scale clinical trials of drugs with unproven efficacy, the known potential detrimental cardiac effects of these drugs should also be considered. In principle, the safety profile might be ameliorated by using chloroquine/hydroxychloroquine single enantiomers in place of the racemate.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32316270

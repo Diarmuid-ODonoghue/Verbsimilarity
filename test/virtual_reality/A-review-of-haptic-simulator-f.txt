@@ -1,0 +1,3 @@
+Traditional medical training in oral and maxillofacial surgery (OMFS) may be limited by its low efficiency and high price due to the shortage of cadaver resources. With the combination of visual rendering and feedback force, surgery simulators become increasingly popular in hospitals and medical schools as an alternative to the traditional training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29865882

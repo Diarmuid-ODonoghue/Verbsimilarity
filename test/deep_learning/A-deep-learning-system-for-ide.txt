@@ -1,0 +1,3 @@
+Lattice degeneration and/or retinal breaks, defined as notable peripheral retinal lesions (NPRLs), are prone to evolving into rhegmatogenous retinal detachment which can cause severe visual loss. However, screening NPRLs is time-consuming and labor-intensive. Therefore, we aimed to develop and evaluate a deep learning (DL) system for automated identifying NPRLs based on ultra-widefield fundus (UWF) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31930019

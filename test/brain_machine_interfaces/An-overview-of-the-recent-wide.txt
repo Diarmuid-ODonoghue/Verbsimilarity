@@ -1,0 +1,3 @@
+Neuroprosthetic devices such as cochlear and retinal implants need to deliver a large volume of data from external sensors into the body, while invasive brain-computer interfaces need to deliver sizeable amounts of data from the central nervous system to target devices outside of the body. Nonetheless, the skin should remain intact. This paper reviews some of the latest techniques to establish wideband wireless communication links across the skin.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22255673

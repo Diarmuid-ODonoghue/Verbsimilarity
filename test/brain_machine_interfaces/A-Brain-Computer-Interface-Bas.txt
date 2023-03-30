@@ -1,0 +1,3 @@
+Traditional visual brain-computer interfaces (BCIs) preferred to use large-size stimuli to attract the user's attention and elicit distinct electroencephalography (EEG) features. However, the visual stimuli are of no interest to the users as they just serve as the hidden codes behind the characters. Furthermore, using stronger visual stimuli could cause visual fatigue and other adverse symptoms to users. Therefore, it's imperative for visual BCIs to use small and inconspicuous visual stimuli to code characters.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29683431

@@ -1,0 +1,3 @@
+The use of computational fluid dynamics allows to simulate a large number of different variations of a general flow phenomenon in a reasonable amount of time. This lays the foundation for large scale comparative studies. However, in order to be able to compare the simulation results effectively, advanced comparison methods are needed. In this paper we describe a set of techniques for the comparison of flow simulation results. All methods are integrated in a virtual reality based prototype and facilitate the interactive exploration of the data domain. As a specific application example the described techniques are used to compare different human nasal cavity flows to each other.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377260

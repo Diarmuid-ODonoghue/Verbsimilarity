@@ -1,0 +1,3 @@
+The current state of research of upper extremity prosthetic devices is focused on creating a complete prosthesis with full motor and sensory function that will provide amputees with a near-normal human arm. Although advances are being made rapidly, many hurdles remain to be overcome before a functional, so-called bionic arm is a reality. Acquiring signals via nerve or muscle inputs will require either a reliable wireless device or direct wiring through an osseous-integrated implant. The best way to tap into the "knowledge" present in the peripheral nerve is yet to be determined.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24860130

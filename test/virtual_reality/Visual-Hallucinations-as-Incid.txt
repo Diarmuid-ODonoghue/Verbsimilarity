@@ -1,0 +1,3 @@
+We followed up a series of 23 Parkinson's disease (PD) patients who had performed an immersive virtual reality (VR) protocol eight years before. On that occasion, six patients incidentally described visual hallucinations (VH) with occurrences of images not included in the virtual environment. Curiously, in the following years, only these patients reported the appearance of VH later in their clinical history, while the rest of the group did not. Even considering the limited sample size, we may argue that VR immersive systems can induce unpleasant effects in PD patients who are predisposed to a cognitive impairment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26064775

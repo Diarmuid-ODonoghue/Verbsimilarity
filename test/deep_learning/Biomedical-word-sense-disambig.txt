@@ -1,0 +1,3 @@
+In recent years, deep learning methods have been applied to many natural language processing tasks to achieve state-of-the-art performance. However, in the biomedical domain, they have not out-performed supervised word sense disambiguation (WSD) methods based on support vector machines or random forests, possibly due to inherent similarities of medical word senses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31787096

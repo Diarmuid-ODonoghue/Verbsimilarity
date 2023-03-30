@@ -1,0 +1,3 @@
+Most of the existing convolutional neural network (CNN)-based medical image segmentation methods are based on methods that have originally been developed for segmentation of natural images. Therefore, they largely ignore the differences between the two domains, such as the smaller degree of variability in the shape and appearance of the target volume and the smaller amounts of training data in medical applications. We propose a CNN-based method for prostate segmentation in MRI that employs statistical shape models to address these issues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29766373

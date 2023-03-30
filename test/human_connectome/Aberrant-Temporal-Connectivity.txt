@@ -1,0 +1,3 @@
+Schizophrenia, a neurodevelopmental disorder, involves abnormalities in functional connectivity (FC) across distributed neural networks, which are thought to antedate the emergence of psychosis. In a cohort of adolescents and young adults at clinical high risk (CHR) for psychosis, we applied data-driven approaches to resting-state fMRI data so as to systematically characterize FC abnormalities during this period and determine whether these abnormalities are associated with psychosis risk and severity of psychotic symptoms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29202110

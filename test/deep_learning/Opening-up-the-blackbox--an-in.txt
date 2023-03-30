@@ -1,0 +1,3 @@
+Gene expression is mediated by specialized cis-regulatory modules (CRMs), the most prominent of which are called enhancers. Early experiments indicated that enhancers located far from the gene promoters are often responsible for mediating gene transcription. Knowing their properties, regulatory activity, and genomic targets is crucial to the functional understanding of cellular events, ranging from cellular homeostasis to differentiation. Recent genome-wide investigation of epigenomic marks has indicated that enhancer elements could be enriched for certain epigenomic marks, such as, combinatorial patterns of histone modifications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27490187

@@ -1,0 +1,3 @@
+Magnetic resonance images with multiple contrasts or sequences are commonly used for segmenting brain tissues, including lesions, in multiple sclerosis (MS). However, acquisition of images with multiple contrasts increases the scan time and complexity of the analysis, possibly introducing factors that could compromise segmentation quality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31670238

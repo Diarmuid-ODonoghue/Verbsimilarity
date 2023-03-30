@@ -1,0 +1,3 @@
+Several virtual reality simulators have been developed to assist orthopaedic surgeons in acquiring the skills necessary to perform arthroscopic surgery. The purpose of this study was to assess the construct validity of the ArthroSim virtual reality arthroscopy simulator by evaluating whether skills acquired through increased experience in the operating room lead to improved performance on the simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24695934

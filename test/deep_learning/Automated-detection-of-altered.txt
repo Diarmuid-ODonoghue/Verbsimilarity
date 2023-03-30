@@ -1,0 +1,3 @@
+Machine learning has been used extensively in clinical text classification tasks. Deep learning approaches using word embeddings have been recently gaining momentum in biomedical applications. In an effort to automate the identification of altered mental status (AMS) in emergency department provider notes for the purpose of decision support, we compare the performance of classic bag-of-words-based machine learning classifiers and novel deep learning approaches.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31426779

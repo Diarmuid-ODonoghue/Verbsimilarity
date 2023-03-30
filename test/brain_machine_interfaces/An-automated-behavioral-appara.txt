@@ -1,0 +1,3 @@
+The neural principles underlying reaching and grasping movements have been studied extensively in primates for decades. However, few experimental apparatuses have been developed to enable a flexible combination of reaching and grasping in one task in three-dimensional (3D) space.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30502371

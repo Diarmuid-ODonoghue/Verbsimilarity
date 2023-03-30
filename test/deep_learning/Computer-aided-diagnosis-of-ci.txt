@@ -1,0 +1,3 @@
+High mortality rate due to liver cirrhosis has been reported over the globe in the previous years. Early detection of cirrhosis may help in controlling the disease progression toward hepatocellular carcinoma (HCC). The lack of trained CT radiologists and increased patient population delays the diagnosis and further management. This study proposes a computer-aided diagnosis system for detecting cirrhosis and HCC in a very efficient and less time-consuming approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31062266

@@ -1,0 +1,3 @@
+Transcription factors bind regulatory DNA sequences in a combinatorial manner to modulate gene expression. Deep neural networks (DNNs) can learn the cis-regulatory grammars encoded in regulatory DNA sequences associated with transcription factor binding and chromatin accessibility. Several feature attribution methods have been developed for estimating the predictive importance of individual features (nucleotides or motifs) in any input DNA sequence to its associated output prediction from a DNN model. However, these methods do not reveal higher-order feature interactions encoded by the models.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30423062

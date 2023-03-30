@@ -1,0 +1,3 @@
+In the area of connectomics, there is a significant gap between the time required for data acquisition and dense reconstruction of the neural processes contained in the same dataset. Automatic methods are able to eliminate this timing gap, but the state-of-the-art accuracy so far is insufficient for use without user corrections. If completed naively, this process of correction can be tedious and time consuming.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25769273

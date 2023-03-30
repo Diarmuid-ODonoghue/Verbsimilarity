@@ -1,0 +1,3 @@
+Magnetic resonance imaging (MRI) is a flexible and widely available neuroimaging technique. Structural MRI and diffusion MRI, in particular, provide information about connectivity between brain regions which may be combined to obtain a picture of entire neural networks, or the so-called connectome. In this review we outline the principles of MR-based connectivity analysis, discuss what relevant information it can provide for clinical and non-clinical neuroscience research, and outline some of the outstanding needs which future work will aim to meet.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24139656

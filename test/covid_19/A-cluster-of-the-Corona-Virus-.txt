@@ -1,0 +1,3 @@
+The infectivity and transmission capacity of COVID-2019 cases during the incubation period are not very clear. The manuscript described a cluster to provide information for research on incubation period infection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32283165

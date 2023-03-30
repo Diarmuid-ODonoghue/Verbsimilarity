@@ -1,0 +1,3 @@
+Novel hand-held optical coherence tomography (OCT) probes with polymer cantilevers have been developed for clinical oral and skin imaging. An electroactive ionic polymer-metal composite cantilever was used to generate 3-mm transverse scanning movement of an optical fiber with applied 2-V linear alternating voltage at 1 Hz. Low driving voltage ensures safety. Two different optical designs achieve both forward and sidewise scanning and make it possible to image everywhere within the human oral cavity. In vivo OCT imaging of the human tongue is demonstrated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15648635

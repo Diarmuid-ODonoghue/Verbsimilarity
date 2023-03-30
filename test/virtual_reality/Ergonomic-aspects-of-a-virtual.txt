@@ -1,0 +1,3 @@
+A virtual environment is an interactive graphic system mediated through computer technology that allows a certain level of reality or a sense of presence to access virtual information. To create reality in a virtual environment, ergonomics issues are explored in this paper, aiming to develop the design of presentation formats with related information, that is possible to attain and to maintain user-friendly application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10602643

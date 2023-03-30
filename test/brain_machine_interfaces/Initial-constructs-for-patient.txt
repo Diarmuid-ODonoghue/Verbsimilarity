@@ -1,0 +1,3 @@
+The authors describe preliminary work toward the creation of patient-centered outcome (PCO) measures to evaluate brain-computer interface (BCI) as an assistive technology (AT) for individuals with severe speech and physical impairments (SSPI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25806719

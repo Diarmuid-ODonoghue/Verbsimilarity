@@ -1,0 +1,3 @@
+Deep learning-based data analysis methods have gained considerable attention in all fields of science over the last decade. In recent years, this trend has reached the single-molecule community. In this review, we will survey significant contributions of the application of deep learning in single-molecule imaging experiments. Additionally, we will describe the historical events that led to the development of modern deep learning methods, summarize the fundamental concepts of deep learning, and highlight the importance of proper data composition for accurate, unbiased results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32206433

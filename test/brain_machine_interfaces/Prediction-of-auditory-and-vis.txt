@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCIs) provide a non-muscular communication channel for patients with late-stage motoneuron disease (e.g., amyotrophic lateral sclerosis (ALS)) or otherwise motor impaired people and are also used for motor rehabilitation in chronic stroke. Differences in the ability to use a BCI vary from person to person and from session to session. A reliable predictor of aptitude would allow for the selection of suitable BCI paradigms. For this reason, we investigated whether P300 BCI aptitude could be predicted from a short experiment with a standard auditory oddball.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23457444

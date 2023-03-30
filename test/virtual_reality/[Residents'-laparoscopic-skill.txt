@@ -1,0 +1,3 @@
+Many laparoscopic simulation techniques exist. In Denmark, laparoscopic simulation models, such as virtual reality trainers and video box trainers are poorly implemented at surgical departments in spite of convincing evidence of their effect. Implementation is most likely limited by the considerable costs of certain commercial models. However, recent studies have shown that low-cost models in fact may have better effect than the more costly ones. Focus should therefore be channelled towards implementation of low-cost simulation training at all surgical departments throughout the country.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25294506

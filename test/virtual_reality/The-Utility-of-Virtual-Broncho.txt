@@ -1,0 +1,3 @@
+Recent clinical trials demonstrated the benefits of several guided-bronchoscopy technologies for the diagnosis of peripheral pulmonary lesions (PPLs). However, introduction of these technologies is expensive. Therefore, in clinical practice, these are unavailable in many hospitals. In contrast, virtual bronchoscopy (VB) using the computed tomography (CT) workstation can be made available immediately without additional cost as many hospitals already have the CT scan facility. However, the effectiveness of VB alone remains to be shown.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30149393

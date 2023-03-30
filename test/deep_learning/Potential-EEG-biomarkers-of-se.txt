@@ -1,0 +1,3 @@
+Sedation of neurocritically ill patients is one of the most challenging situation in ICUs. Quantitative knowledge on the sedation effect on brain activity in that complex scenario could help to uncover new markers for sedation assessment. Hence, we aim to evaluate the existence of changes of diverse EEG-derived measures in deeply-sedated (RASS-Richmond agitation-sedation scale  -4 and  -5) neurocritically ill patients, and also whether sedation doses are related with those eventual changes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30703765

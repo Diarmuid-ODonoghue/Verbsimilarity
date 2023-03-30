@@ -1,0 +1,3 @@
+Existing summary statistics based upon optical coherence tomographic (OCT) scans and/or visual fields (VFs) are suboptimal for distinguishing between healthy and glaucomatous eyes in the clinic. This study evaluates the extent to which a hybrid deep learning method (HDLM), combined with a single wide-field OCT protocol, can distinguish eyes previously classified as either healthy suspects or mild glaucoma.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29045329

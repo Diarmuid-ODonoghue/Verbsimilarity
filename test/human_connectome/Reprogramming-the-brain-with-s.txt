@@ -1,0 +1,3 @@
+The mammalian brain is among the most complex organs known in biology. Historically, neuroscience techniques have consisted primarily of low-throughput microscopy and electrophysiological approaches. While these methods will continue to serve the community, the emerging field of synthetic neurobiology may be better equipped to scale with systems neuroscience. By using genetic techniques to achieve cell-type specificity, a map of the connectome, neural activation and recording, and ultimately to program neural development itself, we can begin to build a better framework with which to understand the brain's mechanisms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30458406

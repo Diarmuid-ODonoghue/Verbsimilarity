@@ -1,0 +1,3 @@
+Some noninvasive brain-computer interface (BCI) systems are currently available for locked-in syndrome (LIS) but none have incorporated a statistical language model during text generation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24370570

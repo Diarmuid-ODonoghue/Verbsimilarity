@@ -1,0 +1,3 @@
+We aim to combine deep neural networks and engineered features (hand-crafted features based on medical domain knowledge) for cardiac arrhythmia detection from short single-lead ECG recordings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30943458

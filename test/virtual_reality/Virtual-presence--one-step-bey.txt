@@ -1,0 +1,3 @@
+The capabilities and applications of the Dextrous Anthropomorphic Robotic Testbed (DART) in geologic exploration on the Moon and Mars are described. The article also describes a simulation of planetary exploration using a DART robot and Full Immersion Telepresence Testbed (FITT) gear worn by a human. The FITT apparatus allows a human "master" to control movement in the DART "slave". The simulation focused on the robot's ability to use fine motor coordination to manipulate geologic field tools.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12090270

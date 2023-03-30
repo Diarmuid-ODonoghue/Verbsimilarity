@@ -1,0 +1,3 @@
+Patients with unilateral neglect have problems reporting, responding, or orienting to novel or meaningful stimuli that is presented to the side opposite to that of a brain lesion. This creates a serous problem in regards to daily living activities. However, the established methods for assessing and training of unilateral neglect patients have several deficits. Recently, virtual reality (VR) technologies have been used as an assessment and treatment tool for rehabilitation. Hence, this study designed a VR system to assess and train unilateral neglect patients. In addition, the suitability and feasibility of our VR system for unilateral neglect patients was verified.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15687810

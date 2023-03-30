@@ -1,0 +1,3 @@
+The investigation of large-scale intrinsic connectivity networks in antipsychotic-naïve first-episode schizophrenia increases our understanding of system-level cerebral dysfunction in schizophrenia while enabling control of confounding effects of medication and disease progression. Reports on functional connectivity in antipsychotic-naïve patients have been mixed and the relation between network alterations, psychopathology and cognition is unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29373756

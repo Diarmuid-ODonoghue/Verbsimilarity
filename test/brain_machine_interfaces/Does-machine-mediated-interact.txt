@@ -1,0 +1,3 @@
+We present a study in which participants were trained in several sessions to control a (comparatively simple) robot via an EEG-/motor imagery-based Brain-Computer Interface (BCI). In the final (experiment) session pairs of participants were formed and each participant controlled one of two robots in a shared space. EEG data was recorded synchronously from both participants. We performed a joint data analysis on the datasets and found increases of phase-locking in μ- and θ-band. One such phase-locking effect appears to be time-locked to the start of the robotic action.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570134

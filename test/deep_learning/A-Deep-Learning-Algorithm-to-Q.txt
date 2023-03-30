@@ -1,0 +1,3 @@
+To train a deep learning (DL) algorithm that quantifies glaucomatous neuroretinal damage on fundus photographs using the minimum rim width relative to Bruch membrane opening (BMO-MRW) from spectral-domain optical coherence tomography (SDOCT).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30689990

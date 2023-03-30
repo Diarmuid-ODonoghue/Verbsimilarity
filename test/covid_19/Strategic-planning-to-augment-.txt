@@ -1,0 +1,3 @@
+Nearly 5,500 tests for coronavirus disease 2019 (COVID-19) had been conducted on March 31, 2020 across the Indian Council of Medical Research (ICMR)-approved public and private laboratories in India. Given the need to rapidly increase testing coverage, we undertook an exercise to explore and quantify interventions to increase the daily real-time reverse transcription-polymerase chain reaction (qRT-PCR)-based testing capacity over the next few months. The objective of this exercise was to prepare a potential plan to scale-up COVID-19 testing in India in the public sector.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32362646

@@ -1,0 +1,3 @@
+Most susceptibility loci for complex dermatologic diseases fall within non-coding regions, making assignment of function difficult. Chromosome conformation capture addresses this problem by using the spatial organization of chromatin to identify the genes these loci interact with, often across long distances. Furthermore, as gene regulation is tissue-/cell-dependent, studying relevant cell populations is critical to reveal the molecular mechanisms involved.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30797317

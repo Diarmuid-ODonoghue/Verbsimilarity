@@ -1,0 +1,3 @@
+This study evaluates if undergraduate medical trainees' laparoscopic skills acquisition could be assessed using a virtual reality (VR) simulator and how the resultant metrics correlate with performance of Fundamentals of Laparoscopic Surgery (FLS) tasks. Our hypothesis is that the VR simulator metrics will correlate with passing results in a competency-based curriculum (FLS).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28501116

@@ -1,0 +1,3 @@
+Despite the fundamental biological importance and clinical relevance of characterizing the effects of chronic hypoxia exposure on central nervous system (CNS) development, the changes in gene expression from hypoxia are unknown. It is not known if there are unifying principles, properties, or logic in the response of the developing CNS to hypoxic exposure. Here, we use the small vertebrate zebrafish (Danio rerio) to study the effects of hypoxia on connectivity gene expression across development. We perform transcriptional profiling at high temporal resolution to systematically determine and then experimentally validate the response of CNS connectivity genes to hypoxia exposure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27146468

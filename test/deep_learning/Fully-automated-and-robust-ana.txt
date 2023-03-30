@@ -1,0 +1,3 @@
+To develop a fully automated vessel wall (VW) analysis workflow (fully automated and robust analysis technique for popliteal artery evaluation, FRAPPE) on the popliteal artery in standardized knee MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32162395

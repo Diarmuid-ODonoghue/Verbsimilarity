@@ -1,0 +1,3 @@
+To assess the diagnostic accuracy of imaging-based deep learning analysis to differentiate between human papillomavirus (HPV) positive and negative oropharyngeal squamous cell carcinomas (OPSCCs) using FDG-PET images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32171912

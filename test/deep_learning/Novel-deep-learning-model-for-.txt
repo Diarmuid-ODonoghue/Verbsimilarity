@@ -1,0 +1,3 @@
+Predicting the effect of drug-drug interactions (DDIs) precisely is important for safer and more effective drug co-prescription. Many computational approaches to predict the effect of DDIs have been proposed, with the aim of reducing the effort of identifying these interactions in vivo or in vitro, but room remains for improvement in prediction performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31387547

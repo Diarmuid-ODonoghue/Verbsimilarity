@@ -1,0 +1,3 @@
+Accurate estimation of food portion size is a difficult task. Visual cues are important mediators of portion size and therefore technology-based aids may assist consumers when serving and estimating food portions. The current study evaluated the usability and impact on estimation error of standard food servings of a novel augmented reality food serving aid, ServAR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28499433

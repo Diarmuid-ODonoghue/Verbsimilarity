@@ -1,0 +1,3 @@
+In this study, we propose a method for automatically predicting atrial fibrillation (AF) based on convolutional neural network (CNN) using a short-term normal electrocardiogram (ECG) signal.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30804732

@@ -1,0 +1,3 @@
+Emergence of coronavirus disease 2019 (COVID-19) is a major healthcare threat. Current method of detection involves qPCR-based technique, which identifies the viral nucleic acids when present in sufficient quantity. False negative results can be achieved and failure to quarantine the infected patient would be a major setback in containing the viral transmission. We here aim to describe the time kinetics of various antibodies produced against the 2019 novel coronavirus (SARS-CoV-2) and evaluate the potential of antibody testing to diagnose COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32198501

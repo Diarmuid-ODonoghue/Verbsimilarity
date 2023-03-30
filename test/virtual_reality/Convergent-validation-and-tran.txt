@@ -1,0 +1,3 @@
+Research has clearly shown the benefits of surgical simulators to train laparoscopic motor skills required for positive patient outcomes. We have developed the Virtual Basic Laparoscopic Skill Trainer (VBLaST) that simulates tasks from the Fundamentals of Laparoscopic Surgery (FLS) curriculum. This study aims to show convergent validity of the VBLaST pattern cutting module via the CUSUM method to quantify learning curves along with motor skill transfer from simulation environments to ex vivo tissue samples.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28812196

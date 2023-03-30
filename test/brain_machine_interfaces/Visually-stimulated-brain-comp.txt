@@ -1,0 +1,3 @@
+Visually stimulated brain-computer interfacing detects which target on a screen a user is gazing at; however, this is also accomplished by tracking gaze points with a camera. These two approaches have been independently investigated and sometimes doubts about BCI with visual stimuli are raised in terms of usability compared to eye tracking interfaces (ETI). This paper answers this question by investigating information transfer rates (ITR) and recognition accuracies of BCI and ETI having a similar interface design, where subjects were asked to gaze at one of four targets on a screen. Experimental results revealed that BCI is comparable in ITR to ETI and had better performance for relatively small targets on the screen.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570870

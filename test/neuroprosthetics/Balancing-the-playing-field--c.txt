@@ -1,0 +1,3 @@
+Multiplayer video games promoting exercise-based rehabilitation may facilitate motor learning, by increasing motivation through social interaction. However, a major design challenge is to enable meaningful inter-subject interaction, whilst allowing for significant skill differences between players. We present a novel motor-training paradigm that allows real-time collaboration and performance enhancement, across a wide range of inter-subject skill mismatches, including disabled vs. able-bodied partnerships.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29151360

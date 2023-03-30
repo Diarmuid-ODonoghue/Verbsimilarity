@@ -1,0 +1,3 @@
+Competitive and cooperative serious games have become increasingly popular in areas such as rehabilitation and education and have several potential advantages over single-player games. However, they are not suitable for everyone, and the user experience in competitive and cooperative serious games depends on many factors. One important factor is the verbal interaction between players, but the effect of this factor has not been extensively studied because of the lack of a validated measurement tool.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31339107

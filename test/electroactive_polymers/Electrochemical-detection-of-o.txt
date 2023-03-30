@@ -1,0 +1,3 @@
+The relatively slow kinetics of formation of the electroactive Cu(II)-peptide complexes from larger (greater than 6 amino acids) peptides requires relatively high temperature and long reaction times for a postcolumn reactor. The precolumn incubation of bradykinin, Tyr8-bradykinin and insulin A chain with biuret reagent for 20 min at 60 degrees C leads to the formation of biuret complexes which can be subjected to chromatography in acidic or basic eluents. These complexes are detected electrochemically with a sensitivity similar to the Cu(II)-(ala)3 complex (1 nC/pmol at 1.0 ml/min). The influence of the column-packing material on the electrochemical detector response of the Cu-peptide complexes has also been studied.
+
+https://www.ncbi.nlm.nih.gov/pubmed/1880187

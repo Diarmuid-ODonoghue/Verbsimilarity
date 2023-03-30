@@ -1,0 +1,3 @@
+Deep learning has been recently applied to a multitude of computer vision and medical image analysis problems. Although recent research efforts have improved the state of the art, most of the methods cannot be easily accessed, compared or used by other researchers or clinicians. Even if developers publish their code and pre-trained models on the internet, integration in stand-alone applications and existing workflows is often not straightforward, especially for clinical research partners. In this paper, we propose an open-source framework to provide AI-enabled medical image analysis through the network.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30530377

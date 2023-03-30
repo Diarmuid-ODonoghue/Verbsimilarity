@@ -1,0 +1,3 @@
+Novel stroke rehabilitation techniques that employ electrical stimulation (ES) and robotic technologies are effective in reducing upper limb impairments. ES is most effective when it is applied to support the patients' voluntary effort; however, current systems fail to fully exploit this connection. This study builds on previous work using advanced ES controllers, and aims to investigate the feasibility of Stimulation Assistance through Iterative Learning (SAIL), a novel upper limb stroke rehabilitation system which utilises robotic support, ES, and voluntary effort.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22676920

@@ -1,0 +1,3 @@
+We hypothesize that the integration of virtual reality (VR) with robot assisted rehabilitation could be successful if applied to children with hemiparetic CP. The combined benefits of increased attention provided by VR and the larger training stimulus afforded by adaptive robotics may increase the beneficial effects of these two approaches synergistically. This paper will describe the NJIT-RAVR system, which combines adaptive robotics with complex VR simulations for the rehabilitation of upper extremity impairments and function in children with CP and examine the feasibility of this system in the context of a two subject training study.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19917124

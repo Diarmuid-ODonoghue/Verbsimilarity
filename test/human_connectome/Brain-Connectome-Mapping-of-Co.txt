@@ -1,0 +1,3 @@
+Mental disorders and individual characteristics such as intelligence and personality are complex traits sharing a largely unknown neuronal basis. Their genetic architectures are highly polygenic and overlapping, which is supported by heterogeneous phenotypic expression and substantial clinical overlap. Brain network analysis provides a noninvasive means of dissecting biological heterogeneity, yet its sensitivity, specificity, and validity in assessing individual characteristics relevant for brain function and mental health and their genetic underpinnings in clinical applications remain a challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31858985

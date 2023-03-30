@@ -1,0 +1,3 @@
+The dorsolateral prefrontal cortex (DLPFC) is a cortical area involved in higher cognitive functions, and at the center of the pathophysiology of mental disorders such as depression and schizophrenia. Considering these major roles and the development of deep brain stimulation, the object of this study was to assess the patterns of connectivity of the DLPFC with its main subcortical relay, the thalamus, with the help of probabilistic tractography.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26696378

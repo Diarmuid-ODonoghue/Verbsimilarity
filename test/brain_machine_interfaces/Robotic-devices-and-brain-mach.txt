@@ -1,0 +1,3 @@
+To review the state of the art of robotic-aided hand physiotherapy for post-stroke rehabilitation, including the use of brain-machine interfaces. Each patient has a unique clinical history and, in response to personalized treatment needs, research into individualized and at-home treatment options has expanded rapidly in recent years. This has resulted in the development of many devices and design strategies for use in stroke rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28597018

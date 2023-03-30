@@ -1,0 +1,3 @@
+Since the mid-1990s, a significant scientific literature has evolved regarding the outcomes from the use of what we now refer to as clinical virtual reality (VR). This use of VR simulation technology has produced encouraging results when applied to address cognitive, psychological, motor, and functional impairments across a wide range of clinical health conditions. This article addresses the question, "Is clinical VR ready for primetime?"
+
+https://www.ncbi.nlm.nih.gov/pubmed/29376669

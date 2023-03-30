@@ -1,0 +1,3 @@
+Context conditioning has been suggested to model clinical anxiety, but context, as manipulated in animal models, has not been translated to human studies. A virtual environment might prove to be the ideal tool for innovative experimental paradigms to study explicitly cued fear and contextual anxiety in humans.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15158423

@@ -1,0 +1,3 @@
+Even though vestibular rehabilitation therapy (VRT) using head-mounted display (HMD) has been highlighted recently as a popular virtual reality platform, we should consider that HMD itself do not provide interactive environment for VRT. This study aimed to test the feasibility of interactive components using eye tracking assisted strategy through neurophysiologic evidence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31066247

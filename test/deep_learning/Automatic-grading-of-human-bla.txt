@@ -1,0 +1,3 @@
+Blastocyst morphology is a predictive marker for implantation success of in vitro fertilized human embryos. Morphology grading is therefore commonly used to select the embryo with the highest implantation potential. One of the challenges, however, is that morphology grading can be highly subjective when performed manually by embryologists. Grading systems generally discretize a continuous scale of low to high score, resulting in floating and unclear boundaries between grading categories. Manual annotations therefore suffer from large inter-and intra-observer variances.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31630027

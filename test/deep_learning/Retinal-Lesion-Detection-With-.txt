@@ -1,0 +1,3 @@
+To develop an automated method of localizing and discerning multiple types of findings in retinal images using a limited set of training data without hard-coded feature extraction as a step toward generalizing these methods to rare disease detection in which a limited number of training data are available.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29372258

@@ -1,0 +1,3 @@
+Low-intensity pulsed ultrasound stimulation (LIPUS) has been proven to be a noninvasive method with high spatial resolution and deep penetration. Previous studies have qualitatively demonstrated that the electromyographic response caused by LIPUS in the mouse motor cortex is affected by the anesthetic state of the mice. However, the quantitative relationship between motor response and anesthetic dose remains unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30509160

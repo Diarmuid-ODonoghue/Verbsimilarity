@@ -1,0 +1,3 @@
+A novel implant surgery support system with computer simulation for implant insertion and fabrication of a surgical template that helps in drilling bone was developed. A virtual reality haptic device that gives the sense of touch was used for simulation and a surgical template was fabricated by CAD/CAM method. Surgical guides were applied for two clinical cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19126112

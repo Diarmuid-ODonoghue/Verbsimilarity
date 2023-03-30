@@ -1,0 +1,3 @@
+Medical imaging plays an important role in the diagnosis of thyroid diseases. In the field of machine learning, multiple dimensional deep learning algorithms are widely used in image classification and recognition, and have achieved great success.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32133949

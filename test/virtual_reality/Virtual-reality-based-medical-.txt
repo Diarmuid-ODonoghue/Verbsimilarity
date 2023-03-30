@@ -1,0 +1,3 @@
+The current focus on patient safety and evidence-based medical education has led to an increased interest in utilising virtual reality (VR) for medical training. The development of VR-based systems require experts from different disciplines to collaborate with shared and agreed objectives throughout a system's development process. Both the development of technology as well as the incorporation and evaluation of relevant training have to be given the appropriate attention.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22250676

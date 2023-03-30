@@ -1,0 +1,3 @@
+Freezing of gait is a common and debilitating symptom affecting many patients with advanced Parkinson's disease. Although the pathophysiology of freezing of gait is not fully understood, a number of observations regarding the pattern of gait in patients with this symptom have been made. Increased 'Stride Time Variability' has been one of the most robust of these features. In this study we sought to identify whether patients with freezing of gait demonstrated similar fluctuations in their stepping rhythm whilst performing a seated virtual reality gait task that has recently been used to demonstrate the neural correlate of the freezing phenomenon.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23805270

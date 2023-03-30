@@ -1,0 +1,3 @@
+Recent years, a Steady-State Visual Evoked Potential (SSVEP) is used as a basis for Brain Computer Interface (BCI)[1]. Various feature extraction and classification techniques are proposed to achieve BCI based on SSVEP. The feature extraction of SSVEP is developed in the frequency domain regardless of the limitation in flickering frequency of visual stimulus caused by hardware architecture. We introduce here the feature extraction using a spectrum intensity ratio. Results show that the detection ratio reaches 84% by using a spectrum intensity ratio with unsupervised classification. It also indicates the SSVEP is enhanced by proposed feature extraction with second harmonic.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23367283

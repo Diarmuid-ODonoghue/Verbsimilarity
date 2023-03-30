@@ -1,0 +1,3 @@
+To prevent and control public health emergencies, we set up a prescreening and triage workflow and analyze the effects on coronavirus disease 2019 (COVID-19). Methods:In accordance with the requirements of the Level 1 emergency response of public health emergencies in Shaanxi Province, China, a triage process for COVID-19 was established to guide the patients to undergo four-level triage during their hospital visits. The diagnosis of COVID-19 was based on positive COVID-19 nucleic acid testing according to the unified triage standards of the Guidelines for the Diagnosis and Treatment of Novel Coronavirus Pneumonia issued by the National Health Commission of the People's Republic of China.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32362296

@@ -1,0 +1,3 @@
+The male predominance in the prevalence of autism spectrum disorder (ASD) has motivated research on sex differentiation in ASD. Multiple sources of evidence have suggested a neurophenotypic convergence of ASD-related characteristics and typical sex differences. Two existing, albeit competing, models provide predictions on such neurophenotypic convergence. These two models are testable with neuroimaging. Specifically, the Extreme Male Brain (EMB) model predicts that ASD is associated with enhanced brain maleness in both males and females with ASD (i.e., a shift-towards-maleness). In contrast, the Gender Incoherence (GI) model predicts a shift-towards-maleness in females, yet a shift-towards-femaleness in males with ASD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29541439

@@ -1,0 +1,3 @@
+The main objective is to high-light the P300 potential on certain electroencephalographic signals. P300 occurs at a relatively well defined time in relation to a stimulus and it represents a signal with a specified band frequency.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23077919

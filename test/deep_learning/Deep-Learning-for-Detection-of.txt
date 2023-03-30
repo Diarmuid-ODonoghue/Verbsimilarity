@@ -1,0 +1,3 @@
+Visual assessment of the EEG still outperforms current computer algorithms in detecting epileptiform discharges. Deep learning is a promising novel approach, being able to learn from large datasets. Here, we show pilot results of detecting epileptiform discharges using deep neural networks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30025804

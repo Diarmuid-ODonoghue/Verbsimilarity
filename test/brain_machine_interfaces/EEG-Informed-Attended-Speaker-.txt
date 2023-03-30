@@ -1,0 +1,3 @@
+We aim to extract and denoise the attended speaker in a noisy two-speaker acoustic scenario, relying on microphone array recordings from a binaural hearing aid, which are complemented with electroencephalography (EEG) recordings to infer the speaker of interest.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27392339

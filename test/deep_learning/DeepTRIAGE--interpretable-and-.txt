@@ -1,0 +1,3 @@
+Breast cancer is a collection of multiple tissue pathologies, each with a distinct molecular signature that correlates with patient prognosis and response to therapy. Accurately differentiating between breast cancer sub-types is an important part of clinical decision-making. Although this problem has been addressed using machine learning methods in the past, there remains unexplained heterogeneity within the established sub-types that cannot be resolved by the commonly used classification algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32093737

@@ -1,0 +1,3 @@
+In many applications, multielectrode arrays employed as neural implants require a high density and a high number of electrodes to precisely record and stimulate the activity of the nervous system while preserving the overall size of the array.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30215607

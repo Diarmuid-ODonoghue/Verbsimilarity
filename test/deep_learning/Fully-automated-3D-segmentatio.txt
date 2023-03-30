@@ -1,0 +1,3 @@
+We investigated a novel method using a 2D convolutional neural network (CNN) to identify superior and inferior vertebrae in a single slice of CT images, and a post-processing for 3D segmentation and separation of cervical vertebrae.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31627152

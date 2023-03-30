@@ -1,0 +1,3 @@
+To develop an automatic deep feature classification (DFC) method for distinguishing benign angiomyolipoma without visible fat (AMLwvf) from malignant clear cell renal cell carcinoma (ccRCC) from abdominal contrast-enhanced computer tomography (CE CT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29474742

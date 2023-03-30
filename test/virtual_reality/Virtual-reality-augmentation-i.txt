@@ -1,0 +1,3 @@
+Skull base anatomy is complex and subject to individual variation. Understanding the complexity of surgical anatomy is faster and easier with virtual models created from primary imaging data of the patient. This study was designed to investigate the usefulness of virtual reality in image guidance for skull base procedures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17077870

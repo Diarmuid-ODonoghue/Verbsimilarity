@@ -1,0 +1,3 @@
+Noninvasive brain-computer interfaces (BCI) for movement control via an electroencephalogram (EEG) have been extensively investigated. However, most previous studies decoded user intention for movement directions based on sensorimotor rhythms during motor imagery. BCI systems based on mapping imagery movement of body parts (e.g., left or right hands) to movement directions (left or right directional movement of a machine or cursor) are less intuitive and less convenient due to the complex training procedures. Thus, direct decoding methods for detecting user intention about movement directions are urgently needed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31233971

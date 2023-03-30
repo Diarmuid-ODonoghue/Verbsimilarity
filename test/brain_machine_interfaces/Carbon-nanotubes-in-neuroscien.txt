@@ -1,0 +1,3 @@
+Carbon nanotubes have electrical, mechanical and chemical properties that make them one of the most promising materials for applications in neuroscience. Single-walled and multi-walled carbon nanotubes have been increasingly used as scaffolds for neuronal growth and more recently for neural stem cell growth and differentiation. They are also used in interfaces with neurons, where they can detect neuronal electrical activity and also deliver electrical stimulation to these cells. The emerging picture is that carbon nanotubes do not have obvious adverse effects on mammalian health. Thus in the near future they could be used in brain-machine interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19812974

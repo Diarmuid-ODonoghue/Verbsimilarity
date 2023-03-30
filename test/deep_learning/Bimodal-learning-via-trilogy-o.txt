@@ -1,0 +1,3 @@
+Diabetic Retinopathy (DR) is considered a pathology of retinal vascular complications, which stays in the top causes of vision impairment and blindness. Therefore, precisely inspecting its progression enables the ophthalmologists to set up appropriate next-visit schedule and cost-effective treatment plans. In the literature, existing work only makes use of numerical attributes in Electronic Medical Records (EMR) for acquiring such kind of DR-oriented knowledge through conventional machine learning techniques, which require an exhaustive job of engineering most impactful risk factors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31605882

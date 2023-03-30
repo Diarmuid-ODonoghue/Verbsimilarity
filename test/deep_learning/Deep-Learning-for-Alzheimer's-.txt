@@ -1,0 +1,3 @@
+We propose a classification method for Alzheimer's disease (AD) based on the texture of the hippocampus, which is the organ that is most affected by the onset of AD.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32008517

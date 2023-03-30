@@ -1,0 +1,3 @@
+We hypothesized that a simulator designed to train surgical novices angled laparoscopic navigation would show an improvement in subjects' performance, a high test re-test reliability and high internal validity as measured by standardized coefficient alpha. It was also predicted that simulator performance would be strongly related to objectively assess perceptual and visuospatial ability. EndoTower has good face validity in that it mimics precisely the performance of an angled laparoscope and previous studies suggest construct validity. In this study, EndoTower is shown to be a trainer intended for laparoscopic skill than can test for inherent perceptual and visuospatial ability.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458082

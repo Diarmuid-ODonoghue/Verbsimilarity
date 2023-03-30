@@ -1,0 +1,3 @@
+People relying much on vision in the control of posture are known to have an elevated risk of falling. Dependence on visual control is an important parameter in the diagnosis of balance disorders. We have previously shown that virtual reality methods can be used to produce visual stimuli that affect balance, but suitable stimuli need to be found. In this study the effect of six different virtual reality stimuli on the balance of 22 healthy test subjects was evaluated using force platform posturography. According to the tests two of the stimuli have a significant effect on balance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15460665

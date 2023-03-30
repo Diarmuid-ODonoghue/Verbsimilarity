@@ -1,0 +1,3 @@
+Skin synthesis is important for the actual appearance of digital human models. However, it is difficult to design a general algorithm to efficiently produce high quality results. This paper proposes a parallel texture synthesis method for large scale skin of digital human models. Two major procedures are included in this method, a parallel matching procedure and a multi-pass optimizing procedure. Compared with other methods, this algorithm is easy to use, requires only a small size of skin image as input, and generates an arbitrary size of skin texture with high quality. As demonstrated by experiments, the effectiveness of this skin texture synthesis method is confirmed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25226921

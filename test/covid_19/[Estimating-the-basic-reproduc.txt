@@ -1,0 +1,3 @@
+目的： 目前湖北省的新型冠状病毒肺炎（COVID-19）确诊和疑似病例的数量仍在增加。国内外多个团队对疫情发展进行了模型预测，但结论并不统一。因此，开展本次疫情的预测模型研究、评估COVID-19的基本再生数（basic reproduction number，R(0)），对于评估病毒的传播能力以及一系列控制措施的效果具有重要意义。 方法： 收集从湖北省2020年1月17日到2月8日期间每天报告的确诊病例数等数据，分别采用指数增长方法（exponential growth，EG）、极大似然法（maximum likelihood estimation，ML）、序贯贝叶斯方法（sequential Bayesian method，SB）和时间相关基本再生数（time dependent reproduction numbers，TD）估计R(0)值。 结果： 由观测病例数和4种方法预测的病例数的拟合情况可知，EG方法拟合效果最优。EG方法估计COVID-19湖北省R(0)的值为3.49（95%CI：3.42～3.58）。采取封城控制手段期间，EG方法估算R(0)值为2.95（95%CI：2.86～3.03）。 结论： 在传染病流行初期，适合采用EG方法估算R(0)。同时需要采取及时有效的控制措施，进一步降低COVID-19的传播速率。.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32125128

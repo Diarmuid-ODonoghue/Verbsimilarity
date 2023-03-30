@@ -1,0 +1,3 @@
+Safety of astronauts during long-term space exploration is a priority for NASA. This paper describes efforts to produce Earth-based models for providing expert medical advice when unforeseen medical emergencies occur on spacecraft. These models are Virtual Collaborative Clinics that reach into remote sites using telecommunications and emerging stereo-imaging and sensor technologies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11669129

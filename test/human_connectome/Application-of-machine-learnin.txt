@@ -1,0 +1,3 @@
+Adolescent major depressive disorder (MDD) is a highly prevalent, incapacitating and costly illness. Many depressed teens do not improve with cognitive behavioral therapy (CBT), a first-line treatment for adolescent MDD, and face devastating consequences of increased risk of suicide and many negative health outcomes. "Who will improve with CBT?" is a crucial question that remains unanswered, and treatment planning for adolescent depression remains biologically unguided. The purpose of this study was to utilize machine learning applied to patients' brain imaging data in order to help predict depressive symptom reduction with CBT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31491813

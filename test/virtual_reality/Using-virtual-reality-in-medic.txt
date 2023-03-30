@@ -1,0 +1,3 @@
+The project adopted technology that teaches medical and other health professions students to be empathetic with older adults, through virtual reality (VR) software that allows them to simulate being a patient with age-related diseases, and to familiarize medical students with information resources related to the health of older adults.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30271295

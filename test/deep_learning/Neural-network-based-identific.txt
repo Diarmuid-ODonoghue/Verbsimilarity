@@ -1,0 +1,3 @@
+Although rates of postoperative morbidity and mortality have become relatively low in patients undergoing transnasal transsphenoidal surgery (TSS) for pituitary adenoma, cerebrospinal fluid (CSF) fistulas remain a major driver of postoperative morbidity. Persistent CSF fistulas harbor the potential for headache and meningitis. The aim of this study was to investigate whether neural network-based models can reliably identify patients at high risk for intraoperative CSF leakage.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31226693

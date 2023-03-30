@@ -1,0 +1,3 @@
+Automatic disease named entity recognition (DNER) is of utmost importance for development of more sophisticated BioNLP tools. However, most conventional CRF based DNER systems rely on well-designed features whose selection is labor intensive and time-consuming. Though most deep learning methods can solve NER problems with little feature engineering, they employ additional CRF layer to capture the correlation information between labels in neighborhoods which makes them much complicated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29297367

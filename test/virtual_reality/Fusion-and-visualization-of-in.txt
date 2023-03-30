@@ -1,0 +1,3 @@
+During epilepsy surgery it is important for the surgeon to correlate the preoperative cortical morphology (from preoperative images) with the intraoperative environment. Augmented Reality (AR) provides a solution for combining the real environment with virtual models. However, AR usually requires the use of specialized displays, and its effectiveness in the surgery still needs to be evaluated. The objective of this research was to develop an alternative approach to provide enhanced visualization by fusing a direct (photographic) view of the surgical field with the 3D patient model during image guided epilepsy surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21668293

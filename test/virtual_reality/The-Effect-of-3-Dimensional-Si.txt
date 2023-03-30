@@ -1,0 +1,3 @@
+In recent years, 3-dimensional (3D) simulation of neurosurgical procedures has become increasingly popular as an addition to training programmes. However, there remains little objective evidence of its effectiveness in improving live surgical skill. This review analysed the current literature in 3D neurosurgical simulation, highlighting remaining gaps in the evidence base for improvement in surgical performance and suggests useful future research directions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28341408

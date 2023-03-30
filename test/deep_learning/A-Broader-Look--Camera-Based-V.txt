@@ -1,0 +1,3 @@
+Camera-based vital sign estimation allows the contactless assessment of important physiological parameters. Seminal contributions were made in the 1930s, 1980s, and 2000s, and the speed of development seems ever increasing. In this suivey, we aim to overview the most recent works in this area, describe their common features as well as shortcomings, and highlight interesting "outliers".
+
+https://www.ncbi.nlm.nih.gov/pubmed/31419822

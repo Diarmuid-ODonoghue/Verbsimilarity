@@ -1,0 +1,3 @@
+Unilateral spatial neglect (USN), a highly prevalent and disabling post-stroke impairment, has been shown to affect the recovery of locomotor and navigation skills needed for community mobility. We recently found that USN alters goal-directed locomotion in conditions of different cognitive/perceptual demands. However, sensorimotor post-stroke dysfunction (e.g. decreased walking speed) could have influenced the results. Analogous to a previously used goal-directed locomotor paradigm, a seated, joystick-driven navigation experiment, minimizing locomotor demands, was employed in individuals with and without post-stroke USN (USN+ and USN-, respectively) and healthy controls (HC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29685145

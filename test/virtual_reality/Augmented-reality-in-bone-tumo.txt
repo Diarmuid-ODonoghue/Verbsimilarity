@@ -1,0 +1,3 @@
+We evaluated the accuracy of augmented reality (AR)-based navigation assistance through simulation of bone tumours in a pig femur model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28258117

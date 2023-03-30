@@ -1,0 +1,3 @@
+To explore the abnormal connectivity patterns between the insular and the voxels of the brain in primary insomnia (PI) with insular-based functional connectivity (FC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28144739

@@ -1,0 +1,3 @@
+Transcranial magnetic stimulation (TMS) is a noninvasive neuromodulation technique with therapeutic applications for the treatment of major depressive disorder (MDD). The standard protocol uses high frequency stimulation over the left dorsolateral prefrontal cortex (DLPFC) identified in a heuristic manner leading to moderate clinical efficacy. A proposed strategy to increase the anatomical precision in targeting, based on resting-state functional MRI (rsfMRI), identifies the subregion within the DLPFC having the strongest anticorrelated functional connectivity with the subgenual cortex (SGC) for each individual subject.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30344110

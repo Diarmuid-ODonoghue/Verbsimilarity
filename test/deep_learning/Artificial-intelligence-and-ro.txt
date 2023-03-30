@@ -1,0 +1,3 @@
+This review aims to draw a road-map to the use of artificial intelligence in an era of robotic surgery and highlight the challenges inherent to this process.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31724999

@@ -1,0 +1,3 @@
+Accurate diagnosis and prognosis are essential in lung cancer treatment selection and planning. With the rapid advance of medical imaging technology, whole slide imaging (WSI) in pathology is becoming a routine clinical procedure. An interplay of needs and challenges exists for computer-aided diagnosis based on accurate and efficient analysis of pathology images. Recently, artificial intelligence, especially deep learning, has shown great potential in pathology image analysis tasks such as tumor region identification, prognosis prediction, tumor microenvironment characterization, and metastasis detection.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31661863

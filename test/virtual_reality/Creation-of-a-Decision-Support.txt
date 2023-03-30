@@ -1,0 +1,3 @@
+Shared decision-making (SDM) is optimal in the context of periviable delivery, where the decision to pursue life-support measures or palliation is both preference sensitive and value laden. We sought to develop a decision support tool (DST) prototype to facilitate SDM by utilizing a user-centered design research approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30488236

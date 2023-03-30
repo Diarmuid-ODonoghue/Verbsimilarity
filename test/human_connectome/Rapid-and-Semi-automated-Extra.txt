@@ -1,0 +1,3 @@
+Connectomics-the study of how neurons wire together in the brain-is at the forefront of modern neuroscience research. However, many connectomics studies are limited by the time and precision needed to correctly segment large volumes of electron microscopy (EM) image data. We present here a semi-automated segmentation pipeline using freely available software that can significantly decrease segmentation time for extracting both nuclei and cell bodies from EM image volumes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27259933

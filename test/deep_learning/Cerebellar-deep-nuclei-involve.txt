@@ -1,0 +1,3 @@
+To determine the role of the interpositus nuclei of cerebellum in rule-based learning and optimization processes, we studied (1) successive transfers of an initially acquired response rule in a cross maze and (2) behavioral strategies in learning a simple response rule in a T maze in interpositus lesioned rats (neurotoxic or electrolytic lesions). Even though lesioned animals showed no impairment in learning the initial stimulus-response association, they had difficulties in transferring the acquired adapted response rule, and in optimizing their response strategy. These results add information on the role of interpositus nuclei in adaptation to environmental changes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23772087

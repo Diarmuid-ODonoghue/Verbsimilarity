@@ -1,0 +1,3 @@
+Compared to aviation, where virtual reality (VR) training has been standardized and simulators have proven their benefits, the objectives, needs, and means of VR training in minimally invasive surgery (MIS) still have to be established. The aim of the study presented is to introduce Rasmussen's model of human behavior as a practical framework for the definition of the training objectives, needs, and means in MIS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12799883

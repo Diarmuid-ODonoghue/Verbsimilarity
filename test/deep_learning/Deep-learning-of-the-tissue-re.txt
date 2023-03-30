@@ -1,0 +1,3 @@
+Alternative splicing (AS) is a regulated process that directs the generation of different transcripts from single genes. A computational model that can accurately predict splicing patterns based on genomic features and cellular context is highly desirable, both in understanding this widespread phenomenon, and in exploring the effects of genetic variations on AS.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24931975

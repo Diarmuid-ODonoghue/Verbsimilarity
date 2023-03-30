@@ -1,0 +1,3 @@
+Already used at the incept of research on event-related potentials (ERP) over half a century ago, the arithmetic mean is still the benchmark for ERP estimation. Such estimation, however, requires a large number of sweeps and/or a careful rejection of artifacts affecting the electroencephalographic recording.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27090947

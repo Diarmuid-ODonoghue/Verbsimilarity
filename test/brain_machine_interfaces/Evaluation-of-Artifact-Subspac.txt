@@ -1,0 +1,3 @@
+Artifact subspace reconstruction (ASR) is an automatic, online-capable, component-based method that can effectively remove transient or large-amplitude artifacts contaminating electroencephalographic (EEG) data. However, the effectiveness of ASR and the optimal choice of its parameter have not been systematically evaluated and reported, especially on actual EEG data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31329105

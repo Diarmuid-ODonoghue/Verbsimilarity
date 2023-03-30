@@ -1,0 +1,3 @@
+This study proposes a method for classifying three types of resting membrane potential signals obtained as images through diagnostic needle electromyography (EMG) using TensorFlow-Slim and Python to implement an artificial-intelligence-based image recognition scheme.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31131148

@@ -1,0 +1,3 @@
+Intraductal papillary mucinous neoplasms (IPMNs) are precursor lesions of pancreatic adenocarcinoma. Artificial intelligence (AI) is a mathematical concept whose implementation automates learning and recognizing data patterns. The aim of this study was to investigate whether AI via deep learning algorithms using endoscopic ultrasonography (EUS) images of IPMNs could predict malignancy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31117111

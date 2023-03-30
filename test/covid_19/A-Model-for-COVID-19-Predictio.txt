@@ -1,0 +1,3 @@
+The rapid spread of COVID-19 virus from China to other countries and outbreaks of disease require an epidemiological analysis of the disease in the shortest time and an increased awareness of effective interventions. The purpose of this study was to estimate the COVID-19 epidemic in Iran based on the SIR model. The results of the analysis of the epidemiological data of Iran from January 22 to March 24, 2020 were investigated and prediction was made until April 15, 2020.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32271597

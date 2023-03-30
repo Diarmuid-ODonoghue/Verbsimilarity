@@ -1,0 +1,3 @@
+Deep learning has the potential to assist the medical diagnostic process. We aimed to identify facial anomalies associated with endocrinal disorders using a deep-learning approach to facilitate the process of diagnosis and follow-up.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31319415

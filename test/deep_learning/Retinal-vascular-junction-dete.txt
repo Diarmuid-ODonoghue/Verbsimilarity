@@ -1,0 +1,3 @@
+The retinal fundus contains intricate vascular trees, some of which are mutually intersected and overlapped. The intersection and overlapping of retinal vessels represent vascular junctions (i.e. bifurcation and crossover) in 2D retinal images. These junctions are important for analyzing vascular diseases and tracking the morphology of vessels. In this paper, we propose a two-stage pipeline to detect and classify the junction points.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31586789

@@ -1,0 +1,3 @@
+The condition of vessel of the human eye is an important factor for the diagnosis of ophthalmological diseases. Vessel segmentation in fundus images is a challenging task due to complex vessel structure, the presence of similar structures such as microaneurysms and hemorrhages, micro-vessel with only one to several pixels wide, and requirements for finer results.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31029251

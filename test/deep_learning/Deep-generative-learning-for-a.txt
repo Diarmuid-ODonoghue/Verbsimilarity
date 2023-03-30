@@ -1,0 +1,3 @@
+Computer-aided medical decision-making (CAMDM) is the method to utilize massive EMR data as both empirical and evidence support for the decision procedure of healthcare activities. Well-developed information infrastructure, such as hospital information systems and disease surveillance systems, provides abundant data for CAMDM. However, the complexity of EMR data with abstract medical knowledge makes the conventional model incompetent for the analysis. Thus a deep belief networks (DBN) based model is proposed to simulate the information analysis and decision-making procedure in medical practice. The purpose of this paper is to evaluate a deep learning architecture as an effective solution for CAMDM.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29801696

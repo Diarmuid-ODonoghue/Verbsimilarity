@@ -1,0 +1,3 @@
+X-ray pelvimetry is typically performed for the diagnosis of the cephalopelvic disproportion (CPD). The purpose of this study was to assess the utility of new computed tomography (CT) reconstruction "deep learning based reconstruction (DLR) " in ultra-low dose CT pelvimetry.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31956183

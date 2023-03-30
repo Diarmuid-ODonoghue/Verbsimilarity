@@ -1,0 +1,3 @@
+Models for predicting preterm birth generally have focused on very preterm (28-32 weeks) and moderate to late preterm (32-37 weeks) settings. However, extreme preterm birth (EPB), before the 28th week of gestational age, accounts for the majority of newborn deaths. We investigated the extent to which deep learning models that consider temporal relations documented in electronic health records (EHRs) can predict EPB.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31678588

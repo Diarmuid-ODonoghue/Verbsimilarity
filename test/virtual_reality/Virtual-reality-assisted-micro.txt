@@ -1,0 +1,3 @@
+Confocal microscopes deliver detailed three-dimensional data and are instrumental in biological analysis and research. Usually, this three-dimensional data is rendered as a projection onto a two-dimensional display. We describe a system for rendering such data using a modern virtual reality (VR) headset. Sample manipulation is possible by fully-immersive hand-tracking and also by means of a conventional gamepad. We apply this system to the specific task of colocalization analysis, an important analysis tool in biological microscopy. We evaluate our system by means of a set of user trials.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28251867

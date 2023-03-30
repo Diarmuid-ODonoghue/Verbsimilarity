@@ -1,0 +1,3 @@
+Image recognition using artificial intelligence(AI)has developed dramatically with innovative technologies such as machine learning and deep learning. Currently, it is considered that AI has exceeded human ability in image recognition. In the field of endoscopic diagnosis, development of computer-aided diagnosis(CAD)systems using AI is progressing. The CAD is expected to help endoscopists improve detection and characterization of polyp, cancer, and inflamation in all digestive area. Some CAD systemes showing ability better than endoscopists have been reported. It may be well applicable to daily clinical practice as real time endoscopic diagnosis in the near future.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30914574

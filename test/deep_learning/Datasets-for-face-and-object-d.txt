@@ -1,0 +1,3 @@
+We present two new fisheye image datasets for training object and face detection models: VOC-360 and Wider-360. The fisheye images are created by post-processing regular images collected from two well-known datasets, VOC2012 and Wider Face, using a model for mapping regular to fisheye images implemented in Matlab. VOC-360 contains 39,575 fisheye images for object detection, segmentation, and classification. Wider-360 contains 63,897 fisheye images for face detection. These datasets will be useful for developing face and object detectors as well as segmentation modules for fisheye images while the efforts to collect and manually annotate true fisheye images are underway.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31886334

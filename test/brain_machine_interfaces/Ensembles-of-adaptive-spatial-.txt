@@ -1,0 +1,3 @@
+In electroencephalographic (EEG) data, signals from distinct sources within the brain are widely spread by volume conduction and superimposed such that sensors receive mixtures of a multitude of signals. This reduction of spatial information strongly hampers single-trial analysis of EEG data as, for example, required for brain-computer interfacing (BCI) when using features from spontaneous brain rhythms. Spatial filtering techniques are therefore greatly needed to extract meaningful information from EEG. Our goal is to show, in online operation, that common spatial pattern patches (CSPP) are valuable to counteract this problem.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27187530

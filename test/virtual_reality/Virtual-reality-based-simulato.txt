@@ -1,0 +1,3 @@
+Virtual reality (VR) simulators have become useful tools in various fields of medicine. Prominent uses of VR technologies include assessment of physician skills and presurgical planning. VR has shown effectiveness in multiple surgical specialties, yet its use in neurosurgery remains limited.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29198889

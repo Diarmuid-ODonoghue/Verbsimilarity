@@ -1,0 +1,3 @@
+Automated clinical phenotyping is challenging because word-based features quickly turn it into a high-dimensional problem, in which the small, privacy-restricted, training datasets might lead to overfitting. Pretrained embeddings might solve this issue by reusing input representation schemes trained on a larger dataset. We sought to evaluate shallow and deep learning text classifiers and the impact of pretrained embeddings in a small clinical dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31512729

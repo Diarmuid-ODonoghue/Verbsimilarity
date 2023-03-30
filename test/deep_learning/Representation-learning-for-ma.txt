@@ -1,0 +1,3 @@
+The automatic classification of breast imaging lesions is currently an unsolved problem. This paper describes an innovative representation learning framework for breast cancer diagnosis in mammography that integrates deep learning techniques to automatically learn discriminative features avoiding the design of specific hand-crafted image-based feature detectors.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26826901

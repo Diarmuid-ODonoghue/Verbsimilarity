@@ -1,0 +1,3 @@
+Both linear and nonlinear estimation algorithms have been successfully applied as neural decoding techniques in brain machine interfaces. Nonlinear approaches such as Bayesian auxiliary particle filters offer improved estimates over other methodologies seemingly at the expense of computational complexity. Real-time implementation of particle filtering algorithms for neural signal processing may become prohibitive when the number of neurons in the observed ensemble becomes large. By implementing a parallel hardware architecture, filter performance can be improved in terms of throughput over conventional sequential processing. Such an architecture is presented here and its FPGA resource utilization is reported.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21096196

@@ -1,0 +1,3 @@
+Manual delineation of clinical target volumes (CTVs) and organs at risk (OARs) is time-consuming, and automatic contouring tools lack clinical validation. We aimed to construct and validate the use of convolutional neural networks (CNNs) to set better contouring standards for rectal cancer radiotherapy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32044531

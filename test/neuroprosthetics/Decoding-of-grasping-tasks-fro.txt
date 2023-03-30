@@ -1,0 +1,3 @@
+A major challenge in neuroprosthetics is the restoration of sensory-motor hand functions in upper-limb amputees. Neuroprostheses based on the direct re-connection of the peripheral nerves may be an interesting approach for re-establishing the natural and effective bidirectional control of hand prostheses. Recent results have shown that transverse intrafascicular multi-channel electrodes (TIMEs) can restore natural and sophisticated sensory feedback. However, the potential of using TIME-recorded motor intraneural signals to decode grasping tasks has not as yet been explored.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32207409

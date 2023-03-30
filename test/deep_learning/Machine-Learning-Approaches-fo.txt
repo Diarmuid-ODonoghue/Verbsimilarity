@@ -1,0 +1,3 @@
+The prediction of emergency department (ED) disposition at triage remains challenging. Machine learning approaches may enhance prediction. We compared the performance of several machine learning approaches for predicting two clinical outcomes (critical care and hospitalization) among ED patients with asthma or COPD exacerbation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29970272

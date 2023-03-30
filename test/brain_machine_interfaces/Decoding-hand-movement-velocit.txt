@@ -1,0 +1,3 @@
+Decoding neural activities associated with limb movements is the key of motor prosthesis control. So far, most of these studies have been based on invasive approaches. Nevertheless, a few researchers have decoded kinematic parameters of single hand in non-invasive ways such as magnetoencephalogram (MEG) and electroencephalogram (EEG). Regarding these EEG studies, center-out reaching tasks have been employed. Yet whether hand velocity can be decoded using EEG recorded during a self-routed drawing task is unclear.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20979665

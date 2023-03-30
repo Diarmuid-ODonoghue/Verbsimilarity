@@ -1,0 +1,3 @@
+Emergency department (ED) overcrowding is a national crisis in which pediatric patients are often prioritized at lower levels. Because the prediction of prognosis for pediatric patients is important but difficult, we developed and validated a deep learning algorithm to predict the need for critical care in pediatric EDs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31268962

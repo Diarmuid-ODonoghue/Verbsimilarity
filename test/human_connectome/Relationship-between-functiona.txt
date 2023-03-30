@@ -1,0 +1,3 @@
+Resting-state functional magnetic resonance imaging (fMRI) has been used to examine the brain mechanisms of stroke patients with hemiplegia, but the relationship between functional connectivity (FC) and treatment-induced motor function recovery has not yet been fully investigated. This study aimed to identify the brain FC changes in stroke patients and study the relationship between FC and motor function assessment using the resting-state fMRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26843179

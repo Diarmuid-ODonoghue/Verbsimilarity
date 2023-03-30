@@ -1,0 +1,3 @@
+New training models are needed to maintain safety and quality of surgical performance. A simulated setting using virtual reality, synthetic, and/or organic models should precede traditional supervised training in the operating room.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23256024

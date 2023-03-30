@@ -1,0 +1,3 @@
+Given the incidence of stroke, the need has arisen to consider more self-managed rehabilitation approaches. A promising technology is Virtual Reality (VR). Thus far, however, it is not clear what the benefits of VR systems are when compared to conventional methods. Here we investigated the clinical impact of one such system, the Rehabilitation Gaming System (RGS), on the recovery time course of acute stroke. RGS combines concepts of action execution and observation with an automatic individualization of training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21697589

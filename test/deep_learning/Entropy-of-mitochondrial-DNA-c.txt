@@ -1,0 +1,3 @@
+Ultra-Deep Sequencing (UDS) enabled identification of specific changes in human genome occurring in malignant tumors, with current approaches calling for the detection of specific mutations associated with certain cancers. However, such associations are frequently idiosyncratic and cannot be generalized for diagnostics. Mitochondrial DNA (mtDNA) has been shown to be functionally associated with several cancer types. Here, we study the association of intra-host mtDNA diversity with Hepatocellular Carcinoma (HCC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31167647

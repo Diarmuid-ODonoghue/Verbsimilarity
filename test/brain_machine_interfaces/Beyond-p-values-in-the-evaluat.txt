@@ -1,0 +1,3 @@
+To statistically evaluate the performance of brain-computer interfaces (BCIs), researchers usually rely on null hypothesis significance testing (NHST), i.e. p-values. However, over-reliance on NHST is often identified as one of the causes of the recent reproducibility crisis in psychology and neuroscience.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27317498

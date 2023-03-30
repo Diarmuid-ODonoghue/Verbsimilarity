@@ -1,0 +1,3 @@
+Amperometry and cyclic voltammetry are two electrochemical techniques that enable the detection of electroactive neurotransmitters that are released from single cells. These techniques have provided the first chemical view of the events that occur during exocytosis. This unit describes the isolation of several cell types known for their exocytotic properties, the fabrication and calibration of carbon fiber microelectrodes, as well as some of the equipment and software requirements for obtaining electrochemically generated data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18428562

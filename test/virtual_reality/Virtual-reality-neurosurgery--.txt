@@ -1,0 +1,3 @@
+This article details preliminary studies undertaken to integrate the most relevant advancements across multiple disciplines in an effort to construct a highly realistic neurosurgical simulator based on a distributed computer architecture. Techniques based on modified computational modeling paradigms incorporating finite element analysis are presented, as are current and projected efforts directed toward the implementation of a novel bidirectional haptic device.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15046644

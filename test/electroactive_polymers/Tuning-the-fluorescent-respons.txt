@@ -1,0 +1,3 @@
+A novel polymer featuring oligoaniline pendants that exhibits reversible electroactivity and good electrochromic properties with high contrast value, acceptable switching times, and excellent coloration efficiency is presented. This polymer can undergo reversible changes in fluorescence in response to reductive and oxidative chemical stimulus, pH, and electrical potential. The fluorescence switching operation shows reasonable reversibility and reproducibility when subjected to multiple stimuli. In this elegant fluorescence switching system, the oligoaniline pendants are used as fluorophore and regulatory units simultaneously.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24105939

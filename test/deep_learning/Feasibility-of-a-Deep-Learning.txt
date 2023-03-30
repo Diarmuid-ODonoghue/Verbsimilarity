@@ -1,0 +1,3 @@
+Distinguishing small cell lung carcinoma (SCLC) from large cell neuroendocrine carcinoma (LCNEC) in cytology is challenging. Our aim was to design a deep learning algorithm for classifying high-grade neuroendocrine carcinomas in fine-needle aspirations (FNA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32246504

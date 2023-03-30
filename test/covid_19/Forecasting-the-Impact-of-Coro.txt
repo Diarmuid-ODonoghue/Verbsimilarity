@@ -1,0 +1,3 @@
+The ongoing Coronavirus disease (COVID-19) pandemic has severely impacted the United States. In cases of infectious disease outbreak, forecasting models are often developed for resources utilization. Pregnancy and delivery pose unique challenges, given the altered maternal immune system and the fact that the majority of American women choose to deliver in the hospital setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32342041

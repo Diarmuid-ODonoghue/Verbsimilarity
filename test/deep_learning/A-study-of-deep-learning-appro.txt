@@ -1,0 +1,3 @@
+This article presents our approaches to extraction of medications and associated adverse drug events (ADEs) from clinical documents, which is the second track of the 2018 National NLP Clinical Challenges (n2c2) shared task.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31135882

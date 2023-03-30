@@ -1,0 +1,3 @@
+While promising, electroencephaloraphy based brain-computer interfaces (BCIs) are barely used due to their lack of reliability: 15% to 30% of users are unable to control a BCI. Standard training protocols may be partly responsible as they do not satisfy recommendations from psychology. Our main objective was to determine in practice to what extent standard training protocols impact users' motor imagery based BCI (MI-BCI) control performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27172246

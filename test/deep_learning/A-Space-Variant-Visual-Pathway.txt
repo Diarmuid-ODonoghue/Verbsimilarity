@@ -1,0 +1,3 @@
+We present an investigation into adopting a model of the retino-cortical mapping, found in biological visual systems, to improve the efficiency of image analysis using Deep Convolutional Neural Nets (DCNNs) in the context of robot vision and egocentric perception systems. This work has now enabled DCNNs to process input images approaching one million pixels in size, in real time, using only consumer grade graphics processor (GPU) hardware in a single pass of the DCNN.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30971891

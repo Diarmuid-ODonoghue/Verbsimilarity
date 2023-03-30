@@ -1,0 +1,3 @@
+Persistent postural-perceptual dizziness (PPPD) is a common functional vestibular disorder characterized by persistent symptoms of non-vertiginous dizziness and unsteadiness that are exacerbated by upright posture, self-motion, and exposure to complex or moving visual stimuli. Recent physiologic and neuroimaging data suggest that greater reliance on visual cues for postural control (as opposed to vestibular cues-a phenomenon termed visual dependence) and dysfunction in central visuo-vestibular networks may be important pathophysiologic mechanisms underlying PPPD. Dysfunctions are thought to involve insular regions that encode recognition of the visual effects of motion in the gravitational field.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29089920

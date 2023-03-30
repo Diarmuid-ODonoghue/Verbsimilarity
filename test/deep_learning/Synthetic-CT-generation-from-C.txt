@@ -1,0 +1,3 @@
+Cone-beam computed tomography (CBCT) scanning is used daily or weekly (i.e., on-treatment CBCT) for accurate patient setup in image-guided radiotherapy. However, inaccuracy of CT numbers prevents CBCT from performing advanced tasks such as dose calculation and treatment planning. Motivated by the promising performance of deep learning in medical imaging, we propose a deep U-net-based approach that synthesizes CT-like images with accurate numbers from planning CT, while keeping the same anatomical structure as on-treatment CBCT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31853974

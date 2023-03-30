@@ -1,0 +1,3 @@
+Deep learning (DL) based solutions have been proposed for interpretation of several imaging modalities including radiography, CT, and MR. For chest radiographs, DL algorithms have found success in the evaluation of abnormalities such as lung nodules, pulmonary tuberculosis, cystic fibrosis, pneumoconiosis, and location of peripherally inserted central catheters. Chest radiography represents the most commonly performed radiological test for a multitude of non-emergent and emergent clinical indications. This study aims to assess accuracy of deep learning (DL) algorithm for detection of abnormalities on routine frontal chest radiographs (CXR), and assessment of stability or change in findings over serial radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30286097

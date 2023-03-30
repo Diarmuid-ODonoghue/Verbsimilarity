@@ -1,0 +1,3 @@
+In the steady-state visual evoked potential (SSVEP)-based brain computer interfaces (BCIs), spatial filtering, which combines the multi-channel electroencephalography (EEG) signals so as to reduce the non-SSVEP-related component and thus enhance the signal-to-noise ratio (SNR), plays an important role in target recognition. Recently, various spatial filtering algorithms have been developed employing different prior knowledge and characteristics of SSVEPs, however how these algorithms interconnect and differ is not yet fully explored, leading to difficulties in further understanding, utilizing and improving them.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32091986

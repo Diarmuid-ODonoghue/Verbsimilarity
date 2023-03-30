@@ -1,0 +1,3 @@
+Connectomics have allowed researchers to study integrative patterns of neural connectivity in humans. Yet, it is unclear how connectomics may elucidate structure-function relationships in bipolar I disorder (BPI). Expanding on our previous structural connectome study, here we used an overlapping sample with additional psychometric and fMRI data to relate structural connectome properties to both fMRI signals and cognitive performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26228398

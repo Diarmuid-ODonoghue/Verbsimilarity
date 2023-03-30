@@ -1,0 +1,3 @@
+The ideal neuroprosthetic interface permits high-quality neural recording and stimulation of the nervous system while reliably providing clinical benefits over chronic periods. Although current technologies have made notable strides in this direction, significant improvements must be made to better achieve these design goals and satisfy clinical needs. This article provides an overview of the state of neuroprosthetic interfaces, starting with the design and placement of these interfaces before exploring the stimulation and recording platforms yielded from contemporary research. Finally, we outline emerging research trends in an effort to explore the potential next generation of neuroprosthetic interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27652455

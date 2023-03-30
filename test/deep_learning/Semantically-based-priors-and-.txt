@@ -1,0 +1,3 @@
+Noise-resistant and nuanced, COGBASE makes 10 million pieces of commonsense data and a host of novel reasoning algorithms available via a family of semantically-driven prior probability distributions. Machine learning, Big Data, natural language understanding/processing, and social AI can draw on COGBASE to determine lexical semantics, infer goals and interests, simulate emotion and affect, calculate document gists and topic models, and link commonsense knowledge to domain models and social, spatial, cultural, and psychological data. COGBASE is especially ideal for social Big Data, which tends to involve highly implicit contexts, cognitive artifacts, difficult-to-parse texts, and deep domain knowledge dependencies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25022322

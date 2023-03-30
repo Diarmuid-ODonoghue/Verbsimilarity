@@ -1,0 +1,3 @@
+Detection of the huge amount of data generated in real-time visual evoked potential (VEP) requires labor-intensive work and experienced electrophysiologists. This study aims to build an automatic VEP classification system by using a deep learning algorithm.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31788350

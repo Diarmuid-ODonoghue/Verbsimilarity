@@ -1,0 +1,3 @@
+Protein secondary structure is the three dimensional form of local segments of proteins and its prediction is an important problem in protein tertiary structure prediction. Developing computational approaches for protein secondary structure prediction is becoming increasingly urgent.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29745837

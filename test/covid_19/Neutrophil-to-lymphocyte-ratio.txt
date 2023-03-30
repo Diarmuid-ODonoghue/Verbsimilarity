@@ -1,0 +1,3 @@
+Several studies have described the clinical characteristics of patients with novel coronavirus (SARS-CoV-2) infected pneumonia (COVID-19), indicating severe patients tended to have higher neutrophil to lymphocyte ratio (NLR). Whether baseline NLR could be an independent predictor of in-hospital death in Chinese COVID-19 patients remains to be investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32283162

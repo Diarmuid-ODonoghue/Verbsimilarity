@@ -1,0 +1,3 @@
+The image registration methods for deformable soft tissues utilize nonlinear transformations to align a pair of images precisely. In some situations, when there is huge gray scale difference or large deformation between the images to be registered, the deformation field tends to fold at some local voxels, which will result in the breakdown of the one-to-one mapping between images and the reduction of invertibility of the deformation field. In order to address this issue, a novel registration approach based on unsupervised learning is presented for deformable soft tissue image registration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32217285

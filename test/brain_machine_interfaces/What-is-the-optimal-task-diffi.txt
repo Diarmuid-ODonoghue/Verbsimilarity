@@ -1,0 +1,3 @@
+The balance between action and reward during neurofeedback may influence reinforcement learning of brain self-regulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27472538

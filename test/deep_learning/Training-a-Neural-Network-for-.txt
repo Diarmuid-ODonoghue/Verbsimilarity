@@ -1,0 +1,3 @@
+This system was developed to detect and diagnose vocal stereotypies made by non-verbal autistic children. Vocal stereotypies are loud non-speech vocalizations made by these children.The system discussed in this paper uses a deep learning neural network to detect these vocalizations. Using similar data from other recorded human voices, the system can be trained to detect the non-speech vocalizations of autistic children. By detecting vocalizations the proposed system can be used to recognize the stimming of non-verbal autistic children from the background noise.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31947089

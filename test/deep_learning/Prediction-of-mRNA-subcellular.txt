@@ -1,0 +1,3 @@
+Messenger RNA subcellular localization mechanisms play a crucial role in post-transcriptional gene regulation. This trafficking is mediated by trans-acting RNA-binding proteins interacting with cis-regulatory elements called zipcodes. While new sequencing-based technologies allow the high-throughput identification of RNAs localized to specific subcellular compartments, the precise mechanisms at play, and their dependency on specific sequence elements, remain poorly understood.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31510698

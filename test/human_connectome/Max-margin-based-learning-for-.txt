@@ -1,0 +1,3 @@
+Recently, neuroimaging data have been increasingly used to study the causal relationship among brain regions for the understanding and diagnosis of brain diseases. Recent work on sparse Gaussian Bayesian network (SGBN) has shown it as an efficient tool to learn large scale directional brain networks from neuroimaging data. In this paper, we propose a learning approach to constructing SGBNs that are both representative and discriminative for groups in comparison. A max-margin criterion built directly upon the SGBN models is proposed to effectively optimize the classification performance of the SGBNs. The proposed method shows significant improvements over the state-of-the-art works in the discriminative power of SGBNs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25320815

@@ -1,0 +1,3 @@
+Microchannel neural interfaces (MNIs) overcome problems with recording from peripheral nerves by amplifying signals independent of node of Ranvier position. Selective recording and stimulation using an MNI requires good insulation between microchannels and a high electrode density. We propose that stacking microchannel laminae will improve selectivity over single layer MNI designs due to the increase in electrode number and an improvement in microchannel sealing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27001943

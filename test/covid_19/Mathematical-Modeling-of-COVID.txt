@@ -1,0 +1,3 @@
+We propose a compartmental mathematical model for the spread of the COVID-19 disease with special focus on the transmissibility of super-spreaders individuals. We compute the basic reproduction number threshold, we study the local stability of the disease free equilibrium in terms of the basic reproduction number, and we investigate the sensitivity of the model with respect to the variation of each one of its parameters. Numerical simulations show the suitability of the proposed COVID-19 model for the outbreak that occurred in Wuhan, China.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32341628

@@ -1,0 +1,3 @@
+This study explored a novel homological analysis method for prognostic prediction in lung cancer patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31855844

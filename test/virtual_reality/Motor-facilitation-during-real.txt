@@ -1,0 +1,3 @@
+Impaired temporal stability and poor motor unit recruitment are key impairments in Parkinsonian motor control during a whole spectrum of rhythmic movements, from simple finger tapping to gait. Therapies based on imitation can be designed for patients with motor impairments and virtual-reality (VR) offers a new perspective. Motor actions are known to depend upon the dopaminergic system, whose involvement in imitation is unknown. We sought to understand this role and the underlying possibilities for motor rehabilitation, by observing the execution of different motor-patterns during imitation in a VR environment in subjects with and without dopaminergic deficits.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23993248

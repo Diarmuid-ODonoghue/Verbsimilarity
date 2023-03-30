@@ -1,0 +1,3 @@
+Face-to-face and text-based social support have been shown to attenuate stress responses in past studies. Yet as social interactions increasingly take place online by means of virtual humans, our objective was to examine whether different forms of social support (virtual vs. real) prior to the Trier Social Stress Test (TSST) would also decrease stress. Additionally, the effect on subsequent real-life social behaviors (helping and approach) was evaluated while controlling for affective states and social presence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30454876

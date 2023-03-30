@@ -1,0 +1,3 @@
+Field phenotyping by remote sensing has received increased interest in recent years with the possibility of achieving high-throughput analysis of crop fields. Along with the various technological developments, the application of machine learning methods for image analysis has enhanced the potential for quantitative assessment of a multitude of crop traits. For wheat breeding purposes, assessing the production of wheat spikes, as the grain-bearing organ, is a useful proxy measure of grain production. Thus, being able to detect and characterize spikes from images of wheat fields is an essential component in a wheat breeding pipeline for the selection of high yielding varieties.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30459822

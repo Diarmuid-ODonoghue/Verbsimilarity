@@ -1,0 +1,3 @@
+To prevent unnecessary errors and adverse results of laparoscopic surgery, proper training is of paramount importance. A safe way to train surgeons for laparoscopic skills is simulation. For this purpose traditional box trainers are often used, however they lack objective assessment of performance. Virtual reality laparoscopic simulators assess performance, but lack realistic haptic feedback. Augmented reality (AR) combines a virtual reality (VR) setting with real physical materials, instruments, and feedback. This article presents the current developments in augmented reality laparoscopic simulation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18813987

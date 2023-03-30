@@ -1,0 +1,3 @@
+This paper presents a conceptual framework of a virtual reality therapy to assist individuals, especially lung cancer patients or those with breathing disorders to regulate their breath through real-time analysis of respiration movements using a smartphone. Virtual reality technology is an attractive means for medical simulations and treatment, particularly for patients with cancer. The theories, methodologies and approaches, and real-world dynamic contents for all the components of this virtual reality therapy (VRT) via a conceptual framework using the smartphone will be discussed. The architecture and technical aspects of the offshore platform of the virtual environment will also be presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24043409

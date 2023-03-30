@@ -1,0 +1,3 @@
+We propose rigorously optimised supervised feature extraction methods for multilinear data based on Multilinear Discriminant Analysis (MDA) and demonstrate their usage on Electroencephalography (EEG) and simulated data. While existing MDA methods use heuristic optimisation procedures based on an ambiguous Tucker structure, we propose a rigorous approach via optimisation on the cross-product of Stiefel manifolds. We also introduce MDA methods with the PARAFAC structure. We compare the proposed approaches to existing MDA methods and unsupervised multilinear decompositions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29848301

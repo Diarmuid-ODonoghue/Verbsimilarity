@@ -1,0 +1,3 @@
+We examined whether spatialized nonspeech beacons could guide navigation and how sound timbre, waypoint capture radius, and practice affect performance.
+
+https://www.ncbi.nlm.nih.gov/pubmed/16884048

@@ -1,0 +1,3 @@
+We aim to evaluate the effectiveness of advanced deep learning models (eg, capsule network [CapNet], adversarial training [ADV]) for single-domain and multidomain relation extraction from electronic health record (EHR) notes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30938761

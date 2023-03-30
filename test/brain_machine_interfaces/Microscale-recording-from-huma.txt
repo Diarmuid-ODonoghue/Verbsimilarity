@@ -1,0 +1,3 @@
+There is a growing interest in the use of recording from the surface of the brain, known as electrocorticography (ECoG), as a practical signal platform for brain-computer interface application. The signal has a combination of high signal quality and long-term stability that may be the ideal intermediate modality for future application. The research paradigm for studying ECoG signals uses patients requiring invasive monitoring for seizure localization. The implanted arrays span cortex areas on the order of centimeters. Currently, it is unknown what level of motor information can be discerned from small regions of human cortex with microscale ECoG recording.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19569885

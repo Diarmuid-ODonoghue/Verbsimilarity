@@ -1,0 +1,3 @@
+Laparoscopic camera navigation (LCN) training on simulators has demonstrated transferability to actual operations, but no comparative data exist. The objective of this study was to compare the construct and face validity, as well as workload, of two previously validated virtual reality (VR) and videotrainer (VT) systems.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17149551

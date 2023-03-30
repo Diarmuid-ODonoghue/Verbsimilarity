@@ -1,0 +1,3 @@
+Deep learning use for quantitative image analysis is exponentially increasing. However, training accurate, widely deployable Deep Learning algorithms requires a plethora of annotated (ground truth) data. Image collections must contain not only thousands of images to provide sufficient example objects (i.e. cells), but also contain an adequate degree of image heterogeneity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32239126

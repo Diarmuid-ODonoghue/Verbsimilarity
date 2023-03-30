@@ -1,0 +1,3 @@
+The aim of this study was to test whether texture analysis and machine learning enable the detection of myocardial infarction (MI) on non-contrast-enhanced low radiation dose cardiac computed tomography (CCT) images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29420321

@@ -1,0 +1,3 @@
+To evaluate if two commonly used laparoscopic simulators could be adapted and used successfully for the robotics platform in a laparoscopic and robotic naïve medical student population.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21470359

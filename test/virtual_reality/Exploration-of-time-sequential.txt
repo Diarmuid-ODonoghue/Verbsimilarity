@@ -1,0 +1,3 @@
+The purpose was to create a time sequential three-dimensional virtual reality model, also referred to as a four-dimensional model, to explore its possible benefit and clinical applications. We hypothesized that this novel solution allows for the visuospatial benefits of the 3D model and the dynamic benefits of other existing imaging modalities.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30649656

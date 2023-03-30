@@ -1,0 +1,3 @@
+Intracortical microstimulation (ICMS) is a powerful tool to investigate the neural mechanisms of perception and can be used to restore sensation for patients who have lost it. While sensitivity to ICMS has previously been characterized, no systematic framework has been developed to summarize the detectability of individual ICMS pulse trains or the discriminability of pairs of pulse trains.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27977419

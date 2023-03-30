@@ -1,0 +1,3 @@
+Using an effective method to measure the brain functional connectivity is an important step to study the brain functional network. The main methods for constructing an undirected brain functional network include correlation coefficient (CF), partial correlation coefficient (PCF), mutual information (MI), wavelet correlation coefficient (WCF), and coherence (CH). In this paper we demonstrate that the maximal information coefficient (MIC) proposed by Reshef et al. is relevant to constructing a brain functional network because it performs best in the comprehensive comparisons in consistency and robustness. Our work can be used to validate the possible new functional connection measures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25710031

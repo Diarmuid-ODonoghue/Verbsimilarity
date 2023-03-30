@@ -1,0 +1,3 @@
+Automated classification of corneal confocal images from healthy subjects and diabetic subjects with neuropathy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31658167

@@ -1,0 +1,3 @@
+The decisions that clinicians make in intensive care units (ICUs) based on monitored parameters reflecting physiological deterioration are of major medical and biomedical engineering interest. These parameters have been investigated and assessed for their usefulness in risk assessment.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28599216

@@ -1,0 +1,3 @@
+Sudden sensorineural hearing loss (SSHL) is a multifactorial disorder with high heterogeneity, thus the outcomes vary widely. This study aimed to develop predictive models based on four machine learning methods for SSHL, identifying the best performer for clinical application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29356346

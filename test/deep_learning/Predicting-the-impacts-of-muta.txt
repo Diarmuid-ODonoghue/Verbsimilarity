@@ -1,0 +1,3 @@
+Mutation-induced variation of protein-ligand binding affinity is the key to many genetic diseases and the emergence of drug resistance, and therefore predicting such mutation impacts is of great importance. In this work, we aim to predict the mutation impacts on protein-ligand binding affinity using efficient structure-based, computational methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32153730

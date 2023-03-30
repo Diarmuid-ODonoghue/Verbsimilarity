@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) offer potential for individuals with a variety of motor and sensory disabilities to interact with their environment, communicate and control mobility aids. Two key factors which affect the performance of a BCI and its usability are the feedback given to the participant and the subject's motivation. This paper presents the results from a study investigating the effects of feedback and motivation on the performance of the Strathclyde Brain Computer Interface. The paper discusses how the performance of the system can be improved by behavior integration and human-in-the-loop design.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20699201

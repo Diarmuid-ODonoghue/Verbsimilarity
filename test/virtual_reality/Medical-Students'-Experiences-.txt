@@ -1,0 +1,3 @@
+Attending to the wide range of communication behaviors that convey empathy is an important but often underemphasized concept to reduce errors in care, improve patient satisfaction, and improve cancer patient outcomes. A virtual human (VH)-based simulation, MPathic-VR, was developed to train health care providers in empathic communication with patients and in interprofessional settings and evaluated through a randomized controlled trial.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31774400

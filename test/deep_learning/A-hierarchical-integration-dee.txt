@@ -1,0 +1,3 @@
+Cancer subtype classification attains the great importance for accurate diagnosis and personalized treatment of cancer. Latest developments in high-throughput sequencing technologies have rapidly produced multi-omics data of the same cancer sample. Many computational methods have been proposed to classify cancer subtypes, however most of them generate the model by only employing gene expression data. It has been shown that integration of multi-omics data contributes to cancer subtype classification.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31660856

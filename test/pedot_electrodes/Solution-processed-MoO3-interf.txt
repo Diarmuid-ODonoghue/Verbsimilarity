@@ -1,0 +1,3 @@
+An MoO(3) film spin-coated from a solution prepared by an extremely facile and cost-effective synthetic method is introduced as an anode buffer layer of bulk-heterojunction polymer photovoltaic devices. The device efficiency using the MoO(3) anode buffer layer is comparable to that using a conventional PEDOT:PSS layer without annealing at an elevated temperature.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22488552

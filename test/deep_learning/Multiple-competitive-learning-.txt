@@ -1,0 +1,3 @@
+This paper introduces a multiple competitive learning neural network fusion method for pattern recognition. By defining a confidence level measure for the learning vector quantization network classifier, we develop both a serial and a parallel network fusion algorithm to combine the discriminatory ability of different individually trained networks. We use two distinct feature vectors, gray-scale morphological granulometry and Fourier boundary descriptor, to demonstrate the efficacy of the classifier. The algorithms are applied on the classification of more than 8000 underwater plankton images. The classification accuracy for training data and for testing data are over 92% and 85%, respectively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18255972

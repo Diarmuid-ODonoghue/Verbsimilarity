@@ -1,0 +1,3 @@
+Functional near infra-red spectroscopy (fNIRS) is a promising brain imaging technology for brain-computer interfaces (BCI). Future clinical uses of fNIRS will likely require operation over long time spans, during which neural activation patterns may change. However, current decoders for fNIRS signals are not designed to handle changing activation patterns. The objective of this study is to test via simulations a new adaptive decoder for fNIRS signals, the Gaussian mixture model adaptive classifier (GMMAC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/28573984

@@ -1,0 +1,3 @@
+Conventional decoding pipeline for brain-machine interfaces (BMIs) consists of chained different stages of feature extraction, time-frequency analysis and statistical learning models. Each of these stages uses a different algorithm trained in a sequential manner, which makes it difficult to make the whole system adaptive. The goal was to create an adaptive online system with a single objective function and a single learning algorithm so that the whole system can be trained in parallel to increase the decoding performance. Here, we used deep neural networks consisting of convolutional neural networks (CNN) and a special kind of recurrent neural network (RNN) called long short term memory (LSTM) to address these needs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29182152

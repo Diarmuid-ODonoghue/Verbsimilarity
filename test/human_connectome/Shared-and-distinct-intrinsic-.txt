@@ -1,0 +1,3 @@
+Individuals with autism spectrum disorders (ASD) often exhibit symptoms of attention-deficit/hyperactivity disorder (ADHD). Across both disorders, observations of distributed functional abnormalities suggest aberrant large-scale brain network connectivity. Yet, common and distinct network correlates of ASD and ADHD remain unidentified. Here, we aimed to examine patterns of dysconnection in school-age children with ASD and ADHD and typically developing children who completed a resting state functional magnetic resonance imaging scan.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23541632

@@ -1,0 +1,3 @@
+This report provides a concise overview of the rendering and utilization of three-dimensional models in the field of anatomy. Anatomical three-dimensional virtual models are widely used for educational purposes, preoperative planning, and surgical simulations because they simply allow for interactive three-dimensional navigation across the human organs or entire body. Virtual three-dimensional models have been recently fabricated as accurate replicas of the anatomical structures thanks to advances in rapid prototyping technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31659345

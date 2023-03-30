@@ -1,0 +1,3 @@
+Computer technology offers greater educational possibilities, notably simulation and virtual reality. This paper presents a technology which serves to integrate multiple modalities, namely 3D virtual reality, node-based simulator, Physiomodel explorer and explanatory physiological simulators employing Modelica language and Unity3D platform. This emerging tool chain should allow the authors to concentrate more on educational content instead of application development. The technology is demonstrated through Surviving sepsis educational scenario, targeted on Microsoft Windows Store platform.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26737091

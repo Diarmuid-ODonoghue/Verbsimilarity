@@ -1,0 +1,3 @@
+The primary objective was to develop and test an artificial neural network (ANN) that learns and predicts length of stay (LOS), inpatient charges, and discharge disposition for total hip arthroplasty. The secondary objective was to create a patient-specific payment model (PSPM) accounting for patient complexity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31122849

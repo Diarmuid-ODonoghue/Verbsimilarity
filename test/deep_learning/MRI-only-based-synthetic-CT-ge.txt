@@ -1,0 +1,3 @@
+Automated synthetic computed tomography (sCT) generation based on magnetic resonance imaging (MRI) images would allow for MRI-only based treatment planning in radiation therapy, eliminating the need for CT simulation and simplifying the patient treatment workflow. In this work, the authors propose a novel method for generation of sCT based on dense cycle-consistent generative adversarial networks (cycle GAN), a deep-learning based model that trains two transformation mappings (MRI to CT and CT to MRI) simultaneously.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31112304

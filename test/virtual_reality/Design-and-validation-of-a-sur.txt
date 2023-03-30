@@ -1,0 +1,3 @@
+An accurate position of the needle is vitally important in low-dose-rate seed implantation brachytherapy. Our paper aims to implement a mixed reality navigation system to assist with the placement of the I125 seed implantation thoracoabdominal tumor brachytherapy needle and to validate the accuracy and quality of this type of method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31169914

@@ -1,0 +1,3 @@
+Advances in computational network analysis have enabled the characterization of topological properties of human brain networks (connectomics) from high angular resolution diffusion imaging (HARDI) MRI structural measurements. In this study, the effect of changing the diffusion weighting (b value) and sampling (number of gradient directions) was investigated in ten healthy volunteers, with specific focus on graph theoretical network metrics used to characterize the human connectome.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29520641

@@ -1,0 +1,3 @@
+A low-cost virtual reality system that translates movements of the hand, fingers, and thumb into game play was designed to provide a flexible and motivating approach to increasing adherence to home-based rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25212521

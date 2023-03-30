@@ -1,0 +1,3 @@
+Xerostomia commonly occurs in patients who undergo head and neck radiation therapy and can seriously affect patients' quality of life. In this study, we developed a xerostomia prediction model with radiation treatment data using a 3-dimensional (3D) residual convolutional neural network (rCNN). The model can be used to guide radiation therapy to reduce toxicity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31201897

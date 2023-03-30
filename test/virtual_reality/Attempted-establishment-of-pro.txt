@@ -1,0 +1,3 @@
+The Minimally Invasive Surgical Trainer-Virtual Reality (MIST-VR) has been well validated as a training device for laparoscopic skills. It has been demonstrated that training to a level of proficiency on the simulator significantly improves operating room performance of laparoscopic cholecystectomy. The purpose of this project was to obtain a national standard of proficiency using the MIST-VR based on the performance of experienced laparoscopic surgeons.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17111280

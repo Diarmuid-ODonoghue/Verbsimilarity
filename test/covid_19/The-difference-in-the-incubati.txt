@@ -1,0 +1,3 @@
+Data collected from the individual cases reported by the media were used to estimate the distribution of the incubation period of travelers to Hubei versus that of nontravelers. Because a longer and more volatile incubation period has been observed in travelers, the duration of quarantine should be extended to 3 weeks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32183920

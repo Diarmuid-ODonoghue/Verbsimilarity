@@ -1,0 +1,3 @@
+Create virtual acoustic environments (VAEs) with interactive dynamic rendering for applications in audiology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27813439

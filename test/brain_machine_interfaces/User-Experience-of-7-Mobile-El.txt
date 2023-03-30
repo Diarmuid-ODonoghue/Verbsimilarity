@@ -1,0 +1,3 @@
+Registration of brain activity has become increasingly popular and offers a way to identify the mental state of the user, prevent inappropriate workload, and control other devices by means of brain-computer interfaces. However, electroencephalography (EEG) is often related to user acceptance issues regarding the measuring technique. Meanwhile, emerging mobile EEG technology offers the possibility of gel-free signal acquisition and wireless signal transmission. Nonetheless, user experience research about the new devices is lacking.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31482852

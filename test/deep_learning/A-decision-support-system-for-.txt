@@ -1,0 +1,3 @@
+Ectopic pregnancy is an important cause of morbidity and mortality worldwide. An early diagnosis, as well as the choice of the most suitable treatment for the patient is crucial to avoid possible complications. According to different factors an ectopic pregnancy must be treated from surgery, using a pharmacological treatment or following a conservative treatment. In this paper, a clinical decision support systems based on artificial intelligence algorithms has been developed to help clinicians to choose the initial treatment to be followed by the patient.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31445255

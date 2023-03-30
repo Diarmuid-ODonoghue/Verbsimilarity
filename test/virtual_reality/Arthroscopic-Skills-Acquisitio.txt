@@ -1,0 +1,3 @@
+To evaluate correlations between objective performances measured by a new online arthroscopic skills acquisition tool (ASAT, in which "shape match" with inverted controls requires lifting shapes and releasing them into their corresponding silhouettes) and a validated virtual reality (VR) shoulder arthroscopy simulator (Insight Arthro VR; GMV, Madrid, Spain).
+
+https://www.ncbi.nlm.nih.gov/pubmed/26070927

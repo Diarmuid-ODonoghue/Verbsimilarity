@@ -1,0 +1,3 @@
+Brain-computer interfaces are systems that use signals recorded from the brain to enable communication and control applications for individuals who have impaired function. This technology has developed to the point that it is now being used by individuals who can actually benefit from it. However, there are several outstanding issues that prevent widespread use. These include the ease of obtaining high-quality recordings by home users, the speed, and accuracy of current devices and adapting applications to the needs of the user. In this chapter, we discuss some of these unsolved issues.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27590976

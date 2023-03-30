@@ -1,0 +1,3 @@
+Simulation refers to educational tools that allow for repetitive instruction in a nonpatient care environment that is risk-free. In GI endoscopy, simulators include ex vivo animal tissue models, live animal models, mechanical models, and virtual reality (VR) computer simulators.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31122746

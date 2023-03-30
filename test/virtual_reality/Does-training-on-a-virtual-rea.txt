@@ -1,0 +1,3 @@
+The primary objective of this study is to determine if training on the Mimic dV-Trainer (MdVT) simulator results in improved ability on the da Vinci surgical system (dVSS) using exercises with inanimate objects.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20334558

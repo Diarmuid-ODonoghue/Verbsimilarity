@@ -1,0 +1,3 @@
+In the development of Brain Machine Interfaces (BMIs), there is a great need to enable users to interact with changing environments during the activities of daily life. It is expected that the number and scope of the learning tasks encountered during interaction with the environment as well as the pattern of brain activity will vary over time. These conditions, in addition to neural reorganization, pose a challenge to decoding neural commands for BMIs. We have developed a new BMI framework in which a computational agent symbiotically decoded users' intended actions by utilizing both motor commands and goal information directly from the brain through a continuous Perception-Action-Reward Cycle (PARC).
+
+https://www.ncbi.nlm.nih.gov/pubmed/21423797

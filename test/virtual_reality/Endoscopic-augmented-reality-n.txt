@@ -1,0 +1,3 @@
+Endoscopes have been commonly used in transsphenoidal surgery to treat pituitary tumors, to compensate for the narrow surgical field. Although many navigation systems have been introduced for neurosurgical procedures, there have been few reports of navigation systems for endoscopic operations. This report presents our recently developed, endoscopic, augmented reality (AR) navigation system.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12015864

@@ -1,0 +1,3 @@
+Nowadays proper detection of cognitive impairment has become a challenge for the scientific community. Alzheimer's Disease (AD), the most common cause of dementia, has a high prevalence that is increasing at a fast pace towards epidemic level. In the not-so-distant future this fact could have a dramatic social and economic impact. In this scenario, an early and accurate diagnosis of AD could help to decrease its effects on patients, relatives and society. Over the last decades there have been useful advances not only in classic assessment techniques, but also in novel non-invasive screening methodologies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29165084

@@ -1,0 +1,3 @@
+Poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT:PSS) has been extensively used as the hole-transporting layer (HTL) in bulk heterojunction (BHJ) solar cells, however, its anisotropic electrical conduction and intrinsic acidic nature generally limit the device performance. Here we demonstrate the application of a water/alcohol soluble CPE (CPE-K) as HTLs in BHJ solar cells, achieving a PCE up to 8.2%. The more superior and uniform vertical electrical conductivity found in CPE-K reduces the series resistance and provides efficient hole extraction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24170587

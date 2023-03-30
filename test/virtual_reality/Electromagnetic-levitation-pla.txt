@@ -1,0 +1,3 @@
+An electromagnetic levitation platform for use in a light emitting diode (LED) arena based virtual reality environment was developed for wireless recording of neural and neuromuscular signals from the flight related muscle groups in Manduca sexta. The platform incorporates the use of Early Metamorphosis Insertion Technology to implant recording electrodes into the flight muscles of late stage pupal moths. Analysis of the insects' response to changes in the LED arena rotation direction indicate that this setup could be used to perform a variety of flight behavior studies during yaw maneuvers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24110038

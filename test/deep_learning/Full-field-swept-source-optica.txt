@@ -1,0 +1,3 @@
+Optical coherence tomography can differentiate brain regions with intrinsic contrast and at a micron scale resolution. Such a device can be particularly useful as a real-time neurosurgical guidance tool. We present, to our knowledge, the first full-field swept-source optical coherence tomography system operating near a wavelength of 1310 nm. The proof-of-concept system was integrated with an endoscopic probe tip, which is compatible with deep brain stimulation keyhole neurosurgery. Neuroimaging experiments were performed on ex vivo brain tissues and in vivo in rat brains. Using classification algorithms involving texture features and optical attenuation, images were successfully classified into three brain tissue types.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31710771

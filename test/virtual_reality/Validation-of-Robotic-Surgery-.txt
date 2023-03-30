@@ -1,0 +1,3 @@
+Recent growth of daVinci Robotic Surgical System as a minimally invasive surgery tool has led to a call for better training of future surgeons. In this paper, a new virtual reality simulator, called RoSS is presented. Initial results from two studies - face and content validity, are very encouraging. 90% of the cohort of expert robotic surgeons felt that the simulator was excellent or somewhat close to the touch and feel of the daVinci console. Content validity of the simulator received 90% approval in some cases. These studies demonstrate that RoSS has the potential of becoming an important training tool for the daVinci surgical robot.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21335803

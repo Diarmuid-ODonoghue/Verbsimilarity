@@ -1,0 +1,3 @@
+Abbreviations sense disambiguation is a special case of word sense disambiguation. Machine learning methods based on neural networks showed promising results for word sense disambiguation (Festag and Spreckelsen, 2017) [1] and, here we assess their effectiveness for abbreviation sense disambiguation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30118854

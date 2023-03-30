@@ -1,0 +1,3 @@
+Since the report of the first confirmed case in Daegu on February 18, 2020, local transmission of COVID-19 in the Republic of Korea has continued. In this study, we aimed to identify the pattern of local transmission of COVID-19 using mathematical modeling and predict the epidemic size and the timing of the end of the spread.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32299157

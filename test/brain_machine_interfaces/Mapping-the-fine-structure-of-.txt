@@ -1,0 +1,3 @@
+Innovations in micro-electrocorticography (µECoG) electrode array manufacturing now allow for intricate designs with smaller contact diameters and/or pitch (i.e. inter-contact distance) down to the sub-mm range. The aims of the present study were: (i) to investigate whether frequency ranges up to 400 Hz can be reproducibly observed in µECoG recordings and (ii) to examine how differences in topographical substructure between these frequency bands and electrode array geometries can be quantified. We also investigated, for the first time, the influence of blood vessels on signal properties and assessed the influence of cortical vasculature on topographic mapping.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28597847

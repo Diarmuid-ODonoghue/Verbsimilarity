@@ -1,0 +1,3 @@
+In this editorial, we first summarize the 2nd International Workshop on Semantics-Powered Data Analytics (SEPDA 2017) held on November 13, 2017 in Kansas City, Missouri, U.S.A., and then briefly introduce 13 research articles included in this supplement issue, covering topics such as Semantic Integration, Deep Learning, Knowledge Base Construction, and Natural Language Processing.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30066636

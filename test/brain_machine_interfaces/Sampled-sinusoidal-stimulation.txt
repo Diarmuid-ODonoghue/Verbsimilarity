@@ -1,0 +1,3 @@
+The performance and usability of brain-computer interfaces (BCIs) can be improved by new paradigms, stimulation methods, decoding strategies, sensor technology etc. In this study we introduce new stimulation and decoding methods for electroencephalogram (EEG)-based BCIs that have targets flickering at the same frequency but with different phases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23594762

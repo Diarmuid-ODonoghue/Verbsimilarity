@@ -1,0 +1,3 @@
+Classification of electroencephalography (EEG) signals for motor imagery based brain computer interface (MI-BCI) is an exigent task and common spatial pattern (CSP) has been extensively explored for this purpose. In this work, we focused on developing a new framework for classification of EEG signals for MI-BCI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29100117

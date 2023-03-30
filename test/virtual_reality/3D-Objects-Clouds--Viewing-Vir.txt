@@ -1,0 +1,3 @@
+Given the expanding use of 3D Objects in a variety of fields such as animation, gaming, virtual worlds, commerce, augmented reality and 3D printing, we present a novel system for object browsing and searching. Specifically, the system packs objects into an interactive 3D cloud for browsing and searching. It was designed with the aim of increasing search efficiency in a variety of active environments, while providing a visually engaging layout, and we evaluated this by conducting a comparative user study. We show that our system can significantly decrease search times compared to the classic grid-based layout, and it has been suggested by subjects that cloud-based searching is more interesting and visually-engaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30295622

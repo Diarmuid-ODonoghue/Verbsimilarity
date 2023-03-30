@@ -1,0 +1,3 @@
+Virtual Reality (VR) based methods for stroke rehabilitation have mainly focused on motor rehabilitation, but there is increasing interest in integrating motor and cognitive training to increase similarity to real-world settings. Unfortunately, more research is needed for the definition of which type of content should be used in the design of these tools. One possibility is the use of emotional stimuli, which are known to enhance attentional processes. According to the Socioemotional Selectivity Theory, as people age, the emotional salience arises for positive and neutral, but not for negative stimuli.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27503215

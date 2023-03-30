@@ -1,0 +1,3 @@
+Diffusion magnetic resonance imaging (dMRI) techniques are receiving increasing attention due to their ability to characterize the arrangement map of white matter in vivo. However, the existing toolkits for dMRI analysis that have accompanied this surge possess noticeable limitations, such as large installation size, an incomplete pipeline, and a lack of cross-platform support.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27568099

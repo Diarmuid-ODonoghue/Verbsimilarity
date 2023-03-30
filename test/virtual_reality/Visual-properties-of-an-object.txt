@@ -1,0 +1,3 @@
+Virtual Reality is being used increasingly for upper limb rehabilitation. The type of virtual objects used for reaching tasks varies widely, but there has been little work exploring the effect of different characteristics of objects on target acquisition time. This study investigates how target acquisition times vary for virtual objects with different visual cues. Results suggest that the visual properties of an object may have a notable effect on target acquisition times. Simple (low polygon) objects with richer depth cues are acquired more easily than a standard sphere.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20543294

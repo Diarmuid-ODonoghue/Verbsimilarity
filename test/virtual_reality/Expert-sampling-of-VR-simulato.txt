@@ -1,0 +1,3 @@
+Often the assessment of mastoidectomy performance requires time-consuming manual rating. Virtual reality (VR) simulators offer potentially useful automated assessment and feedback but should be supported by validity evidence. We aimed to investigate simulator metrics for automated assessment based on the expert performance approach, comparison with an established assessment tool, and the consequences of standard setting.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30628093

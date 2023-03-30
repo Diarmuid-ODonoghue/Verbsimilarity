@@ -1,0 +1,3 @@
+Computed tomography (CT) and magnetic resonance imaging (MRI) are the most commonly selected methods for imaging gliomas. Clinically, radiotherapists always delineate the CT glioma region with reference to multi-modal MR image information. On this basis, we develop a deep feature fusion model (DFFM) guided by multi-sequence MRIs for postoperative glioma segmentation in CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31650265

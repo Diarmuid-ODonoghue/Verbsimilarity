@@ -1,0 +1,3 @@
+De novo drug discovery is a time-consuming and expensive process. Nowadays, drug repositioning is utilized as a common strategy to discover a new drug indication for existing drugs. This strategy is mostly used in cases with a limited number of candidate pairs of drugs and diseases. In other words, they are not scalable to a large number of drugs and diseases. Most of the in-silico methods mainly focus on linear approaches while non-linear models are still scarce for new indication predictions. Therefore, applying non-linear computational approaches can offer an opportunity to predict possible drug repositioning candidates.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31726977

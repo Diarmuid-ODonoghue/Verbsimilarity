@@ -1,0 +1,3 @@
+Phosphomolybdate, H3PMo12O40, (PMo12)-doped-poly(3,4-ethylenedioxythiophene) (PEDOT) coated gold nanoparticles have been synthesized in aqueous solution by reduction of AuCl4(-) using hydroxymethyl EDOT as a reducing agent in the presence of polystyrene sulfonate and PMo12. The resulting PMo12-doped-PEDOT stabilized Au nanoparticles are water soluble and have been characterized by UV-visible spectroscopy, scanning electron microscopy and electrochemistry. Glassy carbon electrodes modified with these Au nanoparticles show excellent stability and catalytic activity towards the reduction of bromate in an aqueous electrolyte solution containing 10mM H2SO4 and 0.1M Na2SO4.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24216195

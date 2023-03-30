@@ -1,0 +1,3 @@
+Each year in the United States, over 80 million people are affected by acne, atopic dermatitis, rosacea, psoriasis, and impetigo. Artificial intelligence and machine learning could prove to be a good tool for assisting in the diagnosis of dermatological conditions. The objective of this study was to evaluate the use of data augmentation in machine learning image recognition of five dermatological disease manifestations-acne, atopic dermatitis, impetigo, psoriasis, and rosacea.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31140653

@@ -1,0 +1,3 @@
+Virtual reality (VR) simulation offers a safe, controlled, and effective environment to complement training but requires extensive validation before it can be implemented within the curriculum. The main objective was to assess whether VR dynamic hip screw (DHS) simulation has a training effect to improve objective performance metrics.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26168925

@@ -1,0 +1,3 @@
+The temporal behavior of electroencephalography (EEG) recorded during self-paced hand movement is investigated for the purpose of improving EEG classification in general and onset detection in particular. Four temporal models based on conditional random fields are developed and applied to classify EEG data into the movement or idle class. They are further used for building an onset detection system and tested on self-paced EEG signals recorded from five subjects. True-false rates ranging from 74% to 98% have been achieved on different subjects, with significant improvement over non-temporal methods. The effectiveness of the proposed methods suggests their potential use in self-paced brain-computer interfaces.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21926453

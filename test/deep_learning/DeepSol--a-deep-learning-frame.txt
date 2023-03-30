@@ -1,0 +1,3 @@
+Protein solubility plays a vital role in pharmaceutical research and production yield. For a given protein, the extent of its solubility can represent the quality of its function, and is ultimately defined by its sequence. Thus, it is imperative to develop novel, highly accurate in silico sequence-based protein solubility predictors. In this work we propose, DeepSol, a novel Deep Learning-based protein solubility predictor. The backbone of our framework is a convolutional neural network that exploits k-mer structure and additional sequence and structural features extracted from the protein sequence.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29554211

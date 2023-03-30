@@ -1,0 +1,3 @@
+Artificial intelligence using deep learning has been applied to gastrointestinal disorders for the detection, classification, and delineation of various lesion images. With the accumulation of enormous medical records, the evolution of computation power with graphic processing units, and the widespread use of open-source libraries in large-scale machine learning processes, medical artificial intelligence is overcoming its traditional limitations. This paper explains the basic concepts of deep learning model establishment and summarizes previous studies on upper gastrointestinal disorders. The limitations and perspectives on future development are also discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32209800

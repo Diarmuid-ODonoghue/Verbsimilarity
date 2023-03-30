@@ -1,0 +1,3 @@
+We propose a model for the structured design of games for post-stroke rehabilitation. The model is based on experiences with game development for a haptic and stereo vision immersive workbench intended for daily use in stroke patients' homes. A central component of this rehabilitation system is a library of games that are simultaneously entertaining for the patient and beneficial for rehabilitation [1], and where each game is designed for specific training tasks through the use of the model.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377254

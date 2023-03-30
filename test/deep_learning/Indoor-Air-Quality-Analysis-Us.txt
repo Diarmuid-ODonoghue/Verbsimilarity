@@ -1,0 +1,3 @@
+Indoor air quality analysis is of interest to understand the abnormal atmospheric phenomena and external factors that affect air quality. By recording and analyzing quality measurements, we are able to observe patterns in the measurements and predict the air quality of near future. We designed a microchip made out of sensors that is capable of periodically recording measurements, and proposed a model that estimates atmospheric changes using deep learning. In addition, we developed an efficient algorithm to determine the optimal observation period for accurate air quality prediction. Experimental results with real-world data demonstrate the feasibility of our approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29143797

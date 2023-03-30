@@ -1,0 +1,3 @@
+To generate synthetic spine magnetic resonance (MR) images from spine computed tomography (CT) using generative adversarial networks (GANs), as well as to determine the similarities between synthesized and real MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31931556

@@ -1,0 +1,3 @@
+Intracranial brain computer interfaces (BCIs) can be connected to the user's cortex permanently. The interfaces response when fed with non-task elicited brain activity becomes important as design criterion: ideally intracranial BCIs should remain silent. We study their error probability in the form of false alarms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22695047

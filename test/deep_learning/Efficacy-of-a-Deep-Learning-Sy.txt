@@ -1,0 +1,3 @@
+To assess the performance of a deep learning algorithm for detecting referable glaucomatous optic neuropathy (GON) based on color fundus photographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29506863

@@ -1,0 +1,3 @@
+Machine learning is increasingly used to predict healthcare outcomes, including cost, utilization, and quality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31277828

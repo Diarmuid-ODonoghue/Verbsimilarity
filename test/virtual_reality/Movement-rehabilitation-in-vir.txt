@@ -1,0 +1,3 @@
+During the past decade, there has been a continuous exploration of how virtual environments can be used to facilitate motor recovery and relearning after neurological impairment. There are two goals for using virtual environments: to improve patients' rehabilitation outcomes beyond our current capabilities or to supplement labor-intensive and time consuming therapies with technology-based interventions. After over a decade of investigation, it seems appropriate to determine whether we are succeeding in meeting such goals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29057195

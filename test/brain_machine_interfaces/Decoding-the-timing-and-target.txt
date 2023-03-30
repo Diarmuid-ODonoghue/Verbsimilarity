@@ -1,0 +1,3 @@
+The control of movement timing has been a significant challenge for brain-machine interfaces (BMIs). As a first step toward developing a timing-based BMI, we aimed to decode movement timing and target locations in a visually guided saccadic eye movement task using the activity of neurons in the primate frontal eye field (FEF) and supplementary eye field (SEF).
+
+https://www.ncbi.nlm.nih.gov/pubmed/25973676

@@ -1,0 +1,3 @@
+P300 is an Event Related Potential control signal widely used in Brain Computer Interfaces. Using the oddball paradigm, a P300 speller allows a human to spell letters through P300 events produced by his/her brain. One of the most common issues in the detection of this event is that its structure may differ between different subjects and over time for a specific subject. The main purpose of this work is to deal with this inherent variability and identify the main structure of P300 using algorithmic clustering based on string compression.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31200908

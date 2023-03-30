@@ -1,0 +1,3 @@
+Intracranial electroencephalography (iEEG) is increasingly used in neuroscientific research. However, the position of the implanted electrodes varies greatly between patients, which makes group analyses particularly difficult. Therefore, an assignment procedure is needed that enables the neuroanatomical information to be obtained for each individual electrode contact.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31437467

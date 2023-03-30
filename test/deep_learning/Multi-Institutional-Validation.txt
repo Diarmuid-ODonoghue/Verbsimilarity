@@ -1,0 +1,3 @@
+Extranodal extension (ENE) is a well-established poor prognosticator and an indication for adjuvant treatment escalation in patients with head and neck squamous cell carcinoma (HNSCC). Identification of ENE on pretreatment imaging represents a diagnostic challenge that limits its clinical utility. We previously developed a deep learning algorithm that identifies ENE on pretreatment computed tomography (CT) imaging in patients with HNSCC. We sought to validate our algorithm performance for patients from a diverse set of institutions and compare its diagnostic ability to that of expert diagnosticians.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31815574

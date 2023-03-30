@@ -1,0 +1,3 @@
+Various bacterial pathogens can deliver their secreted substrates also called effectors through Type III secretion systems (T3SSs) into host cells and cause diseases. Since T3SS secreted effectors (T3SEs) play important roles in pathogen-host interactions, identifying them is crucial to our understanding of the pathogenic mechanisms of T3SSs. However, the effectors display high level of sequence diversity, therefore making the identification a difficult process. There is a need to develop a novel and effective method to screen and select putative novel effectors from bacterial genomes that can be validated by a smaller number of key experiments.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30407530

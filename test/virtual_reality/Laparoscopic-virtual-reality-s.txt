@@ -1,0 +1,3 @@
+To investigate whether a virtual reality simulator (LapSim) and traditional box trainer are effective tools for the acquisition of basic laparoscopic skills, and whether the LapSim is superior to the box trainer in surgical education.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24576509

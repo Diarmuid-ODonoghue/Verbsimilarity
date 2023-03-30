@@ -1,0 +1,3 @@
+A species distribution model computed with automatically identified plant observations was developed and evaluated to contribute to future ecological studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29732259

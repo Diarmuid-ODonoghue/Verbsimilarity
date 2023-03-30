@@ -1,0 +1,3 @@
+Preventing accidents caused by drowsiness behind the steering wheel is highly desirable but requires techniques for continuously estimating driver's abilities of perception, recognition and vehicle control abilities. This paper proposes methods for drowsiness estimation that combine the electroencephalogram (EEG) log subband power spectrum, correlation analysis, principal component analysis, and linear regression models to indirectly estimate driver's drowsiness level in a virtual-reality-based driving simulator. Results show that it is feasible to quantitatively monitor driver's alertness with concurrent changes in driving performance in a realistic driving simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17281561

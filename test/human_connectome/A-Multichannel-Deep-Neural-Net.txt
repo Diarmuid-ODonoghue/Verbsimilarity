@@ -1,0 +1,3 @@
+To develop a multichannel deep neural network (mcDNN) classification model based on multiscale brain functional connectome data and demonstrate the value of this model by using attention deficit hyperactivity disorder (ADHD) detection as an example.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32076663

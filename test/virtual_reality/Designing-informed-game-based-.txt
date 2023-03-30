@@ -1,0 +1,3 @@
+This paper details a brief history and rationale for the use of virtual reality (VR) technology for clinical research and intervention, and then focuses on game-based VR applications in the area of rehabilitation. An analysis of the match between rehabilitation task requirements and the assets available with VR technology is presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22494437

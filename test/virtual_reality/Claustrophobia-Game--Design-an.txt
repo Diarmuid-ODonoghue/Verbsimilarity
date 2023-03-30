@@ -1,0 +1,3 @@
+Claustrophobia or fear of closed spaces is the most common of phobias that is typically categorized as an anxiety disorder. Different methods have been proposed for treatment of phobias that one of the most recent and successful of these methods is applying virtual reality (VR) technology and simulating computer-generated environment. In this regard, the purpose of this research is design and development of a software game called "Claustrophobia Game" for treatment of claustrophobia using VR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30603615

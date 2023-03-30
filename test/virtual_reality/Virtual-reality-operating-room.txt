@@ -1,0 +1,3 @@
+Operating room (OR) fires are uncommon but disastrous events. Inappropriate handling of OR fires can result in injuries, even death. Aiming to simulate OR fire emergencies and effectively train clinicians to react appropriately, we have developed an artificial intelligence (AI)-based OR fire virtual trainer based on the principle of the "fire triangle" and SAGES FUSE curriculum. The simulator can predict the user's actions in the virtual OR and provide them with timely feedback to assist with training. We conducted a study investigating the validity of the AI-assisted OR fire trainer at the 2019 SAGES Learning Center.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32072293

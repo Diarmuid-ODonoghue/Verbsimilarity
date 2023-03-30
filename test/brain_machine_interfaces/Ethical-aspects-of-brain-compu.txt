@@ -1,0 +1,3 @@
+Brain-Computer Interface (BCI) is a set of technologies that are of increasing interest to researchers. BCI has been proposed as assistive technology for individuals who are non-communicative or paralyzed, such as those with amyotrophic lateral sclerosis or spinal cord injury. The technology has also been suggested for enhancement and entertainment uses, and there are companies currently marketing BCI devices for those purposes (e.g., gaming) as well as health-related purposes (e.g., communication). The unprecedented direct connection created by BCI between human brains and computer hardware raises various ethical, social, and legal challenges that merit further examination and discussion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29121942

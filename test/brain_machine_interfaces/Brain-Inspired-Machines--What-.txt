@@ -1,0 +1,3 @@
+In the computing community, people look at the brain as the ultimate computer. Brain-inspired machines are believed to be more efficient than the traditional Von Neumann computing paradigm, which has been the dominant computing model since the dawn of computing. More recently, however, there have been many claims made regarding attempts to build brain-inspired machines. But one question, in particular, needs to be thoroughly considered before we embark on creating these so-called brain-inspired machines: Inspired by what, exactly? Do we want to build a full replica of the human brain, assuming we have the required technology?
+
+https://www.ncbi.nlm.nih.gov/pubmed/26978853

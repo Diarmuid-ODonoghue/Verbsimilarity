@@ -1,0 +1,3 @@
+Conventional segmentation of the retinal nerve fiber layer (RNFL) is prone to errors that may affect the accuracy of spectral-domain optical coherence tomography (SD-OCT) scans in detecting glaucomatous damage.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32053142

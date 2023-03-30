@@ -1,0 +1,3 @@
+While single cell RNA sequencing (scRNA-seq) is invaluable for studying cell populations, cell-surface proteins are often integral markers of cellular function and serve as primary targets for therapeutic intervention. Here we propose a transfer learning framework, single cell Transcriptome to Protein prediction with deep neural network (cTP-net), to impute surface protein abundances from scRNA-seq data by learning from existing single-cell multi-omic resources.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32005835

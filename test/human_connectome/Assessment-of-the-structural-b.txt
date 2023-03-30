@@ -1,0 +1,3 @@
+Cerebral palsy (CP) is a term to describe the spectrum of disorders of impaired motor and sensory function caused by a brain lesion occurring early during development. Diffusion MRI and tractography have been shown to be useful in the study of white matter (WM) microstructure in tracts likely to be impacted by the static brain lesion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25003031

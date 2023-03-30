@@ -1,0 +1,3 @@
+Meiotic crossovers facilitate chromosome segregation and create new combinations of alleles in gametes. Crossover frequency varies along chromosomes and crossover interference limits the coincidence of closely spaced crossovers. Crossovers can be measured by observing the inheritance of linked transgenes expressing different colors of fluorescent protein in Arabidopsis pollen tetrads. Here we establish DeepTetrad, a deep learning-based image recognition package for pollen tetrad analysis that enables high-throughput measurements of crossover frequency and interference in individual plants. DeepTetrad will accelerate the genetic dissection of mechanisms that control meiotic recombination.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31536659

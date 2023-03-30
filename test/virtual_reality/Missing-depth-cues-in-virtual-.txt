@@ -1,0 +1,3 @@
+Goal-directed reaching for real-world objects by humans is enabled through visual depth cues. In virtual environments, the number and quality of available visual depth cues is limited, which may affect reaching performance and quality of reaching movements.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29293512

@@ -1,0 +1,3 @@
+Virtual reality simulators are often used for surgical skill training since they facilitate deliberate practice in a controlled, low stakes environment. However, to be considered for assessment purposes rigorous construct and criterion validity must be demonstrated. We performed face, content, construct and concurrent validity testing of the dV-Trainer™ robotic surgical simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22264455

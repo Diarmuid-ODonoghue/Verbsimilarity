@@ -1,0 +1,3 @@
+Clathrin is an adaptor protein that serves as the principal element of the vesicle-coating complex and is important for the membrane cleavage to dispense the invaginated vesicle from the plasma membrane. The functional loss of clathrins has been tied to a lot of human diseases, i.e., neurodegenerative disorders, cancer, Alzheimer's diseases, and so on. Therefore, creating a precise model to identify its functions is a crucial step towards understanding human diseases and designing drug targets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31319963

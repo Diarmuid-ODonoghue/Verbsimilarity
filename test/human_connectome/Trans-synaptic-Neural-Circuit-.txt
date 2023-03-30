@@ -1,0 +1,3 @@
+A central objective in deciphering the nervous system in health and disease is to define the connections of neurons. The propensity of neurotropic viruses to spread among synaptically-linked neurons makes them ideal for mapping neural circuits. So far, several classes of viral neuronal tracers have become available and provide a powerful toolbox for delineating neural networks. In this paper, we review the recent developments of neurotropic viral tracers and highlight their unique properties in revealing patterns of neuronal connections.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31004271

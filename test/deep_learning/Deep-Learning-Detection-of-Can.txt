@@ -1,0 +1,3 @@
+Approximately one-fourth of all cancer metastases are found in the brain. MRI is the primary technique for detection of brain metastasis, planning of radiotherapy, and the monitoring of treatment response. Progress in tumor treatment now requires detection of new or growing metastases at the small subcentimeter size, when these therapies are most effective.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32167652

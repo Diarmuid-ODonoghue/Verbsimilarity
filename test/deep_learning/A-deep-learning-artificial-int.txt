@@ -1,0 +1,3 @@
+The distal root of the mandibular first molar occasionally has an extra root, which can directly affect the outcome of endodontic therapy. In this study, we examined the diagnostic performance of a deep learning system for classification of the root morphology of mandibular first molars on panoramic radiographs. Dental cone-beam CT (CBCT) was used as the gold standard.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30379570

@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) tested in patients often are gaze-dependent, while these intended users could possibly lose the ability to focus their gaze. Therefore, a visual and a tactile gaze-independent spelling system were investigated.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24698208

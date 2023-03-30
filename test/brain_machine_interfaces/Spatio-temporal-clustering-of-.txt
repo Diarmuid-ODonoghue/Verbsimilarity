@@ -1,0 +1,3 @@
+Characterizing the dynamics of neural data by a discrete state variable is desirable in experimental analysis and brain-machine interfaces. Previous successes have used dynamical modeling including Hidden Markov Models, but the methods do not always produce meaningful results without being carefully trained or initialized. We propose unsupervised clustering in the spatio-temporal space of neural data using time embedding and a corresponding distance measure. By defining performance measures, the method parameters are investigated for a set of neural and simulated data with promising results. Our investigations demonstrate a different view of how to extract information to maximize the utility of state estimation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21097115

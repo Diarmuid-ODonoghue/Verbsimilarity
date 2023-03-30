@@ -1,0 +1,3 @@
+Virtual reality (VR) simulation has been used to improve training for manual laparoscopy and to give surgeons superior performance in the operating room. However, VR has not been used to train surgeons in robotic laparoscopy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377249

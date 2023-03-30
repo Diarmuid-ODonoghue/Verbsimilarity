@@ -1,0 +1,3 @@
+Electrocorticography (ECoG), used as a neural recording modality for brain-machine interfaces (BMIs), potentially allows for field potentials to be recorded from the surface of the cerebral cortex for long durations without suffering the host-tissue reaction to the extent that it is common with intracortical microelectrodes. Though the stability of signals obtained from chronically implanted ECoG electrodes has begun receiving attention, to date little work has characterized the effects of long-term implantation of ECoG electrodes on underlying cortical tissue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27351722

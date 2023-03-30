@@ -1,0 +1,3 @@
+Making mistakes is inevitable, but identifying them allows us to correct or adapt our behavior to improve future performance. Current brain-machine interfaces (BMIs) make errors that need to be explicitly corrected by the user, thereby consuming time and thus hindering performance. We hypothesized that neural correlates of the user perceiving the mistake could be used by the BMI to automatically correct errors. However, it was unknown whether intracortical outcome error signals were present in the premotor and primary motor cortices, brain regions successfully used for intracortical BMIs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29130452

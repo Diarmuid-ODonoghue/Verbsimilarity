@@ -1,0 +1,3 @@
+To differentiate the visual fields (VFs) of preperimetric open-angle glaucoma (OAG) patients from the VFs of healthy eyes using a deep learning (DL) method.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27395766

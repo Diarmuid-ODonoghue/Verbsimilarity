@@ -1,0 +1,3 @@
+This study classifies sleep stages from a single lead electrocardiogram (ECG) using beat detection, cardiorespiratory coupling in the time-frequency domain and a deep convolutional neural network (CNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30524025

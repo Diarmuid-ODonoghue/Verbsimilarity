@@ -1,0 +1,3 @@
+Weed infestations reduce turfgrass aesthetics and uniformity. Postemergence (POST) herbicides are applied uniformly on turfgrass, hence areas without weeds are also sprayed. Deep learning, particularly the architecture of convolutional neural network (CNN), is a state-of-art approach to recognition of images and objects. In this paper, we report deep learning CNN (DL-CNN) models that are remarkably accurate at detection of broadleaf weeds in turfgrasses.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30672096

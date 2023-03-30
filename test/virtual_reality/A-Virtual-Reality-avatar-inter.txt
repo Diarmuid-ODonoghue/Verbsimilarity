@@ -1,0 +1,3 @@
+This proof of concept study tested the ability of a dual task walking protocol using a recently developed avatar-based virtual reality (VR) platform to detect differences between military personnel post mild traumatic brain injury (mTBI) and healthy controls.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27677827

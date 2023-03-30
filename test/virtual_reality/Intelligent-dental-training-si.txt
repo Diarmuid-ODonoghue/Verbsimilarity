@@ -1,0 +1,3 @@
+We present a dental training simulator that provides a virtual reality (VR) environment with haptic feedback for dental students to practice dental surgical skills in the context of a crown preparation procedure. The simulator addresses challenges in traditional training such as the subjective nature of surgical skill assessment and the limited availability of expert supervision.
+
+https://www.ncbi.nlm.nih.gov/pubmed/21641781

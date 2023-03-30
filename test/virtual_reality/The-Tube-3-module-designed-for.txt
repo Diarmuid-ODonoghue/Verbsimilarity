@@ -1,0 +1,3 @@
+To better use virtual reality robotic simulators and offer surgeons more practical exercises, we developed the Tube 3 module for practicing vesicourethral anastomosis (VUA), one of the most complex steps in the robot-assisted radical prostatectomy procedure. Herein, we describe the principle of the Tube 3 module and evaluate its face, content, and construct validity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24975707

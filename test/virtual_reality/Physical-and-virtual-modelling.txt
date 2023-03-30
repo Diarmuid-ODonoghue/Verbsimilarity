@@ -1,0 +1,3 @@
+Investigation and surgical manipulation of the larynx, pharynx, and oesophagus suffer from inherent challenges with access to the sites of interest. To reduce trauma and external scarring, visualization and minimally invasive interventions by the transnasal or transoral routes have become more prevalent. This article discusses engineering methods used to understand and overcome the mechanical constraints inside the airway and upper gastrointestinal tract, and examines the role that robotics and engineering are beginning to play in modelling of surgical interventions in this region.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27585079

@@ -1,0 +1,3 @@
+Manual feedback from senior surgeons observing less experienced trainees is a laborious task that is very expensive, time-consuming and prone to subjectivity. With the number of surgical procedures increasing annually, there is an unprecedented need to provide an accurate, objective and automatic evaluation of trainees' surgical skills in order to improve surgical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31363983

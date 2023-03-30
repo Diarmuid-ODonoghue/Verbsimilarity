@@ -1,0 +1,3 @@
+The application of artificial intelligence is a relatively new option to enable improved patient treatment in modern medicine and is therefore currently the focus of many research projects. In the clinical practice the application of artificial intelligence so far seems to be confined to the analysis of medical imaging.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31919545

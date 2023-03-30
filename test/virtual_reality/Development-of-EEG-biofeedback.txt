@@ -1,0 +1,3 @@
+A noninvasive EEG biofeedback system based on virtual reality (VR) environment is developed. The system translates EEG signals into movement and interaction. VR environment provides an ideal medium to represent the spatial and temporal nature of electrical activity emanating from the brain. The VR environment is developed based on MS DirectX technique. SMR-component based biofeedback training in three normal male subjects and two female subjects are reported. The difficulties in biofeedback research and our future research interests are discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17281463

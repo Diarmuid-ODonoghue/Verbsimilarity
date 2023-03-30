@@ -1,0 +1,3 @@
+Traumatic head injuries can cause internal bleeding within the brain. The resulting hematoma can elevate intracranial pressure, leading to complications and death if left untreated. A craniotomy may be required when conservative measures are ineffective. To augment conventional surgical training, a Virtual Reality-based intracranial hematoma simulator is being developed. A critical step in performing a craniotomy involves cutting burrholes in the skull. This paper describes volumetric-based haptic and visual algorithms developed to simulate burrhole creation for the simulator. The described algorithms make it possible to simulate several surgical tools typically used for a craniotomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377222

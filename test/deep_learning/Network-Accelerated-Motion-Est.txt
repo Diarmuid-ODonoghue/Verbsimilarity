@@ -1,0 +1,3 @@
+We introduce and validate a scalable retrospective motion correction technique for brain imaging that incorporates a machine learning component into a model-based motion minimization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31045278

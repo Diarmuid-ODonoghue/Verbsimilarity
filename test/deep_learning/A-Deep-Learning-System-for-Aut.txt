@@ -1,0 +1,3 @@
+Anterior segment optical coherence tomography (AS-OCT) provides an objective imaging modality for visually identifying anterior segment structures. An automated detection system could assist ophthalmologists in interpreting AS-OCT images for the presence of angle closure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30849350

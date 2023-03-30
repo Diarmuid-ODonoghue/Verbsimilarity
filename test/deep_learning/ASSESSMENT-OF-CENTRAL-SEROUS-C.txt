@@ -1,0 +1,3 @@
+To investigate whether and to what extent central serous chorioretinopathy (CSC) depicted on color fundus photographs can be assessed using deep learning technology.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31283737

@@ -1,0 +1,3 @@
+Convolutional neural networks are a powerful technology for image recognition. This study evaluates a convolutional neural network optimized for the detection and quantification of intraparenchymal, epidural/subdural, and subarachnoid hemorrhages on noncontrast CT.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30049723

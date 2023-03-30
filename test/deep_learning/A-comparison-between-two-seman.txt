@@ -1,0 +1,3 @@
+The automatic segmentation of kidneys in medical images is not a trivial task when the subjects undergoing the medical examination are affected by Autosomal Dominant Polycystic Kidney Disease (ADPKD). Several works dealing with the segmentation of Computed Tomography images from pathological subjects were proposed, showing high invasiveness of the examination or requiring interaction by the user for performing the segmentation of the images. In this work, we propose a fully-automated approach for the segmentation of Magnetic Resonance images, both reducing the invasiveness of the acquisition device and not requiring any interaction by the users for the segmentation of the images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31830973

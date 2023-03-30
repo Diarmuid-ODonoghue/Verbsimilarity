@@ -1,0 +1,3 @@
+Burst-suppression (BS) is an electroencephalography (EEG) pattern consisting of alternant periods of slow waves of high amplitude (burst) and periods of so called flat EEG (suppression). It is generally associated with coma of various etiologies (hypoxia, drug-related intoxication, hypothermia, and childhood encephalopathies, but also anesthesia). Animal studies suggest that both the cortex and the thalamus are involved in the generation of BS. However, very little is known about mechanisms of BS in humans. The aim of this study was to identify the neuronal network underlying both burst and suppression phases using source reconstruction and analysis of functional and effective connectivity in EEG.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25927439

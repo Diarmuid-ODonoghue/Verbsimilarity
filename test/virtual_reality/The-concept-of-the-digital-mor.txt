@@ -1,0 +1,3 @@
+The concept of the construction of a 3-dimensional database of a body structure, or a digital morgue, and its advantages to the field of forensic medicine was proposed. The digital morgue stores the body structure of each case as a 3D data set of sectioning planes of the whole body obtained from computer tomograms or magnetic resonance imaging figures. Furthermore, the medical virtual reality technique makes it possible to perform a simulated autopsy of the body in the digital morgue (virtual autopsy). Therefore, in the digital morgue, retrospective observation and quantitative analysis of the structural damage of the body are possible using high-dimensional medical imaging and medical virtual reality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12935511

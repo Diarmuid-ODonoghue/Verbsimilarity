@@ -1,0 +1,3 @@
+The purpose of this study was to create a 3D visualization of the urinary tract by a novel virtual reality approach, and to evaluate the usefulness of this method for papillary classification as compared with 2D urogram obtained by maximum intensity projection (MIP).
+
+https://www.ncbi.nlm.nih.gov/pubmed/12874945

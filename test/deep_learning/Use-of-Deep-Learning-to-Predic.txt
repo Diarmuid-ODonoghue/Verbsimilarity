@@ -1,0 +1,3 @@
+Predicting infarct size and location is important for decision-making and prognosis in patients with acute stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32163165

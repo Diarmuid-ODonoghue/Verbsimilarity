@@ -1,0 +1,3 @@
+OBJECTIVE. The purpose of this article is to discuss the problem of interpretability of artificial intelligence (AI) and highlight the need for continuing scientific discovery using AI algorithms to deal with medical big data. CONCLUSION. A plethora of AI algorithms are currently being used in medical research, but the opacity of these algorithms makes their clinical implementation a dilemma. Clinical decision making cannot be assigned to something that we do not understand. Therefore, AI research should not be limited to reporting accuracy and sensitivity but, rather, should try to explain the underlying reasons for the predictions, in an attempt to enrich biologic understanding and knowledge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32130042

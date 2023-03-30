@@ -1,0 +1,3 @@
+Mastoidectomy is one of the most common surgical procedures relating to the petrous bone. In this paper we describe our preliminary results in the realization of a virtual reality mastoidectomy simulator. Our system is designed to work on patient-specific volumetric object models directly derived from 3D CT and MRI images. The paper summarizes the detailed task analysis performed in order to define the system requirements, introduces the architecture of the prototype simulator, and discusses the initial feedback received from selected end users.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15458054

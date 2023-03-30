@@ -1,0 +1,3 @@
+The article explains the three generations of machine learning algorithms-with all three trying to operate on big data. The first generation tools are SAS, SPSS, etc., while second generation realizations include Mahout and RapidMiner (that work over Hadoop), and the third generation paradigms include Spark and GraphLab, among others. The essence of the article is that for a number of machine learning algorithms, it is important to look beyond the Hadoop's Map-Reduce paradigm in order to make them work on big data. A number of promising contenders have emerged in the third generation that can be exploited to realize deep analytics on big data.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27447253

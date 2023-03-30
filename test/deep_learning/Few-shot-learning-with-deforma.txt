@@ -1,0 +1,3 @@
+Image-based breast lesion detection is a powerful clinical diagnosis technology. In recent years, deep learning architectures have achieved considerable success in medical image analysis however, they always require large-scale samples. In mammography images, breast lesions are inconspicuous, multiscale, and have blurred edges. Moreover, few well-labeled images exist. Because of these factors, the detection accuracy of conventional deep learning methods is low. Therefore, we attempted to improve the accuracy of mammary lesion detection by introducing transfer learning (TL) into a deep learning framework for the few-shot learning task and thus provide a method that will further assist physicians in detecting breast lesions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32160321

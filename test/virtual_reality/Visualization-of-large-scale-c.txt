@@ -1,0 +1,3 @@
+A virtual reality system with remote computer cluster for interactive three-dimensional reconstruction and alignment of large confocal microscopy data is presented. It provides the flexibility and the accumulated power of computer cluster for this specific application.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17377267

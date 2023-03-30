@@ -1,0 +1,3 @@
+Ultrasound (US) provides real-time, two-/three-dimensional safe imaging. Due to these capabilities, it is considered a safe alternative to intra-operative fluoroscopy in various computer-assisted orthopedic surgery (CAOS) procedures. However, interpretation of the collected bone US data is difficult due to high levels of noise, various imaging artifacts, and bone surfaces response appearing several millimeters (mm) in thickness. For US-guided CAOS procedures, it is an essential objective to have a segmentation mechanism, that is both robust and computationally inexpensive.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30868478

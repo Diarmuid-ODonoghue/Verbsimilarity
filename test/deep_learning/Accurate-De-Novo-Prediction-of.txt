@@ -1,0 +1,3 @@
+Protein contacts contain key information for the understanding of protein structure and function and thus, contact prediction from sequence is an important problem. Recently exciting progress has been made on this problem, but the predicted contacts for proteins without many sequence homologs is still of low quality and not very useful for de novo structure prediction.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28056090

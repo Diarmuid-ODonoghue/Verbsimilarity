@@ -1,0 +1,3 @@
+This paper proposes a system for predicting increases in virtual world user actions. The virtual world user population is a very important aspect of these worlds; however, methods for predicting fluctuations in these populations have not been well documented. Therefore, we attempt to predict changes in virtual world user populations with deep learning, using easily accessible online data, including formal datasets from Google Trends, Wikipedia, and online communities, as well as informal datasets collected from online forums. We use the proposed system to analyze the user population of EVE Online, one of the largest virtual worlds.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27936009

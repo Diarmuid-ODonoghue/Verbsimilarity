@@ -1,0 +1,3 @@
+Ultrasound imaging is well known to play an important role in the detection of thyroid disease, but the management of thyroid ultrasound remains inconsistent. Both standardized diagnostic criteria and new ultrasound technologies are essential for improving the accuracy of thyroid ultrasound. This study reviewed the global guidelines of thyroid ultrasound and analyzed their common characteristics for basic clinical screening. Advances in the application of a combination of thyroid ultrasound and artificial intelligence (AI) were also presented.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31348028

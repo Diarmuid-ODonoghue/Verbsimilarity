@@ -1,0 +1,3 @@
+Recently, we proposed a new stimulation paradigm for brain computer interfaces (BCI) based on event-related potentials (ERP), i.e. flashing characters with superimposed pictures of well-known faces. This new face flashing (FF) paradigm significantly outperformed the commonly used character flashing (CF) approach, i.e. simply highlighting characters.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23246415

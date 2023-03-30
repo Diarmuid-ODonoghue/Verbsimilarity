@@ -1,0 +1,3 @@
+Cortically-controlled motor prostheses aim to restore functions lost to neurological disease and injury. Several proof of concept demonstrations have shown encouraging results, but barriers to clinical translation still remain. In particular, intracortical prostheses must satisfy stringent power dissipation constraints so as not to damage cortex.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23574919

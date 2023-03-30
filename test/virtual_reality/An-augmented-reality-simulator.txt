@@ -1,0 +1,3 @@
+Details are presented of a low cost augmented-reality system for the simulation of ultrasound guided needle insertion procedures (tissue biopsy, abscess drainage, nephrostomy etc.) for interventional radiology education and training. The system comprises physical elements; a mannequin, a mock ultrasound probe and a needle, and software elements; generating virtual ultrasound anatomy and allowing data collection. These two elements are linked by a pair of magnetic 3D position sensors. Virtual anatomic images are generated based on anatomic data derived from full body CT scans of live humans. Details of the novel aspects of this system are presented including; image generation, registration and calibration.
+
+https://www.ncbi.nlm.nih.gov/pubmed/17653784

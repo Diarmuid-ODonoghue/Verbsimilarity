@@ -1,0 +1,3 @@
+There has been burgeoning interest in applying machine learning methods for predicting radiotherapy outcomes. However, the imbalanced ratio of a large number of variables to a limited sample size in radiation oncology constitutes a major challenge. Therefore, dimensionality reduction methods can be a key to success. The study investigates and contrasts the application of traditional machine learning methods and deep learning approaches for outcome modeling in radiotherapy. In particular, new joint architectures based on variational autoencoder (VAE) for dimensionality reduction are presented and their application is demonstrated for the prediction of lung radiation pneumonitis (RP) from a large-scale heterogeneous dataset.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30891794

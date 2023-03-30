@@ -1,0 +1,3 @@
+Cardiac arrest is the most serious death-related event in intensive care units (ICUs), but it is not easily predicted because of the complex and time-dependent data characteristics of intensive care patients. Given the complexity and time dependence of ICU data, deep learning-based methods are expected to provide a good foundation for developing risk prediction models based on large clinical records.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32186517

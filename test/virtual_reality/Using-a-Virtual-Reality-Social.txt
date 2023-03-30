@@ -1,0 +1,3 @@
+In awake craniotomy, it is possible to temporarily inactivate regions of the brain using direct electrical stimulation, while the patient performs neuropsychological tasks. If the patient shows decreased performance in a given task, the neurosurgeon will not remove these regions, so as to maintain all brain functions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29945859

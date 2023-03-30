@@ -1,0 +1,3 @@
+The unique psychomotor skills required in laparoscopy result in reduced patient safety during the early part of the learning curve. Evidence suggests that these may be safely acquired in the virtual reality (VR) environment. Several VR simulators are available, each preloaded with several psychomotor skills tasks that provide users with computer-generated performance metrics. This review aimed to evaluate the usefulness of specific psychomotor skills tasks and metrics, and how trainers might build an effective training curriculum.
+
+https://www.ncbi.nlm.nih.gov/pubmed/22688107

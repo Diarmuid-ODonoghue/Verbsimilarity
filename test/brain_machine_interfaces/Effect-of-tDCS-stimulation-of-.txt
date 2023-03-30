@@ -1,0 +1,3 @@
+Transcranial direct current stimulation (tDCS) is a technique for brain modulation that has potential to be used in motor neurorehabilitation. Considering that the cerebellum and motor cortex exert influence on the motor network, their stimulation could enhance motor functions, such as motor imagery, and be utilized for brain-computer interfaces (BCIs) during motor neurorehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28420382

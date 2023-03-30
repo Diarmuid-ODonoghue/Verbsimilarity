@@ -1,0 +1,3 @@
+Task-based functional magnetic resonance imaging (fMRI) studies of adult attention-deficit/hyperactivity disorder (ADHD) have revealed various ADHD-related dysfunctional brain regions, with heterogeneous findings across studies. Here, we used novel meta-analytic data-driven approaches to characterize the function and connectivity profile of ADHD-related dysfunctional regions consistently detected across studies.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27569542

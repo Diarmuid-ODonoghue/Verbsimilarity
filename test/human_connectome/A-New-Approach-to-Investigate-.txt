@@ -1,0 +1,3 @@
+Attention-deficit/hyperactivity disorder (ADHD) is currently diagnosed by a diagnostic interview, mainly based on subjective reports from parents or teachers. It is necessary to develop methods that rely on objectively measureable neurobiological data to assess brain-behavior relationship in patients with ADHD. We investigated the application of a topological data analysis tool, Mapper, to analyze the brain functional connectivity data from ADHD patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26352147

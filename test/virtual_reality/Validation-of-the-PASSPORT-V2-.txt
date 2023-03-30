@@ -1,0 +1,3 @@
+Virtual reality simulators used in the education of orthopaedic residents often lack realistic haptic feedback. To solve this, the (Practice Arthroscopic Surgical Skills for Perfect Operative Real-life Treatment) PASSPORT simulator was developed, which was subjected to fundamental changes: improved realism and user interface. The purpose was to demonstrate its face and construct validity.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25103120

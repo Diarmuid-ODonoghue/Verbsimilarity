@@ -1,0 +1,3 @@
+We designed a deep learning model for assessing 18F-FDG PET/CT for early prediction of local and distant failures for patients with locally advanced cervical cancer.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31134366

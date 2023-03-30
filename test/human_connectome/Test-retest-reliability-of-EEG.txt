@@ -1,0 +1,3 @@
+Functional Electroencephalography (EEG) networks in infants have been proposed as useful biomarkers for developmental brain disorders. However, the reliability of these networks and their characteristics has not been established. We evaluated the reliability of these networks and their characteristics in 10-month-old infants.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30912271

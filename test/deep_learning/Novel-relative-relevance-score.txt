@@ -1,0 +1,3 @@
+Functional integration or connectivity in brain is directional, non-linear as well as variable in time-lagged dependence. Deep neural networks (DNN) have become an indispensable tool everywhere, by learning higher levels of abstract and complex patterns from raw data. However, in neuroscientific community they generally work as black-boxes, leading to the explanation of results difficult and less intuitive. We aim to propose a brain-connectivity measure based on an explainable NN (xNN) approach.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31344374

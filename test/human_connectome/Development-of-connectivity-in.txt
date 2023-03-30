@@ -1,0 +1,3 @@
+Much of our understanding of how neural networks develop is based on studies of sensory systems, revealing often highly stereotyped patterns of connections, particularly as these diverge from the presynaptic terminals of sensory neurons. We know considerably less about the wiring strategies of motor networks, where connections converge onto the dendrites of motoneurons. Here, we investigated patterns of synaptic connections between identified motoneurons with sensory neurons and interneurons in the motor network of the Drosophila larva and how these change as it develops.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25702582

@@ -1,0 +1,3 @@
+Ongoing research into inflammatory conditions raises an increasing need to evaluate immune cells in histological sections in biologically relevant regions of interest (ROIs). Herein, we compare different approaches to automatically detect lobular structures in human normal breast tissue in digitized whole slide images (WSIs). This automation is required to perform objective and consistent quantitative studies on large data sets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27209271

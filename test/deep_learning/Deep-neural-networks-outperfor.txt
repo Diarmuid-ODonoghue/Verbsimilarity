@@ -1,0 +1,3 @@
+Deep neural networks have been successfully applied to diverse fields of computer vision. However, they only outperform human capacities in a few cases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30949441

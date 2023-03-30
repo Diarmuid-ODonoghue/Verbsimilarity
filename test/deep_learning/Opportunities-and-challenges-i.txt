@@ -1,0 +1,3 @@
+To conduct a systematic review of deep learning models for electronic health record (EHR) data, and illustrate various deep learning architectures for analyzing different data sources and their target applications. We also highlight ongoing research and identify open challenges in building deep learning models of EHRs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29893864

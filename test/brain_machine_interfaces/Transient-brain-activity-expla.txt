@@ -1,0 +1,3 @@
+Steady-state visual evoked potentials (SSVEPs) are widely used in the design of brain-computer interfaces (BCIs). A lot of effort has therefore been devoted to find a fast and reliable way to detect SSVEPs. We study the link between transient and steady-state VEPs and show that it is possible to predict the spectral content of a subject's SSVEPs by simulating trains of transient VEPs. This could lead to a better understanding of evoked potentials as well as to better performances of SSVEP-based BCIs, by providing a tool to improve SSVEP detection algorithms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25570052

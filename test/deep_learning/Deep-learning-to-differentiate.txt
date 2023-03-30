@@ -1,0 +1,3 @@
+To evaluate the diagnostic performance of deep learning with the convolutional neural networks (CNN) to distinguish each representative parkinsonian disorder using MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31264017

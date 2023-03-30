@@ -1,0 +1,3 @@
+Despite the widespread awareness of functional magnetic resonance imaging findings suggesting a role for cortical connectivity networks in treatment selection for major depressive disorder, its clinical utility remains limited. Recent methodological advances have revealed functional magnetic resonance imaging-like connectivity networks using electroencephalography (EEG), a tool more easily implemented in clinical practice.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31895437

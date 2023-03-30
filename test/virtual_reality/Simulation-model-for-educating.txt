@@ -1,0 +1,3 @@
+In the Health field, there is an increasing need to give the Health professional the opportunity to experiment on real situations without necessarily having to be in contact with the patient. In order for this to be achieved, there must be a virtual reality representation via a safe and user friendly system, such as a computer. This means that by using Simulation and modelling techniques new models have to be constructed which will portray the reality. The scope of this paper is to present a Simulation Model and Practical for Educating the General Public for the AIDS Epidemic. The model and the practical were developed by using the tools and applications created under the COAST project.
+
+https://www.ncbi.nlm.nih.gov/pubmed/10947650

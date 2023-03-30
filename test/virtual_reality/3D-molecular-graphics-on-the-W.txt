@@ -1,0 +1,3 @@
+The Virtual Reality Modeling Language (VRML) is a new tool for the information transfer on the World Wide Web (WWW). We present a short description and some applications in the field of molecular graphics of this new, object oriented language. It is shown that the usage of VRML is a very efficient and powerful method for the transport of molecular models over the net.
+
+https://www.ncbi.nlm.nih.gov/pubmed/9390266

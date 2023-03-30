@@ -1,0 +1,3 @@
+Segmentation of the chest wall, is an important component of methods for automated analysis of breast magnetic resonance imaging (MRI). Methods reported to date show promising results but have difficulties delineating the muscle border correctly in breasts with a large proportion of fibroglandular tissue (i.e., dense breasts). Knowledge-based methods (KBMs) as well as methods based on deep learning have been proposed, but a systematic comparison of these approaches within one cohort of images is currently lacking. Therefore, we developed a KBM and a deep learning method for segmentation of the chest wall in MRI of dense breasts and compared their performances.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31274194

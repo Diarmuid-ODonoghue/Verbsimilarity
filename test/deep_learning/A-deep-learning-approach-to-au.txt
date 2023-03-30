@@ -1,0 +1,3 @@
+To investigate the suitability of multi-scale spatial information in 30o visual fields (VF), computed from a Convolutional Neural Network (CNN) classifier, for early-glaucoma vs. control discrimination.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30485270

@@ -1,0 +1,3 @@
+During a laparoscopic hernia surgery, a preperitoneal mesh is tacked or stapled to the defect on the inside in order to close the fissure created by the hernia. Here we have proposed and implemented a novel technique for simulating the movement and stapling of the mesh for use in a virtual reality based laparoscopic trainer. The use of particle based system and Mass-Spring model in simulating the movement of the mesh is also discussed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455920

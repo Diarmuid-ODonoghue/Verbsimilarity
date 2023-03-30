@@ -1,0 +1,3 @@
+Nanopore sequencing is a rapidly developing third-generation sequencing technology, which can generate long nucleotide reads of molecules within a portable device in real-time. Through detecting the change of ion currency signals during a DNA/RNA fragment's pass through a nanopore, genotypes are determined. Currently, the accuracy of nanopore basecalling has a higher error rate than the basecalling of short-read sequencing. Through utilizing deep neural networks, the-state-of-the art nanopore basecallers achieve basecalling accuracy in a range from 85% to 95%.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32321433

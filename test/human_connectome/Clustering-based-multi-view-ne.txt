@@ -1,0 +1,3 @@
+While several research methods were developed to estimate individual-based representations of brain connectional wiring (i.e., a connectome), traditionally captured using multimodal MRI data (e.g., functional and diffusion MRI), very limited works aimed to estimate brain network atlas for a population of connectomes. Estimating well-representative brain templates is a key step for group comparison studies. However, estimating a network atlas for a population of multi-source brain connectomes lying on different manifolds is absent.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30282004

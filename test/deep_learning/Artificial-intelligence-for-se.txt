@@ -1,0 +1,3 @@
+A deep learning artificial neural network was adapted to the task of sex determination of skeletal remains. The neural network was trained on images of 900 skulls virtually reconstructed from hospital CT scans. When tested on previously unseen images of skulls, the artificial neural network showed 95% accuracy at sex determination. Artificial intelligence methods require no significant expertise to implement once trained, are rapid to use, and have the potential to eliminate human bias from sex estimation of skeletal remains.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30639854

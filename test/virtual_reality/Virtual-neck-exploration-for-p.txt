@@ -1,0 +1,3 @@
+To evaluate the performance of 3-dimensional (3D) virtual neck exploration (VNE) as a modality for preoperative localization of parathyroid adenomas in primary hyperparathyroidism and assess the feasibility of using augmented reality to guide parathyroidectomy as a step toward minimally invasive imageguided surgery.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23682370

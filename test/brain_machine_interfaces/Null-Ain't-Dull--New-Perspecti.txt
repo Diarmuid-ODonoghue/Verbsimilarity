@@ -1,0 +1,3 @@
+Classical work has viewed primary motor cortex (M1) as a controller of muscle and body dynamics. A recent brain-computer interface (BCI) experiment suggests a new, complementary perspective: M1 is itself a dynamical system under active control of other circuits.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30327256

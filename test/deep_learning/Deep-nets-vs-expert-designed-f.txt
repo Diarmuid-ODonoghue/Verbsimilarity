@@ -1,0 +1,3 @@
+The purpose of this study was to compare the performance of Deep Neural Networks against a technique designed by domain experts in the prediction of gamma passing rates for Intensity Modulated Radiation Therapy Quality Assurance (IMRT QA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/29603278

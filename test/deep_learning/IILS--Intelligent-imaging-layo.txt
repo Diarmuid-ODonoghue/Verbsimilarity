@@ -1,0 +1,3 @@
+To achieve imaging report standardization and improve the quality and efficiency of the intra-interdisciplinary clinical workflow, we proposed an intelligent imaging layout system (IILS) for a clinical decision support system-based ubiquitous healthcare service, which is a lung nodule management system using medical images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31129095

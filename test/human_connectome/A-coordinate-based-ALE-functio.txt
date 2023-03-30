@@ -1,0 +1,3 @@
+The processing of verbal fluency tasks relies on the coordinated activity of a number of brain areas, particularly in the frontal and temporal lobes of the left hemisphere. Recent studies using functional magnetic resonance imaging (fMRI) to study the neural networks subserving verbal fluency functions have yielded divergent results especially with respect to a parcellation of the inferior frontal gyrus for phonemic and semantic verbal fluency. We conducted a coordinate-based activation likelihood estimation (ALE) meta-analysis on brain activation during the processing of phonemic and semantic verbal fluency tasks involving 28 individual studies with 490 healthy volunteers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24456150

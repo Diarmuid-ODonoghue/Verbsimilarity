@@ -1,0 +1,3 @@
+Gadolinium-based contrast agents (GBCAs) have become an integral part in daily clinical decision making in the last 3 decades. However, there is a broad consensus that GBCAs should be exclusively used if no contrast-free magnetic resonance imaging (MRI) technique is available to reduce the amount of applied GBCAs in patients. In the current study, we investigate the possibility of predicting contrast enhancement from noncontrast multiparametric brain MRI scans using a deep-learning (DL) architecture.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31261293

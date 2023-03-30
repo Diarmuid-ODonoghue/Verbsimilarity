@@ -1,0 +1,3 @@
+Modern applications of brain-computer interfaces (BCIs) based on electroencephalography rely heavily on the so-called wet electrodes (e.g. Ag/AgCl electrodes) which require gel application and skin preparation to operate properly. Recently, alternative 'dry' electrodes have been developed to increase ease of use, but they often suffer from higher electrode-skin impedance and signal instability. In the current paper, we have proposed a novel porous ceramic-based 'semi-dry' electrode. The key feature of the semi-dry electrodes is that their tips can slowly and continuously release a tiny amount of electrolyte liquid to the scalp, which provides an ionic conducting path for detecting neural signals.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27378253

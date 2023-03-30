@@ -1,0 +1,3 @@
+Our goal was to evaluate the clinical reliability of a new software system employing 3-dimensional (3D) virtual anatomic reconstruction and intraluminal virtual exploration for detection of choledocholithiasis and preoperative visualization of the biliary anatomy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15213622

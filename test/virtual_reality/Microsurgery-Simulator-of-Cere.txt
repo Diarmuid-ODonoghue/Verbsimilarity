@@ -1,0 +1,3 @@
+A virtual reality simulator for aneurysmal clipping surgery is an attractive research target for neurosurgeons. Brain deformation is one of the most important functionalities necessary for an accurate clipping simulator and is vastly affected by the status of the supporting tissue, such as the arachnoid membrane. However, no virtual reality simulator implementing the supporting tissue of the brain has yet been developed.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28973685

@@ -1,0 +1,3 @@
+Since COVID-19 transmission started in late January, mathematical modelling has been at the forefront of shaping the decisions around different non-pharmaceutical interventions to confine its' spread in the UK and worldwide. This Editorial discusses the importance of modelling in understanding Covid-19 spread, highlights different modelling approaches and suggests that while modelling is important, no one model can give all the answers.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32331516

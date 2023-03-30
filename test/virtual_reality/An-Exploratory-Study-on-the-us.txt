@@ -1,0 +1,3 @@
+Studies have shown the potential of Virtual Reality and motion tracking devices in physical rehabilitation. This paper addresses the topic of using non-immersive Virtual Reality therapeutic games with motion tracking in physical rehabilitation and describes an exploratory study performed in collaboration with a national public Rehabilitation Center about their use to motivate patients to perform exercises relevant for balance rehabilitation. The work involved developing and adapting mini-games to track patients posture; tests with patients recovering from Spinal Cord Injury suggest that this type of games can be helpful in the recovery process namely in patients' motivation for performing the therapeutic gestures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31946613

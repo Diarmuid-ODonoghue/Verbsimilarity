@@ -1,0 +1,3 @@
+Digital phenotyping efforts have used wearable devices to connect a rich array of physiologic data to health outcomes or behaviors of interest. The environmental context surrounding these phenomena has received less attention, yet is critically needed to understand their antecedents and deliver context-appropriate interventions. The coupling of improved smart eyewear with deep learning represents a technological turning point, one that calls for more comprehensive, ambitious study of environments and health.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32195371

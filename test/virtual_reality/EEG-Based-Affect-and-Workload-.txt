@@ -1,0 +1,3 @@
+To build group-level classification models capable of recognizing affective states and mental workload of individuals with autism spectrum disorder (ASD) during driving skill training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28422647

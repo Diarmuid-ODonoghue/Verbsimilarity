@@ -1,0 +1,3 @@
+While brain-computer interfaces (BCIs) for communication have reached considerable technical maturity, there is still a great need for state-of-the-art evaluation by the end-users outside laboratory environments. To achieve this primary objective, it is necessary to augment a BCI with a series of components that allow end-users to type text effectively.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24737114

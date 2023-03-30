@@ -1,0 +1,3 @@
+To develop a machine learning approach using convolutional neural network for reducing MRI Gibbs-ringing artifact.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31373061

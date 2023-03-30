@@ -1,0 +1,3 @@
+Corona virus disease 2019 (COVID-19) pandemic caused 18 440 deaths world wide as of 25 March 2020 and posing a serious threat to public health. There is a need, therefore, for effective therapeutic strategies to cure this disease. However, high attrition rates, substantial costs and slow pace are the major limitations of novel drug discovery. Drug repurposing, by employing 'old' drugs to treat 'new' diseases is an attractive approach in drug discovery. Niclosamide (NIC) is an approved anti-helminthic drug with diverse antiviral mechanisms. In this work we hypothesize, the potential antiviral mechanisms of NIC against COVID-19.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32361588

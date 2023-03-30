@@ -1,0 +1,3 @@
+Long short-term memory (LSTM) is one of the most attractive deep learning methods to learn time series or contexts of input data. Increasing studies, including biological sequence analyses in bioinformatics, utilize this architecture. Amino acid sequence profiles are widely used for bioinformatics studies, such as sequence similarity searches, multiple alignments, and evolutionary analyses. Currently, many biological sequences are becoming available, and the rapidly increasing amount of sequence data emphasizes the importance of scalable generators of amino acid sequence profiles.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30021530

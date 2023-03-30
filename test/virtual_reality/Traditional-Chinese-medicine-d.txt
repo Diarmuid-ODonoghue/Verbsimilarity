@@ -1,0 +1,3 @@
+To study traditional Chinese medicines and exchange related information through the worldwide Web, we developed a traditional Chinese medicine database and a program for searching and displaying data in the database on the Web. In this paper, the traditional Chinese medicine database is briefly introduced; the methods used in developing the program, including ISAPI (Microsoft Internet Server Application Programming Interface), VRML (Virtual Reality Model Language), and JavaScript are described; and three application examples are also given.
+
+https://www.ncbi.nlm.nih.gov/pubmed/11277710

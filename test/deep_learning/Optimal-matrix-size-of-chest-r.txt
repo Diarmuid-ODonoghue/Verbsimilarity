@@ -1,0 +1,3 @@
+To investigate the optimal input matrix size for deep learning-based computer-aided detection (CAD) of nodules and masses on chest radiographs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32350657

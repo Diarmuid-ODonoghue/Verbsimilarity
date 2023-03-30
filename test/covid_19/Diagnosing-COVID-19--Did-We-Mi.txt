@@ -1,0 +1,3 @@
+In late 2019, a mass of patients showing symptoms of a pneumonia-like disease of unknown origin emerged in Wuhan, China. Little did the world know it was the prelude of what would be a devastating pandemic. Samples were collected from these patients and the use of unbiased sequencing, and subsequent isolation of the pathogen using human airway epithelial cells led to the discovery of a novel coronavirus, named 2019-nCoV by the World Health Organization (WHO) and Severe Acute Respiratory Syndrome CoronaVirus-2 (SARS-CoV-2) by the International Committee on Taxonomy of Viruses. The disease caused by this virus is officially called the coronavirus disease 2019 (COVID-19).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32291365

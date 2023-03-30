@@ -1,0 +1,3 @@
+Ray-tracing-based simulations model ultrasound (US) interactions with a custom geometric anatomical model, where US texture can be emulated via real-time point-spread function convolutions of a tissue scatterer representation. Such scatterer representations for realistic appearance are difficult to parameterize or model manually and do not respond to volumetric deformations such as those caused with tissue compression by the probe. Herein we utilize brightness mode (B-mode) estimated scatterer maps for ray tracing and propose to enhance the realism of ray-tracing-based simulations by incorporating dynamic speckle patterns that change compliant with tissue deformation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31435812

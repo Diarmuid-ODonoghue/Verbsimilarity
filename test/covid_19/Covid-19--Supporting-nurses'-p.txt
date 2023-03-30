@@ -1,0 +1,3 @@
+At the time of writing (11th April 2020) there are 1.72 million Covid-19 infections and 104,889 deaths worldwide. In the UK the first recorded death was on the 5th of March 2020 and in just 37 days 9,875 deaths in hospital have been recorded. The 10th of April saw the highest number of UK daily deaths (980) to date. These UK figures do not include those who died in care homes or in the community. Similar death rates have been experienced in China earlier this year (3,339) and are rising globally with particularly high death rates in the US (18,761 with over half of deaths in New York State), Italy (18,939), Spain (16,353) and France (13,197).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32320509

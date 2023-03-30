@@ -1,0 +1,3 @@
+Brain-computer interface (BCI) systems have been suggested as a promising tool for neurorehabilitation. However, to date, there is a lack of homogeneous findings. Furthermore, no systematic reviews have analyzed the degree of validation of these interventions for upper limb (UL) motor rehabilitation poststroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28512066

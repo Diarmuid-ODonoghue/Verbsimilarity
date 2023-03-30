@@ -1,0 +1,3 @@
+Attentional bias modification (ABM) aims to reduce anxiety by attenuating bias toward threatening information. The current study incorporated virtual reality (VR) technology and three-dimensional stimuli with a dot-probe task to evaluate the effects of a VR-based ABM training on attentional bias and anxiety symptoms.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31798495

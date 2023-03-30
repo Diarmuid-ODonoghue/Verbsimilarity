@@ -1,0 +1,3 @@
+Artificial neural networks (ANNs) are one of the widely used classifiers in the brain-computer interface (BCI) systems-based on noninvasive electroencephalography (EEG) signals. Among the different ANN architectures, the most commonly applied for BCI classifiers is the multilayer perceptron (MLP). When appropriately designed with optimal number of neuron layers and number of neurons per layer, the ANN can act as a universal approximator. However, due to the low signal-to-noise ratio of EEG signal data, overtraining problem may become an inherent issue, causing these universal approximators to fail in real-time applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29733940

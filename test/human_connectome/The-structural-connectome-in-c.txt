@@ -1,0 +1,3 @@
+The structural connectome is a comprehensive structural description of the network of elements and connections forming the brain. In recent years, this framework has progressively been used to investigate the pediatric brain.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28382501

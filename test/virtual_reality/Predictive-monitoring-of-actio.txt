@@ -1,0 +1,3 @@
+Error-related negativity (ERN) is a signal that is associated with error detection. Joch and colleagues (Joch M, Hegele M, Maurer H, Müller H, Maurer LK. J Neurophysiol 118: 486-495, 2017) successfully separated the ERN as a response to online prediction error from feedback updates. We discuss the role of ERN in action and suggest insights from virtual reality techniques; we consider the potential benefit of self-evaluation in determining the mechanisms of ERN amplitude; finally, we review the oscillatory activity that has been claimed to accompany ERN.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29357471

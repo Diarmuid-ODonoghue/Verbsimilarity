@@ -1,0 +1,3 @@
+To evaluate the feasibility of Deep Learning-based detection and classification of pathological patterns in a set of digital photographs of chest X-ray (CXR) images of tuberculosis (TB) patients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29471912

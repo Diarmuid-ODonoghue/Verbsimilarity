@@ -1,0 +1,3 @@
+Classical machine learning (ML) and deep learning (DL) articles have rapidly captured the attention of the radiology research community and comprise an increasing proportion of articles submitted to JMRI, of variable reporting and methodological quality.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31943495

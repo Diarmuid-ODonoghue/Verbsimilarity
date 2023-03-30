@@ -1,0 +1,3 @@
+We examine the problem of clustering biomolecular simulations using deep learning techniques. Since biomolecular simulation datasets are inherently high dimensional, it is often necessary to build low dimensional representations that can be used to extract quantitative insights into the atomistic mechanisms that underlie complex biological processes.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30577777

@@ -1,0 +1,3 @@
+The ability of nursing undergraduates to communicate effectively with health care providers, patients, and their family members is crucial to their nursing professions as these can affect patient outcomes. However, the traditional use of didactic lectures for communication skills training is ineffective, and the use of standardized patients is not time- or cost-effective. Given the abilities of virtual patients (VPs) to simulate interactive and authentic clinical scenarios in secured environments with unlimited training attempts, a virtual counseling application is an ideal platform for nursing students to hone their communication skills before their clinical postings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31663857

@@ -1,0 +1,3 @@
+Intrauterine foetal surgery is the treatment option for several congenital malformations. For twin-to-twin transfusion syndrome (TTTS), interventions involve the use of laser fibre to ablate vessels in a shared placenta. The procedure presents a number of challenges for the surgeon, and computer-assisted technologies can potentially be a significant support. Vision-based sensing is the primary source of information from the intrauterine environment, and hence, vision approaches present an appealing approach for extracting higher level information from the surgical site.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29951938

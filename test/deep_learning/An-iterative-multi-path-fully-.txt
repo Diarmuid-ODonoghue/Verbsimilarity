@@ -1,0 +1,3 @@
+Segmentation of the left ventricle (LV), right ventricle (RV) cavities and the myocardium (MYO) from cine cardiac magnetic resonance (MR) images is an important step for diagnosis and monitoring cardiac diseases. Spatial context information may be highly beneficial for segmentation performance improvement. To this end, this paper proposes an iterative multi-path fully convolutional network (IMFCN) to effectively leverage spatial context for automatic cardiac segmentation in cine MR images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31605627

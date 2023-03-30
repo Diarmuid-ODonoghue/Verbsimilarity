@@ -1,0 +1,3 @@
+To assess the construct and face validity of ArthroS, a passive haptic VR simulator. A secondary aim was to evaluate the novel performance metrics produced by this simulator.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27085361

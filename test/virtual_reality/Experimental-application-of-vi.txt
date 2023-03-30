@@ -1,0 +1,3 @@
+Research has shown that many smokers experience an increase in the desire to smoke when exposed to smoking-related cues. Cue exposure treatment (CET) refers to the manualized, repeated exposure to smoking-related cues, aimed at the reducing cue reactivity by extinction. In this study, we constructed a virtual reality system for evoking a desire of nicotine, which was based on the results of a Questionnaire of Nicotine-craving. And we investigated the effectiveness of the virtual reality system as compared to classical device (pictures). As a result, we reached the conclusion that virtual reality elicits more craving symptoms than the classical devices.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12855083

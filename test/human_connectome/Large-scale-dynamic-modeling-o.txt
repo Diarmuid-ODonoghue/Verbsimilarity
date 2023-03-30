@@ -1,0 +1,3 @@
+We analyze task-based fMRI time series to produce large-scale dynamical models that are capable of approximating the observed signal with good accuracy.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30088476

@@ -1,0 +1,3 @@
+Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32253449

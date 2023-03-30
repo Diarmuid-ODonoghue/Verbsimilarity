@@ -1,0 +1,3 @@
+This paper presents an algorithm for non-invasive sleep stage identification using respiratory, heart rate and movement signals. The algorithm is part of a system suitable for long-term monitoring in a home environment, which should support experts analysing sleep.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30524059

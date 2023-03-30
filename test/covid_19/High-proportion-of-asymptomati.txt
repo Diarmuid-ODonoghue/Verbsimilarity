@@ -1,0 +1,3 @@
+We report early findings from COVID-19 cases in Brunei suggesting a remarkably high proportion of asymptomatic (12%) and presymptomatic (30%) cases. This proportion was even higher in imported cases. These have implications for measures to prevent onward local transmission and should prompt reconsideration of current testing protocols and safe de-escalation of social distancing measures.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32365178

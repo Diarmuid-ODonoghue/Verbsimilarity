@@ -1,0 +1,3 @@
+Automatic artery/vein (A/V) segmentation from fundus images is required to track blood vessel changes occurring with many pathologies including retinopathy and cardiovascular pathologies. One of the clinical measures that quantifies vessel changes is the arterio-venous ratio (AVR) which represents the ratio between artery and vein diameters. This measure significantly depends on the accuracy of vessel segmentation and classification into arteries and veins. This paper proposes a fast, novel method for semantic A/V segmentation combining deep learning and graph propagation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30871687

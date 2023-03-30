@@ -1,0 +1,3 @@
+Graph theoretical analysis has recently become a popular research tool in neuroscience, however, there have been very few studies on brain responses to music perception, especially when culturally different styles of music are involved.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25212116

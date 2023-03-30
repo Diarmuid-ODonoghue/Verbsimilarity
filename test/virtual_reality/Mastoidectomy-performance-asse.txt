@@ -1,0 +1,3 @@
+The future development of integrated automatic assessment in temporal bone virtual surgical simulators calls for validation against currently established assessment tools. This study aimed to explore the relationship between mastoidectomy final-product performance assessment in virtual simulation and traditional dissection training.
+
+https://www.ncbi.nlm.nih.gov/pubmed/25043448

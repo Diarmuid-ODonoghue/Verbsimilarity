@@ -1,0 +1,3 @@
+External control of spike times in single neurons can reveal important information about a neuron's sub-threshold dynamics that lead to spiking, and has the potential to improve brain-machine interfaces and neural prostheses. The goal of this paper is the design of optimal electrical stimulation of a neuron to achieve a target spike train under the physiological constraint to not damage tissue.
+
+https://www.ncbi.nlm.nih.gov/pubmed/24891497

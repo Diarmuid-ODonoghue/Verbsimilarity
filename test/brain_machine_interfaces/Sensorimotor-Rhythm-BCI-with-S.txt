@@ -1,0 +1,3 @@
+Transcranial direct current stimulation (tDCS) has been used to alter the excitability of neurons within the cerebral cortex. Improvements in motor learning have been found in multiple studies when tDCS was applied to the motor cortex before or during task learning. The motor cortex is also active during the performance of motor imagination, a cognitive task during which a person imagines, but does not execute, a movement. Motor imagery can be used with noninvasive brain computer interfaces (BCIs) to control virtual objects in up to three dimensions, but to master control of such devices requires long training times.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27522166

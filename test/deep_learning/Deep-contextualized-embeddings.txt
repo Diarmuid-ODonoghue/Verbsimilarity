@@ -1,0 +1,3 @@
+Capturing the context of text is a challenging task in biomedical text summarization. The objective of this research is to show how contextualized embeddings produced by a deep bidirectional language model can be utilized to quantify the informative content of sentences in biomedical text summarization.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31627150

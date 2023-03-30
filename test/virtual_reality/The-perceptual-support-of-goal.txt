@@ -1,0 +1,3 @@
+This study investigates the perceptual-motor organisation underlying the control of goal-directed displacement. We used a virtual reality set-up to study the locomotor interception of a moving ball. Subjects had to intercept moving balls by modifying displacement velocity if necessary, while the ball's place of arrival and the environment were manipulated. The results showed that subjects simultaneously managed multiple sources of information and placed priority on the most salient variables, depending on the task and environmental constraints.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15698933

@@ -1,0 +1,3 @@
+The aim of the current study was to evaluate the detection and diagnosis of three types of odontogenic cystic lesions (OCLs)-odontogenic keratocysts, dentigerous cysts, and periapical cysts-using dental panoramic radiography and cone beam computed tomographic (CBCT) images based on a deep convolutional neural network (CNN).
+
+https://www.ncbi.nlm.nih.gov/pubmed/31677205

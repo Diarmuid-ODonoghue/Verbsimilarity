@@ -1,0 +1,3 @@
+To develop a natural language processing system that identifies relations of medications with adverse drug events from clinical narratives. This project is part of the 2018 n2c2 challenge.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31504605

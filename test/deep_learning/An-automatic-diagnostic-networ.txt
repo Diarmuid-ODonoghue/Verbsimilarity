@@ -1,0 +1,3 @@
+Deep learning provides an automatic and robust solution to depression severity evaluation. However, despite it is powerful, there is a trade-off between robust performance and the cost of manual annotation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30683543

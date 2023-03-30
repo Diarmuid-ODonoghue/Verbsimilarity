@@ -1,0 +1,3 @@
+In the vast majority of the laboratory-confirmed coronavirus disease 2019 (COVID-19) patients, computed tomography (CT) examinations yield a typical pattern and the sensitivity of this modality has been reported to be 97% in a large-scale study. Structured reporting systems simplify the interpretation and reporting of imaging examinations, serve as a framework for consistent generation of recommendations, and improve the quality of patient care.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32346790

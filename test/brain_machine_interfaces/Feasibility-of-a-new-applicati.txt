@@ -1,0 +1,3 @@
+A large proportion of individuals with stroke have persistent deficits for which current interventions have not restored normal motor behavior. Noninvasive brain computer interfaces (BCIs) have potential advantages for restoration of function. There are also potential advantages for combining BCI with functional electrical stimulation (FES). We tested the feasibility of combined BCI + FES for motor learning after stroke.
+
+https://www.ncbi.nlm.nih.gov/pubmed/20208465

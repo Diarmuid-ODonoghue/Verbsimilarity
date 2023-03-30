@@ -1,0 +1,3 @@
+Simulation-based training (SBT) provides a safe environment and effective means to enhance skills development. Simulation-based curricula have been developed for a number of procedures, including gastrointestinal endoscopy. Gamification, which is the application of game-design principles to non-game contexts, is an instructional strategy with potential to enhance learning. No studies have investigated the effects of a comprehensive gamification curriculum on the acquisition of endoscopic skills among novice endoscopists.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30804029

@@ -1,0 +1,3 @@
+The input signals of electroencephalography (EEG) based brain computer interfaces (BCI) are extensively acquired from scalp with a multi-channel system. However, multi-channel signals might contain redundant information and increase computational complexity. Furthermore, using only effective channels, rather than all channels, may enhance the performance of the BCI in terms of classification accuracy (CA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30529410

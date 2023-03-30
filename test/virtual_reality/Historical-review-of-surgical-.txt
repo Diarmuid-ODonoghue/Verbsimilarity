@@ -1,0 +1,3 @@
+Although simulation is relatively new to surgical education, there is a long history in many other disciplines, such as military, aviation, and nuclear power plant operations, among others. In the late 1980s these technologies began to be adapted to the surgical world, along with the new technology of virtual reality. This is a review of the introduction of manikins, computers, and virtual reality into education and training for surgical skills. Two concomitant revolutions occurred: objective assessment of surgical skills and converting training from the apprenticeship model to one of criterion-based training. A personal perspective on these developments adds information not previously published.
+
+https://www.ncbi.nlm.nih.gov/pubmed/18097716

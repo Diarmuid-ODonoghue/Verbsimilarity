@@ -1,0 +1,3 @@
+One way to identify genes possibly associated with ageing is to build a classification model (from the machine learning field) capable of classifying genes as associated with multiple age-related diseases. To build this model, we use a pre-compiled list of human genes associated with age-related diseases and apply a novel Deep Neural Network (DNN) method to find associations between gene descriptors (e.g. Gene Ontology terms, protein-protein interaction data and biological pathway information) and age-related diseases.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31845988

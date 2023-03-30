@@ -1,0 +1,3 @@
+Diabetic retinopathy (DR) is one of the leading causes of blindness globally. Earlier detection and timely treatment of DR are desirable to reduce the incidence and progression of vision loss. Currently, deep learning (DL) approaches have offered better performance in detecting DR from retinal fundus images. We, therefore, performed a systematic review with a meta-analysis of relevant studies to quantify the performance of DL algorithms for detecting DR.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32088490

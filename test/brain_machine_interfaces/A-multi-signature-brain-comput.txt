@@ -1,0 +1,3 @@
+The aim of this paper was to increase the information transfer in brain-computer interfaces (BCI). Therefore, a multi-signature BCI was developed and investigated. Stimuli were designed to simultaneously evoke transient somatosensory event-related potentials (ERPs) and steady-state somatosensory potentials (SSSEPs) and the ERPs and SSSEPs in isolation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/23370146

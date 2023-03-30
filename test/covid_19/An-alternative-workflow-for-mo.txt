@@ -1,0 +1,3 @@
+The World Health Organization has declared COVID-19 caused by the newly discovered SARS-CoV-2 a pandemic. Due to growing demand for reagents and/or kits to extract SARS-CoV-2 RNA for subsequent RT-qPCR diagnostics, there is a worldwide risk of shortages. With a detection sensitivity of 97.4% (95% CI: 86.2-99.9%), we describe a simple, fast, alternative workflow for molecular detection of SARS-CoV-2, where samples are simply heat-processed for 5 min at 98 °C before a commonly-used RT-qPCR procedure.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32290902

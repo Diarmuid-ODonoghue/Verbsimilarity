@@ -1,0 +1,3 @@
+Atrial fibrillation (AF) is a major cause of hospitalization and death in the United States. Moreover, as the average age of individuals increases around the world, early detection and diagnosis of AF become even more pressing. In this paper, we introduce a novel deep learning architecture for the detection of normal sinus rhythm, AF, other abnormal rhythms, and noise.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29369044

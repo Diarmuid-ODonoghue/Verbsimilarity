@@ -1,0 +1,3 @@
+Minimally invasive surgery (MIC) requires surgeons to have a different set of skills and capabilities from that of open surgery. The indirect camera view, lack of a three-dimensional view, restricted haptic feedback with lack of tissue feeling and difficult instrument coordination with fulcrum and pivoting effects result in an additional learning curve compared to open surgery. The prolonged learning curve leads to a higher risk of complications and special awareness of these risks is therefore mandatory. Training of special laparoscopic skills outside the operating room is needed to optimize patient outcome and to minimize the ocurrence of complications related to the learning curve.
+
+https://www.ncbi.nlm.nih.gov/pubmed/26464347

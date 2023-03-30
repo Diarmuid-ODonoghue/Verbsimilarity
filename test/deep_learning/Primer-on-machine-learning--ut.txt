@@ -1,0 +1,3 @@
+Pain researchers and clinicians increasingly encounter machine learning algorithms in both research methods and clinical practice. This review provides a summary of key machine learning principles, as well as applications to both structured and unstructured datasets.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31408024

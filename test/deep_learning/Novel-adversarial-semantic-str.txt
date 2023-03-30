@@ -1,0 +1,3 @@
+Quantitative PET/MR imaging is challenged by the accuracy of synthetic CT (sCT) generation from MR images. Deep learning-based algorithms have recently gained momentum for a number of medical image analysis applications. In this work, a novel sCT generation algorithm based on deep learning adversarial semantic structure (DL-AdvSS) is proposed for MRI-guided attenuation correction in brain PET/MRI.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31264170

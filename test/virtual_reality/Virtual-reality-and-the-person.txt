@@ -1,0 +1,3 @@
+This paper discusses how a projected virtual reality system that uses video gesture recognition technology can influence the person-environment process. The psychosocial concepts of embodiment, environmental centralization, and environmental personalization are illustrated with examples of virtual reality applications with children with disabilities. Through these, the advantages of using virtual reality to influence the person-environment relationship are discussed. Disadvantages of implementing this virtual reality approach are also presented as well as recommendations for future work in this area.
+
+https://www.ncbi.nlm.nih.gov/pubmed/12556119

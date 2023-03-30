@@ -1,0 +1,3 @@
+The direct-to-consumer (DTC) neurotechnology market, which includes some brain-computer interfaces, neurostimulation devices, virtual reality systems, wearables, and smartphone apps is rapidly growing. Given this technology's intimate relationship with the brain, a number of ethical dimensions must be addressed so that the technology can achieve the goal of contributing to human flourishing. This paper identifies safety, transparency, privacy, epistemic appropriateness, existential authenticity, just distribution, and oversight as such dimensions. After an initial exploration of the relevant ethical foundations for DTC neurotechnologies, this paper lays out each dimension and uses examples to justify its inclusion.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31642755

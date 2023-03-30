@@ -1,0 +1,3 @@
+To take advantage of the deep learning algorithms to detect and calculate clot burden of acute pulmonary embolism (APE) on computed tomographic pulmonary angiography (CTPA).
+
+https://www.ncbi.nlm.nih.gov/pubmed/32064559

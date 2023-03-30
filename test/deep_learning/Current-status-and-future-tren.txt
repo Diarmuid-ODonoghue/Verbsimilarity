@@ -1,0 +1,3 @@
+With the recent developments in deep learning technologies, artificial intelligence (AI) has gradually been transformed from cutting-edge technology into practical applications. AI plays an important role in disease diagnosis and treatment, health management, drug research and development, and precision medicine. Interdisciplinary collaborations will be crucial to develop new AI algorithms for medical applications. In this paper, we review the basic workflow for building an AI model, identify publicly available databases of ocular fundus images, and summarize over 60 papers contributing to the field of AI development.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31695786

@@ -1,0 +1,3 @@
+The proposed interactive crowd-behavior learning algorithms can be used to analyze crowd videos for surveillance and training applications. The authors' formulation combines online tracking algorithms from computer vision, nonlinear pedestrian motion models from computer graphics, and machine learning techniques to automatically compute trajectory-level pedestrian behaviors for each agent in the video. These learned behaviors are used to automatically detect anomalous behaviors, perform motion segmentation, and generate realistic behaviors for virtual reality training applications.
+
+https://www.ncbi.nlm.nih.gov/pubmed/27893367

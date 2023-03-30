@@ -1,0 +1,3 @@
+With the development of deep learning, research on image target recognition has made great progress in recent years. Remote sensing detection urgently requires target recognition for military, geographic, and other scientific research. This paper aims to solve the synthetic aperture radar image target recognition problem by combining deep and kernel learning. The model, which has a multilayer multiple kernel structure, is optimized layer by layer with the parameters of Support Vector Machine and a gradient descent algorithm. This new deep kernel learning method improves accuracy and achieves competitive recognition results compared with other learning methods.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29092528

@@ -1,0 +1,3 @@
+The MMVR Conference is one of a handful of national forums where leading researchers regularly convene to discuss medical modeling and simulation. As such, the presentations made during the conference represent a reasonable overview of both the state-of-the-art in virtual reality in medicine and the basic and applied research trends in the field. This article describes those trends and some of the implications based on a meta-analysis of almost three hundred articles published as a result of the MMVR Conferences in 2000, 2001, and 2002.
+
+https://www.ncbi.nlm.nih.gov/pubmed/15455860

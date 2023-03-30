@@ -1,0 +1,3 @@
+Brain-computer interfaces (BCI) are becoming important tools for assistive technology, particularly through the use of motor imagery (MI) for aiding task completion. However, most existing methods of MI classification have been applied in a trial-wise fashion, with window sizes of approximately 2 s or more. Application of this type of classifier could cause a delay when switching between MI events.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31726440

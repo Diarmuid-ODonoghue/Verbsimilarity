@@ -1,0 +1,3 @@
+Event extraction from the biomedical literature is one of the most actively researched areas in biomedical text mining and natural language processing. However, most approaches have focused on events within single sentence boundaries, and have thus paid much less attention to events spanning multiple sentences. The Bacteria-Biotope event (BB-event) subtask presented in BioNLP Shared Task 2016 is one such example; a significant amount of relations between bacteria and biotope span more than one sentence, but existing systems have treated them as false negatives because labeled data is not sufficiently large enough to model a complex reasoning process using supervised learning frameworks.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31992184

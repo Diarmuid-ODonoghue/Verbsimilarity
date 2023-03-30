@@ -1,0 +1,3 @@
+Kinematic analysis using virtual reality (VR) environment provides quantitative assessment of upper limb movements. This technique has rarely been used in evaluating motor function in stroke despite its availability in stroke rehabilitation.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29867717

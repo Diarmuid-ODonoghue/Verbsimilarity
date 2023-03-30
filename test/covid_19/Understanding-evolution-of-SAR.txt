@@ -1,0 +1,3 @@
+COVID-19 emerged as the first example of "Disease X", a hypothetical disease of humans caused by an unknown infectious agent that was named as novel coronavirus and subsequently designated as SARS-CoV-2. The origin of the outbreak at the animal market in Wuhan, China implies it as a case of zoonotic spillover. The study was designed to understand evolution of Betacoronaviruses and in particular diversification of SARS-CoV-2 using RdRp gene, a stable genetic marker.
+
+https://www.ncbi.nlm.nih.gov/pubmed/32314811

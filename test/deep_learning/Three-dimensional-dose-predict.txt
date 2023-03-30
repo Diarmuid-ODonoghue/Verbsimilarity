@@ -1,0 +1,3 @@
+The use of neural networks to directly predict three-dimensional dose distributions for automatic planning is becoming popular. However, the existing methods use only patient anatomy as input and assume consistent beam configuration for all patients in the training database. The purpose of this work was to develop a more general model that considers variable beam configurations in addition to patient anatomy to achieve more comprehensive automatic planning with a potentially easier clinical implementation, without the need to train specific models for different beam settings.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31102554

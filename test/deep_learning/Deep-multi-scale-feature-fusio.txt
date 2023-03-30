@@ -1,0 +1,3 @@
+Pancreas segmentation from computed tomography (CT) images is an important step in surgical procedures such as cancer detection and radiation treatment. While manual segmentation is time-consuming and operator-dependent, current computer-assisted segmentation methods are facing challenges posed by varying shapes and sizes. To address these challenges, this paper presents a multi-scale feature fusion (MsFF) model for accurate pancreas segmentation from CT images.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31970601

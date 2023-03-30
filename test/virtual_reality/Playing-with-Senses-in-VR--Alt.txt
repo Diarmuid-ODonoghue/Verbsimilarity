@@ -1,0 +1,3 @@
+Virtual reality is an immersive experience based on computer-generated stimulations perceived with multiple sensory channels. It is possible to manipulate these sensory stimulations independently and create conflicting situations in which, for instance, vision and touch are spatially and/or temporally inconsistent. This article discusses how to exploit these ambiguous sensorial situations to generate new kinds of percept using three types of examples: pseudo-haptic effects, self-motion sensations, and body-ownership illusions.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28103541

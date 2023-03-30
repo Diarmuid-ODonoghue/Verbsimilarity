@@ -1,0 +1,3 @@
+To automatically identify regions where prostate cancer is suspected on multi-parametric magnetic resonance images (mp-MRI).
+
+https://www.ncbi.nlm.nih.gov/pubmed/30972686

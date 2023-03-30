@@ -1,0 +1,3 @@
+Parkinson's disease (PD) is a neurodegenerative disorder characterized by significant motor dysfunction and various non-motor disturbances, including cognitive alterations. Deep brain stimulation (DBS) is an increasingly utilized therapeutic option for patients with PD that yields remarkable success in alleviating disabling motor symptoms. DBS has additionally been associated with changes in cognition, yet the evidence is not consistent across studies. The following review sought to provide a clearer understanding of the various cognitive sequelae of bilateral subthalamic nucleus (STN) DBS while taking into account corresponding neuroanatomy and potential confounding variables.
+
+https://www.ncbi.nlm.nih.gov/pubmed/19016252

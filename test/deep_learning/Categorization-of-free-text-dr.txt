@@ -1,0 +1,3 @@
+Manual annotation and categorization of non-standardized text ("free-text") of drug orders entered into electronic health records is a labor-intensive task. However, standardization is required for drug order analyses and has implications for clinical decision support. Machine learning could help to speed up manual labelling efforts. The objective of this study was to analyze the performance of deep machine learning methods to annotate non-standardized text of drug order entries with their therapeutically active ingredients.
+
+https://www.ncbi.nlm.nih.gov/pubmed/31445256

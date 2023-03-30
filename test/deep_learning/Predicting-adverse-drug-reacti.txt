@@ -1,0 +1,3 @@
+Adverse drug reactions (ADRs) are unintended and harmful reactions caused by normal uses of drugs. Predicting and preventing ADRs in the early stage of the drug development pipeline can help to enhance drug safety and reduce financial costs.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30591036
